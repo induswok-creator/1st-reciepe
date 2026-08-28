@@ -1,12 +1,7 @@
 /* ===========================================================================
    INDUS WOK RESTAURANT BIBLE & CULINARY OPS MANUAL - MASTER DATASET
-   Includes:
-   1. 14 Mother Sauces with Batching & Scratch Formulas
-   2. 5 Mise en Place ("Misa") Operational Modules
-   3. Detailed Master Cuts Guide with Technical Diagram SVGs
-   4. 4 Indus Wok Special Flagship Dishes with In-Depth BOM Costing
-   5. 283 Full Menu Dish Recipes with End-Result Images & Cooking Specs
-   6. Emergency Substitutions Matrix
+   100% Indian Commercial Kitchen Pantry Standardized
+   (No Pineapple Juice, No Apple Cider Vinegar, No Shaoxing, No Mirin)
    =========================================================================== */
 
 window.INDUS_BIBLE = {
@@ -15,180 +10,158 @@ window.INDUS_BIBLE = {
     "id": "sauce-1",
     "name": "Indus Signature Red Schezwan Mother Paste",
     "category": "Fiery & Chili Bases",
-    "yield": "2.5 Liters (Master Batch)",
-    "prepTime": "20 mins",
-    "cookTime": "45 mins",
-    "shelfLife": "21 Days Chilled (2\u00b0C - 4\u00b0C) | 90 Days Frozen (-18\u00b0C)",
-    "spiceLevel": "\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f (High Fiery Umami)",
-    "description": "The golden crown jewel of Indus Wok. A slow-cooked emulsion of whole Kashmiri & Guntur dried red chillies, crushed Sichuan peppercorns, star anise, minced mountain garlic, ginger, and Chinese celery simmered in pure oil until aromatic and glistening.",
+    "yield": "2.5 Liters (Master Kitchen Batch)",
+    "prepTime": "15 mins",
+    "cookTime": "35 mins",
+    "shelfLife": "21 Days Chilled (2\u00b0C - 4\u00b0C) | 60 Days Deep Freezer",
+    "spiceLevel": "\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f (Fiery Umami Sizzle)",
+    "description": "Standard Indian commercial kitchen formula using ONLY basic ingredients (Kashmiri dry chillies, Guntur chillies, garlic, ginger, dark soy, white vinegar, tomato ketchup, sugar, oil, star anise). No exotic imported items.",
     "ingredients": [
       {
-        "item": "Kashmiri Dried Red Chillies (Stemless, deseeded 50% for vibrant red color)",
+        "item": "Kashmiri Dried Red Chillies (Boiled & blended coarse)",
         "qty": "300g"
       },
       {
-        "item": "Guntur / Byadgi Red Chillies (for deep heat and pungent aroma)",
+        "item": "Spicy Guntur / Byadgi Dry Chillies (for heat)",
         "qty": "150g"
       },
       {
-        "item": "Refined Sunflower / Peanut Oil (High smoke point)",
-        "qty": "800ml"
+        "item": "Refined Sunflower / Soybean Cooking Oil",
+        "qty": "750ml"
       },
       {
-        "item": "Fresh Garlic (Finely minced brunoise)",
+        "item": "Fresh Garlic (Lehsun - finely minced)",
         "qty": "400g"
       },
       {
-        "item": "Fresh Ginger (Finely minced brunoise)",
+        "item": "Fresh Ginger (Adrak - finely minced)",
         "qty": "250g"
       },
       {
-        "item": "Chinese Celery Stems (Micro-diced)",
-        "qty": "100g"
+        "item": "Star Anise Whole (Chakri Phool - for aroma)",
+        "qty": "5-6 pcs"
       },
       {
-        "item": "Star Anise Whole (Bruised)",
-        "qty": "6 pcs"
-      },
-      {
-        "item": "Sichuan / Timur Peppercorns (Dry roasted & coarse crushed)",
-        "qty": "25g"
-      },
-      {
-        "item": "Dark Soy Sauce (Superior dark)",
+        "item": "Dark Soy Sauce (Standard commercial)",
         "qty": "120ml"
       },
       {
-        "item": "Light Soy Sauce",
-        "qty": "80ml"
-      },
-      {
-        "item": "White Rice Vinegar / Cane Vinegar",
+        "item": "White Synthetic Vinegar (Regular Sirka)",
         "qty": "150ml"
       },
       {
-        "item": "Tomato Paste / Concentrated Concass\u00e9",
+        "item": "Standard Tomato Ketchup (for color & body)",
         "qty": "150g"
       },
       {
-        "item": "Raw Cane Sugar / Brown Sugar",
+        "item": "Regular Sugar (Chini)",
         "qty": "60g"
       },
       {
-        "item": "Cracked White Pepper Powder",
+        "item": "Cracked White / Black Pepper Powder",
         "qty": "15g"
       },
       {
-        "item": "Sea Salt / Rock Salt",
-        "qty": "45g"
+        "item": "Rock Salt / Table Salt (Namak)",
+        "qty": "40g"
       },
       {
-        "item": "Toasted Sesame Oil (Finish)",
-        "qty": "50ml"
+        "item": "Toasted Sesame Oil (Til ka tel - finish)",
+        "qty": "40ml"
       }
     ],
     "method": [
-      "CHILI PREP: Snip dried chillies into halves. Boil in 1.5L water for 12 minutes until plump and tender. Drain water completely (save 100ml soaking broth). Grind to a textured, semi-coarse red paste (do not puree into a smoothie; keep slight flecks).",
-      "OIL INFUSION: In a heavy-bottomed master wok or stockpot, heat 800ml refined oil over medium-low flame (140\u00b0C). Add whole bruised star anise and crushed Sichuan peppercorns. Infuse for 3 minutes until fragrant, then remove star anise with a slotted spoon.",
-      "AROMATIC SWEATING: Add minced garlic and ginger to the hot oil. Fry gently over medium heat for 8-10 minutes until aromatic and pale blonde. Add micro-diced celery and saut\u00e9 2 minutes.",
-      "SLOW EMULSION: Carefully ladle in the ground chili paste (caution: oil will sizzle vigorously). Lower flame to gentle simmer. Cook continuously for 20-25 minutes, stirring every 2 minutes with wooden paddle to prevent scorching.",
-      "SEASONING MASTER BLEND: When red oil separates and floats cleanly on top, add tomato paste, dark soy, light soy, vinegar, sugar, white pepper, and salt. Cook for another 8 minutes until the paste turns a deep ruby mahogany red.",
-      "FINISH & COOL: Turn off heat. Stir in 50ml toasted sesame oil. Allow to cool completely to room temperature before transferring into food-grade airtight containers.",
-      "STORAGE: Pour a thin 1cm protective barrier layer of chili oil on top before sealing. Label with Prep Date, Expiry Date, and Cook initials."
+      "CHILI PREP: Boil Kashmiri & Guntur dry chillies in water for 10 minutes until soft. Drain water, grind in mixer to a thick, textured red paste (keep slight flecks, do not make baby food puree).",
+      "OIL TEMPERING: In a wok or kadai, heat 750ml refined oil over medium flame. Drop 5 whole Star Anise (Chakri Phool) for 2 minutes to infuse aroma, then discard star anise.",
+      "AROMATICS: Add minced garlic and ginger to the hot oil. Fry for 6-8 minutes until raw smell goes away and garlic turns light golden blonde.",
+      "SLOW COOK: Pour in the ground red chili paste. Lower flame to gentle simmer. Cook for 20 minutes, stirring every 2 minutes until bright red oil separates and floats cleanly on top.",
+      "SEASONING: Add tomato ketchup, dark soy sauce, regular white vinegar, sugar, white pepper, and salt. Cook for 5 more minutes until deep mahogany red.",
+      "FINISH: Turn off flame. Stir in sesame oil. Cool down and store in plastic container with 1cm oil layer on top."
     ],
-    "emergencySub": "If out of scratch Schezwan paste: Blend 200g commercial red chilli paste + 50g tomato paste + 20g garlic powder + 15ml dark soy + 15ml vinegar + 10g sugar + 30ml hot chili oil. Whisk over low heat for 3 minutes.",
-    "qualityChecks": "Color: Deep crimson ruby red (not dull brown). Aroma: Sharp garlic, toasted peppercorn, zero burnt scent. Oil Separation: Clear glossy red oil layer on top."
+    "emergencySub": "1-Minute Emergency Fix: Mix 4 tbsp commercial Red Chili Paste + 2 tbsp Tomato Ketchup + 1 tbsp Garlic Paste + 1 tbsp Dark Soy + 1 tbsp White Vinegar + 1 tsp Sugar + 2 tbsp Hot Oil.",
+    "qualityChecks": "Color: Deep crimson ruby red (never brown). Oil floating cleanly on top. Sharp garlicky chili aroma with zero burnt smell."
   },
   {
     "id": "sauce-2",
     "name": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base)",
     "category": "Master Seasoning Liquids",
-    "yield": "3 Liters",
+    "yield": "3 Liters (Squeeze Bottle Stock)",
     "prepTime": "10 mins",
-    "cookTime": "20 mins",
+    "cookTime": "15 mins",
     "shelfLife": "30 Days Ambient in Squeeze Bottles | 60 Days Chilled",
     "spiceLevel": "\ud83c\udf36\ufe0f (Savory Umami Caramel)",
-    "description": "The secret backbone sauce used on the line for instant Hakka Noodles, Fried Rice, and wok-seared vegetables. Balances dark mushroom soy sweetness with salty light soy, caramelized aromatics, and rice wine essence.",
+    "description": "The secret speed sauce in squeeze bottles for Hakka Noodles, Fried Rice, and stir-fries. Uses standard Dark Soy, White Vinegar, and caramelized sugar syrup. Zero imported wine needed.",
     "ingredients": [
       {
-        "item": "Superior Dark Soy Sauce (Lee Kum Kee or equivalent)",
-        "qty": "1000ml"
+        "item": "Dark Soy Sauce (Commercial)",
+        "qty": "1200ml"
       },
       {
-        "item": "Light / Premium Soy Sauce",
-        "qty": "800ml"
+        "item": "Regular Light / All-purpose Soy Sauce",
+        "qty": "600ml"
       },
       {
-        "item": "Vegetarian Mushroom Seasoning Sauce / Stir Fry Sauce",
-        "qty": "400ml"
+        "item": "Regular White Synthetic Vinegar (Sirka)",
+        "qty": "200ml"
       },
       {
-        "item": "Chinese Rice Wine Substitute (Apple juice + Rice vinegar 1:1)",
-        "qty": "300ml"
+        "item": "Regular White / Brown Sugar (Caramelized in pan)",
+        "qty": "250g"
       },
       {
-        "item": "Brown Cane Sugar (Caramelized)",
-        "qty": "200g"
-      },
-      {
-        "item": "Whole Star Anise",
+        "item": "Whole Star Anise (Chakri Phool)",
         "qty": "4 pcs"
       },
       {
-        "item": "Cinnamon Stick (Crushed)",
-        "qty": "1 stick (5g)"
-      },
-      {
-        "item": "Cracked White Pepper",
+        "item": "Cracked White / Black Pepper",
         "qty": "20g"
       },
       {
-        "item": "Clean Filtered Water",
-        "qty": "400ml"
+        "item": "Veg Aroma / Broth Seasoning Powder / MSG (optional)",
+        "qty": "30g"
+      },
+      {
+        "item": "Clean Water",
+        "qty": "750ml"
       }
     ],
     "method": [
-      "In a dry saucepan, melt brown cane sugar over medium flame until it bubbles into a dark amber caramel (do not burn).",
-      "Carefully deglaze with 400ml warm water (it will steam). Whisk until caramel dissolves completely.",
-      "Pour in dark soy sauce, light soy sauce, mushroom sauce, and rice wine substitute.",
-      "Drop in star anise and crushed cinnamon stick. Bring to a gentle rolling boil.",
-      "Reduce flame to low and simmer for 15 minutes to marry all flavors and infuse the gentle spice warmth.",
-      "Stir in cracked white pepper. Strain through fine mesh cone strainer.",
-      "Cool completely and funnel into 1L kitchen squeeze bottles labeled 'INDUS DARK BASE'."
+      "In a dry pot, melt 250g sugar over medium flame until it turns into a golden-brown liquid caramel (do not burn).",
+      "Slowly and carefully pour 750ml warm water into the caramel (it will bubble and steam). Whisk until caramel dissolves completely.",
+      "Pour in dark soy sauce, light soy sauce, and regular white vinegar.",
+      "Add star anise, white pepper, and veg aroma seasoning.",
+      "Bring to a boil, reduce flame to low, and simmer for 10 minutes.",
+      "Strain out star anise. Cool completely and funnel into kitchen squeeze bottles labeled 'INDUS DARK BASE'."
     ],
-    "emergencySub": "Equal parts Dark Soy Sauce (2 tbsp) + Light Soy Sauce (2 tbsp) + 1 tsp brown sugar + 1/2 tsp white pepper + 1 tsp water.",
-    "qualityChecks": "Brix/Sweetness: Balanced savory-sweet umami with velvety body. Viscosity: Coats the back of a spoon lightly without clumping."
+    "emergencySub": "Quick 10-Second Line Mix: 2 tbsp Dark Soy + 1 tsp White Vinegar + 1 tsp Sugar + 1/2 tsp White Pepper + 1 tbsp Water.",
+    "qualityChecks": "Deep dark glossy brown liquid, balanced savory-sweet profile with slight tang."
   },
   {
     "id": "sauce-3",
     "name": "Indo-Chinese Manchurian Mother Sauce Base",
     "category": "Gravy & Simmer Bases",
     "yield": "4 Liters",
-    "prepTime": "15 mins",
-    "cookTime": "25 mins",
+    "prepTime": "10 mins",
+    "cookTime": "20 mins",
     "shelfLife": "7 Days Chilled (2\u00b0C - 4\u00b0C)",
-    "spiceLevel": "\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f (Pungent Ginger-Garlic-Soy)",
-    "description": "The essential concentrated reduction base for all Veg & Chicken Manchurian Dry, Semi-gravy, and Rice with Gravy dishes. Pungent with crushed mountain ginger, garlic, and fresh green chillies.",
+    "spiceLevel": "\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f (Pungent Ginger-Garlic-Chili)",
+    "description": "Standard Indo-Chinese Manchurian base for Dry, Gravy, and Rice with Gravy dishes using standard Dark Soy, Green Chili Sauce, Ketchup, and White Vinegar.",
     "ingredients": [
       {
-        "item": "Refined Sunflower Oil",
-        "qty": "300ml"
+        "item": "Refined Cooking Oil",
+        "qty": "250ml"
       },
       {
-        "item": "Garlic Brunoise (Fine minced)",
+        "item": "Fresh Garlic (Finely minced)",
         "qty": "350g"
       },
       {
-        "item": "Fresh Ginger Brunoise (Fine minced)",
+        "item": "Fresh Ginger (Finely minced)",
         "qty": "300g"
       },
       {
-        "item": "Fresh Indian Green Chillies (Finely chopped)",
+        "item": "Fresh Green Chillies (Hari Mirch - chopped fine)",
         "qty": "150g"
-      },
-      {
-        "item": "Chinese Celery Stems (Fine mince)",
-        "qty": "100g"
       },
       {
         "item": "Spring Onion Whites (Chopped)",
@@ -199,71 +172,70 @@ window.INDUS_BIBLE = {
         "qty": "350ml"
       },
       {
-        "item": "Green Chilli Sauce",
+        "item": "Commercial Green Chilli Sauce (Pouch/Bottle)",
         "qty": "200ml"
       },
       {
-        "item": "Tomato Ketchup / Puree",
+        "item": "Standard Tomato Ketchup",
         "qty": "150ml"
       },
       {
-        "item": "White Vinegar",
+        "item": "White Synthetic Vinegar",
         "qty": "120ml"
       },
       {
-        "item": "Concentrated Vegetable / Chicken Broth Stock",
+        "item": "Water / Seasoned Broth Stock",
         "qty": "2500ml"
       },
       {
-        "item": "Cracked White Pepper & Black Pepper",
+        "item": "Black Pepper & White Pepper Powder",
         "qty": "25g"
       },
       {
-        "item": "Rock Salt",
-        "qty": "30g"
+        "item": "Salt",
+        "qty": "35g"
       },
       {
-        "item": "Pure Toasted Sesame Oil",
-        "qty": "40ml"
+        "item": "Cornstarch (Ararot - to thicken during wok service)",
+        "qty": "As needed per dish"
       }
     ],
     "method": [
-      "Heat oil in large wok over medium flame. Add garlic, ginger, green chillies, and celery.",
-      "Saut\u00e9 for 6-8 minutes until golden aromatic (do not brown heavily; keep fresh ginger pungency).",
+      "Heat oil in a large kadai / master wok over medium flame.",
+      "Add minced garlic, minced ginger, and chopped green chillies. Saut\u00e9 for 5 minutes until fragrant (do not over-brown).",
       "Add spring onion whites and saut\u00e9 for 1 minute.",
-      "Pour in dark soy sauce, green chilli sauce, tomato ketchup, and vinegar. Stir vigorously for 2 minutes to cook out raw acidity.",
-      "Add 2.5L concentrated seasoned broth. Bring to a rapid rolling boil for 10 minutes.",
-      "Season with salt, cracked peppers, and stir in sesame oil.",
-      "Cool down in ice-water bath before refrigeration. On the line during service, ladle required quantity into wok and thicken with cornstarch slurry."
+      "Pour in dark soy sauce, green chili sauce, tomato ketchup, and white vinegar. Stir for 2 minutes.",
+      "Add 2.5 Liters water with salt and pepper. Bring to a rolling boil for 8 minutes.",
+      "Cool down and refrigerate. During dinner service, ladle 60ml for Dry starters or 200ml for Gravy dishes and thicken with cornflour slurry in 30 seconds."
     ],
-    "emergencySub": "Saut\u00e9 1 tbsp minced garlic + 1 tbsp minced ginger + 1 chopped green chili in 1 tbsp oil for 30s. Add 1 tbsp dark soy, 1 tsp green chili sauce, 1 tsp vinegar, 1/2 tsp sugar, 1 cup water, pinch of salt & white pepper.",
-    "qualityChecks": "Color: Dark glossy chocolate brown. Balance: Sharp ginger-garlic kick upfront, savory soy backbone, clean tangy finish."
+    "emergencySub": "1 tbsp minced garlic + 1 tbsp ginger + 1 green chili + 1 tbsp dark soy + 1 tbsp green chili sauce + 1 tsp vinegar + 1 tsp ketchup + 1 cup water + 1 tbsp cornflour slurry.",
+    "qualityChecks": "Dark chocolate brown color, pungent fresh ginger-garlic kick, glossy sheen when thickened."
   },
   {
     "id": "sauce-4",
     "name": "Indus Supreme Hot Garlic Master Glaze",
     "category": "Fiery & Chili Bases",
     "yield": "2.5 Liters",
-    "prepTime": "15 mins",
-    "cookTime": "30 mins",
-    "shelfLife": "14 Days Chilled (2\u00b0C - 4\u00b0C)",
+    "prepTime": "10 mins",
+    "cookTime": "20 mins",
+    "shelfLife": "14 Days Chilled",
     "spiceLevel": "\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f (Fiery Tangy Garlic)",
-    "description": "Intense garlic-forward sauce with fermented red chili paste, tomato concass\u00e9, and a bright vinegar snap. Powers Hot Garlic Wings, Hot Garlic Starters, and Rice with Gravy.",
+    "description": "Powers Hot Garlic Wings, Dragon Chicken, and Hot Garlic Rice with Gravy using basic garlic, Kashmiri red chili paste, tomato ketchup, dark soy, and white vinegar.",
     "ingredients": [
       {
-        "item": "Refined Oil",
-        "qty": "400ml"
+        "item": "Refined Cooking Oil",
+        "qty": "350ml"
       },
       {
-        "item": "Garlic (Crushed & Minced 50/50 mix)",
+        "item": "Fresh Garlic (Lehsun - heavy minced)",
         "qty": "500g"
       },
       {
-        "item": "Red Chili Paste (Kashmiri chili puree)",
+        "item": "Boiled Kashmiri Red Chili Paste",
         "qty": "400g"
       },
       {
-        "item": "Tomato Paste / Puree",
+        "item": "Standard Tomato Ketchup / Puree",
         "qty": "300g"
       },
       {
@@ -271,35 +243,34 @@ window.INDUS_BIBLE = {
         "qty": "100ml"
       },
       {
-        "item": "White Rice Vinegar",
-        "qty": "180ml"
+        "item": "White Synthetic Vinegar",
+        "qty": "150ml"
       },
       {
-        "item": "Sugar",
+        "item": "Regular Sugar",
         "qty": "70g"
       },
       {
-        "item": "Cracked White Pepper",
+        "item": "White / Black Pepper",
         "qty": "15g"
       },
       {
-        "item": "Vegetable Stock",
-        "qty": "1000ml"
+        "item": "Salt",
+        "qty": "30g"
       },
       {
-        "item": "Salt",
-        "qty": "35g"
+        "item": "Water",
+        "qty": "1000ml"
       }
     ],
     "method": [
-      "Heat oil in wok over medium heat. Add the 500g garlic mince and fry gently until pale golden and sweet.",
-      "Add red chili paste and tomato paste. Saut\u00e9 over low flame for 12 minutes until oil separates.",
-      "Pour in vegetable stock, dark soy sauce, vinegar, and sugar. Bring to a simmer.",
-      "Season with salt and white pepper. Simmer for 10 minutes until thick and glossy.",
-      "Cool, bottle, and chill."
+      "Heat oil in wok over medium heat. Add 500g minced garlic and saut\u00e9 for 5 minutes until soft and fragrant.",
+      "Add boiled red chili paste and tomato ketchup. Cook for 8 minutes until oil starts separating.",
+      "Pour in water, dark soy sauce, white vinegar, sugar, salt, and pepper. Simmer for 8 minutes.",
+      "Cool and store in bottles."
     ],
-    "emergencySub": "Mix 2 tbsp Red Chili Paste + 1.5 tbsp Garlic Paste + 1 tbsp Tomato Ketchup + 1 tsp Soy + 1 tsp Vinegar + 1/2 tsp Sugar + 3 tbsp Water.",
-    "qualityChecks": "Glossy bright scarlet sheen, explosive fresh garlic aroma, sharp tangy heat."
+    "emergencySub": "2 tbsp Red Chili Paste + 1.5 tbsp Garlic Paste + 1.5 tbsp Tomato Ketchup + 1 tsp Soy + 1 tsp Vinegar + 1/2 tsp Sugar + 3 tbsp Water.",
+    "qualityChecks": "Bright scarlet-red color, explosive garlic aroma, sharp tangy heat."
   },
   {
     "id": "sauce-5",
@@ -307,301 +278,140 @@ window.INDUS_BIBLE = {
     "category": "Aromatic Finishing Oils",
     "yield": "1.5 Liters",
     "prepTime": "10 mins",
-    "cookTime": "25 mins",
-    "shelfLife": "30 Days Ambient (Cool Dry Place)",
-    "spiceLevel": "Non-Spicy (Smoky Nutty Toasted)",
-    "description": "The golden secret behind Indus Wok's famous Burnt Garlic Fried Rice and Burnt Chilli Garlic Noodles. Triple-filtered golden garlic crunch chips and toasted aromatic garlic oil.",
+    "cookTime": "20 mins",
+    "shelfLife": "30 Days Ambient",
+    "spiceLevel": "Non-Spicy (Smoky Toasted Garlic)",
+    "description": "100% Indian pantry ingredients (Garlic + Refined Sunflower Oil + Spring Onion Whites + Til ka tel). Golden crunchy garlic chips and aromatic garlic oil.",
     "ingredients": [
       {
-        "item": "Fresh Garlic (Finely minced to exact 1.5mm uniform cubes)",
+        "item": "Fresh Garlic (Finely minced uniform bits)",
         "qty": "600g"
       },
       {
-        "item": "Refined Sunflower / Canola Oil",
+        "item": "Refined Sunflower Cooking Oil",
         "qty": "1200ml"
       },
       {
-        "item": "Spring Onion Whites (Bruised)",
+        "item": "Spring Onion Whites (Chopped)",
         "qty": "100g"
       },
       {
-        "item": "Pure Toasted Sesame Oil",
-        "qty": "100ml"
+        "item": "Til ka Tel / Sesame Oil (for finish)",
+        "qty": "80ml"
       },
       {
-        "item": "Fine Sea Salt",
+        "item": "Salt",
         "qty": "10g"
       }
     ],
     "method": [
-      "CRITICAL HEAT CONTROL: In a clean cold master wok, combine 1200ml refined oil and 600g minced garlic. DO NOT add garlic to hot oil (it will burn the outside while raw inside).",
-      "Turn heat to medium-low. As oil begins to bubble gently, stir continuously with a wire whisk to keep garlic particles moving.",
-      "Cook for 18-20 minutes. Garlic will turn from white -> pale yellow -> light straw -> golden blonde.",
-      "WATCH CLOSELY AT 160\u00b0C: The moment garlic turns light golden blonde, immediately pour oil through a fine stainless steel mesh strainer into a stainless steel bowl.",
-      "The residual heat will continue to brown the garlic on the strainer to perfect crunchy deep amber gold.",
-      "Spread the crispy burnt garlic chips on paper towels, sprinkle 10g fine salt, and store in airtight bin.",
-      "Whisk 100ml toasted sesame oil into the filtered warm garlic oil. Bottle as 'BURNT GARLIC INFUSION OIL'."
+      "Combine 1200ml cold oil and 600g minced garlic in a cold wok (never put garlic in hot oil).",
+      "Turn heat to medium-low. Stir continuously with whisk as oil heats up.",
+      "Fry for 15-18 minutes until garlic turns light golden blonde.",
+      "IMMEDIATELY pour oil through a steel strainer into a bowl (residual heat browns garlic to crunchy golden brown).",
+      "Spread garlic chips on paper, sprinkle salt. Whisk sesame oil into warm garlic oil. Bottle separately."
     ],
-    "emergencySub": "Fry 3 tbsp minced garlic in 4 tbsp oil in small pan over low heat for 4 minutes until golden. Use immediately.",
-    "qualityChecks": "Chips must be crisp, crunchy, amber-gold (never black/bitter). Oil must be crystal clear with deep nutty toasted garlic fragrance."
+    "emergencySub": "Fry 3 tbsp minced garlic in 4 tbsp oil in small pan over low flame for 3 minutes until golden.",
+    "qualityChecks": "Crunchy golden chips with zero bitterness. Clear, aromatic toasted garlic oil."
   },
   {
     "id": "sauce-6",
-    "name": "Indus Kung Pao Master Glaze",
+    "name": "Indus Kung Pao Master Glaze (Indian Kitchen Standard)",
     "category": "Pan-Asian Sweet-Savory Bases",
     "yield": "2 Liters",
-    "prepTime": "15 mins",
-    "cookTime": "20 mins",
+    "prepTime": "10 mins",
+    "cookTime": "15 mins",
     "shelfLife": "14 Days Chilled",
-    "spiceLevel": "\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f (Sweet, Tangy, Peppercorn Heat)",
-    "description": "Rich Sichuan glaze with roasted peanuts, whole dried chillies, Chinkiang black vinegar profile, and dark soy.",
+    "spiceLevel": "\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f (Sweet Tangy Nutty Heat)",
+    "description": "No expensive imported black vinegars. Made with Dark Soy, Regular White Vinegar, Red Chili Paste, crushed roasted peanuts, Tomato Ketchup, and Sugar.",
     "ingredients": [
       {
         "item": "Dark Soy Sauce",
         "qty": "300ml"
       },
       {
-        "item": "Light Soy Sauce",
-        "qty": "250ml"
-      },
-      {
-        "item": "Black Vinegar / Balsamic + Rice Vinegar Blend",
+        "item": "Regular White Synthetic Vinegar",
         "qty": "200ml"
       },
       {
-        "item": "Brown Sugar",
-        "qty": "180g"
+        "item": "Standard Tomato Ketchup",
+        "qty": "250g"
       },
       {
-        "item": "Red Chili Paste",
+        "item": "Boiled Red Chili Paste",
         "qty": "150g"
       },
       {
-        "item": "Smooth Roasted Peanut Butter / Peanut Paste",
-        "qty": "100g"
+        "item": "Roasted Peanuts (Crushed fine / Smooth Peanut Butter)",
+        "qty": "120g"
       },
       {
-        "item": "Sichuan Peppercorn Powder",
-        "qty": "20g"
+        "item": "Regular Sugar",
+        "qty": "180g"
       },
       {
-        "item": "Ginger & Garlic Juice",
-        "qty": "100ml"
+        "item": "Ginger-Garlic Paste",
+        "qty": "80g"
       },
       {
-        "item": "Water / Stock",
+        "item": "Black Pepper Powder",
+        "qty": "15g"
+      },
+      {
+        "item": "Water",
         "qty": "800ml"
       }
     ],
     "method": [
-      "Whisk dark soy, light soy, black vinegar, brown sugar, chili paste, and peanut paste in a bowl until dissolved.",
-      "Simmer mixture in a saucepan over medium heat for 12 minutes.",
-      "Add Sichuan peppercorn powder and ginger-garlic juice. Whisk until silky and uniform.",
-      "Bottle and label."
+      "In a saucepan, whisk dark soy, white vinegar, tomato ketchup, red chili paste, crushed peanuts/peanut butter, sugar, and ginger-garlic paste with water.",
+      "Simmer over medium flame for 12 minutes until sugar melts and sauce thickens slightly.",
+      "Stir in black pepper. Cool and funnel into dispenser bottles."
     ],
-    "emergencySub": "2 tbsp soy sauce + 1 tbsp vinegar + 1 tbsp chili sauce + 1 tsp peanut butter + 1 tbsp brown sugar + 2 tbsp water.",
-    "qualityChecks": "Rich gloss, subtle nutty richness from peanuts, mouth-numbing tingling finish from Sichuan pepper."
+    "emergencySub": "2 tbsp Soy Sauce + 1 tbsp White Vinegar + 1 tbsp Tomato Ketchup + 1 tsp Peanut Butter / Crushed Roasted Peanuts + 1 tbsp Sugar + 2 tbsp Water.",
+    "qualityChecks": "Velvety reddish-brown glaze, nutty peanut aroma, balanced sweet-tangy-spicy kick."
   },
   {
     "id": "sauce-7",
-    "name": "Artisanal Black Bean & Garlic Sauce",
+    "name": "Black Pepper & Garlic Sauce Base (Indian Kitchen Standard)",
     "category": "Fermented Umami Bases",
     "yield": "1.5 Liters",
-    "prepTime": "15 mins",
-    "cookTime": "20 mins",
-    "shelfLife": "21 Days Chilled",
-    "spiceLevel": "\ud83c\udf36\ufe0f (Deep Salty Fermented Umami)",
-    "description": "Traditional Cantonese fermented black soybean paste pounded with fresh ginger, garlic, and Shaoxing reduction. Used for Black Pepper and Black Bean wok dishes.",
-    "ingredients": [
-      {
-        "item": "Fermented Salted Black Soybeans (Douchi - rinsed lightly)",
-        "qty": "350g"
-      },
-      {
-        "item": "Refined Oil",
-        "qty": "250ml"
-      },
-      {
-        "item": "Garlic (Coarse minced)",
-        "qty": "250g"
-      },
-      {
-        "item": "Ginger (Fine minced)",
-        "qty": "150g"
-      },
-      {
-        "item": "Dark Soy Sauce",
-        "qty": "150ml"
-      },
-      {
-        "item": "Shaoxing Wine Substitute",
-        "qty": "100ml"
-      },
-      {
-        "item": "Sugar",
-        "qty": "50g"
-      },
-      {
-        "item": "Cracked Coarse Black Pepper",
-        "qty": "30g"
-      },
-      {
-        "item": "Broth",
-        "qty": "400ml"
-      }
-    ],
-    "method": [
-      "Rinse fermented black beans in cold water for 10 seconds to remove excess brine. Coarsely mash 70% with mortar and pestle (leave 30% whole).",
-      "Heat oil in wok, fry garlic and ginger for 3 minutes until aromatic.",
-      "Add mashed black beans and saut\u00e9 over low heat for 8 minutes until fragrance deepens.",
-      "Add dark soy, wine substitute, sugar, coarse black pepper, and broth. Simmer for 8 minutes into a rich thick paste.",
-      "Cool and store in glass jars."
-    ],
-    "emergencySub": "1.5 tbsp dark soy + 1 tbsp miso paste + 1 tbsp minced garlic + 1 tsp coarse black pepper + 1 tsp sugar.",
-    "qualityChecks": "Glossy black-brown paste with whole bean textures, deep savory umami aroma."
-  },
-  {
-    "id": "sauce-8",
-    "name": "Sweet & Sour Master Glaze",
-    "category": "Pan-Asian Sweet-Savory Bases",
-    "yield": "3 Liters",
     "prepTime": "10 mins",
     "cookTime": "15 mins",
-    "shelfLife": "30 Days Chilled",
-    "spiceLevel": "Non-Spicy (Vibrant Fruity Sweet-Sour)",
-    "description": "Bright Cantonese sweet & sour base made with pineapple reduction, tomato concass\u00e9, and apple cider vinegar.",
+    "shelfLife": "21 Days Chilled",
+    "spiceLevel": "\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f (Pungent Black Pepper & Garlic)",
+    "description": "The Indian commercial restaurant replacement for hard-to-find canned black beans. Uses coarsely crushed black peppercorns, dark soy, minced garlic, ginger, and caramelized sugar.",
     "ingredients": [
       {
-        "item": "100% Pure Pineapple Juice",
-        "qty": "1000ml"
-      },
-      {
-        "item": "Tomato Paste / Ketchup",
-        "qty": "600g"
-      },
-      {
-        "item": "Rice Vinegar / Apple Cider Vinegar",
-        "qty": "400ml"
-      },
-      {
-        "item": "Cane Sugar",
-        "qty": "350g"
-      },
-      {
-        "item": "Plum Sauce / Apricot Jam",
-        "qty": "150g"
-      },
-      {
-        "item": "Salt",
-        "qty": "20g"
-      },
-      {
-        "item": "Cornstarch (diluted in 100ml water)",
-        "qty": "40g"
-      }
-    ],
-    "method": [
-      "Combine pineapple juice, tomato paste, vinegar, sugar, plum sauce, and salt in a stainless steel stockpot.",
-      "Bring to a boil, stirring until sugar is completely dissolved.",
-      "Reduce heat to low and simmer for 10 minutes.",
-      "Slowly whisk in cornstarch slurry and simmer for 2 minutes until brilliant ruby gloss and thick glaze consistency.",
-      "Cool and store in labeled dispenser jugs."
-    ],
-    "emergencySub": "4 tbsp tomato ketchup + 2 tbsp vinegar + 2 tbsp sugar + 2 tbsp water + 1/2 tsp cornstarch.",
-    "qualityChecks": "Radiant translucent red gloss, crisp fruity tang balanced against smooth sweetness."
-  },
-  {
-    "id": "sauce-9",
-    "name": "Japanese Teriyaki & Yakitori Glaze",
-    "category": "Japanese & Glazes",
-    "yield": "2 Liters",
-    "prepTime": "10 mins",
-    "cookTime": "25 mins",
-    "shelfLife": "30 Days Chilled",
-    "spiceLevel": "Non-Spicy (Sweet Savory Mirin Soy)",
-    "description": "Authentic Japanese reduction glaze used for Chicken Teriyaki, Teriyaki Sushi, and Teriyaki starters.",
-    "ingredients": [
-      {
-        "item": "Japanese Kikkoman / Premium Light Soy Sauce",
-        "qty": "700ml"
-      },
-      {
-        "item": "Dark Soy Sauce",
-        "qty": "200ml"
-      },
-      {
-        "item": "Mirin (Sweet Rice Wine) / White Grape Juice + Rice Vinegar",
-        "qty": "500ml"
-      },
-      {
-        "item": "Brown Sugar / Jaggery syrup",
-        "qty": "300g"
-      },
-      {
-        "item": "Fresh Ginger (Crushed slices)",
+        "item": "Coarsely Crushed Black Peppercorns (Moti Pisi Kaali Mirch)",
         "qty": "80g"
       },
       {
-        "item": "Fresh Garlic (Crushed cloves)",
-        "qty": "60g"
+        "item": "Dark Soy Sauce",
+        "qty": "350ml"
       },
       {
-        "item": "Cornstarch",
-        "qty": "30g (in 60ml water)"
-      }
-    ],
-    "method": [
-      "Combine soy sauces, mirin substitute, brown sugar, ginger slices, and crushed garlic in a saucepan.",
-      "Bring to a boil, then reduce flame to low and simmer for 18 minutes to reduce by 25%.",
-      "Strain out ginger and garlic solids.",
-      "Return liquid to low flame, whisk in starch slurry, and simmer 2 minutes until velvety lacquer coating.",
-      "Bottle in squeeze dispensers."
-    ],
-    "emergencySub": "3 tbsp soy sauce + 2 tbsp brown sugar + 1 tbsp vinegar + 1/2 tsp grated ginger + 1 tsp cornstarch.",
-    "qualityChecks": "Deep mirror-like brown gloss, clings perfectly to proteins without dripping off."
-  },
-  {
-    "id": "sauce-10",
-    "name": "Korean Gochujang Spicy Glaze",
-    "category": "Pan-Asian Sweet-Savory Bases",
-    "yield": "2 Liters",
-    "prepTime": "10 mins",
-    "cookTime": "15 mins",
-    "shelfLife": "21 Days Chilled",
-    "spiceLevel": "\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f (Sweet Smokey Fermented Heat)",
-    "description": "Powers Korean Fried Rice, Korean Noodles, and Spicy Korean Ramen bowls with authentic Seoul street flavor.",
-    "ingredients": [
-      {
-        "item": "Korean Gochujang Red Pepper Paste",
-        "qty": "500g"
+        "item": "Refined Cooking Oil",
+        "qty": "200ml"
       },
       {
-        "item": "Gochugaru (Korean coarse chili flakes)",
-        "qty": "100g"
+        "item": "Fresh Garlic (Minced)",
+        "qty": "300g"
       },
       {
-        "item": "Soy Sauce",
-        "qty": "250ml"
-      },
-      {
-        "item": "Honey / Corn Syrup",
-        "qty": "200g"
-      },
-      {
-        "item": "Brown Sugar",
-        "qty": "100g"
-      },
-      {
-        "item": "Minced Garlic",
+        "item": "Fresh Ginger (Minced)",
         "qty": "150g"
       },
       {
-        "item": "Grated Ginger",
-        "qty": "50g"
+        "item": "White Synthetic Vinegar",
+        "qty": "80ml"
       },
       {
-        "item": "Toasted Sesame Oil",
-        "qty": "80ml"
+        "item": "Regular Sugar",
+        "qty": "80g"
+      },
+      {
+        "item": "Salt",
+        "qty": "25g"
       },
       {
         "item": "Water",
@@ -609,13 +419,174 @@ window.INDUS_BIBLE = {
       }
     ],
     "method": [
-      "In a saucepan, combine water, soy sauce, honey, brown sugar, minced garlic, and ginger.",
-      "Whisk in Gochujang paste and Gochugaru flakes until smooth.",
-      "Simmer over medium-low heat for 12 minutes until slightly reduced and syrupy.",
-      "Whisk in toasted sesame oil, cool and bottle."
+      "Heat oil in wok. Saut\u00e9 minced garlic and ginger for 3 minutes until aromatic.",
+      "Add coarsely crushed black pepper; fry for 30 seconds to release aromatic piperine oils.",
+      "Pour in dark soy sauce, white vinegar, sugar, salt, and water.",
+      "Simmer over medium flame for 10 minutes into a rich, dark peppery sauce.",
+      "Cool and store in glass jars."
     ],
-    "emergencySub": "3 tbsp red chili paste + 1 tbsp miso paste + 1.5 tbsp honey + 1 tbsp soy sauce + 1 tsp garlic powder + 1 tsp sesame oil.",
-    "qualityChecks": "Velvety crimson glaze, deep fermented umami with lingering sweet warmth."
+    "emergencySub": "2 tbsp Dark Soy + 1 tsp Coarse Black Pepper + 1 tsp Minced Garlic + 1/2 tsp Sugar + 1 tsp Vinegar + 2 tbsp Water.",
+    "qualityChecks": "Glossy black sheen, prominent coarse pepper flakes, bold pungent heat."
+  },
+  {
+    "id": "sauce-8",
+    "name": "Sweet & Sour Master Glaze (100% Indian Kitchen Pantry)",
+    "category": "Sweet & Tangy Bases",
+    "yield": "2.5 Liters",
+    "prepTime": "8 mins",
+    "cookTime": "12 mins",
+    "shelfLife": "30 Days Chilled",
+    "spiceLevel": "Non-Spicy (Vibrant Sweet & Tangy)",
+    "description": "NO PINEAPPLE JUICE OR APPLE CIDER VINEGAR REQUIRED. The authentic Indian restaurant Sweet & Sour recipe using Standard Tomato Ketchup, Regular White Vinegar, Sugar, Water, and Cornflour.",
+    "ingredients": [
+      {
+        "item": "Standard Tomato Ketchup (Maggi / Kissan / Commercial)",
+        "qty": "800g"
+      },
+      {
+        "item": "Regular White Synthetic Vinegar (Sirka)",
+        "qty": "300ml"
+      },
+      {
+        "item": "Regular White Sugar (Chini)",
+        "qty": "350g"
+      },
+      {
+        "item": "Red Chili Sauce (for slight kick & color)",
+        "qty": "100ml"
+      },
+      {
+        "item": "Clean Water",
+        "qty": "1000ml"
+      },
+      {
+        "item": "Rock Salt / Table Salt",
+        "qty": "20g"
+      },
+      {
+        "item": "Cornstarch (Ararot / Cornflour diluted in 100ml water)",
+        "qty": "40g"
+      }
+    ],
+    "method": [
+      "In a saucepan, combine water, tomato ketchup, regular white vinegar, sugar, red chili sauce, and salt.",
+      "Stir over medium heat until sugar dissolves completely and mixture comes to a gentle boil.",
+      "Slowly pour in the diluted cornflour slurry while whisking continuously.",
+      "Simmer for 2 minutes until brilliant ruby gloss and velvety glaze consistency.",
+      "Cool and store in dispenser jugs."
+    ],
+    "emergencySub": "4 tbsp Tomato Ketchup + 2 tbsp White Vinegar + 2 tbsp Sugar + 3 tbsp Water + 1/2 tsp Cornflour.",
+    "qualityChecks": "Translucent bright red gloss, perfect balance of punchy sweetness and clean vinegar tang."
+  },
+  {
+    "id": "sauce-9",
+    "name": "Japanese Teriyaki Glaze (Indian Kitchen Standard)",
+    "category": "Glazes & Marinades",
+    "yield": "2 Liters",
+    "prepTime": "8 mins",
+    "cookTime": "15 mins",
+    "shelfLife": "30 Days Chilled",
+    "spiceLevel": "Non-Spicy (Sweet Savory Soy Glaze)",
+    "description": "NO MIRIN OR SAKE NEEDED. Commercial Indian kitchen Teriyaki using Dark Soy, Regular Sugar/Jaggery syrup, White Vinegar, and fresh ginger juice.",
+    "ingredients": [
+      {
+        "item": "Dark Soy Sauce",
+        "qty": "400ml"
+      },
+      {
+        "item": "Regular Soy Sauce / Light Soy",
+        "qty": "500ml"
+      },
+      {
+        "item": "Regular Sugar / Brown Sugar / Jaggery syrup",
+        "qty": "400g"
+      },
+      {
+        "item": "Regular White Synthetic Vinegar",
+        "qty": "120ml"
+      },
+      {
+        "item": "Fresh Ginger Juice (Adrak ka ras)",
+        "qty": "60ml"
+      },
+      {
+        "item": "Fresh Garlic (Crushed cloves)",
+        "qty": "40g"
+      },
+      {
+        "item": "Water",
+        "qty": "600ml"
+      },
+      {
+        "item": "Cornflour (diluted in 50ml water)",
+        "qty": "30g"
+      }
+    ],
+    "method": [
+      "Combine soy sauces, water, sugar, white vinegar, ginger juice, and crushed garlic in a saucepan.",
+      "Bring to a boil, then simmer over low heat for 12 minutes.",
+      "Strain out garlic pieces. Whisk in cornflour slurry and simmer for 2 minutes until a glossy mirror lacquer forms.",
+      "Bottle and chill."
+    ],
+    "emergencySub": "3 tbsp Soy Sauce + 2 tbsp Sugar + 1 tsp White Vinegar + 1/2 tsp Ginger Paste + 1 tsp Cornflour.",
+    "qualityChecks": "Mirror-like dark brown gloss, clings smoothly to chicken and paneer."
+  },
+  {
+    "id": "sauce-10",
+    "name": "Korean Spicy Glaze (Indian Kitchen Hack)",
+    "category": "Pan-Asian Sweet-Savory Bases",
+    "yield": "2 Liters",
+    "prepTime": "10 mins",
+    "cookTime": "12 mins",
+    "shelfLife": "21 Days Chilled",
+    "spiceLevel": "\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f (Sweet Smokey Chili Glaze)",
+    "description": "NO IMPORTED GOCHUJANG NEEDED. Uses Boiled Kashmiri Red Chili Paste, Tomato Ketchup, Dark Soy, Honey/Sugar, Garlic, White Vinegar, and Sesame Seeds.",
+    "ingredients": [
+      {
+        "item": "Boiled Kashmiri Red Chili Paste (Fine pureed)",
+        "qty": "500g"
+      },
+      {
+        "item": "Standard Tomato Ketchup",
+        "qty": "300g"
+      },
+      {
+        "item": "Dark Soy Sauce",
+        "qty": "200ml"
+      },
+      {
+        "item": "Honey or Regular Sugar",
+        "qty": "200g"
+      },
+      {
+        "item": "Fresh Garlic (Fine minced / Paste)",
+        "qty": "150g"
+      },
+      {
+        "item": "White Synthetic Vinegar",
+        "qty": "100ml"
+      },
+      {
+        "item": "Toasted White Sesame Seeds (Safed Til)",
+        "qty": "40g"
+      },
+      {
+        "item": "Refined Oil + Sesame Oil",
+        "qty": "80ml"
+      },
+      {
+        "item": "Water",
+        "qty": "500ml"
+      }
+    ],
+    "method": [
+      "Heat oil in saucepan, saut\u00e9 garlic paste for 2 minutes.",
+      "Add red chili paste, tomato ketchup, dark soy, white vinegar, and honey/sugar with water.",
+      "Simmer for 10 minutes until syrupy and thick.",
+      "Fold in toasted sesame seeds and sesame oil. Bottle and chill."
+    ],
+    "emergencySub": "3 tbsp Red Chili Paste + 1.5 tbsp Tomato Ketchup + 1 tbsp Soy Sauce + 1.5 tbsp Sugar/Honey + 1 tsp Vinegar + 1 tsp Garlic Paste.",
+    "qualityChecks": "Rich deep crimson glaze with toasted sesame flecks, sticky sweet-spicy coating."
   },
   {
     "id": "sauce-11",
@@ -623,13 +594,13 @@ window.INDUS_BIBLE = {
     "category": "Fiery & Chili Bases",
     "yield": "2 Liters",
     "prepTime": "10 mins",
-    "cookTime": "15 mins",
+    "cookTime": "12 mins",
     "shelfLife": "30 Days Chilled",
-    "spiceLevel": "\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f (Sharp Pungent Green Heat)",
-    "description": "Fresh vibrant green chili sauce base for Green Chilli Fried Rice, Green Chilli Noodles, and table condiments.",
+    "spiceLevel": "\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f (Electric Sharp Green Heat)",
+    "description": "100% Indian pantry ingredients (Fresh Indian Green Chillies + Garlic + White Vinegar + Salt).",
     "ingredients": [
       {
-        "item": "Fresh Indian Dark Green Chillies (Stems removed)",
+        "item": "Fresh Indian Dark Green Chillies (Hari Mirch)",
         "qty": "800g"
       },
       {
@@ -641,7 +612,7 @@ window.INDUS_BIBLE = {
         "qty": "100g"
       },
       {
-        "item": "White Cane Vinegar",
+        "item": "White Synthetic Vinegar",
         "qty": "500ml"
       },
       {
@@ -649,7 +620,7 @@ window.INDUS_BIBLE = {
         "qty": "300ml"
       },
       {
-        "item": "Rock Salt",
+        "item": "Salt",
         "qty": "40g"
       },
       {
@@ -658,124 +629,103 @@ window.INDUS_BIBLE = {
       }
     ],
     "method": [
-      "Roughly chop green chillies, garlic, and ginger.",
-      "Boil in water and vinegar for 8 minutes until softened.",
-      "Transfer to high-speed blender with salt and sugar. Blend until silky smooth emerald green.",
-      "Simmer pureed sauce in clean wok for 5 minutes. Cool and bottle in airtight containers."
+      "Chop green chillies, garlic, and ginger. Boil in water and white vinegar for 8 minutes until soft.",
+      "Transfer to mixer with salt and sugar. Blend until silky smooth bright green sauce.",
+      "Simmer blended sauce in clean wok for 4 minutes. Cool and bottle."
     ],
-    "emergencySub": "Blend 100g fresh green chillies + 4 garlic cloves + 50ml vinegar + 1/2 tsp salt in a blender for 60 seconds.",
-    "qualityChecks": "Bright olive-emerald green color, electric sharp chili pungency."
+    "emergencySub": "Blend 100g fresh green chillies + 4 garlic cloves + 50ml white vinegar + 1/2 tsp salt for 60 seconds.",
+    "qualityChecks": "Bright emerald green color with electric spicy punch."
   },
   {
     "id": "sauce-12",
-    "name": "Thai Curry Paste & Broth Master Base",
+    "name": "Thai Curry & Broth Base (Indian Kitchen Standard)",
     "category": "Pan-Asian Sweet-Savory Bases",
-    "yield": "2 Liters",
-    "prepTime": "20 mins",
-    "cookTime": "25 mins",
-    "shelfLife": "14 Days Chilled | 60 Days Frozen",
-    "spiceLevel": "\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f (Citrus Lemongrass & Coconut Infusion)",
-    "description": "Aromatic Southeast Asian paste for Thai Soups, Thai Noodles, and Thai Curry Ramen bowls.",
-    "ingredients": [
-      {
-        "item": "Fresh Lemongrass Stalks (White inner part sliced)",
-        "qty": "200g"
-      },
-      {
-        "item": "Fresh Galangal / Young Ginger",
-        "qty": "120g"
-      },
-      {
-        "item": "Kaffir Lime Leaves / Fresh Lime Zest",
-        "qty": "30g"
-      },
-      {
-        "item": "Fresh Coriander Roots & Stems",
-        "qty": "100g"
-      },
-      {
-        "item": "Bird's Eye Chillies (Red/Green)",
-        "qty": "150g"
-      },
-      {
-        "item": "Shallots / Red Onion",
-        "qty": "200g"
-      },
-      {
-        "item": "Garlic Cloves",
-        "qty": "150g"
-      },
-      {
-        "item": "Toasted Coriander & Cumin Powder",
-        "qty": "25g"
-      },
-      {
-        "item": "Coconut Oil",
-        "qty": "100ml"
-      },
-      {
-        "item": "Concentrated Coconut Cream",
-        "qty": "400ml"
-      }
-    ],
-    "method": [
-      "Pound or blend lemongrass, galangal, lime leaves, coriander roots, chillies, shallots, and garlic into a fine aromatic paste.",
-      "Heat coconut oil in wok, fry paste for 10 minutes until oil glitters on the sides.",
-      "Stir in toasted spices and coconut cream. Simmer for 10 minutes.",
-      "Portion into 250g containers and freeze or refrigerate."
-    ],
-    "emergencySub": "1 tbsp minced ginger + 1 tbsp lime juice + 1 tsp lemon zest + 1 chopped green chili + 3 tbsp coconut milk + 1/2 tsp cumin.",
-    "qualityChecks": "Heady citrus-lemongrass fragrance with rich velvety coconut body."
-  },
-  {
-    "id": "sauce-13",
-    "name": "Artisanal Momo Jhol Broth & Schezwan Momo Chutney",
-    "category": "Momo Dips & Broths",
     "yield": "2 Liters",
     "prepTime": "15 mins",
     "cookTime": "20 mins",
-    "shelfLife": "7 Days Chilled",
-    "spiceLevel": "\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f (Nutty Sesame Timur Tang)",
-    "description": "Traditional Himalayan spiced sesame-tomato dipping broth served piping hot with Jhol Momos and steamed momos.",
+    "shelfLife": "14 Days Chilled",
+    "spiceLevel": "\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f (Citrus & Coconut Infusion)",
+    "description": "Standard Indian kitchen ingredients (Fresh Ginger + Green Chillies + Fresh Lemon Juice/Zest + Coriander Stems + Cumin + Coconut Milk Tetra-pack).",
     "ingredients": [
       {
-        "item": "Ripe Red Tomatoes (Roasted over flame & peeled)",
-        "qty": "800g"
-      },
-      {
-        "item": "White Sesame Seeds (Dry roasted to golden brown)",
+        "item": "Fresh Ginger (Adrak - sliced)",
         "qty": "200g"
       },
       {
-        "item": "Roasted Peanuts (Skinless)",
-        "qty": "100g"
+        "item": "Fresh Green Chillies & Coriander Stems",
+        "qty": "150g"
       },
       {
-        "item": "Fresh Garlic Cloves",
-        "qty": "80g"
-      },
-      {
-        "item": "Fresh Green Chillies & Dried Red Chillies",
-        "qty": "60g"
-      },
-      {
-        "item": "Timur / Sichuan Peppercorn (Ground)",
-        "qty": "15g"
-      },
-      {
-        "item": "Fresh Coriander",
-        "qty": "50g"
-      },
-      {
-        "item": "Mustard Oil / Refined Oil",
+        "item": "Fresh Lemon Juice + Fresh Lemon Zest (Nimbu ka ras & chilka)",
         "qty": "60ml"
       },
       {
-        "item": "Lemon Juice",
+        "item": "Fresh Garlic & Onion",
+        "qty": "200g"
+      },
+      {
+        "item": "Jeera & Dhania Powder (Cumin & Coriander)",
+        "qty": "30g"
+      },
+      {
+        "item": "Commercial Coconut Milk / Cream (Tetra-pack)",
+        "qty": "500ml"
+      },
+      {
+        "item": "Refined Oil",
+        "qty": "80ml"
+      },
+      {
+        "item": "Salt & Sugar",
+        "qty": "25g"
+      }
+    ],
+    "method": [
+      "Blend ginger, green chillies, coriander stems, lemon zest, garlic, and onion into a paste.",
+      "Heat oil in pot, fry paste for 8 minutes until aromatic.",
+      "Add cumin-coriander powder and coconut milk. Simmer for 10 minutes.",
+      "Finish with fresh lemon juice and salt. Store in portions."
+    ],
+    "emergencySub": "1 tbsp Ginger Paste + 1 tbsp Lemon Juice + 1 chopped Green Chili + 4 tbsp Coconut Milk + pinch of Cumin & Salt.",
+    "qualityChecks": "Creamy golden citrus aroma with smooth coconut body."
+  },
+  {
+    "id": "sauce-13",
+    "name": "Artisanal Momo Jhol Broth & Chutney",
+    "category": "Momo Dips & Broths",
+    "yield": "2 Liters",
+    "prepTime": "12 mins",
+    "cookTime": "15 mins",
+    "shelfLife": "7 Days Chilled",
+    "spiceLevel": "\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f (Nutty Sesame Tomato Tang)",
+    "description": "100% Indian kitchen ingredients (Fresh Ripe Tomatoes + Roasted White Sesame Seeds + Garlic + Red Chillies + Lemon Juice).",
+    "ingredients": [
+      {
+        "item": "Fresh Ripe Red Tomatoes (Tamatar - roasted/boiled)",
+        "qty": "800g"
+      },
+      {
+        "item": "White Sesame Seeds (Safed Til - roasted golden)",
+        "qty": "200g"
+      },
+      {
+        "item": "Roasted Peanuts (Moongphali)",
+        "qty": "100g"
+      },
+      {
+        "item": "Fresh Garlic & Green/Red Chillies",
+        "qty": "100g"
+      },
+      {
+        "item": "Fresh Lemon Juice",
         "qty": "50ml"
       },
       {
-        "item": "Chicken / Veg Broth",
+        "item": "Refined Cooking Oil / Mustard Oil",
+        "qty": "60ml"
+      },
+      {
+        "item": "Water / Broth",
         "qty": "800ml"
       },
       {
@@ -784,36 +734,35 @@ window.INDUS_BIBLE = {
       }
     ],
     "method": [
-      "Dry roast white sesame seeds and peanuts until golden and aromatic.",
-      "In a blender, combine roasted tomatoes, roasted sesame, peanuts, garlic, chillies, timur pepper, coriander, and lemon juice. Blend into a smooth rich puree.",
-      "Heat mustard oil in pot until smoking, let cool slightly, then temper the puree into the pot.",
-      "Pour in 800ml hot broth. Simmer for 10 minutes into a silky, fragrant soup-broth.",
-      "Serve warm poured over steamed momos."
+      "Roast white sesame seeds and peanuts in a dry pan until golden.",
+      "Blend boiled tomatoes, roasted sesame, peanuts, garlic, chillies, and lemon juice into smooth puree.",
+      "Heat oil in pot, temper the puree, and pour in 800ml hot water/broth. Simmer for 8 minutes.",
+      "Serve piping hot with momos."
     ],
-    "emergencySub": "Blend 2 roasted tomatoes + 2 tbsp tahini/sesame paste + 2 garlic cloves + 1 red chili + 1/2 cup warm chicken broth + squeeze of lemon.",
-    "qualityChecks": "Creamy golden-orange hue, nutty sesame mouthfeel with citrus timur tingling finish."
+    "emergencySub": "Blend 2 boiled tomatoes + 2 tbsp roasted sesame + 2 garlic cloves + 1 red chili + 1/2 cup warm water + squeeze of lemon.",
+    "qualityChecks": "Warm golden-orange hue, nutty sesame mouthfeel, tangy spicy finish."
   },
   {
     "id": "sauce-14",
-    "name": "Crispy Chilli Garlic Crunch Oil (Kitchen Batch)",
+    "name": "Crispy Chilli Garlic Crunch Oil (Indian Kitchen Batch)",
     "category": "Aromatic Finishing Oils",
     "yield": "1.5 Liters",
-    "prepTime": "15 mins",
-    "cookTime": "20 mins",
+    "prepTime": "12 mins",
+    "cookTime": "15 mins",
     "shelfLife": "45 Days Ambient",
-    "spiceLevel": "\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f (Crispy Textured Crunchy Umami)",
-    "description": "Ultra-crunchy condiment made with fried shallots, crisp garlic flakes, crushed roasted peanuts, and chili flakes steeped in star anise & cinnamon oil.",
+    "spiceLevel": "\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f (Crunchy Garlic-Peanut Crunch)",
+    "description": "Indian kitchen ingredients (Fried crisp garlic flakes + Fried onion flakes + Crushed roasted peanuts + Red chili flakes + Hot star anise oil).",
     "ingredients": [
       {
         "item": "Crispy Fried Garlic Flakes",
         "qty": "200g"
       },
       {
-        "item": "Crispy Fried Red Shallots / Onions",
+        "item": "Crispy Fried Onion / Biryani Birista Flakes",
         "qty": "200g"
       },
       {
-        "item": "Coarse Red Chili Flakes (Sichuan/Kashmiri mix)",
+        "item": "Coarse Red Chili Flakes (Kuti hui Lal Mirch)",
         "qty": "150g"
       },
       {
@@ -821,31 +770,27 @@ window.INDUS_BIBLE = {
         "qty": "100g"
       },
       {
-        "item": "Toasted White Sesame Seeds",
+        "item": "Roasted White Sesame Seeds",
         "qty": "50g"
       },
       {
-        "item": "Star Anise & Cinnamon Infused Hot Oil (175\u00b0C)",
+        "item": "Hot Refined Oil (Infused with 4 star anise)",
         "qty": "800ml"
       },
       {
-        "item": "Mushroom Seasoning Powder",
-        "qty": "20g"
-      },
-      {
-        "item": "Sugar & Salt",
+        "item": "Salt & Sugar",
         "qty": "25g"
       }
     ],
     "method": [
-      "In a large heatproof stainless steel bowl, place chili flakes, sesame seeds, mushroom powder, salt, and sugar.",
-      "Heat 800ml oil with star anise and cinnamon stick to 175\u00b0C.",
-      "Carefully pour hot oil over the chili flake mixture (it will sizzle and turn fragrant).",
-      "Allow oil to cool down to 50\u00b0C, then fold in crispy garlic flakes, fried shallots, and crushed peanuts (adding them when oil is cool preserves maximum crunch).",
-      "Store in sealed glass jars."
+      "In a heatproof steel bowl, place chili flakes, sesame seeds, salt, and sugar.",
+      "Heat 800ml oil with star anise until hot (175\u00b0C), discard star anise.",
+      "Pour hot oil over chili flakes (it will sizzle and turn red).",
+      "Let cool for 15 minutes, then fold in fried garlic, fried onions, and crushed peanuts.",
+      "Store in airtight jar."
     ],
-    "emergencySub": "Mix 3 tbsp chili flakes + 2 tbsp fried onion + 2 tbsp fried garlic + 1/2 cup warm oil + pinch of salt & sugar.",
-    "qualityChecks": "Insane audible crunch with every spoonful, ruby-red oil with deep roasted nuttiness."
+    "emergencySub": "Mix 3 tbsp chili flakes + 2 tbsp fried garlic + 2 tbsp fried onion + 1/2 cup warm oil + pinch of salt.",
+    "qualityChecks": "Audible crunch in every spoon with ruby red infused oil."
   }
 ],
   misa: {
@@ -23077,52 +23022,52 @@ window.INDUS_BIBLE = {
 ],
   emergencySubs: [
   {
-    "missing": "Schezwan Sauce / Paste",
-    "substitute": "Mix 200g Red Chili Paste + 50g Tomato Paste + 20g Garlic Powder + 15ml Soy + 15ml Vinegar + 10g Sugar + 30ml Hot Oil."
+    "missing": "Sweet & Sour Sauce (No Pineapple / No Apple Cider Vinegar)",
+    "substitute": "Mix 4 tbsp Standard Tomato Ketchup + 2 tbsp White Synthetic Vinegar (Sirka) + 2 tbsp Sugar + 3 tbsp Water + 1/2 tsp Cornflour (Ararot). Simmer 60 seconds."
   },
   {
-    "missing": "Dark Soy Sauce",
-    "substitute": "Mix 3 tbsp Light Soy Sauce + 1 tbsp Molasses / Brown Sugar Syrup + 1/2 tsp Balsamic Vinegar."
+    "missing": "Schezwan Sauce / Mother Paste",
+    "substitute": "Mix 3 tbsp Boiled Red Chili Paste + 1 tbsp Tomato Ketchup + 1 tbsp Minced Garlic + 1 tbsp Dark Soy + 1 tbsp White Vinegar + 1 tsp Sugar + 2 tbsp Hot Oil."
   },
   {
-    "missing": "Chinese Rice Wine / Shaoxing",
-    "substitute": "Equal parts Dry White Grape Juice + Rice Vinegar + a tiny pinch of sugar."
+    "missing": "Indus Dark Base (Seasoning Sauce)",
+    "substitute": "Mix 3 tbsp Dark Soy Sauce + 1 tsp White Vinegar + 1 tsp Sugar + 1/2 tsp White Pepper + 1 tbsp Water."
   },
   {
-    "missing": "Sichuan Peppercorn (Timur)",
-    "substitute": "Crushed black peppercorns + ground coriander seed + pinch of grated lemon zest."
+    "missing": "Teriyaki Glaze (No Mirin / No Sake)",
+    "substitute": "Mix 3 tbsp Dark Soy Sauce + 2 tbsp Regular Sugar + 1 tsp White Vinegar + 1/2 tsp Ginger Juice + 1 tsp Cornflour + 3 tbsp Water."
   },
   {
-    "missing": "Chinkiang Black Vinegar",
-    "substitute": "Equal parts Balsamic Vinegar + Rice Vinegar + splash of Soy Sauce."
+    "missing": "Korean Gochujang Glaze",
+    "substitute": "Mix 3 tbsp Red Chili Paste + 1.5 tbsp Tomato Ketchup + 1 tbsp Soy Sauce + 1 tbsp Sugar/Honey + 1 tsp White Vinegar + 1 tsp Garlic Paste."
   },
   {
-    "missing": "Cornstarch / Cornflour",
-    "substitute": "Potato starch (use 80% quantity) OR Tapioca starch mixed in cold water."
+    "missing": "Kung Pao Glaze (No Black Vinegar)",
+    "substitute": "Mix 2 tbsp Soy Sauce + 1 tbsp White Vinegar + 1 tbsp Tomato Ketchup + 1 tsp Peanut Butter / Crushed Roasted Peanuts + 1 tbsp Sugar + 2 tbsp Water."
   },
   {
-    "missing": "Toasted Sesame Oil",
-    "substitute": "Gently toast 2 tbsp white sesame seeds in 4 tbsp refined sunflower oil over low heat for 5 minutes; strain oil."
+    "missing": "Black Bean Sauce",
+    "substitute": "Mix 2 tbsp Dark Soy + 1 tsp Coarse Crushed Black Pepper + 1 tsp Minced Garlic + 1/2 tsp Sugar + 1 tsp Vinegar + 2 tbsp Water."
   },
   {
-    "missing": "Oyster Sauce",
-    "substitute": "Vegetarian Mushroom Stir-Fry Sauce + 1/2 tsp dark soy + 1/2 tsp sugar."
+    "missing": "Green Chilli Sauce",
+    "substitute": "Blend 10-12 Fresh Green Chillies + 4 Garlic Cloves + 50ml White Vinegar + 1/2 tsp Salt in a mixer for 45 seconds."
   },
   {
-    "missing": "Gochujang (Korean Red Pepper Paste)",
-    "substitute": "3 tbsp Red Chili Paste + 1 tbsp Miso Paste + 1.5 tbsp Honey + 1 tsp Soy Sauce."
+    "missing": "Chicken / Veg Broth Stock",
+    "substitute": "Boil 1L Water with 1 tbsp Salt, 1 tbsp Oil, 1 Star Anise (Chakri Phool), 1 smashed Onion, and 4 smashed Garlic cloves for 10 minutes."
   },
   {
-    "missing": "Chicken Broth / Stock",
-    "substitute": "Boil 1L water with 1 tbsp salt, 1 chopped onion, 4 smashed garlic cloves, 1 star anise, and 1 celery stalk for 15 mins."
+    "missing": "Egg (for Velveting Chicken)",
+    "substitute": "Per 1kg Chicken: Mix 40ml Ice Cold Water + 1/4 tsp Baking Soda (Meetha Soda) + 25g Cornflour + 15ml Soy Sauce. Massage for 3 minutes."
   },
   {
-    "missing": "Egg (for Velveting)",
-    "substitute": "Use 30ml Ice Cold Water + 1/4 tsp Baking Soda + 25g Cornstarch per 1kg chicken."
+    "missing": "Cornstarch / Cornflour (for thickening gravies)",
+    "substitute": "Use Ararot (Arrowroot powder) or Tapioca starch in equal parts cold water."
   },
   {
-    "missing": "Spring Onions (Scallions)",
-    "substitute": "Finely sliced green tops of leeks OR finely sliced tender chives."
+    "missing": "Toasted Sesame Oil (Til ka Tel)",
+    "substitute": "Toast 2 tbsp White Sesame Seeds (Safed Til) in 4 tbsp Refined Sunflower Oil in a small tadka pan for 3 minutes; strain oil."
   }
 ]
 };
