@@ -2,9 +2,12 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, viewport-fit=cover">
   <title>Indus Wok — Restaurant Bible & Master Culinary Ops Manual</title>
   <meta name="theme-color" content="#b91327">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Indus Bible">
   
   <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -23,8 +26,8 @@
         <a href="#" class="brand-box" onclick="switchTab('specials')">
           <div class="brand-logo-badge">🥢</div>
           <div class="brand-title-wrap">
-            <h1>INDUS WOK <span class="badge-bible">RESTAURANT BIBLE</span></h1>
-            <p>Pan-Asian & Indo-Chinese Culinary Operations Manual • Mumbai</p>
+            <h1>INDUS WOK <span class="badge-bible">BIBLE</span></h1>
+            <p>Pan-Asian & Indo-Chinese Ops Manual</p>
           </div>
         </a>
 
@@ -32,15 +35,15 @@
           <button class="btn-header-tool" id="btnWokMode" onclick="toggleKitchenMode()" title="Toggle High-Contrast Wok Station Mode">
             <span>🔥</span> <span class="hide-mobile">Wok Mode</span>
           </button>
-          <button class="btn-header-tool" onclick="window.print()" title="Print Current Recipe Manual">
-            <span>🖨️</span> <span class="hide-mobile">Print Bible</span>
+          <button class="btn-header-tool hide-mobile" onclick="window.print()" title="Print Current Recipe Manual">
+            <span>🖨️</span> Print Bible
           </button>
         </div>
       </div>
     </div>
   </header>
 
-  <!-- Navigation Tabs Bar -->
+  <!-- Navigation Tabs Bar (Desktop / Tablet) -->
   <nav class="nav-tabs-bar">
     <div class="container">
       <div class="tabs-container">
@@ -75,9 +78,9 @@
            =================================================================== -->
       <section id="tab-specials" class="tab-panel active">
         <div class="hero-card">
-          <h2>⭐ Indus Wok Special Flagship Dishes & Costing Matrix</h2>
+          <h2>⭐ 4 Flagship Specials & Costing Matrix</h2>
           <p>
-            Curated through live POS bill analysis and Pan-Asian flavor engineering. These 4 flagship dishes—1 Starter, 1 Rice, 1 Noodles, and 1 Rice with Gravy—are designed for maximum consumer appeal, rapid wok turn-around (&lt;3 mins), and superior gross profit margins (75.8% to 78.9%).
+            Curated through live POS analysis and Pan-Asian flavor engineering. Designed for rapid wok turn-around (&lt;3 mins) and 75.8%–78.9% gross margin.
           </p>
           <div class="hero-stats-row">
             <div class="hero-stat-box">
@@ -89,11 +92,11 @@
               <div class="stat-val">77.3%</div>
             </div>
             <div class="hero-stat-box">
-              <div class="stat-label">Avg. Wok Cook Time</div>
+              <div class="stat-label">Avg. Wok Time</div>
               <div class="stat-val">2.8 Mins</div>
             </div>
             <div class="hero-stat-box">
-              <div class="stat-label">Flagship Specialties</div>
+              <div class="stat-label">Specialties</div>
               <div class="stat-val">4 Dishes</div>
             </div>
           </div>
@@ -105,73 +108,67 @@
         </div>
 
         <!-- Comparative Financial Matrix -->
-        <div class="card" style="margin-top: 28px; background: var(--bg-card); border: 1px solid var(--border-line); border-radius: var(--radius-lg); padding: 24px; box-shadow: var(--shadow-sm);">
-          <h3 style="font-size: 18px; font-weight: 800; color: var(--red); margin-bottom: 14px; display: flex; align-items: center; gap: 8px;">
-            📊 Executive Profitability & Cost Breakdown Summary
+        <div style="margin-top: 20px; background: var(--bg-card); border: 1px solid var(--border-line); border-radius: var(--radius-md); padding: 16px; box-shadow: var(--shadow-sm);">
+          <h3 style="font-size: 16px; font-weight: 800; color: var(--red); margin-bottom: 12px; display: flex; align-items: center; gap: 6px;">
+            📊 Executive Profitability & Cost Breakdown
           </h3>
-          <div style="overflow-x: auto;">
-            <table class="bom-table" style="width: 100%;">
+          <div class="bom-table-wrap">
+            <table class="bom-table">
               <thead>
                 <tr>
                   <th>Dish Category</th>
                   <th>Flagship Dish Name</th>
-                  <th>Menu Selling Price</th>
-                  <th>Raw Food Cost (BOM)</th>
+                  <th>Menu Price</th>
+                  <th>Raw Cost (BOM)</th>
                   <th>Food Cost %</th>
                   <th>Gross Profit (₹)</th>
                   <th>Gross Margin %</th>
-                  <th>Target Wok Time</th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
                   <td><strong style="color:var(--red);">STARTER</strong></td>
-                  <td>Indus Dragon Chicken (Special Fire-Cracker Glaze)</td>
+                  <td>Indus Dragon Chicken (Fire-Cracker)</td>
                   <td><strong>₹349.00</strong></td>
                   <td>₹84.50</td>
                   <td><span class="val-green"><strong>24.21%</strong></span></td>
                   <td><strong style="color:var(--green);">₹264.50</strong></td>
                   <td><span class="val-green"><strong>75.79%</strong></span></td>
-                  <td>2.5 mins</td>
                 </tr>
                 <tr>
                   <td><strong style="color:var(--red);">RICE</strong></td>
-                  <td>Indus Signature Burnt Chilli Garlic Chicken Rice</td>
+                  <td>Indus Burnt Chilli Garlic Chicken Rice</td>
                   <td><strong>₹280.00</strong></td>
                   <td>₹61.20</td>
                   <td><span class="val-green"><strong>21.86%</strong></span></td>
                   <td><strong style="color:var(--green);">₹218.80</strong></td>
                   <td><span class="val-green"><strong>78.14%</strong></span></td>
-                  <td>2.0 mins</td>
                 </tr>
                 <tr>
                   <td><strong style="color:var(--red);">NOODLES</strong></td>
-                  <td>Indus Hong-Kong Street Style Hakka Noodles</td>
+                  <td>Indus Hong-Kong Street Style Noodles</td>
                   <td><strong>₹260.00</strong></td>
                   <td>₹54.80</td>
                   <td><span class="val-green"><strong>21.08%</strong></span></td>
                   <td><strong style="color:var(--green);">₹205.20</strong></td>
                   <td><span class="val-green"><strong>78.92%</strong></span></td>
-                  <td>2.5 mins</td>
                 </tr>
                 <tr>
                   <td><strong style="color:var(--red);">RICE W/ GRAVY</strong></td>
-                  <td>Indus Royal Claypot Rice with Supreme Hot Garlic</td>
+                  <td>Indus Royal Claypot Rice w/ Hot Garlic</td>
                   <td><strong>₹430.00</strong></td>
                   <td>₹102.40</td>
                   <td><span class="val-green"><strong>23.81%</strong></span></td>
                   <td><strong style="color:var(--green);">₹327.60</strong></td>
                   <td><span class="val-green"><strong>76.19%</strong></span></td>
-                  <td>4.0 mins</td>
                 </tr>
                 <tr class="total-row">
-                  <td colspan="2"><strong>4-DISH COMBO AVERAGE / TOTAL</strong></td>
+                  <td colspan="2"><strong>4-DISH COMBO TOTAL / AVERAGE</strong></td>
                   <td><strong>₹1,319.00</strong></td>
                   <td><strong>₹302.90</strong></td>
-                  <td><strong style="color:var(--green);">22.96% (Weighted)</strong></td>
+                  <td><strong style="color:var(--green);">22.96%</strong></td>
                   <td><strong style="color:var(--green);">₹1,016.10</strong></td>
                   <td><strong style="color:var(--green);">77.04%</strong></td>
-                  <td><strong>2.75 mins avg</strong></td>
                 </tr>
               </tbody>
             </table>
@@ -184,20 +181,20 @@
            =================================================================== -->
       <section id="tab-sauces" class="tab-panel">
         <div class="hero-card">
-          <h2>🥣 Indus Wok Mother Sauces & Condiment Production Bible</h2>
+          <h2>🥣 Mother Sauces & Scratch Prep Bible</h2>
           <p>
-            Standardized scratch formulas for 14 essential Asian & Indo-Chinese mother sauces, glazes, infusions, and dips. If ready-made stock runs dry during rush hours, kitchen line cooks can prepare any sauce from raw base ingredients in under 15 minutes.
+            Standardized scratch formulas for 14 essential Asian & Indo-Chinese base sauces. Prepare any sauce from raw base ingredients in under 15 minutes.
           </p>
         </div>
 
         <div class="sauce-filter-chips" id="sauceCategoryFilters">
           <button class="sauce-chip active" onclick="filterSauces('all')">All Sauces (14)</button>
-          <button class="sauce-chip" onclick="filterSauces('Fiery & Chili Bases')">Fiery & Chili Bases</button>
+          <button class="sauce-chip" onclick="filterSauces('Fiery & Chili Bases')">Fiery & Chili</button>
           <button class="sauce-chip" onclick="filterSauces('Master Seasoning Liquids')">Master Seasonings</button>
           <button class="sauce-chip" onclick="filterSauces('Gravy & Simmer Bases')">Gravies & Simmers</button>
           <button class="sauce-chip" onclick="filterSauces('Aromatic Finishing Oils')">Finishing Oils</button>
           <button class="sauce-chip" onclick="filterSauces('Pan-Asian Sweet-Savory Bases')">Pan-Asian Glazes</button>
-          <button class="sauce-chip" onclick="filterSauces('Momo Dips & Broths')">Momo Broths & Dips</button>
+          <button class="sauce-chip" onclick="filterSauces('Momo Dips & Broths')">Momo Broths</button>
         </div>
 
         <div class="sauces-container" id="saucesListContainer">
@@ -210,9 +207,9 @@
            =================================================================== -->
       <section id="tab-misa" class="tab-panel">
         <div class="hero-card">
-          <h2>🔪 Mise en Place ("Misa") Operational Manual & Station Setup</h2>
+          <h2>🔪 Mise en Place ("Misa") SOP & Station Setup</h2>
           <p>
-            Mise en place is the heartbeat of Indus Wok. Precision vegetable cutting, protein velveting, carb dehydration, and 9-container speed-rack layout ensure our line cooks achieve authentic <em>Wok Hei</em> and dispatch orders in under 3 minutes.
+            Precision vegetable cutting, protein velveting, carb dehydration, and 9-cup speed-rack layout to achieve authentic <em>Wok Hei</em> in &lt;3 minutes.
           </p>
         </div>
 
@@ -226,9 +223,9 @@
            =================================================================== -->
       <section id="tab-recipes" class="tab-panel">
         <div class="hero-card">
-          <h2>📖 Indus Wok Complete Menu Recipe Catalog</h2>
+          <h2>📖 Complete Menu Recipe Directory</h2>
           <p>
-            Standard operating recipes for all 283 menu dishes. Click any dish to open the dedicated full-page recipe sheet with interactive portion scaling (1x, 2x, 5x, 10x), exact kitchen gram weights, required misa, wok cooking sequence, chef tips, and printable A4 binder layout.
+            Recipes for all 283 dishes. Tap any dish for single-dish recipe view with interactive batch scaling (1x, 2x, 5x, 10x), misa checklist, and wok sequences.
           </p>
         </div>
 
@@ -236,17 +233,18 @@
         <div class="recipes-controls-bar">
           <div class="search-input-wrap">
             <span class="search-icon-svg">🔍</span>
-            <input type="text" id="recipeSearchInput" placeholder="Search 283 dishes by name, ingredient (e.g. 'Dragon Chicken', 'Burnt Garlic', 'Paneer', 'Hakka')..." oninput="handleRecipeSearch()">
+            <input type="text" id="recipeSearchInput" placeholder="Search 283 dishes (e.g. Dragon, Burnt Garlic, Hakka)..." oninput="handleRecipeSearch()">
+            <button class="search-clear-btn" id="btnSearchClear" onclick="clearRecipeSearch()" style="display:none;">✕</button>
           </div>
 
           <div class="category-filter-chips" id="recipeCatFilters">
-            <button class="cat-filter-btn active" onclick="filterRecipeCat('all')">All Items (283)</button>
+            <button class="cat-filter-btn active" onclick="filterRecipeCat('all')">All (283)</button>
             <button class="cat-filter-btn" onclick="filterRecipeCat('Starters')">Starters (52)</button>
             <button class="cat-filter-btn" onclick="filterRecipeCat('Rice')">Fried Rice (60)</button>
             <button class="cat-filter-btn" onclick="filterRecipeCat('Noodles')">Hakka Noodles (60)</button>
             <button class="cat-filter-btn" onclick="filterRecipeCat('Rice with Gravy')">Rice with Gravy (40)</button>
             <button class="cat-filter-btn" onclick="filterRecipeCat('Soups')">Soups (18)</button>
-            <button class="cat-filter-btn" onclick="filterRecipeCat('Tandoori Menu')">Tandoori & Kebabs (12)</button>
+            <button class="cat-filter-btn" onclick="filterRecipeCat('Tandoori Menu')">Tandoori (12)</button>
             <button class="cat-filter-btn" onclick="filterRecipeCat('Ramen')">Ramen (7)</button>
             <button class="cat-filter-btn" onclick="filterRecipeCat('Sushi')">Sushi (5)</button>
             <button class="cat-filter-btn" onclick="filterRecipeCat('Sizzler')">Sizzlers (6)</button>
@@ -255,27 +253,26 @@
 
           <div class="sub-filter-row">
             <div class="filter-group">
-              <span style="font-size:12px; font-weight:700; color:var(--text-muted);">Dietary:</span>
+              <span style="font-size:11px; font-weight:700; color:var(--text-muted);">Diet:</span>
               <button class="filter-btn-pill active" id="btnDietAll" onclick="filterDiet('all')">All</button>
-              <button class="filter-btn-pill" id="btnDietVeg" onclick="filterDiet('veg')">🟢 Veg Only</button>
+              <button class="filter-btn-pill" id="btnDietVeg" onclick="filterDiet('veg')">🟢 Veg</button>
               <button class="filter-btn-pill" id="btnDietNonVeg" onclick="filterDiet('nonveg')">🔴 Non-Veg</button>
             </div>
 
             <div class="filter-group">
-              <span style="font-size:12px; font-weight:700; color:var(--text-muted);">Protein:</span>
+              <span style="font-size:11px; font-weight:700; color:var(--text-muted);">Protein:</span>
               <button class="filter-btn-pill" onclick="filterProtein('Chicken')">Chicken</button>
               <button class="filter-btn-pill" onclick="filterProtein('Paneer')">Paneer</button>
               <button class="filter-btn-pill" onclick="filterProtein('Egg')">Egg</button>
-              <button class="filter-btn-pill" onclick="filterProtein('Veg')">Veg Mix</button>
             </div>
 
-            <div id="recipeCountDisplay" style="font-size:12px; font-weight:700; color:var(--text-muted);">
-              Showing 283 of 283 recipes
+            <div id="recipeCountDisplay" style="font-size:11px; font-weight:700; color:var(--text-muted); margin-left:auto;">
+              283 recipes
             </div>
           </div>
         </div>
 
-        <!-- Dishes Grid -->
+        <!-- Dishes Grid (2-column on mobile) -->
         <div class="dishes-catalog-grid" id="recipesCatalogGrid">
           <!-- Rendered dynamically by app.js -->
         </div>
@@ -286,16 +283,16 @@
            =================================================================== -->
       <section id="tab-costing" class="tab-panel">
         <div class="hero-card">
-          <h2>💰 Interactive Recipe Costing & Profitability Simulator</h2>
+          <h2>💰 Interactive Costing & Profit Simulator</h2>
           <p>
-            Adjust raw commodity rates (Chicken, Paneer, Rice, Oil, Packaging) to instantly see the impact on dish food cost %, gross margin, and recommended selling price.
+            Adjust raw commodity rates to instantly see the impact on food cost %, gross margin, and monthly gross profit contribution.
           </p>
         </div>
 
         <div class="costing-simulator-grid">
           <div class="sim-control-panel">
-            <h3 style="font-size: 16px; font-weight: 800; color: var(--red); margin-bottom: 16px;">
-              ⚙️ Commodity Raw Rates (₹ per kg / Litre)
+            <h3 style="font-size: 15px; font-weight: 800; color: var(--red); margin-bottom: 12px;">
+              ⚙️ Commodity Raw Rates
             </h3>
 
             <div class="sim-input-row">
@@ -332,7 +329,7 @@
 
             <div class="sim-input-row">
               <label>
-                <span>Delivery Packaging per dish:</span>
+                <span>Delivery Packaging / Dish:</span>
                 <strong id="valPackRate">₹3.50</strong>
               </label>
               <input type="range" class="sim-slider" id="inputPackRate" min="1.5" max="8.0" value="3.5" step="0.5" oninput="updateCostingSimulation()">
@@ -348,33 +345,33 @@
           </div>
 
           <div class="sim-results-panel">
-            <h3 style="font-size: 16px; font-weight: 800; color: var(--charcoal); margin-bottom: 16px;">
-              📈 Real-Time Profitability Dashboard
+            <h3 style="font-size: 15px; font-weight: 800; color: var(--charcoal); margin-bottom: 12px;">
+              📈 Profitability Dashboard
             </h3>
 
             <div class="sim-stats-cards">
               <div class="sim-stat-box">
-                <div class="title">Average Food Cost %</div>
+                <div class="title">Avg Food Cost %</div>
                 <div class="value val-green" id="simAvgFoodCost">22.8%</div>
               </div>
               <div class="sim-stat-box">
-                <div class="title">Average Gross Margin</div>
+                <div class="title">Avg Gross Margin</div>
                 <div class="value val-green" id="simAvgMargin">77.2%</div>
               </div>
               <div class="sim-stat-box">
-                <div class="title">Monthly Volume (est. 1200 orders)</div>
+                <div class="title">Monthly Volume (1200 ord.)</div>
                 <div class="value" id="simEstRevenue">₹3,48,000</div>
               </div>
               <div class="sim-stat-box">
-                <div class="title">Gross Profit Contribution</div>
+                <div class="title">Gross Profit</div>
                 <div class="value val-green" id="simEstGrossProfit">₹2,68,656</div>
               </div>
             </div>
 
-            <div style="background: var(--bg-main); padding: 16px; border-radius: var(--radius-md); border: 1px solid var(--border-light); margin-top: auto;">
-              <h4 style="font-size: 13px; font-weight: 800; color: var(--red); margin-bottom: 6px;">💡 Chef & Management Recommendation</h4>
-              <p style="font-size: 12.5px; color: var(--text-muted); line-height: 1.5;" id="simRecommendationText">
-                Your current food cost is within the optimal Asian restaurant sweet spot (20% - 25%). Keep strict portion control on boneless chicken (100g per portion) and continue using the overnight rice retrogradation technique to minimize shrinkage.
+            <div style="background: var(--bg-main); padding: 12px; border-radius: var(--radius-md); border: 1px solid var(--border-light); margin-top: auto;">
+              <h4 style="font-size: 12px; font-weight: 800; color: var(--red); margin-bottom: 4px;">💡 Chef Recommendation</h4>
+              <p style="font-size: 11.5px; color: var(--text-muted); line-height: 1.45;" id="simRecommendationText">
+                Your current food cost is within the optimal Asian restaurant sweet spot (20% - 25%). Keep strict portion control on boneless chicken (100g per portion).
               </p>
             </div>
           </div>
@@ -386,13 +383,13 @@
            =================================================================== -->
       <section id="tab-emergency" class="tab-panel">
         <div class="hero-card">
-          <h2>⚡ Emergency Missing Ingredients 60-Second Conversion Matrix</h2>
+          <h2>⚡ Emergency Missing Ingredients 60-Sec Conversion</h2>
           <p>
             Ran out of an essential item during rush hour? Never pause kitchen service. Use these chef-approved 60-second kitchen conversions.
           </p>
         </div>
 
-        <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 16px;" id="emergencySubsContainer">
+        <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 12px;" id="emergencySubsContainer">
           <!-- Rendered dynamically by app.js -->
         </div>
       </section>
@@ -400,8 +397,32 @@
     </div>
   </main>
 
+  <!-- Mobile Bottom Navigation Bar -->
+  <nav class="mobile-bottom-nav">
+    <button class="mob-nav-item active" data-tab="specials" onclick="switchTab('specials')">
+      <span class="icon">⭐</span>
+      <span>Specials</span>
+    </button>
+    <button class="mob-nav-item" data-tab="sauces" onclick="switchTab('sauces')">
+      <span class="icon">🥣</span>
+      <span>Sauces</span>
+    </button>
+    <button class="mob-nav-item" data-tab="misa" onclick="switchTab('misa')">
+      <span class="icon">🔪</span>
+      <span>Misa SOP</span>
+    </button>
+    <button class="mob-nav-item" data-tab="recipes" onclick="switchTab('recipes')">
+      <span class="icon">📖</span>
+      <span>Recipes</span>
+    </button>
+    <button class="mob-nav-item" data-tab="costing" onclick="switchTab('costing')">
+      <span class="icon">💰</span>
+      <span>Costing</span>
+    </button>
+  </nav>
+
   <!-- =====================================================================
-       DEDICATED PER-PAGE RECIPE MODAL / SINGLE DISH VIEWER
+       DEDICATED PER-PAGE RECIPE MODAL / MOBILE SLIDE-UP SHEET
        ===================================================================== -->
   <div class="modal-overlay" id="recipeModalOverlay" onclick="handleModalOutsideClick(event)">
     <div class="recipe-modal-dialog" id="recipeModalDialog">
@@ -409,13 +430,13 @@
         <div class="title-left">
           <span id="modalDietBadge" class="veg-indicator veg"></span>
           <span id="modalCategoryBadge" class="badge-tag badge-gold">STARTERS</span>
-          <h2 id="modalDishTitle" style="font-size: 17px; font-weight: 800; color: var(--charcoal); margin: 0;">Dragon Chicken</h2>
+          <h2 id="modalDishTitle" style="font-size: 15px; font-weight: 800; color: var(--charcoal); margin: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 170px;">Dragon Chicken</h2>
         </div>
-        <div style="display:flex; align-items:center; gap:8px;">
-          <button class="btn-header-tool" onclick="printModalRecipe()" title="Print Recipe Card">
-            <span>🖨️</span> Print Card
+        <div style="display:flex; align-items:center; gap:6px;">
+          <button class="btn-header-tool hide-mobile" onclick="printModalRecipe()" title="Print Recipe Card">
+            <span>🖨️</span> Print
           </button>
-          <button class="modal-close-btn" onclick="closeRecipeModal()">✕</button>
+          <button class="modal-close-btn" onclick="closeRecipeModal()" aria-label="Close">✕</button>
         </div>
       </div>
 
@@ -423,48 +444,48 @@
         <!-- Hero Section inside Modal -->
         <div class="recipe-hero-grid">
           <div class="recipe-modal-image-wrap">
-            <img id="modalDishImg" src="images/indus_dragon_chicken.jpg" alt="Dish Photo">
+            <img id="modalDishImg" src="images/indus_dragon_chicken.jpg" alt="Dish Photo" loading="lazy">
           </div>
           <div class="recipe-modal-meta-box">
             <div>
               <h2 class="modal-dish-title" id="modalDishMainHeading">Indus Dragon Chicken</h2>
-              <p style="font-size:13px; color:var(--text-muted);" id="modalDishDesc">
+              <p style="font-size:12px; color:var(--text-muted);" id="modalDishDesc">
                 Crispy chicken tossed in roasted chilies, cashews, and fiery glaze.
               </p>
             </div>
 
             <div class="modal-spec-grid">
               <div class="spec-cell">
-                <div class="lbl">Menu Selling Price</div>
+                <div class="lbl">Menu Price</div>
                 <div class="val" id="modalSellingPrice" style="color:var(--red);">₹349.00</div>
               </div>
               <div class="spec-cell">
-                <div class="lbl">Raw Food Cost (BOM)</div>
+                <div class="lbl">Raw Food Cost</div>
                 <div class="val val-green" id="modalRawCost">₹84.50 (24.2%)</div>
               </div>
               <div class="spec-cell">
                 <div class="lbl">Prep / Cook Time</div>
-                <div class="val" id="modalTimeSpec">5 mins / 3 mins</div>
+                <div class="val" id="modalTimeSpec">5m / 2.5m</div>
               </div>
               <div class="spec-cell">
                 <div class="lbl">Wok Flame & Heat</div>
-                <div class="val" id="modalFlameSpec">High (Wok Hei 400°C)</div>
+                <div class="val" id="modalFlameSpec">High (Wok Hei)</div>
               </div>
             </div>
           </div>
         </div>
 
-        <!-- Portion Scaler Bar -->
+        <!-- Touch-Friendly Portion Scaler Bar -->
         <div class="portion-scaler-bar">
           <div class="scaler-label">
-            <span>⚖️ SCALE RECIPE BATCH QUANTITY:</span>
-            <span id="scalerCurrentPortion" style="font-weight:900; margin-left:6px;">1 Single Order (Standard)</span>
+            <span>⚖️ BATCH PORTION SCALE:</span>
+            <span id="scalerCurrentPortion" style="font-weight:900; margin-left:4px;">1x Single Order</span>
           </div>
           <div class="scaler-btns">
-            <button class="scaler-btn active" id="btnScale1" onclick="scaleRecipe(1)">1x (Single)</button>
-            <button class="scaler-btn" id="btnScale2" onclick="scaleRecipe(2)">2x (Double)</button>
-            <button class="scaler-btn" id="btnScale5" onclick="scaleRecipe(5)">5x (Rush Batch)</button>
-            <button class="scaler-btn" id="btnScale10" onclick="scaleRecipe(10)">10x (Catering)</button>
+            <button class="scaler-btn active" id="btnScale1" onclick="scaleRecipe(1)">1x Single</button>
+            <button class="scaler-btn" id="btnScale2" onclick="scaleRecipe(2)">2x Double</button>
+            <button class="scaler-btn" id="btnScale5" onclick="scaleRecipe(5)">5x Rush</button>
+            <button class="scaler-btn" id="btnScale10" onclick="scaleRecipe(10)">10x Party</button>
           </div>
         </div>
 
@@ -475,7 +496,7 @@
             <div class="modal-section-title">
               <span>🔪</span> Raw Ingredients & Measured Quantities
             </div>
-            <div class="ing-list-box" style="margin-bottom: 20px;">
+            <div class="ing-list-box" style="margin-bottom: 14px;">
               <ul class="ing-ul" id="modalIngredientsList">
                 <!-- Injected dynamically -->
               </ul>
@@ -492,7 +513,7 @@
           <!-- Right Column: Step-by-Step Cooking Sequence -->
           <div>
             <div class="modal-section-title">
-              <span>🔥</span> Step-by-Step Wok Cooking Sequence
+              <span>🔥</span> Step-by-Step Wok Sequence
             </div>
             <div class="method-steps-box">
               <ol class="steps-ol" id="modalCookingSteps">
@@ -500,16 +521,16 @@
               </ol>
             </div>
 
-            <div style="margin-top: 20px; background: var(--bg-main); padding: 14px; border-radius: var(--radius-md); border: 1px solid var(--border-light);">
-              <h4 style="font-size: 13px; font-weight: 800; color: var(--gold); margin-bottom: 4px;">🍽️ Plating & Garnish Standard</h4>
-              <p style="font-size: 12.5px; color: var(--text-main);" id="modalPlatingText">
+            <div style="margin-top: 14px; background: var(--bg-main); padding: 12px; border-radius: var(--radius-md); border: 1px solid var(--border-light);">
+              <h4 style="font-size: 12px; font-weight: 800; color: var(--gold); margin-bottom: 3px;">🍽️ Plating & Garnish Standard</h4>
+              <p style="font-size: 12px; color: var(--text-main);" id="modalPlatingText">
                 Serve on heated black slate platter with toasted sesame and spring onion curls.
               </p>
             </div>
 
-            <div style="margin-top: 14px; background: var(--red-light); padding: 14px; border-radius: var(--radius-md); border: 1px solid #fecdd3;">
-              <h4 style="font-size: 13px; font-weight: 800; color: var(--red); margin-bottom: 4px;">👨‍🍳 Chef's Golden Secret & Pitfall Warning</h4>
-              <p style="font-size: 12.5px; color: #9f1239;" id="modalChefTipText">
+            <div style="margin-top: 10px; background: var(--red-light); padding: 12px; border-radius: var(--radius-md); border: 1px solid #fecdd3;">
+              <h4 style="font-size: 12px; font-weight: 800; color: var(--red); margin-bottom: 3px;">👨‍🍳 Chef's Golden Tip</h4>
+              <p style="font-size: 11.5px; color: #9f1239;" id="modalChefTipText">
                 Never let chicken linger in sauce off heat; 20-second high-flame toss right before dispatch guarantees zero sogging.
               </p>
             </div>
@@ -518,19 +539,16 @@
       </div>
 
       <div class="modal-footer-bar">
-        <div style="display:flex; align-items:center; gap:8px;">
-          <button class="btn-header-tool" onclick="navigateRecipe(-1)" title="Previous Recipe">
-            <span>←</span> Prev Dish
+        <div style="display:flex; align-items:center; gap:6px; flex:1;">
+          <button class="btn-header-tool" style="flex:1; justify-content:center;" onclick="navigateRecipe(-1)" title="Previous Recipe">
+            <span>←</span> Prev
           </button>
-          <button class="btn-header-tool" onclick="navigateRecipe(1)" title="Next Recipe">
-            Next Dish <span>→</span>
+          <button class="btn-header-tool" style="flex:1; justify-content:center;" onclick="navigateRecipe(1)" title="Next Recipe">
+            Next <span>→</span>
           </button>
         </div>
-        <div style="font-size: 12px; color: var(--text-muted);">
-          Indus Wok Restaurant Culinary Bible • Recipe ID: <strong id="modalRecipeId">#mmsz01</strong>
-        </div>
-        <button class="btn-header-tool active" onclick="closeRecipeModal()">
-          Done Reading
+        <button class="btn-header-tool active" style="min-width:70px; justify-content:center;" onclick="closeRecipeModal()">
+          Done
         </button>
       </div>
     </div>

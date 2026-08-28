@@ -1,5 +1,6 @@
 /* ==========================================================================
    INDUS WOK RESTAURANT BIBLE & CULINARY OPS MANUAL - CONTROLLER LOGIC
+   Mobile-First & Touch-Optimized
    ========================================================================== */
 
 let currentActiveRecipe = null;
@@ -16,6 +17,7 @@ document.addEventListener('DOMContentLoaded', () => {
   renderEmergencySubs();
   renderRecipeCatalog();
   updateCostingSimulation();
+  setupTouchGestures();
 
   // Handle URL params if any
   const urlParams = new URLSearchParams(window.location.search);
@@ -28,16 +30,20 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 });
 
-// Tab Switcher
+// Tab Switcher (Synchronizes Desktop Tabs & Mobile Bottom Navigation)
 function switchTab(tabId) {
   document.querySelectorAll('.tab-panel').forEach(panel => panel.classList.remove('active'));
   document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
+  document.querySelectorAll('.mob-nav-item').forEach(btn => btn.classList.remove('active'));
 
   const targetPanel = document.getElementById(`tab-${tabId}`);
   if (targetPanel) targetPanel.classList.add('active');
 
-  const targetBtn = document.querySelector(`.tab-btn[data-tab="${tabId}"]`);
-  if (targetBtn) targetBtn.classList.add('active');
+  const targetDesktopBtn = document.querySelector(`.tab-btn[data-tab="${tabId}"]`);
+  if (targetDesktopBtn) targetDesktopBtn.classList.add('active');
+
+  const targetMobBtn = document.querySelector(`.mob-nav-item[data-tab="${tabId}"]`);
+  if (targetMobBtn) targetMobBtn.classList.add('active');
 
   window.scrollTo({ top: 0, behavior: 'smooth' });
 }
@@ -74,7 +80,7 @@ function renderFlagshipSpecials() {
         
         <div class="finance-pills">
           <div class="fin-pill">
-            <div class="lbl">Raw Food Cost</div>
+            <div class="lbl">Raw Cost</div>
             <div class="val val-red">₹${s.foodCost.toFixed(2)}</div>
           </div>
           <div class="fin-pill">
@@ -82,22 +88,22 @@ function renderFlagshipSpecials() {
             <div class="val val-green">${s.foodCostPct.toFixed(1)}%</div>
           </div>
           <div class="fin-pill">
-            <div class="lbl">Gross Margin</div>
-            <div class="val val-green">₹${s.grossMargin.toFixed(2)} (${s.grossMarginPct.toFixed(1)}%)</div>
+            <div class="lbl">Gross Profit</div>
+            <div class="val val-green">₹${s.grossMargin.toFixed(0)} (${s.grossMarginPct.toFixed(1)}%)</div>
           </div>
         </div>
 
-        <div style="font-size: 12px; color: var(--text-muted); margin-bottom: 12px;">
+        <div style="font-size: 11.5px; color: var(--text-muted); margin-bottom: 10px;">
           <strong>Portion Standard:</strong> ${s.portionSize}
         </div>
 
         <button class="special-expand-btn" onclick="toggleSpecialDetails('${s.id}')">
-          <span id="btnText-${s.id}">🔍 View Full BOM Recipe & Prep Sequence</span>
+          <span id="btnText-${s.id}">🔍 View BOM Costing & Prep Sequence</span>
           <span id="btnIcon-${s.id}">▼</span>
         </button>
 
         <div class="special-details-drawer" id="details-${s.id}">
-          <h4 style="font-size: 13px; font-weight: 800; color: var(--charcoal); margin-bottom: 8px;">
+          <h4 style="font-size: 12.5px; font-weight: 800; color: var(--charcoal); margin-bottom: 6px;">
             📋 Itemized Bill of Materials (BOM) Cost Breakdown
           </h4>
           <div class="bom-table-wrap">
@@ -127,14 +133,14 @@ function renderFlagshipSpecials() {
             </table>
           </div>
 
-          <h4 style="font-size: 13px; font-weight: 800; color: var(--red); margin-bottom: 6px;">
+          <h4 style="font-size: 12.5px; font-weight: 800; color: var(--red); margin-bottom: 4px;">
             🔥 Standardized Wok Prep Sequence
           </h4>
-          <ol class="steps-ol" style="font-size: 12.5px; margin-bottom: 14px;">
+          <ol class="steps-ol" style="font-size: 12px; margin-bottom: 12px;">
             ${s.prepSequence.map(step => `<li>${step}</li>`).join('')}
           </ol>
 
-          <div style="background: var(--gold-light); padding: 10px 12px; border-radius: 8px; border: 1px solid var(--gold-border); font-size: 12px; color: #7b5906;">
+          <div style="background: var(--gold-light); padding: 8px 10px; border-radius: 6px; border: 1px solid var(--gold-border); font-size: 11.5px; color: #7b5906;">
             <strong>⭐ Why This is an Indus Special:</strong> ${s.whySpecial}
           </div>
         </div>
@@ -151,7 +157,7 @@ function toggleSpecialDetails(specialId) {
   if (!drawer) return;
 
   const isOpen = drawer.classList.toggle('open');
-  if (btnText) btnText.textContent = isOpen ? '▲ Hide BOM Costing & Prep Details' : '🔍 View Full BOM Recipe & Prep Sequence';
+  if (btnText) btnText.textContent = isOpen ? '▲ Hide Details' : '🔍 View BOM Costing & Prep Sequence';
   if (btnIcon) btnIcon.textContent = isOpen ? '▲' : '▼';
 }
 
@@ -160,7 +166,7 @@ function toggleSpecialDetails(specialId) {
    ========================================================================== */
 function filterSauces(category) {
   document.querySelectorAll('#sauceCategoryFilters .sauce-chip').forEach(chip => chip.classList.remove('active'));
-  event.target.classList.add('active');
+  if (event && event.target) event.target.classList.add('active');
   renderMotherSauces(category);
 }
 
@@ -176,7 +182,7 @@ function renderMotherSauces(filterCat) {
       <div class="sauce-header">
         <div class="sauce-title-box">
           <h3>${sauce.name}</h3>
-          <div style="font-size: 13px; color: var(--text-muted);">${sauce.description}</div>
+          <div style="font-size: 12px; color: var(--text-muted);">${sauce.description}</div>
         </div>
         <div class="sauce-badges">
           <span class="badge-tag badge-gold">Yield: ${sauce.yield}</span>
@@ -209,14 +215,14 @@ function renderMotherSauces(filterCat) {
       </div>
 
       <div class="sauce-emergency-alert">
-        <span style="font-size: 20px;">⚡</span>
+        <span style="font-size: 18px;">⚡</span>
         <div>
           <strong>60-Second Kitchen Emergency Substitute:</strong>
           <div>${sauce.emergencySub}</div>
         </div>
       </div>
 
-      <div style="margin-top: 12px; display: flex; justify-content: space-between; flex-wrap: wrap; gap: 8px; font-size: 11.5px; color: var(--text-muted); padding-top: 10px; border-top: 1px solid var(--border-light);">
+      <div style="margin-top: 10px; display: flex; justify-content: space-between; flex-wrap: wrap; gap: 6px; font-size: 11px; color: var(--text-muted); padding-top: 8px; border-top: 1px solid var(--border-light);">
         <span><strong>🧊 Storage & HACCP:</strong> ${sauce.shelfLife}</span>
         <span><strong>🔬 Quality KPI:</strong> ${sauce.qualityChecks}</span>
       </div>
@@ -238,19 +244,19 @@ function renderMisaModules() {
       <div class="misa-mod-header">
         <div class="misa-mod-icon">${mod.icon}</div>
         <div class="misa-mod-title">
-          <span class="badge-tag badge-gold" style="font-size: 10px; text-transform: uppercase;">${mod.badge}</span>
+          <span class="badge-tag badge-gold" style="font-size: 9.5px; text-transform: uppercase;">${mod.badge}</span>
           <h3>${mod.title}</h3>
         </div>
       </div>
-      <p style="font-size: 13px; color: var(--text-muted); margin-bottom: 14px;">${mod.description}</p>
+      <p style="font-size: 12.5px; color: var(--text-muted); margin-bottom: 12px;">${mod.description}</p>
 
       <div class="misa-sub-list">
         ${mod.standards ? mod.standards.map(st => `
           <div class="misa-sub-item">
             <h5>${st.cutName}</h5>
-            <div style="font-size: 11.5px; color: var(--gold); font-weight: 700; margin-bottom: 4px;">Target: ${st.targetDishes}</div>
+            <div style="font-size: 11px; color: var(--gold); font-weight: 700; margin-bottom: 3px;">Target: ${st.targetDishes}</div>
             <p><strong>Dimension & Spec:</strong> ${st.specs}</p>
-            <p style="font-size: 11.5px; color: var(--text-muted); margin-top: 2px;"><em>Why it matters:</em> ${st.importance}</p>
+            <p style="font-size: 11px; color: var(--text-muted); margin-top: 2px;"><em>Why it matters:</em> ${st.importance}</p>
           </div>
         `).join('') : ''}
 
@@ -275,7 +281,7 @@ function renderMisaModules() {
 
         ${mod.checklist ? `
           <div class="misa-sub-item">
-            <ul style="padding-left: 18px; font-size: 12.5px; display: flex; flex-direction: column; gap: 6px;">
+            <ul style="padding-left: 16px; font-size: 12px; display: flex; flex-direction: column; gap: 5px;">
               ${mod.checklist.map(ch => `<li>${ch}</li>`).join('')}
             </ul>
           </div>
@@ -314,6 +320,19 @@ function filterProtein(protein) {
 }
 
 function handleRecipeSearch() {
+  const input = document.getElementById('recipeSearchInput');
+  const clearBtn = document.getElementById('btnSearchClear');
+  if (clearBtn) {
+    clearBtn.style.display = input.value.trim().length > 0 ? 'flex' : 'none';
+  }
+  renderRecipeCatalog();
+}
+
+function clearRecipeSearch() {
+  const input = document.getElementById('recipeSearchInput');
+  if (input) input.value = '';
+  const clearBtn = document.getElementById('btnSearchClear');
+  if (clearBtn) clearBtn.style.display = 'none';
   renderRecipeCatalog();
 }
 
@@ -352,16 +371,16 @@ function renderRecipeCatalog() {
   });
 
   if (countDisplay) {
-    countDisplay.textContent = `Showing ${filtered.length} of ${allRecipes.length} recipes`;
+    countDisplay.textContent = `${filtered.length} of ${allRecipes.length} dishes`;
   }
 
   if (filtered.length === 0) {
     container.innerHTML = `
-      <div style="grid-column: 1 / -1; text-align: center; padding: 60px 20px; background: var(--bg-card); border-radius: var(--radius-md); border: 1px dashed var(--border-line);">
-        <div style="font-size: 36px; margin-bottom: 8px;">🔍</div>
-        <h3 style="color: var(--charcoal); font-size: 16px;">No recipes match your search filters</h3>
-        <p style="color: var(--text-muted); font-size: 13px; margin-top: 4px;">Try searching for "Fried Rice", "Manchurian", "Lollipop", "Hakka", or clear the filters.</p>
-        <button class="cat-filter-btn" style="margin-top: 14px;" onclick="resetRecipeFilters()">Reset All Filters</button>
+      <div style="grid-column: 1 / -1; text-align: center; padding: 40px 16px; background: var(--bg-card); border-radius: var(--radius-md); border: 1px dashed var(--border-line);">
+        <div style="font-size: 32px; margin-bottom: 6px;">🔍</div>
+        <h3 style="color: var(--charcoal); font-size: 15px;">No dishes match your filters</h3>
+        <p style="color: var(--text-muted); font-size: 12px; margin-top: 4px;">Try searching for "Fried Rice", "Manchurian", "Lollipop", or "Hakka".</p>
+        <button class="cat-filter-btn" style="margin-top: 10px;" onclick="resetRecipeFilters()">Reset Filters</button>
       </div>
     `;
     return;
@@ -379,9 +398,8 @@ function renderRecipeCatalog() {
         <h4 class="dish-card-title">${dish.name}</h4>
         
         <div class="dish-meta-pills">
-          <span>⏱️ ${dish.prepTime}</span>
-          <span>🔥 ${dish.cookTime}</span>
-          <span style="color:var(--green); font-weight:700;">₹${dish.costing.rawCost.toFixed(0)} cost</span>
+          <span>⏱️ ${dish.cookTime}</span>
+          <span style="color:var(--green); font-weight:700;">₹${dish.costing.rawCost.toFixed(0)}</span>
         </div>
       </div>
     </div>
@@ -423,7 +441,6 @@ function openRecipeModal(recipeId) {
   document.getElementById('modalRawCost').textContent = `₹${recipe.costing.rawCost.toFixed(2)} (${recipe.costing.foodCostPct}%)`;
   document.getElementById('modalTimeSpec').textContent = `${recipe.prepTime} / ${recipe.cookTime}`;
   document.getElementById('modalFlameSpec').textContent = recipe.wokHeat;
-  document.getElementById('modalRecipeId').textContent = `#${recipe.id}`;
 
   document.getElementById('modalPlatingText').textContent = recipe.plating || 'Serve piping hot in Indus Wok branded presentation tableware with fresh garnish.';
   document.getElementById('modalChefTipText').textContent = recipe.chefTip || 'Maintain extreme wok heat for signature smokiness and preserve vegetable crispness.';
@@ -433,6 +450,13 @@ function openRecipeModal(recipeId) {
   misaList.innerHTML = recipe.misaRequired.map(m => `
     <span class="misa-tag">✓ ${m}</span>
   `).join('');
+
+  // Reset portion scaler buttons
+  document.querySelectorAll('.scaler-btn').forEach(btn => btn.classList.remove('active'));
+  const b1 = document.getElementById('btnScale1');
+  if (b1) b1.classList.add('active');
+  const portionLabel = document.getElementById('scalerCurrentPortion');
+  if (portionLabel) portionLabel.textContent = '1x Single Order';
 
   // Render Scaled Ingredients
   renderScaledIngredients();
@@ -454,10 +478,10 @@ function scaleRecipe(factor) {
 
   const portionLabel = document.getElementById('scalerCurrentPortion');
   if (portionLabel) {
-    if (factor === 1) portionLabel.textContent = '1 Single Order (Standard Portion)';
-    else if (factor === 2) portionLabel.textContent = '2 Orders (Double Batch)';
-    else if (factor === 5) portionLabel.textContent = '5 Orders (Rush Hour Line Batch)';
-    else if (factor === 10) portionLabel.textContent = '10 Orders (Catering / Party Batch)';
+    if (factor === 1) portionLabel.textContent = '1x Single Order';
+    else if (factor === 2) portionLabel.textContent = '2x Double Batch';
+    else if (factor === 5) portionLabel.textContent = '5x Rush Hour Batch';
+    else if (factor === 10) portionLabel.textContent = '10x Catering Batch';
   }
 
   renderScaledIngredients();
@@ -483,7 +507,7 @@ function renderScaledIngredients() {
     return `
       <li>
         <span>${ing.item}</span>
-        <strong style="color:var(--red); font-weight:800;">${scaledQty} <span style="font-size:10.5px; color:var(--text-muted); font-weight:normal;">(₹${scaledCost})</span></strong>
+        <strong style="color:var(--red); font-weight:800;">${scaledQty} <span style="font-size:10px; color:var(--text-muted); font-weight:normal;">(₹${scaledCost})</span></strong>
       </li>
     `;
   }).join('');
@@ -507,17 +531,6 @@ function navigateRecipe(direction) {
   openRecipeModal(recipes[newIndex].id);
 }
 
-// Keyboard shortcuts
-document.addEventListener('keydown', (e) => {
-  const modal = document.getElementById('recipeModalOverlay');
-  if (modal && modal.classList.contains('open')) {
-    if (e.key === 'Escape') closeRecipeModal();
-    if (e.key === 'ArrowLeft') navigateRecipe(-1);
-    if (e.key === 'ArrowRight') navigateRecipe(1);
-  }
-});
-
-
 function handleModalOutsideClick(e) {
   if (e.target.id === 'recipeModalOverlay') {
     closeRecipeModal();
@@ -526,6 +539,47 @@ function handleModalOutsideClick(e) {
 
 function printModalRecipe() {
   window.print();
+}
+
+// Mobile Touch Swipe Gesture Support inside Modal
+function setupTouchGestures() {
+  let touchStartX = 0;
+  let touchEndX = 0;
+  const modalDialog = document.getElementById('recipeModalDialog');
+
+  if (modalDialog) {
+    modalDialog.addEventListener('touchstart', (e) => {
+      touchStartX = e.changedTouches[0].screenX;
+    }, { passive: true });
+
+    modalDialog.addEventListener('touchend', (e) => {
+      touchEndX = e.changedTouches[0].screenX;
+      handleSwipe();
+    }, { passive: true });
+  }
+
+  function handleSwipe() {
+    const diff = touchEndX - touchStartX;
+    if (Math.abs(diff) > 75) {
+      if (diff > 0) {
+        // Swiped Right -> Prev
+        navigateRecipe(-1);
+      } else {
+        // Swiped Left -> Next
+        navigateRecipe(1);
+      }
+    }
+  }
+
+  // Keyboard shortcuts
+  document.addEventListener('keydown', (e) => {
+    const modal = document.getElementById('recipeModalOverlay');
+    if (modal && modal.classList.contains('open')) {
+      if (e.key === 'Escape') closeRecipeModal();
+      if (e.key === 'ArrowLeft') navigateRecipe(-1);
+      if (e.key === 'ArrowRight') navigateRecipe(1);
+    }
+  });
 }
 
 /* ==========================================================================
@@ -538,10 +592,10 @@ function renderEmergencySubs() {
   const subs = window.INDUS_BIBLE.emergencySubs;
 
   container.innerHTML = subs.map(item => `
-    <div style="background: var(--bg-card); border: 1px solid var(--border-line); border-radius: var(--radius-md); padding: 18px; box-shadow: var(--shadow-sm);">
-      <div style="font-size: 11px; font-weight: 800; color: var(--red); text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 4px;">MISSING INGREDIENT:</div>
-      <h4 style="font-size: 16px; font-weight: 800; color: var(--charcoal); margin-bottom: 10px;">${item.missing}</h4>
-      <div style="background: var(--gold-light); padding: 12px; border-radius: 8px; border: 1px solid var(--gold-border); font-size: 13px; color: #7b5906; line-height: 1.5;">
+    <div style="background: var(--bg-card); border: 1px solid var(--border-line); border-radius: var(--radius-md); padding: 14px; box-shadow: var(--shadow-sm);">
+      <div style="font-size: 10px; font-weight: 800; color: var(--red); text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 2px;">MISSING INGREDIENT:</div>
+      <h4 style="font-size: 14.5px; font-weight: 800; color: var(--charcoal); margin-bottom: 8px;">${item.missing}</h4>
+      <div style="background: var(--gold-light); padding: 10px; border-radius: 6px; border: 1px solid var(--gold-border); font-size: 12px; color: #7b5906; line-height: 1.45;">
         <strong>⚡ 60-Sec Chef Fix:</strong> ${item.substitute}
       </div>
     </div>
@@ -568,7 +622,6 @@ function updateCostingSimulation() {
   document.getElementById('valTargetFc').textContent = `${targetFc.toFixed(1)}%`;
 
   // Calculate simulated average food cost %
-  // Model base weights: Chicken dish base ~ ₹65, Rice ~ ₹40, Veg ~ ₹35
   const baseAvgFoodCost = (chickenRate * 0.10) + (paneerRate * 0.04) + (riceRate * 0.08) + (oilRate * 0.03) + packRate + 15.0;
   const avgSellingPrice = 290.0;
   const computedFcPct = (baseAvgFoodCost / avgSellingPrice) * 100;
@@ -585,8 +638,8 @@ function updateCostingSimulation() {
 
   const recBox = document.getElementById('simRecommendationText');
   if (computedFcPct <= targetFc) {
-    recBox.innerHTML = `✅ <strong>Optimal Health:</strong> Your calculated food cost of <strong>${computedFcPct.toFixed(1)}%</strong> meets the target threshold (&le;${targetFc}%). Continue monitoring chicken portion weights on prep scales and preserve day-old rice yields.`;
+    recBox.innerHTML = `✅ <strong>Optimal:</strong> Food cost of <strong>${computedFcPct.toFixed(1)}%</strong> meets target (&le;${targetFc}%). Continue monitoring chicken portion weights on scales.`;
   } else {
-    recBox.innerHTML = `⚠️ <strong>Margin Warning:</strong> Food cost of <strong>${computedFcPct.toFixed(1)}%</strong> exceeds your target (${targetFc}%). Recommended Action: Adjust selling prices upward by ~₹15-20 or review supplier purchasing rates on boneless chicken and cooking oil.`;
+    recBox.innerHTML = `⚠️ <strong>Warning:</strong> Food cost of <strong>${computedFcPct.toFixed(1)}%</strong> exceeds target (${targetFc}%). Recommend adjusting prices upward by ~₹15.`;
   }
 }
