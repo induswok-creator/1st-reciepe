@@ -1947,3 +1947,118 @@ body.kitchen-mode .cut-pitfall-alert {
   border-color: #5c1d27;
   color: #ff94a4;
 }
+
+/* ==========================================================================
+   PRIMARY MOTHER SAUCE BASE CALLOUT STYLES
+   ========================================================================== */
+.modal-sauce-alert-box {
+  background: linear-gradient(135deg, #fff4ec, #fff8f0);
+  border: 2px solid var(--red);
+  border-radius: var(--radius-md);
+  padding: 12px 14px;
+  margin-bottom: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  box-shadow: 0 4px 14px rgba(185, 19, 39, 0.08);
+}
+
+@media(min-width: 640px) {
+  .modal-sauce-alert-box {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 14px 18px;
+  }
+}
+
+body.kitchen-mode .modal-sauce-alert-box {
+  background: linear-gradient(135deg, #241418, #1c1114);
+  border-color: #e11d48;
+}
+
+.modal-sauce-info-left {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+}
+
+.modal-sauce-icon-badge {
+  font-size: 24px;
+  width: 44px;
+  height: 44px;
+  min-width: 44px;
+  background: var(--red);
+  color: #fff;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 10px rgba(185, 19, 39, 0.3);
+}
+
+.modal-sauce-text h4 {
+  font-size: 13.5px;
+  font-weight: 900;
+  color: var(--red);
+  line-height: 1.25;
+}
+
+body.kitchen-mode .modal-sauce-text h4 {
+  color: #fb7185;
+}
+
+.modal-sauce-text p {
+  font-size: 11.5px;
+  color: var(--text-muted);
+  margin-top: 2px;
+}
+
+.btn-jump-sauce {
+  background: var(--red);
+  color: #ffffff;
+  border: none;
+  padding: 8px 14px;
+  border-radius: 8px;
+  font-size: 12px;
+  font-weight: 800;
+  cursor: pointer;
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  transition: all 0.2s;
+  min-height: 36px;
+}
+
+.btn-jump-sauce:hover, .btn-jump-sauce:active {
+  background: var(--red-hover);
+  transform: translateY(-1px);
+}
+
+/* Card Sauce Badge */
+.card-sauce-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  background: #fdf2e9;
+  border: 1px solid #fcd5b5;
+  color: #b45309;
+  font-size: 10px;
+  font-weight: 700;
+  padding: 2px 6px;
+  border-radius: 4px;
+  margin-top: 4px;
+  margin-bottom: 6px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 100%;
+}
+
+body.kitchen-mode .card-sauce-badge {
+  background: #2b1f14;
+  border-color: #5c3b1e;
+  color: #fdba74;
+}

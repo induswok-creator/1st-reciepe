@@ -1406,13 +1406,13 @@ window.INDUS_BIBLE = {
         "cost": 2.5
       },
       {
-        "item": "Indus Seasoned Vegetable / Chicken Broth",
-        "qty": "350ml",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 8.0
       },
       {
-        "item": "Dark Soy, Vinegar, Chili Paste, White Pepper",
-        "qty": "20ml",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 4.0
       },
       {
@@ -1435,7 +1435,7 @@ window.INDUS_BIBLE = {
       "Heat a clean wok over medium-high flame. Add 10ml oil, ginger-garlic mince, and celery. Saut\u00e9 for 20 seconds.",
       "Add finely minced vegetables and protein. Saut\u00e9 30 seconds.",
       "Pour in 350ml seasoned mother broth. Bring to a rolling boil.",
-      "Add dark soy, vinegar, white pepper, and salt. Adjust seasoning to achieve the signature Indus hot-sour-umami profile.",
+      "Add dark soy, vinegar, white pepper, and salt. Adjust seasoning to achieve the signature Indus hot-sour-umami profile. [\u2192 USE: Indus Dark Base + Seasoned Broth Stock (20ml Dark Base + 350ml Broth)]",
       "Stir the cornstarch slurry and slowly pour into the simmering soup while whisking with ladle.",
       "Simmer for 45 seconds until clear, silky, and velvety.",
       "Ladle into soup bowl, top with fresh coriander."
@@ -1448,7 +1448,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 98.4,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Base + Seasoned Broth Stock",
+    "primarySauceQty": "20ml Dark Base + 350ml Broth",
+    "primarySauceStage": "Stage 2 (Broth simmer)"
   },
   {
     "id": "mmszgir1xv4zn",
@@ -1480,13 +1484,13 @@ window.INDUS_BIBLE = {
         "cost": 2.5
       },
       {
-        "item": "Indus Seasoned Vegetable / Chicken Broth",
-        "qty": "350ml",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 8.0
       },
       {
-        "item": "Dark Soy, Vinegar, Chili Paste, White Pepper",
-        "qty": "20ml",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 4.0
       },
       {
@@ -1509,7 +1513,7 @@ window.INDUS_BIBLE = {
       "Heat a clean wok over medium-high flame. Add 10ml oil, ginger-garlic mince, and celery. Saut\u00e9 for 20 seconds.",
       "Add finely minced vegetables and protein. Saut\u00e9 30 seconds.",
       "Pour in 350ml seasoned mother broth. Bring to a rolling boil.",
-      "Add dark soy, vinegar, white pepper, and salt. Adjust seasoning to achieve the signature Indus hot-sour-umami profile.",
+      "Add dark soy, vinegar, white pepper, and salt. Adjust seasoning to achieve the signature Indus hot-sour-umami profile. [\u2192 USE: Indus Dark Base + Seasoned Broth Stock (20ml Dark Base + 350ml Broth)]",
       "Stir the cornstarch slurry and slowly pour into the simmering soup while whisking with ladle.",
       "Simmer for 45 seconds until clear, silky, and velvety.",
       "Ladle into soup bowl, top with fresh coriander."
@@ -1522,7 +1526,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 123.2,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Base + Seasoned Broth Stock",
+    "primarySauceQty": "20ml Dark Base + 350ml Broth",
+    "primarySauceStage": "Stage 2 (Broth simmer)"
   },
   {
     "id": "mmszgir1xiixg",
@@ -1554,13 +1562,13 @@ window.INDUS_BIBLE = {
         "cost": 2.5
       },
       {
-        "item": "Indus Seasoned Vegetable / Chicken Broth",
-        "qty": "350ml",
+        "item": "\u2605 Burnt Garlic & Scallion Oil Infusion (Sauce #05)",
+        "qty": "25ml Oil + 10g Crispy Chips",
         "cost": 8.0
       },
       {
-        "item": "Dark Soy, Vinegar, Chili Paste, White Pepper",
-        "qty": "20ml",
+        "item": "\u2605 Burnt Garlic & Scallion Oil Infusion (Sauce #05)",
+        "qty": "25ml Oil + 10g Crispy Chips",
         "cost": 4.0
       },
       {
@@ -1583,7 +1591,7 @@ window.INDUS_BIBLE = {
       "Heat a clean wok over medium-high flame. Add 10ml oil, ginger-garlic mince, and celery. Saut\u00e9 for 20 seconds.",
       "Add finely minced vegetables and protein. Saut\u00e9 30 seconds.",
       "Pour in 350ml seasoned mother broth. Bring to a rolling boil.",
-      "Add dark soy, vinegar, white pepper, and salt. Adjust seasoning to achieve the signature Indus hot-sour-umami profile.",
+      "Add dark soy, vinegar, white pepper, and salt. Adjust seasoning to achieve the signature Indus hot-sour-umami profile. [\u2192 USE: Burnt Garlic & Scallion Oil Infusion (Sauce #05) (25ml Oil + 10g Crispy Chips)]",
       "Stir the cornstarch slurry and slowly pour into the simmering soup while whisking with ladle.",
       "Simmer for 45 seconds until clear, silky, and velvety.",
       "Ladle into soup bowl, top with fresh coriander."
@@ -1596,7 +1604,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 90.2,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-5",
+    "primarySauceName": "Burnt Garlic & Scallion Oil Infusion (Sauce #05)",
+    "primarySauceQty": "25ml Oil + 10g Crispy Chips",
+    "primarySauceStage": "Stage 1 (Wok start) & Final Garnish"
   },
   {
     "id": "mmszgir1xav9s",
@@ -1628,13 +1640,13 @@ window.INDUS_BIBLE = {
         "cost": 2.5
       },
       {
-        "item": "Indus Seasoned Vegetable / Chicken Broth",
-        "qty": "350ml",
+        "item": "\u2605 Burnt Garlic & Scallion Oil Infusion (Sauce #05)",
+        "qty": "25ml Oil + 10g Crispy Chips",
         "cost": 8.0
       },
       {
-        "item": "Dark Soy, Vinegar, Chili Paste, White Pepper",
-        "qty": "20ml",
+        "item": "\u2605 Burnt Garlic & Scallion Oil Infusion (Sauce #05)",
+        "qty": "25ml Oil + 10g Crispy Chips",
         "cost": 4.0
       },
       {
@@ -1657,7 +1669,7 @@ window.INDUS_BIBLE = {
       "Heat a clean wok over medium-high flame. Add 10ml oil, ginger-garlic mince, and celery. Saut\u00e9 for 20 seconds.",
       "Add finely minced vegetables and protein. Saut\u00e9 30 seconds.",
       "Pour in 350ml seasoned mother broth. Bring to a rolling boil.",
-      "Add dark soy, vinegar, white pepper, and salt. Adjust seasoning to achieve the signature Indus hot-sour-umami profile.",
+      "Add dark soy, vinegar, white pepper, and salt. Adjust seasoning to achieve the signature Indus hot-sour-umami profile. [\u2192 USE: Burnt Garlic & Scallion Oil Infusion (Sauce #05) (25ml Oil + 10g Crispy Chips)]",
       "Stir the cornstarch slurry and slowly pour into the simmering soup while whisking with ladle.",
       "Simmer for 45 seconds until clear, silky, and velvety.",
       "Ladle into soup bowl, top with fresh coriander."
@@ -1670,7 +1682,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 115.5,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-5",
+    "primarySauceName": "Burnt Garlic & Scallion Oil Infusion (Sauce #05)",
+    "primarySauceQty": "25ml Oil + 10g Crispy Chips",
+    "primarySauceStage": "Stage 1 (Wok start) & Final Garnish"
   },
   {
     "id": "mmszgir1xdw3j",
@@ -1702,13 +1718,13 @@ window.INDUS_BIBLE = {
         "cost": 2.5
       },
       {
-        "item": "Indus Seasoned Vegetable / Chicken Broth",
-        "qty": "350ml",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 8.0
       },
       {
-        "item": "Dark Soy, Vinegar, Chili Paste, White Pepper",
-        "qty": "20ml",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 4.0
       },
       {
@@ -1731,7 +1747,7 @@ window.INDUS_BIBLE = {
       "Heat a clean wok over medium-high flame. Add 10ml oil, ginger-garlic mince, and celery. Saut\u00e9 for 20 seconds.",
       "Add finely minced vegetables and protein. Saut\u00e9 30 seconds.",
       "Pour in 350ml seasoned mother broth. Bring to a rolling boil.",
-      "Add dark soy, vinegar, white pepper, and salt. Adjust seasoning to achieve the signature Indus hot-sour-umami profile.",
+      "Add dark soy, vinegar, white pepper, and salt. Adjust seasoning to achieve the signature Indus hot-sour-umami profile. [\u2192 USE: Indus Dark Base + Seasoned Broth Stock (20ml Dark Base + 350ml Broth)]",
       "Stir the cornstarch slurry and slowly pour into the simmering soup while whisking with ladle.",
       "Simmer for 45 seconds until clear, silky, and velvety.",
       "Ladle into soup bowl, top with fresh coriander."
@@ -1744,7 +1760,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 106.6,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Base + Seasoned Broth Stock",
+    "primarySauceQty": "20ml Dark Base + 350ml Broth",
+    "primarySauceStage": "Stage 2 (Broth simmer)"
   },
   {
     "id": "mmszgir1xfows",
@@ -1776,13 +1796,13 @@ window.INDUS_BIBLE = {
         "cost": 2.5
       },
       {
-        "item": "Indus Seasoned Vegetable / Chicken Broth",
-        "qty": "350ml",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 8.0
       },
       {
-        "item": "Dark Soy, Vinegar, Chili Paste, White Pepper",
-        "qty": "20ml",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 4.0
       },
       {
@@ -1805,7 +1825,7 @@ window.INDUS_BIBLE = {
       "Heat a clean wok over medium-high flame. Add 10ml oil, ginger-garlic mince, and celery. Saut\u00e9 for 20 seconds.",
       "Add finely minced vegetables and protein. Saut\u00e9 30 seconds.",
       "Pour in 350ml seasoned mother broth. Bring to a rolling boil.",
-      "Add dark soy, vinegar, white pepper, and salt. Adjust seasoning to achieve the signature Indus hot-sour-umami profile.",
+      "Add dark soy, vinegar, white pepper, and salt. Adjust seasoning to achieve the signature Indus hot-sour-umami profile. [\u2192 USE: Indus Dark Base + Seasoned Broth Stock (20ml Dark Base + 350ml Broth)]",
       "Stir the cornstarch slurry and slowly pour into the simmering soup while whisking with ladle.",
       "Simmer for 45 seconds until clear, silky, and velvety.",
       "Ladle into soup bowl, top with fresh coriander."
@@ -1818,7 +1838,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 115.5,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Base + Seasoned Broth Stock",
+    "primarySauceQty": "20ml Dark Base + 350ml Broth",
+    "primarySauceStage": "Stage 2 (Broth simmer)"
   },
   {
     "id": "mmszgir1xfn3l",
@@ -1850,13 +1874,13 @@ window.INDUS_BIBLE = {
         "cost": 2.5
       },
       {
-        "item": "Indus Seasoned Vegetable / Chicken Broth",
-        "qty": "350ml",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 8.0
       },
       {
-        "item": "Dark Soy, Vinegar, Chili Paste, White Pepper",
-        "qty": "20ml",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 4.0
       },
       {
@@ -1879,7 +1903,7 @@ window.INDUS_BIBLE = {
       "Heat a clean wok over medium-high flame. Add 10ml oil, ginger-garlic mince, and celery. Saut\u00e9 for 20 seconds.",
       "Add finely minced vegetables and protein. Saut\u00e9 30 seconds.",
       "Pour in 350ml seasoned mother broth. Bring to a rolling boil.",
-      "Add dark soy, vinegar, white pepper, and salt. Adjust seasoning to achieve the signature Indus hot-sour-umami profile.",
+      "Add dark soy, vinegar, white pepper, and salt. Adjust seasoning to achieve the signature Indus hot-sour-umami profile. [\u2192 USE: Indus Dark Base + Seasoned Broth Stock (20ml Dark Base + 350ml Broth)]",
       "Stir the cornstarch slurry and slowly pour into the simmering soup while whisking with ladle.",
       "Simmer for 45 seconds until clear, silky, and velvety.",
       "Ladle into soup bowl, top with fresh coriander."
@@ -1892,7 +1916,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 106.6,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Base + Seasoned Broth Stock",
+    "primarySauceQty": "20ml Dark Base + 350ml Broth",
+    "primarySauceStage": "Stage 2 (Broth simmer)"
   },
   {
     "id": "mmszgir1xl53r",
@@ -1924,13 +1952,13 @@ window.INDUS_BIBLE = {
         "cost": 2.5
       },
       {
-        "item": "Indus Seasoned Vegetable / Chicken Broth",
-        "qty": "350ml",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 8.0
       },
       {
-        "item": "Dark Soy, Vinegar, Chili Paste, White Pepper",
-        "qty": "20ml",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 4.0
       },
       {
@@ -1953,7 +1981,7 @@ window.INDUS_BIBLE = {
       "Heat a clean wok over medium-high flame. Add 10ml oil, ginger-garlic mince, and celery. Saut\u00e9 for 20 seconds.",
       "Add finely minced vegetables and protein. Saut\u00e9 30 seconds.",
       "Pour in 350ml seasoned mother broth. Bring to a rolling boil.",
-      "Add dark soy, vinegar, white pepper, and salt. Adjust seasoning to achieve the signature Indus hot-sour-umami profile.",
+      "Add dark soy, vinegar, white pepper, and salt. Adjust seasoning to achieve the signature Indus hot-sour-umami profile. [\u2192 USE: Indus Dark Base + Seasoned Broth Stock (20ml Dark Base + 350ml Broth)]",
       "Stir the cornstarch slurry and slowly pour into the simmering soup while whisking with ladle.",
       "Simmer for 45 seconds until clear, silky, and velvety.",
       "Ladle into soup bowl, top with fresh coriander."
@@ -1966,7 +1994,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 123.2,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Base + Seasoned Broth Stock",
+    "primarySauceQty": "20ml Dark Base + 350ml Broth",
+    "primarySauceStage": "Stage 2 (Broth simmer)"
   },
   {
     "id": "mmszgir1xp6ao",
@@ -1998,13 +2030,13 @@ window.INDUS_BIBLE = {
         "cost": 2.5
       },
       {
-        "item": "Indus Seasoned Vegetable / Chicken Broth",
-        "qty": "350ml",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 8.0
       },
       {
-        "item": "Dark Soy, Vinegar, Chili Paste, White Pepper",
-        "qty": "20ml",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 4.0
       },
       {
@@ -2027,7 +2059,7 @@ window.INDUS_BIBLE = {
       "Heat a clean wok over medium-high flame. Add 10ml oil, ginger-garlic mince, and celery. Saut\u00e9 for 20 seconds.",
       "Add finely minced vegetables and protein. Saut\u00e9 30 seconds.",
       "Pour in 350ml seasoned mother broth. Bring to a rolling boil.",
-      "Add dark soy, vinegar, white pepper, and salt. Adjust seasoning to achieve the signature Indus hot-sour-umami profile.",
+      "Add dark soy, vinegar, white pepper, and salt. Adjust seasoning to achieve the signature Indus hot-sour-umami profile. [\u2192 USE: Indus Dark Base + Seasoned Broth Stock (20ml Dark Base + 350ml Broth)]",
       "Stir the cornstarch slurry and slowly pour into the simmering soup while whisking with ladle.",
       "Simmer for 45 seconds until clear, silky, and velvety.",
       "Ladle into soup bowl, top with fresh coriander."
@@ -2040,7 +2072,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 114.8,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Base + Seasoned Broth Stock",
+    "primarySauceQty": "20ml Dark Base + 350ml Broth",
+    "primarySauceStage": "Stage 2 (Broth simmer)"
   },
   {
     "id": "mmszgir1xfnmw",
@@ -2072,13 +2108,13 @@ window.INDUS_BIBLE = {
         "cost": 2.5
       },
       {
-        "item": "Indus Seasoned Vegetable / Chicken Broth",
-        "qty": "350ml",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 8.0
       },
       {
-        "item": "Dark Soy, Vinegar, Chili Paste, White Pepper",
-        "qty": "20ml",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 4.0
       },
       {
@@ -2101,7 +2137,7 @@ window.INDUS_BIBLE = {
       "Heat a clean wok over medium-high flame. Add 10ml oil, ginger-garlic mince, and celery. Saut\u00e9 for 20 seconds.",
       "Add finely minced vegetables and protein. Saut\u00e9 30 seconds.",
       "Pour in 350ml seasoned mother broth. Bring to a rolling boil.",
-      "Add dark soy, vinegar, white pepper, and salt. Adjust seasoning to achieve the signature Indus hot-sour-umami profile.",
+      "Add dark soy, vinegar, white pepper, and salt. Adjust seasoning to achieve the signature Indus hot-sour-umami profile. [\u2192 USE: Indus Dark Base + Seasoned Broth Stock (20ml Dark Base + 350ml Broth)]",
       "Stir the cornstarch slurry and slowly pour into the simmering soup while whisking with ladle.",
       "Simmer for 45 seconds until clear, silky, and velvety.",
       "Ladle into soup bowl, top with fresh coriander."
@@ -2114,7 +2150,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 138.6,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Base + Seasoned Broth Stock",
+    "primarySauceQty": "20ml Dark Base + 350ml Broth",
+    "primarySauceStage": "Stage 2 (Broth simmer)"
   },
   {
     "id": "mmszgir1xbybu",
@@ -2146,13 +2186,13 @@ window.INDUS_BIBLE = {
         "cost": 2.5
       },
       {
-        "item": "Indus Seasoned Vegetable / Chicken Broth",
-        "qty": "350ml",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 8.0
       },
       {
-        "item": "Dark Soy, Vinegar, Chili Paste, White Pepper",
-        "qty": "20ml",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 4.0
       },
       {
@@ -2175,7 +2215,7 @@ window.INDUS_BIBLE = {
       "Heat a clean wok over medium-high flame. Add 10ml oil, ginger-garlic mince, and celery. Saut\u00e9 for 20 seconds.",
       "Add finely minced vegetables and protein. Saut\u00e9 30 seconds.",
       "Pour in 350ml seasoned mother broth. Bring to a rolling boil.",
-      "Add dark soy, vinegar, white pepper, and salt. Adjust seasoning to achieve the signature Indus hot-sour-umami profile.",
+      "Add dark soy, vinegar, white pepper, and salt. Adjust seasoning to achieve the signature Indus hot-sour-umami profile. [\u2192 USE: Indus Dark Base + Seasoned Broth Stock (20ml Dark Base + 350ml Broth)]",
       "Stir the cornstarch slurry and slowly pour into the simmering soup while whisking with ladle.",
       "Simmer for 45 seconds until clear, silky, and velvety.",
       "Ladle into soup bowl, top with fresh coriander."
@@ -2188,7 +2228,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 98.4,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Base + Seasoned Broth Stock",
+    "primarySauceQty": "20ml Dark Base + 350ml Broth",
+    "primarySauceStage": "Stage 2 (Broth simmer)"
   },
   {
     "id": "mmszgir1xk00s",
@@ -2220,13 +2264,13 @@ window.INDUS_BIBLE = {
         "cost": 2.5
       },
       {
-        "item": "Indus Seasoned Vegetable / Chicken Broth",
-        "qty": "350ml",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 8.0
       },
       {
-        "item": "Dark Soy, Vinegar, Chili Paste, White Pepper",
-        "qty": "20ml",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 4.0
       },
       {
@@ -2249,7 +2293,7 @@ window.INDUS_BIBLE = {
       "Heat a clean wok over medium-high flame. Add 10ml oil, ginger-garlic mince, and celery. Saut\u00e9 for 20 seconds.",
       "Add finely minced vegetables and protein. Saut\u00e9 30 seconds.",
       "Pour in 350ml seasoned mother broth. Bring to a rolling boil.",
-      "Add dark soy, vinegar, white pepper, and salt. Adjust seasoning to achieve the signature Indus hot-sour-umami profile.",
+      "Add dark soy, vinegar, white pepper, and salt. Adjust seasoning to achieve the signature Indus hot-sour-umami profile. [\u2192 USE: Indus Dark Base + Seasoned Broth Stock (20ml Dark Base + 350ml Broth)]",
       "Stir the cornstarch slurry and slowly pour into the simmering soup while whisking with ladle.",
       "Simmer for 45 seconds until clear, silky, and velvety.",
       "Ladle into soup bowl, top with fresh coriander."
@@ -2262,7 +2306,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 115.5,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Base + Seasoned Broth Stock",
+    "primarySauceQty": "20ml Dark Base + 350ml Broth",
+    "primarySauceStage": "Stage 2 (Broth simmer)"
   },
   {
     "id": "mmszgir1xjzoa",
@@ -2294,13 +2342,13 @@ window.INDUS_BIBLE = {
         "cost": 2.5
       },
       {
-        "item": "Indus Seasoned Vegetable / Chicken Broth",
-        "qty": "350ml",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 8.0
       },
       {
-        "item": "Dark Soy, Vinegar, Chili Paste, White Pepper",
-        "qty": "20ml",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 4.0
       },
       {
@@ -2323,7 +2371,7 @@ window.INDUS_BIBLE = {
       "Heat a clean wok over medium-high flame. Add 10ml oil, ginger-garlic mince, and celery. Saut\u00e9 for 20 seconds.",
       "Add finely minced vegetables and protein. Saut\u00e9 30 seconds.",
       "Pour in 350ml seasoned mother broth. Bring to a rolling boil.",
-      "Add dark soy, vinegar, white pepper, and salt. Adjust seasoning to achieve the signature Indus hot-sour-umami profile.",
+      "Add dark soy, vinegar, white pepper, and salt. Adjust seasoning to achieve the signature Indus hot-sour-umami profile. [\u2192 USE: Indus Dark Base + Seasoned Broth Stock (20ml Dark Base + 350ml Broth)]",
       "Stir the cornstarch slurry and slowly pour into the simmering soup while whisking with ladle.",
       "Simmer for 45 seconds until clear, silky, and velvety.",
       "Ladle into soup bowl, top with fresh coriander."
@@ -2336,7 +2384,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 114.8,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Base + Seasoned Broth Stock",
+    "primarySauceQty": "20ml Dark Base + 350ml Broth",
+    "primarySauceStage": "Stage 2 (Broth simmer)"
   },
   {
     "id": "mmszgir1xx2av",
@@ -2368,13 +2420,13 @@ window.INDUS_BIBLE = {
         "cost": 2.5
       },
       {
-        "item": "Indus Seasoned Vegetable / Chicken Broth",
-        "qty": "350ml",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 8.0
       },
       {
-        "item": "Dark Soy, Vinegar, Chili Paste, White Pepper",
-        "qty": "20ml",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 4.0
       },
       {
@@ -2397,7 +2449,7 @@ window.INDUS_BIBLE = {
       "Heat a clean wok over medium-high flame. Add 10ml oil, ginger-garlic mince, and celery. Saut\u00e9 for 20 seconds.",
       "Add finely minced vegetables and protein. Saut\u00e9 30 seconds.",
       "Pour in 350ml seasoned mother broth. Bring to a rolling boil.",
-      "Add dark soy, vinegar, white pepper, and salt. Adjust seasoning to achieve the signature Indus hot-sour-umami profile.",
+      "Add dark soy, vinegar, white pepper, and salt. Adjust seasoning to achieve the signature Indus hot-sour-umami profile. [\u2192 USE: Indus Dark Base + Seasoned Broth Stock (20ml Dark Base + 350ml Broth)]",
       "Stir the cornstarch slurry and slowly pour into the simmering soup while whisking with ladle.",
       "Simmer for 45 seconds until clear, silky, and velvety.",
       "Ladle into soup bowl, top with fresh coriander."
@@ -2410,7 +2462,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 130.9,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Base + Seasoned Broth Stock",
+    "primarySauceQty": "20ml Dark Base + 350ml Broth",
+    "primarySauceStage": "Stage 2 (Broth simmer)"
   },
   {
     "id": "mmszgir1x2sqf",
@@ -2442,13 +2498,13 @@ window.INDUS_BIBLE = {
         "cost": 2.5
       },
       {
-        "item": "Indus Seasoned Vegetable / Chicken Broth",
-        "qty": "350ml",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 8.0
       },
       {
-        "item": "Dark Soy, Vinegar, Chili Paste, White Pepper",
-        "qty": "20ml",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 4.0
       },
       {
@@ -2471,7 +2527,7 @@ window.INDUS_BIBLE = {
       "Heat a clean wok over medium-high flame. Add 10ml oil, ginger-garlic mince, and celery. Saut\u00e9 for 20 seconds.",
       "Add finely minced vegetables and protein. Saut\u00e9 30 seconds.",
       "Pour in 350ml seasoned mother broth. Bring to a rolling boil.",
-      "Add dark soy, vinegar, white pepper, and salt. Adjust seasoning to achieve the signature Indus hot-sour-umami profile.",
+      "Add dark soy, vinegar, white pepper, and salt. Adjust seasoning to achieve the signature Indus hot-sour-umami profile. [\u2192 USE: Indus Dark Base + Seasoned Broth Stock (20ml Dark Base + 350ml Broth)]",
       "Stir the cornstarch slurry and slowly pour into the simmering soup while whisking with ladle.",
       "Simmer for 45 seconds until clear, silky, and velvety.",
       "Ladle into soup bowl, top with fresh coriander."
@@ -2484,7 +2540,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 106.6,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Base + Seasoned Broth Stock",
+    "primarySauceQty": "20ml Dark Base + 350ml Broth",
+    "primarySauceStage": "Stage 2 (Broth simmer)"
   },
   {
     "id": "mmszgir1xb39c",
@@ -2516,13 +2576,13 @@ window.INDUS_BIBLE = {
         "cost": 2.5
       },
       {
-        "item": "Indus Seasoned Vegetable / Chicken Broth",
-        "qty": "350ml",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 8.0
       },
       {
-        "item": "Dark Soy, Vinegar, Chili Paste, White Pepper",
-        "qty": "20ml",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 4.0
       },
       {
@@ -2545,7 +2605,7 @@ window.INDUS_BIBLE = {
       "Heat a clean wok over medium-high flame. Add 10ml oil, ginger-garlic mince, and celery. Saut\u00e9 for 20 seconds.",
       "Add finely minced vegetables and protein. Saut\u00e9 30 seconds.",
       "Pour in 350ml seasoned mother broth. Bring to a rolling boil.",
-      "Add dark soy, vinegar, white pepper, and salt. Adjust seasoning to achieve the signature Indus hot-sour-umami profile.",
+      "Add dark soy, vinegar, white pepper, and salt. Adjust seasoning to achieve the signature Indus hot-sour-umami profile. [\u2192 USE: Indus Dark Base + Seasoned Broth Stock (20ml Dark Base + 350ml Broth)]",
       "Stir the cornstarch slurry and slowly pour into the simmering soup while whisking with ladle.",
       "Simmer for 45 seconds until clear, silky, and velvety.",
       "Ladle into soup bowl, top with fresh coriander."
@@ -2558,7 +2618,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 130.9,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Base + Seasoned Broth Stock",
+    "primarySauceQty": "20ml Dark Base + 350ml Broth",
+    "primarySauceStage": "Stage 2 (Broth simmer)"
   },
   {
     "id": "mmszgir1xsnkj",
@@ -2590,13 +2654,13 @@ window.INDUS_BIBLE = {
         "cost": 2.5
       },
       {
-        "item": "Indus Seasoned Vegetable / Chicken Broth",
-        "qty": "350ml",
+        "item": "\u2605 Thai Curry Paste & Broth Master Base (Sauce #12)",
+        "qty": "50g Paste / 250ml Broth",
         "cost": 8.0
       },
       {
-        "item": "Dark Soy, Vinegar, Chili Paste, White Pepper",
-        "qty": "20ml",
+        "item": "\u2605 Thai Curry Paste & Broth Master Base (Sauce #12)",
+        "qty": "50g Paste / 250ml Broth",
         "cost": 4.0
       },
       {
@@ -2619,7 +2683,7 @@ window.INDUS_BIBLE = {
       "Heat a clean wok over medium-high flame. Add 10ml oil, ginger-garlic mince, and celery. Saut\u00e9 for 20 seconds.",
       "Add finely minced vegetables and protein. Saut\u00e9 30 seconds.",
       "Pour in 350ml seasoned mother broth. Bring to a rolling boil.",
-      "Add dark soy, vinegar, white pepper, and salt. Adjust seasoning to achieve the signature Indus hot-sour-umami profile.",
+      "Add dark soy, vinegar, white pepper, and salt. Adjust seasoning to achieve the signature Indus hot-sour-umami profile. [\u2192 USE: Thai Curry Paste & Broth Master Base (Sauce #12) (50g Paste / 250ml Broth)]",
       "Stir the cornstarch slurry and slowly pour into the simmering soup while whisking with ladle.",
       "Simmer for 45 seconds until clear, silky, and velvety.",
       "Ladle into soup bowl, top with fresh coriander."
@@ -2632,7 +2696,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 123.0,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-12",
+    "primarySauceName": "Thai Curry Paste & Broth Master Base (Sauce #12)",
+    "primarySauceQty": "50g Paste / 250ml Broth",
+    "primarySauceStage": "Stage 2 (Simmer)"
   },
   {
     "id": "mmszgir1xozz9",
@@ -2664,13 +2732,13 @@ window.INDUS_BIBLE = {
         "cost": 2.5
       },
       {
-        "item": "Indus Seasoned Vegetable / Chicken Broth",
-        "qty": "350ml",
+        "item": "\u2605 Thai Curry Paste & Broth Master Base (Sauce #12)",
+        "qty": "50g Paste / 250ml Broth",
         "cost": 8.0
       },
       {
-        "item": "Dark Soy, Vinegar, Chili Paste, White Pepper",
-        "qty": "20ml",
+        "item": "\u2605 Thai Curry Paste & Broth Master Base (Sauce #12)",
+        "qty": "50g Paste / 250ml Broth",
         "cost": 4.0
       },
       {
@@ -2693,7 +2761,7 @@ window.INDUS_BIBLE = {
       "Heat a clean wok over medium-high flame. Add 10ml oil, ginger-garlic mince, and celery. Saut\u00e9 for 20 seconds.",
       "Add finely minced vegetables and protein. Saut\u00e9 30 seconds.",
       "Pour in 350ml seasoned mother broth. Bring to a rolling boil.",
-      "Add dark soy, vinegar, white pepper, and salt. Adjust seasoning to achieve the signature Indus hot-sour-umami profile.",
+      "Add dark soy, vinegar, white pepper, and salt. Adjust seasoning to achieve the signature Indus hot-sour-umami profile. [\u2192 USE: Thai Curry Paste & Broth Master Base (Sauce #12) (50g Paste / 250ml Broth)]",
       "Stir the cornstarch slurry and slowly pour into the simmering soup while whisking with ladle.",
       "Simmer for 45 seconds until clear, silky, and velvety.",
       "Ladle into soup bowl, top with fresh coriander."
@@ -2706,7 +2774,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 161.7,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-12",
+    "primarySauceName": "Thai Curry Paste & Broth Master Base (Sauce #12)",
+    "primarySauceQty": "50g Paste / 250ml Broth",
+    "primarySauceStage": "Stage 2 (Simmer)"
   },
   {
     "id": "mmszgir1x3d05",
@@ -2733,8 +2805,8 @@ window.INDUS_BIBLE = {
         "cost": 8.0
       },
       {
-        "item": "Indus Signature Seasoning & Sauce Blend",
-        "qty": "30ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -2756,7 +2828,7 @@ window.INDUS_BIBLE = {
     "steps": [
       "Heat wok until smoking hot.",
       "Add oil, aromatics, and protein. Flash stir fry over high flame.",
-      "Add sauces, broth, and seasonings.",
+      "Add sauces, broth, and seasonings. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze)]",
       "Toss vigorously until glazed and fully incorporated.",
       "Garnish and serve piping hot."
     ],
@@ -2768,7 +2840,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 269.5,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1yi7c8",
@@ -2795,8 +2871,8 @@ window.INDUS_BIBLE = {
         "cost": 8.0
       },
       {
-        "item": "Indus Signature Seasoning & Sauce Blend",
-        "qty": "30ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -2818,7 +2894,7 @@ window.INDUS_BIBLE = {
     "steps": [
       "Heat wok until smoking hot.",
       "Add oil, aromatics, and protein. Flash stir fry over high flame.",
-      "Add sauces, broth, and seasonings.",
+      "Add sauces, broth, and seasonings. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze)]",
       "Toss vigorously until glazed and fully incorporated.",
       "Garnish and serve piping hot."
     ],
@@ -2830,7 +2906,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 277.2,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1ykcdr",
@@ -2857,8 +2937,8 @@ window.INDUS_BIBLE = {
         "cost": 8.0
       },
       {
-        "item": "Indus Signature Seasoning & Sauce Blend",
-        "qty": "30ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -2880,7 +2960,7 @@ window.INDUS_BIBLE = {
     "steps": [
       "Heat wok until smoking hot.",
       "Add oil, aromatics, and protein. Flash stir fry over high flame.",
-      "Add sauces, broth, and seasonings.",
+      "Add sauces, broth, and seasonings. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze)]",
       "Toss vigorously until glazed and fully incorporated.",
       "Garnish and serve piping hot."
     ],
@@ -2892,7 +2972,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 292.6,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1yvv6m",
@@ -2919,8 +3003,8 @@ window.INDUS_BIBLE = {
         "cost": 8.0
       },
       {
-        "item": "Indus Signature Seasoning & Sauce Blend",
-        "qty": "30ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -2942,7 +3026,7 @@ window.INDUS_BIBLE = {
     "steps": [
       "Heat wok until smoking hot.",
       "Add oil, aromatics, and protein. Flash stir fry over high flame.",
-      "Add sauces, broth, and seasonings.",
+      "Add sauces, broth, and seasonings. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze)]",
       "Toss vigorously until glazed and fully incorporated.",
       "Garnish and serve piping hot."
     ],
@@ -2954,7 +3038,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 346.5,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1yxvur",
@@ -2981,8 +3069,8 @@ window.INDUS_BIBLE = {
         "cost": 8.0
       },
       {
-        "item": "Indus Signature Seasoning & Sauce Blend",
-        "qty": "30ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -3004,7 +3092,7 @@ window.INDUS_BIBLE = {
     "steps": [
       "Heat wok until smoking hot.",
       "Add oil, aromatics, and protein. Flash stir fry over high flame.",
-      "Add sauces, broth, and seasonings.",
+      "Add sauces, broth, and seasonings. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze)]",
       "Toss vigorously until glazed and fully incorporated.",
       "Garnish and serve piping hot."
     ],
@@ -3016,7 +3104,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 423.5,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1y5kku",
@@ -3043,8 +3135,8 @@ window.INDUS_BIBLE = {
         "cost": 8.0
       },
       {
-        "item": "Indus Signature Seasoning & Sauce Blend",
-        "qty": "30ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -3066,7 +3158,7 @@ window.INDUS_BIBLE = {
     "steps": [
       "Heat wok until smoking hot.",
       "Add oil, aromatics, and protein. Flash stir fry over high flame.",
-      "Add sauces, broth, and seasonings.",
+      "Add sauces, broth, and seasonings. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze)]",
       "Toss vigorously until glazed and fully incorporated.",
       "Garnish and serve piping hot."
     ],
@@ -3078,7 +3170,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 292.6,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1y4kvu",
@@ -3105,8 +3201,8 @@ window.INDUS_BIBLE = {
         "cost": 8.0
       },
       {
-        "item": "Indus Signature Seasoning & Sauce Blend",
-        "qty": "30ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -3128,7 +3224,7 @@ window.INDUS_BIBLE = {
     "steps": [
       "Heat wok until smoking hot.",
       "Add oil, aromatics, and protein. Flash stir fry over high flame.",
-      "Add sauces, broth, and seasonings.",
+      "Add sauces, broth, and seasonings. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze)]",
       "Toss vigorously until glazed and fully incorporated.",
       "Garnish and serve piping hot."
     ],
@@ -3140,7 +3236,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 323.4,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1yo7jq",
@@ -3167,8 +3267,8 @@ window.INDUS_BIBLE = {
         "cost": 8.0
       },
       {
-        "item": "Indus Signature Seasoning & Sauce Blend",
-        "qty": "30ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -3190,7 +3290,7 @@ window.INDUS_BIBLE = {
     "steps": [
       "Heat wok until smoking hot.",
       "Add oil, aromatics, and protein. Flash stir fry over high flame.",
-      "Add sauces, broth, and seasonings.",
+      "Add sauces, broth, and seasonings. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze)]",
       "Toss vigorously until glazed and fully incorporated.",
       "Garnish and serve piping hot."
     ],
@@ -3202,7 +3302,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 292.6,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1yd4mc",
@@ -3229,8 +3333,8 @@ window.INDUS_BIBLE = {
         "cost": 8.0
       },
       {
-        "item": "Indus Signature Seasoning & Sauce Blend",
-        "qty": "30ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -3252,7 +3356,7 @@ window.INDUS_BIBLE = {
     "steps": [
       "Heat wok until smoking hot.",
       "Add oil, aromatics, and protein. Flash stir fry over high flame.",
-      "Add sauces, broth, and seasonings.",
+      "Add sauces, broth, and seasonings. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze)]",
       "Toss vigorously until glazed and fully incorporated.",
       "Garnish and serve piping hot."
     ],
@@ -3264,7 +3368,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 308.0,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1yttra",
@@ -3291,8 +3399,8 @@ window.INDUS_BIBLE = {
         "cost": 8.0
       },
       {
-        "item": "Indus Signature Seasoning & Sauce Blend",
-        "qty": "30ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -3314,7 +3422,7 @@ window.INDUS_BIBLE = {
     "steps": [
       "Heat wok until smoking hot.",
       "Add oil, aromatics, and protein. Flash stir fry over high flame.",
-      "Add sauces, broth, and seasonings.",
+      "Add sauces, broth, and seasonings. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze)]",
       "Toss vigorously until glazed and fully incorporated.",
       "Garnish and serve piping hot."
     ],
@@ -3326,7 +3434,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 323.4,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1yo1r9",
@@ -3353,8 +3465,8 @@ window.INDUS_BIBLE = {
         "cost": 8.0
       },
       {
-        "item": "Indus Signature Seasoning & Sauce Blend",
-        "qty": "30ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -3376,7 +3488,7 @@ window.INDUS_BIBLE = {
     "steps": [
       "Heat wok until smoking hot.",
       "Add oil, aromatics, and protein. Flash stir fry over high flame.",
-      "Add sauces, broth, and seasonings.",
+      "Add sauces, broth, and seasonings. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze)]",
       "Toss vigorously until glazed and fully incorporated.",
       "Garnish and serve piping hot."
     ],
@@ -3388,7 +3500,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 446.6,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1ykcbq",
@@ -3415,8 +3531,8 @@ window.INDUS_BIBLE = {
         "cost": 8.0
       },
       {
-        "item": "Indus Signature Seasoning & Sauce Blend",
-        "qty": "30ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -3438,7 +3554,7 @@ window.INDUS_BIBLE = {
     "steps": [
       "Heat wok until smoking hot.",
       "Add oil, aromatics, and protein. Flash stir fry over high flame.",
-      "Add sauces, broth, and seasonings.",
+      "Add sauces, broth, and seasonings. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze)]",
       "Toss vigorously until glazed and fully incorporated.",
       "Garnish and serve piping hot."
     ],
@@ -3450,7 +3566,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 269.5,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1y97d8",
@@ -3482,8 +3602,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "Indus Signature Sauce (Schezwan / Hot Garlic / Dragon / Manchurian)",
-        "qty": "40ml",
+        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+        "qty": "40ml Glaze",
         "cost": 9.0
       },
       {
@@ -3511,7 +3631,7 @@ window.INDUS_BIBLE = {
       "STAGE 1: Deep fry the battered protein in 180\u00b0C oil for 2.5 minutes until crisp and golden. Drain on wire rack.",
       "STAGE 2: Heat wok over high flame. Swirl 15ml oil, add minced garlic, ginger, and slit green chillies. Saut\u00e9 15 seconds.",
       "Add diamond-cut onions and capsicum. Flash toss for 20 seconds over high heat so veggies retain snappy crunch.",
-      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze.",
+      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze. [\u2192 USE: Indus Supreme Hot Garlic Master Glaze (Sauce #04) (40ml Glaze)]",
       "Add the hot crispy fried protein into the bubbling glaze. Toss vigorously for 20 seconds so every piece is glossy without becoming soggy.",
       "Kill the flame, toss with chopped spring onion greens."
     ],
@@ -3523,7 +3643,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 169.4,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-4",
+    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+    "primarySauceQty": "40ml Glaze",
+    "primarySauceStage": "Stage 2 (Glaze)"
   },
   {
     "id": "mmszgir1yy3w1",
@@ -3555,8 +3679,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "Indus Signature Sauce (Schezwan / Hot Garlic / Dragon / Manchurian)",
-        "qty": "40ml",
+        "item": "\u2605 Indus Signature Red Schezwan Mother Paste (Sauce #01)",
+        "qty": "45ml (1.5 Ladles)",
         "cost": 9.0
       },
       {
@@ -3584,7 +3708,7 @@ window.INDUS_BIBLE = {
       "STAGE 1: Deep fry the battered protein in 180\u00b0C oil for 2.5 minutes until crisp and golden. Drain on wire rack.",
       "STAGE 2: Heat wok over high flame. Swirl 15ml oil, add minced garlic, ginger, and slit green chillies. Saut\u00e9 15 seconds.",
       "Add diamond-cut onions and capsicum. Flash toss for 20 seconds over high heat so veggies retain snappy crunch.",
-      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze.",
+      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze. [\u2192 USE: Indus Signature Red Schezwan Mother Paste (Sauce #01) (45ml (1.5 Ladles))]",
       "Add the hot crispy fried protein into the bubbling glaze. Toss vigorously for 20 seconds so every piece is glossy without becoming soggy.",
       "Kill the flame, toss with chopped spring onion greens."
     ],
@@ -3596,7 +3720,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 192.5,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-1",
+    "primarySauceName": "Indus Signature Red Schezwan Mother Paste (Sauce #01)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Saut\u00e9 after aromatics)"
   },
   {
     "id": "mmszgir1yg3s7",
@@ -3628,8 +3756,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "Indus Signature Sauce (Schezwan / Hot Garlic / Dragon / Manchurian)",
-        "qty": "40ml",
+        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+        "qty": "40ml (1.5 Ladles)",
         "cost": 9.0
       },
       {
@@ -3657,7 +3785,7 @@ window.INDUS_BIBLE = {
       "STAGE 1: Deep fry the battered protein in 180\u00b0C oil for 2.5 minutes until crisp and golden. Drain on wire rack.",
       "STAGE 2: Heat wok over high flame. Swirl 15ml oil, add minced garlic, ginger, and slit green chillies. Saut\u00e9 15 seconds.",
       "Add diamond-cut onions and capsicum. Flash toss for 20 seconds over high heat so veggies retain snappy crunch.",
-      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze.",
+      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze. [\u2192 USE: Indus Supreme Hot Garlic Master Glaze (Sauce #04) (40ml (1.5 Ladles))]",
       "Add the hot crispy fried protein into the bubbling glaze. Toss vigorously for 20 seconds so every piece is glossy without becoming soggy.",
       "Kill the flame, toss with chopped spring onion greens."
     ],
@@ -3669,7 +3797,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 215.6,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-4",
+    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+    "primarySauceQty": "40ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Glaze reduction)"
   },
   {
     "id": "mmszgir1yh1gi",
@@ -3701,8 +3833,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "Indus Signature Sauce (Schezwan / Hot Garlic / Dragon / Manchurian)",
-        "qty": "40ml",
+        "item": "\u2605 Indus Dark Base + Green Chilli Puree Blend (Sauce #02 & #11)",
+        "qty": "35ml Saut\u00e9 Glaze",
         "cost": 9.0
       },
       {
@@ -3730,7 +3862,7 @@ window.INDUS_BIBLE = {
       "STAGE 1: Deep fry the battered protein in 180\u00b0C oil for 2.5 minutes until crisp and golden. Drain on wire rack.",
       "STAGE 2: Heat wok over high flame. Swirl 15ml oil, add minced garlic, ginger, and slit green chillies. Saut\u00e9 15 seconds.",
       "Add diamond-cut onions and capsicum. Flash toss for 20 seconds over high heat so veggies retain snappy crunch.",
-      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze.",
+      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze. [\u2192 USE: Indus Dark Base + Green Chilli Puree Blend (Sauce #02 & #11) (35ml Saut\u00e9 Glaze)]",
       "Add the hot crispy fried protein into the bubbling glaze. Toss vigorously for 20 seconds so every piece is glossy without becoming soggy.",
       "Kill the flame, toss with chopped spring onion greens."
     ],
@@ -3742,7 +3874,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 303.4,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Base + Green Chilli Puree Blend (Sauce #02 & #11)",
+    "primarySauceQty": "35ml Saut\u00e9 Glaze",
+    "primarySauceStage": "Stage 2 (Glaze)"
   },
   {
     "id": "mmszgir1y7ez2",
@@ -3774,8 +3910,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "Indus Signature Sauce (Schezwan / Hot Garlic / Dragon / Manchurian)",
-        "qty": "40ml",
+        "item": "\u2605 Indus Dark Base + Green Chilli Puree Blend (Sauce #02 & #11)",
+        "qty": "35ml Saut\u00e9 Glaze",
         "cost": 9.0
       },
       {
@@ -3803,7 +3939,7 @@ window.INDUS_BIBLE = {
       "STAGE 1: Deep fry the battered protein in 180\u00b0C oil for 2.5 minutes until crisp and golden. Drain on wire rack.",
       "STAGE 2: Heat wok over high flame. Swirl 15ml oil, add minced garlic, ginger, and slit green chillies. Saut\u00e9 15 seconds.",
       "Add diamond-cut onions and capsicum. Flash toss for 20 seconds over high heat so veggies retain snappy crunch.",
-      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze.",
+      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze. [\u2192 USE: Indus Dark Base + Green Chilli Puree Blend (Sauce #02 & #11) (35ml Saut\u00e9 Glaze)]",
       "Add the hot crispy fried protein into the bubbling glaze. Toss vigorously for 20 seconds so every piece is glossy without becoming soggy.",
       "Kill the flame, toss with chopped spring onion greens."
     ],
@@ -3815,7 +3951,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 335.4,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Base + Green Chilli Puree Blend (Sauce #02 & #11)",
+    "primarySauceQty": "35ml Saut\u00e9 Glaze",
+    "primarySauceStage": "Stage 2 (Glaze)"
   },
   {
     "id": "mmszgir1ysfhw",
@@ -3847,8 +3987,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "Indus Signature Sauce (Schezwan / Hot Garlic / Dragon / Manchurian)",
-        "qty": "40ml",
+        "item": "\u2605 Indus Dark Base + Green Chilli Puree Blend (Sauce #02 & #11)",
+        "qty": "35ml Saut\u00e9 Glaze",
         "cost": 9.0
       },
       {
@@ -3876,7 +4016,7 @@ window.INDUS_BIBLE = {
       "STAGE 1: Deep fry the battered protein in 180\u00b0C oil for 2.5 minutes until crisp and golden. Drain on wire rack.",
       "STAGE 2: Heat wok over high flame. Swirl 15ml oil, add minced garlic, ginger, and slit green chillies. Saut\u00e9 15 seconds.",
       "Add diamond-cut onions and capsicum. Flash toss for 20 seconds over high heat so veggies retain snappy crunch.",
-      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze.",
+      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze. [\u2192 USE: Indus Dark Base + Green Chilli Puree Blend (Sauce #02 & #11) (35ml Saut\u00e9 Glaze)]",
       "Add the hot crispy fried protein into the bubbling glaze. Toss vigorously for 20 seconds so every piece is glossy without becoming soggy.",
       "Kill the flame, toss with chopped spring onion greens."
     ],
@@ -3888,7 +4028,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 300.3,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Base + Green Chilli Puree Blend (Sauce #02 & #11)",
+    "primarySauceQty": "35ml Saut\u00e9 Glaze",
+    "primarySauceStage": "Stage 2 (Glaze)"
   },
   {
     "id": "mmszgir1ycv2h",
@@ -3920,8 +4064,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "Indus Signature Sauce (Schezwan / Hot Garlic / Dragon / Manchurian)",
-        "qty": "40ml",
+        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+        "qty": "40ml Glaze",
         "cost": 9.0
       },
       {
@@ -3949,7 +4093,7 @@ window.INDUS_BIBLE = {
       "STAGE 1: Deep fry the battered protein in 180\u00b0C oil for 2.5 minutes until crisp and golden. Drain on wire rack.",
       "STAGE 2: Heat wok over high flame. Swirl 15ml oil, add minced garlic, ginger, and slit green chillies. Saut\u00e9 15 seconds.",
       "Add diamond-cut onions and capsicum. Flash toss for 20 seconds over high heat so veggies retain snappy crunch.",
-      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze.",
+      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze. [\u2192 USE: Indus Supreme Hot Garlic Master Glaze (Sauce #04) (40ml Glaze)]",
       "Add the hot crispy fried protein into the bubbling glaze. Toss vigorously for 20 seconds so every piece is glossy without becoming soggy.",
       "Kill the flame, toss with chopped spring onion greens."
     ],
@@ -3961,7 +4105,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 287.0,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-4",
+    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+    "primarySauceQty": "40ml Glaze",
+    "primarySauceStage": "Stage 2 (Glaze)"
   },
   {
     "id": "mmszgir1yufli",
@@ -3993,8 +4141,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "Indus Signature Sauce (Schezwan / Hot Garlic / Dragon / Manchurian)",
-        "qty": "40ml",
+        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+        "qty": "40ml Glaze",
         "cost": 9.0
       },
       {
@@ -4022,7 +4170,7 @@ window.INDUS_BIBLE = {
       "STAGE 1: Deep fry the battered protein in 180\u00b0C oil for 2.5 minutes until crisp and golden. Drain on wire rack.",
       "STAGE 2: Heat wok over high flame. Swirl 15ml oil, add minced garlic, ginger, and slit green chillies. Saut\u00e9 15 seconds.",
       "Add diamond-cut onions and capsicum. Flash toss for 20 seconds over high heat so veggies retain snappy crunch.",
-      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze.",
+      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze. [\u2192 USE: Indus Supreme Hot Garlic Master Glaze (Sauce #04) (40ml Glaze)]",
       "Add the hot crispy fried protein into the bubbling glaze. Toss vigorously for 20 seconds so every piece is glossy without becoming soggy.",
       "Kill the flame, toss with chopped spring onion greens."
     ],
@@ -4034,7 +4182,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 312.0,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-4",
+    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+    "primarySauceQty": "40ml Glaze",
+    "primarySauceStage": "Stage 2 (Glaze)"
   },
   {
     "id": "mmszgir1yyo9y",
@@ -4066,8 +4218,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "Indus Signature Sauce (Schezwan / Hot Garlic / Dragon / Manchurian)",
-        "qty": "40ml",
+        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+        "qty": "40ml Glaze",
         "cost": 9.0
       },
       {
@@ -4095,7 +4247,7 @@ window.INDUS_BIBLE = {
       "STAGE 1: Deep fry the battered protein in 180\u00b0C oil for 2.5 minutes until crisp and golden. Drain on wire rack.",
       "STAGE 2: Heat wok over high flame. Swirl 15ml oil, add minced garlic, ginger, and slit green chillies. Saut\u00e9 15 seconds.",
       "Add diamond-cut onions and capsicum. Flash toss for 20 seconds over high heat so veggies retain snappy crunch.",
-      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze.",
+      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze. [\u2192 USE: Indus Supreme Hot Garlic Master Glaze (Sauce #04) (40ml Glaze)]",
       "Add the hot crispy fried protein into the bubbling glaze. Toss vigorously for 20 seconds so every piece is glossy without becoming soggy.",
       "Kill the flame, toss with chopped spring onion greens."
     ],
@@ -4107,7 +4259,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 277.2,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-4",
+    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+    "primarySauceQty": "40ml Glaze",
+    "primarySauceStage": "Stage 2 (Glaze)"
   },
   {
     "id": "mmszgir1yc0cj",
@@ -4139,8 +4295,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "Indus Signature Sauce (Schezwan / Hot Garlic / Dragon / Manchurian)",
-        "qty": "40ml",
+        "item": "\u2605 Sweet & Sour Master Glaze (Sauce #08)",
+        "qty": "50ml (1.5 Ladles)",
         "cost": 9.0
       },
       {
@@ -4168,7 +4324,7 @@ window.INDUS_BIBLE = {
       "STAGE 1: Deep fry the battered protein in 180\u00b0C oil for 2.5 minutes until crisp and golden. Drain on wire rack.",
       "STAGE 2: Heat wok over high flame. Swirl 15ml oil, add minced garlic, ginger, and slit green chillies. Saut\u00e9 15 seconds.",
       "Add diamond-cut onions and capsicum. Flash toss for 20 seconds over high heat so veggies retain snappy crunch.",
-      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze.",
+      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze. [\u2192 USE: Sweet & Sour Master Glaze (Sauce #08) (50ml (1.5 Ladles))]",
       "Add the hot crispy fried protein into the bubbling glaze. Toss vigorously for 20 seconds so every piece is glossy without becoming soggy.",
       "Kill the flame, toss with chopped spring onion greens."
     ],
@@ -4180,7 +4336,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 303.4,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-8",
+    "primarySauceName": "Sweet & Sour Master Glaze (Sauce #08)",
+    "primarySauceQty": "50ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 3 (High-flame toss)"
   },
   {
     "id": "mmszgir1yry34",
@@ -4212,8 +4372,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "Indus Signature Sauce (Schezwan / Hot Garlic / Dragon / Manchurian)",
-        "qty": "40ml",
+        "item": "\u2605 Sweet & Sour Master Glaze (Sauce #08)",
+        "qty": "50ml (1.5 Ladles)",
         "cost": 9.0
       },
       {
@@ -4241,7 +4401,7 @@ window.INDUS_BIBLE = {
       "STAGE 1: Deep fry the battered protein in 180\u00b0C oil for 2.5 minutes until crisp and golden. Drain on wire rack.",
       "STAGE 2: Heat wok over high flame. Swirl 15ml oil, add minced garlic, ginger, and slit green chillies. Saut\u00e9 15 seconds.",
       "Add diamond-cut onions and capsicum. Flash toss for 20 seconds over high heat so veggies retain snappy crunch.",
-      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze.",
+      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze. [\u2192 USE: Sweet & Sour Master Glaze (Sauce #08) (50ml (1.5 Ladles))]",
       "Add the hot crispy fried protein into the bubbling glaze. Toss vigorously for 20 seconds so every piece is glossy without becoming soggy.",
       "Kill the flame, toss with chopped spring onion greens."
     ],
@@ -4253,7 +4413,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 335.4,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-8",
+    "primarySauceName": "Sweet & Sour Master Glaze (Sauce #08)",
+    "primarySauceQty": "50ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 3 (High-flame toss)"
   },
   {
     "id": "mmszgir1yc355",
@@ -4285,8 +4449,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "Indus Signature Sauce (Schezwan / Hot Garlic / Dragon / Manchurian)",
-        "qty": "40ml",
+        "item": "\u2605 Sweet & Sour Master Glaze (Sauce #08)",
+        "qty": "50ml (1.5 Ladles)",
         "cost": 9.0
       },
       {
@@ -4314,7 +4478,7 @@ window.INDUS_BIBLE = {
       "STAGE 1: Deep fry the battered protein in 180\u00b0C oil for 2.5 minutes until crisp and golden. Drain on wire rack.",
       "STAGE 2: Heat wok over high flame. Swirl 15ml oil, add minced garlic, ginger, and slit green chillies. Saut\u00e9 15 seconds.",
       "Add diamond-cut onions and capsicum. Flash toss for 20 seconds over high heat so veggies retain snappy crunch.",
-      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze.",
+      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze. [\u2192 USE: Sweet & Sour Master Glaze (Sauce #08) (50ml (1.5 Ladles))]",
       "Add the hot crispy fried protein into the bubbling glaze. Toss vigorously for 20 seconds so every piece is glossy without becoming soggy.",
       "Kill the flame, toss with chopped spring onion greens."
     ],
@@ -4326,7 +4490,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 300.3,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-8",
+    "primarySauceName": "Sweet & Sour Master Glaze (Sauce #08)",
+    "primarySauceQty": "50ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 3 (High-flame toss)"
   },
   {
     "id": "mmszgir1yma5m",
@@ -4358,8 +4526,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "Indus Signature Sauce (Schezwan / Hot Garlic / Dragon / Manchurian)",
-        "qty": "40ml",
+        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+        "qty": "40ml (1.5 Ladles)",
         "cost": 9.0
       },
       {
@@ -4387,7 +4555,7 @@ window.INDUS_BIBLE = {
       "STAGE 1: Deep fry the battered protein in 180\u00b0C oil for 2.5 minutes until crisp and golden. Drain on wire rack.",
       "STAGE 2: Heat wok over high flame. Swirl 15ml oil, add minced garlic, ginger, and slit green chillies. Saut\u00e9 15 seconds.",
       "Add diamond-cut onions and capsicum. Flash toss for 20 seconds over high heat so veggies retain snappy crunch.",
-      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze.",
+      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze. [\u2192 USE: Indus Supreme Hot Garlic Master Glaze (Sauce #04) (40ml (1.5 Ladles))]",
       "Add the hot crispy fried protein into the bubbling glaze. Toss vigorously for 20 seconds so every piece is glossy without becoming soggy.",
       "Kill the flame, toss with chopped spring onion greens."
     ],
@@ -4399,7 +4567,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 284.9,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-4",
+    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+    "primarySauceQty": "40ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Glaze reduction)"
   },
   {
     "id": "mmszgir1ysfqq",
@@ -4431,8 +4603,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "Indus Signature Sauce (Schezwan / Hot Garlic / Dragon / Manchurian)",
-        "qty": "40ml",
+        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+        "qty": "40ml (1.5 Ladles)",
         "cost": 9.0
       },
       {
@@ -4460,7 +4632,7 @@ window.INDUS_BIBLE = {
       "STAGE 1: Deep fry the battered protein in 180\u00b0C oil for 2.5 minutes until crisp and golden. Drain on wire rack.",
       "STAGE 2: Heat wok over high flame. Swirl 15ml oil, add minced garlic, ginger, and slit green chillies. Saut\u00e9 15 seconds.",
       "Add diamond-cut onions and capsicum. Flash toss for 20 seconds over high heat so veggies retain snappy crunch.",
-      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze.",
+      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze. [\u2192 USE: Indus Supreme Hot Garlic Master Glaze (Sauce #04) (40ml (1.5 Ladles))]",
       "Add the hot crispy fried protein into the bubbling glaze. Toss vigorously for 20 seconds so every piece is glossy without becoming soggy.",
       "Kill the flame, toss with chopped spring onion greens."
     ],
@@ -4472,7 +4644,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 338.8,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-4",
+    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+    "primarySauceQty": "40ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Glaze reduction)"
   },
   {
     "id": "mmszgir1ylmvv",
@@ -4504,8 +4680,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "Indus Signature Sauce (Schezwan / Hot Garlic / Dragon / Manchurian)",
-        "qty": "40ml",
+        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+        "qty": "40ml (1.5 Ladles)",
         "cost": 9.0
       },
       {
@@ -4533,7 +4709,7 @@ window.INDUS_BIBLE = {
       "STAGE 1: Deep fry the battered protein in 180\u00b0C oil for 2.5 minutes until crisp and golden. Drain on wire rack.",
       "STAGE 2: Heat wok over high flame. Swirl 15ml oil, add minced garlic, ginger, and slit green chillies. Saut\u00e9 15 seconds.",
       "Add diamond-cut onions and capsicum. Flash toss for 20 seconds over high heat so veggies retain snappy crunch.",
-      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze.",
+      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze. [\u2192 USE: Indus Supreme Hot Garlic Master Glaze (Sauce #04) (40ml (1.5 Ladles))]",
       "Add the hot crispy fried protein into the bubbling glaze. Toss vigorously for 20 seconds so every piece is glossy without becoming soggy.",
       "Kill the flame, toss with chopped spring onion greens."
     ],
@@ -4545,7 +4721,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 308.0,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-4",
+    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+    "primarySauceQty": "40ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Glaze reduction)"
   },
   {
     "id": "mmszgir1ygbmc",
@@ -4577,8 +4757,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "Indus Signature Sauce (Schezwan / Hot Garlic / Dragon / Manchurian)",
-        "qty": "40ml",
+        "item": "\u2605 Indo-Chinese Manchurian Mother Sauce Base (Sauce #03)",
+        "qty": "60ml (2 Ladles for Dry / 200ml for Gravy)",
         "cost": 9.0
       },
       {
@@ -4606,7 +4786,7 @@ window.INDUS_BIBLE = {
       "STAGE 1: Deep fry the battered protein in 180\u00b0C oil for 2.5 minutes until crisp and golden. Drain on wire rack.",
       "STAGE 2: Heat wok over high flame. Swirl 15ml oil, add minced garlic, ginger, and slit green chillies. Saut\u00e9 15 seconds.",
       "Add diamond-cut onions and capsicum. Flash toss for 20 seconds over high heat so veggies retain snappy crunch.",
-      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze.",
+      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze. [\u2192 USE: Indo-Chinese Manchurian Mother Sauce Base (Sauce #03) (60ml (2 Ladles for Dry / 200ml for Gravy))]",
       "Add the hot crispy fried protein into the bubbling glaze. Toss vigorously for 20 seconds so every piece is glossy without becoming soggy.",
       "Kill the flame, toss with chopped spring onion greens."
     ],
@@ -4618,7 +4798,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 213.2,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-3",
+    "primarySauceName": "Indo-Chinese Manchurian Mother Sauce Base (Sauce #03)",
+    "primarySauceQty": "60ml (2 Ladles for Dry / 200ml for Gravy)",
+    "primarySauceStage": "Stage 3 (Simmer reduction)"
   },
   {
     "id": "mmszgir1ydgv3",
@@ -4650,8 +4834,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "Indus Signature Sauce (Schezwan / Hot Garlic / Dragon / Manchurian)",
-        "qty": "40ml",
+        "item": "\u2605 Indo-Chinese Manchurian Mother Sauce Base (Sauce #03)",
+        "qty": "60ml (2 Ladles for Dry / 200ml for Gravy)",
         "cost": 9.0
       },
       {
@@ -4679,7 +4863,7 @@ window.INDUS_BIBLE = {
       "STAGE 1: Deep fry the battered protein in 180\u00b0C oil for 2.5 minutes until crisp and golden. Drain on wire rack.",
       "STAGE 2: Heat wok over high flame. Swirl 15ml oil, add minced garlic, ginger, and slit green chillies. Saut\u00e9 15 seconds.",
       "Add diamond-cut onions and capsicum. Flash toss for 20 seconds over high heat so veggies retain snappy crunch.",
-      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze.",
+      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze. [\u2192 USE: Indo-Chinese Manchurian Mother Sauce Base (Sauce #03) (60ml (2 Ladles for Dry / 200ml for Gravy))]",
       "Add the hot crispy fried protein into the bubbling glaze. Toss vigorously for 20 seconds so every piece is glossy without becoming soggy.",
       "Kill the flame, toss with chopped spring onion greens."
     ],
@@ -4691,7 +4875,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 288.6,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-3",
+    "primarySauceName": "Indo-Chinese Manchurian Mother Sauce Base (Sauce #03)",
+    "primarySauceQty": "60ml (2 Ladles for Dry / 200ml for Gravy)",
+    "primarySauceStage": "Stage 3 (Simmer reduction)"
   },
   {
     "id": "mmszgir1yveig",
@@ -4723,8 +4911,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "Indus Signature Sauce (Schezwan / Hot Garlic / Dragon / Manchurian)",
-        "qty": "40ml",
+        "item": "\u2605 Indo-Chinese Manchurian Mother Sauce Base (Sauce #03)",
+        "qty": "60ml (2 Ladles for Dry / 200ml for Gravy)",
         "cost": 9.0
       },
       {
@@ -4752,7 +4940,7 @@ window.INDUS_BIBLE = {
       "STAGE 1: Deep fry the battered protein in 180\u00b0C oil for 2.5 minutes until crisp and golden. Drain on wire rack.",
       "STAGE 2: Heat wok over high flame. Swirl 15ml oil, add minced garlic, ginger, and slit green chillies. Saut\u00e9 15 seconds.",
       "Add diamond-cut onions and capsicum. Flash toss for 20 seconds over high heat so veggies retain snappy crunch.",
-      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze.",
+      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze. [\u2192 USE: Indo-Chinese Manchurian Mother Sauce Base (Sauce #03) (60ml (2 Ladles for Dry / 200ml for Gravy))]",
       "Add the hot crispy fried protein into the bubbling glaze. Toss vigorously for 20 seconds so every piece is glossy without becoming soggy.",
       "Kill the flame, toss with chopped spring onion greens."
     ],
@@ -4764,7 +4952,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 254.1,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-3",
+    "primarySauceName": "Indo-Chinese Manchurian Mother Sauce Base (Sauce #03)",
+    "primarySauceQty": "60ml (2 Ladles for Dry / 200ml for Gravy)",
+    "primarySauceStage": "Stage 3 (Simmer reduction)"
   },
   {
     "id": "mmszgir1ytdb6",
@@ -4796,8 +4988,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "Indus Signature Sauce (Schezwan / Hot Garlic / Dragon / Manchurian)",
-        "qty": "40ml",
+        "item": "\u2605 Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+        "qty": "35ml (1 Ladle)",
         "cost": 9.0
       },
       {
@@ -4825,7 +5017,7 @@ window.INDUS_BIBLE = {
       "STAGE 1: Deep fry the battered protein in 180\u00b0C oil for 2.5 minutes until crisp and golden. Drain on wire rack.",
       "STAGE 2: Heat wok over high flame. Swirl 15ml oil, add minced garlic, ginger, and slit green chillies. Saut\u00e9 15 seconds.",
       "Add diamond-cut onions and capsicum. Flash toss for 20 seconds over high heat so veggies retain snappy crunch.",
-      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze.",
+      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze. [\u2192 USE: Artisanal Black Bean & Garlic Sauce (Sauce #07) (35ml (1 Ladle))]",
       "Add the hot crispy fried protein into the bubbling glaze. Toss vigorously for 20 seconds so every piece is glossy without becoming soggy.",
       "Kill the flame, toss with chopped spring onion greens."
     ],
@@ -4837,7 +5029,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 319.8,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-7",
+    "primarySauceName": "Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+    "primarySauceQty": "35ml (1 Ladle)",
+    "primarySauceStage": "Stage 2 (Aromatics deglaze)"
   },
   {
     "id": "mmszgir1yjkh1",
@@ -4869,8 +5065,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "Indus Signature Sauce (Schezwan / Hot Garlic / Dragon / Manchurian)",
-        "qty": "40ml",
+        "item": "\u2605 Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+        "qty": "35ml (1 Ladle)",
         "cost": 9.0
       },
       {
@@ -4898,7 +5094,7 @@ window.INDUS_BIBLE = {
       "STAGE 1: Deep fry the battered protein in 180\u00b0C oil for 2.5 minutes until crisp and golden. Drain on wire rack.",
       "STAGE 2: Heat wok over high flame. Swirl 15ml oil, add minced garlic, ginger, and slit green chillies. Saut\u00e9 15 seconds.",
       "Add diamond-cut onions and capsicum. Flash toss for 20 seconds over high heat so veggies retain snappy crunch.",
-      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze.",
+      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze. [\u2192 USE: Artisanal Black Bean & Garlic Sauce (Sauce #07) (35ml (1 Ladle))]",
       "Add the hot crispy fried protein into the bubbling glaze. Toss vigorously for 20 seconds so every piece is glossy without becoming soggy.",
       "Kill the flame, toss with chopped spring onion greens."
     ],
@@ -4910,7 +5106,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 335.4,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-7",
+    "primarySauceName": "Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+    "primarySauceQty": "35ml (1 Ladle)",
+    "primarySauceStage": "Stage 2 (Aromatics deglaze)"
   },
   {
     "id": "mmszgir1ye852",
@@ -4942,8 +5142,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "Indus Signature Sauce (Schezwan / Hot Garlic / Dragon / Manchurian)",
-        "qty": "40ml",
+        "item": "\u2605 Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+        "qty": "35ml (1 Ladle)",
         "cost": 9.0
       },
       {
@@ -4971,7 +5171,7 @@ window.INDUS_BIBLE = {
       "STAGE 1: Deep fry the battered protein in 180\u00b0C oil for 2.5 minutes until crisp and golden. Drain on wire rack.",
       "STAGE 2: Heat wok over high flame. Swirl 15ml oil, add minced garlic, ginger, and slit green chillies. Saut\u00e9 15 seconds.",
       "Add diamond-cut onions and capsicum. Flash toss for 20 seconds over high heat so veggies retain snappy crunch.",
-      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze.",
+      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze. [\u2192 USE: Artisanal Black Bean & Garlic Sauce (Sauce #07) (35ml (1 Ladle))]",
       "Add the hot crispy fried protein into the bubbling glaze. Toss vigorously for 20 seconds so every piece is glossy without becoming soggy.",
       "Kill the flame, toss with chopped spring onion greens."
     ],
@@ -4983,7 +5183,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 308.0,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-7",
+    "primarySauceName": "Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+    "primarySauceQty": "35ml (1 Ladle)",
+    "primarySauceStage": "Stage 2 (Aromatics deglaze)"
   },
   {
     "id": "mmszgir1y8qci",
@@ -5015,8 +5219,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "Indus Signature Sauce (Schezwan / Hot Garlic / Dragon / Manchurian)",
-        "qty": "40ml",
+        "item": "\u2605 Indus Kung Pao Master Glaze (Sauce #06)",
+        "qty": "40ml (1.5 Ladles)",
         "cost": 9.0
       },
       {
@@ -5044,7 +5248,7 @@ window.INDUS_BIBLE = {
       "STAGE 1: Deep fry the battered protein in 180\u00b0C oil for 2.5 minutes until crisp and golden. Drain on wire rack.",
       "STAGE 2: Heat wok over high flame. Swirl 15ml oil, add minced garlic, ginger, and slit green chillies. Saut\u00e9 15 seconds.",
       "Add diamond-cut onions and capsicum. Flash toss for 20 seconds over high heat so veggies retain snappy crunch.",
-      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze.",
+      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze. [\u2192 USE: Indus Kung Pao Master Glaze (Sauce #06) (40ml (1.5 Ladles))]",
       "Add the hot crispy fried protein into the bubbling glaze. Toss vigorously for 20 seconds so every piece is glossy without becoming soggy.",
       "Kill the flame, toss with chopped spring onion greens."
     ],
@@ -5056,7 +5260,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 287.0,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-6",
+    "primarySauceName": "Indus Kung Pao Master Glaze (Sauce #06)",
+    "primarySauceQty": "40ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Flash glaze)"
   },
   {
     "id": "mmszgir1yeqrf",
@@ -5088,8 +5296,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "Indus Signature Sauce (Schezwan / Hot Garlic / Dragon / Manchurian)",
-        "qty": "40ml",
+        "item": "\u2605 Indus Kung Pao Master Glaze (Sauce #06)",
+        "qty": "40ml (1.5 Ladles)",
         "cost": 9.0
       },
       {
@@ -5117,7 +5325,7 @@ window.INDUS_BIBLE = {
       "STAGE 1: Deep fry the battered protein in 180\u00b0C oil for 2.5 minutes until crisp and golden. Drain on wire rack.",
       "STAGE 2: Heat wok over high flame. Swirl 15ml oil, add minced garlic, ginger, and slit green chillies. Saut\u00e9 15 seconds.",
       "Add diamond-cut onions and capsicum. Flash toss for 20 seconds over high heat so veggies retain snappy crunch.",
-      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze.",
+      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze. [\u2192 USE: Indus Kung Pao Master Glaze (Sauce #06) (40ml (1.5 Ladles))]",
       "Add the hot crispy fried protein into the bubbling glaze. Toss vigorously for 20 seconds so every piece is glossy without becoming soggy.",
       "Kill the flame, toss with chopped spring onion greens."
     ],
@@ -5129,7 +5337,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 312.0,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-6",
+    "primarySauceName": "Indus Kung Pao Master Glaze (Sauce #06)",
+    "primarySauceQty": "40ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Flash glaze)"
   },
   {
     "id": "mmszgir1yka31",
@@ -5161,8 +5373,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "Indus Signature Sauce (Schezwan / Hot Garlic / Dragon / Manchurian)",
-        "qty": "40ml",
+        "item": "\u2605 Indus Kung Pao Master Glaze (Sauce #06)",
+        "qty": "40ml (1.5 Ladles)",
         "cost": 9.0
       },
       {
@@ -5190,7 +5402,7 @@ window.INDUS_BIBLE = {
       "STAGE 1: Deep fry the battered protein in 180\u00b0C oil for 2.5 minutes until crisp and golden. Drain on wire rack.",
       "STAGE 2: Heat wok over high flame. Swirl 15ml oil, add minced garlic, ginger, and slit green chillies. Saut\u00e9 15 seconds.",
       "Add diamond-cut onions and capsicum. Flash toss for 20 seconds over high heat so veggies retain snappy crunch.",
-      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze.",
+      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze. [\u2192 USE: Indus Kung Pao Master Glaze (Sauce #06) (40ml (1.5 Ladles))]",
       "Add the hot crispy fried protein into the bubbling glaze. Toss vigorously for 20 seconds so every piece is glossy without becoming soggy.",
       "Kill the flame, toss with chopped spring onion greens."
     ],
@@ -5202,7 +5414,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 277.2,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-6",
+    "primarySauceName": "Indus Kung Pao Master Glaze (Sauce #06)",
+    "primarySauceQty": "40ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Flash glaze)"
   },
   {
     "id": "mmszgir1ynkh6",
@@ -5234,8 +5450,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "Indus Signature Sauce (Schezwan / Hot Garlic / Dragon / Manchurian)",
-        "qty": "40ml",
+        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+        "qty": "40ml Glaze",
         "cost": 9.0
       },
       {
@@ -5263,7 +5479,7 @@ window.INDUS_BIBLE = {
       "STAGE 1: Deep fry the battered protein in 180\u00b0C oil for 2.5 minutes until crisp and golden. Drain on wire rack.",
       "STAGE 2: Heat wok over high flame. Swirl 15ml oil, add minced garlic, ginger, and slit green chillies. Saut\u00e9 15 seconds.",
       "Add diamond-cut onions and capsicum. Flash toss for 20 seconds over high heat so veggies retain snappy crunch.",
-      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze.",
+      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze. [\u2192 USE: Indus Supreme Hot Garlic Master Glaze (Sauce #04) (40ml Glaze)]",
       "Add the hot crispy fried protein into the bubbling glaze. Toss vigorously for 20 seconds so every piece is glossy without becoming soggy.",
       "Kill the flame, toss with chopped spring onion greens."
     ],
@@ -5275,7 +5491,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 319.8,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-4",
+    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+    "primarySauceQty": "40ml Glaze",
+    "primarySauceStage": "Stage 2 (Glaze)"
   },
   {
     "id": "mmszgir1y2wvq",
@@ -5307,8 +5527,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "Indus Signature Sauce (Schezwan / Hot Garlic / Dragon / Manchurian)",
-        "qty": "40ml",
+        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+        "qty": "40ml Glaze",
         "cost": 9.0
       },
       {
@@ -5336,7 +5556,7 @@ window.INDUS_BIBLE = {
       "STAGE 1: Deep fry the battered protein in 180\u00b0C oil for 2.5 minutes until crisp and golden. Drain on wire rack.",
       "STAGE 2: Heat wok over high flame. Swirl 15ml oil, add minced garlic, ginger, and slit green chillies. Saut\u00e9 15 seconds.",
       "Add diamond-cut onions and capsicum. Flash toss for 20 seconds over high heat so veggies retain snappy crunch.",
-      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze.",
+      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze. [\u2192 USE: Indus Supreme Hot Garlic Master Glaze (Sauce #04) (40ml Glaze)]",
       "Add the hot crispy fried protein into the bubbling glaze. Toss vigorously for 20 seconds so every piece is glossy without becoming soggy.",
       "Kill the flame, toss with chopped spring onion greens."
     ],
@@ -5348,7 +5568,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 343.2,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-4",
+    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+    "primarySauceQty": "40ml Glaze",
+    "primarySauceStage": "Stage 2 (Glaze)"
   },
   {
     "id": "mmszgir1ygl3j",
@@ -5380,8 +5604,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "Indus Signature Sauce (Schezwan / Hot Garlic / Dragon / Manchurian)",
-        "qty": "40ml",
+        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+        "qty": "40ml Glaze",
         "cost": 9.0
       },
       {
@@ -5409,7 +5633,7 @@ window.INDUS_BIBLE = {
       "STAGE 1: Deep fry the battered protein in 180\u00b0C oil for 2.5 minutes until crisp and golden. Drain on wire rack.",
       "STAGE 2: Heat wok over high flame. Swirl 15ml oil, add minced garlic, ginger, and slit green chillies. Saut\u00e9 15 seconds.",
       "Add diamond-cut onions and capsicum. Flash toss for 20 seconds over high heat so veggies retain snappy crunch.",
-      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze.",
+      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze. [\u2192 USE: Indus Supreme Hot Garlic Master Glaze (Sauce #04) (40ml Glaze)]",
       "Add the hot crispy fried protein into the bubbling glaze. Toss vigorously for 20 seconds so every piece is glossy without becoming soggy.",
       "Kill the flame, toss with chopped spring onion greens."
     ],
@@ -5421,7 +5645,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 308.0,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-4",
+    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+    "primarySauceQty": "40ml Glaze",
+    "primarySauceStage": "Stage 2 (Glaze)"
   },
   {
     "id": "mmszgir1yy2wx",
@@ -5453,8 +5681,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "Indus Signature Sauce (Schezwan / Hot Garlic / Dragon / Manchurian)",
-        "qty": "40ml",
+        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+        "qty": "40ml Glaze",
         "cost": 9.0
       },
       {
@@ -5482,7 +5710,7 @@ window.INDUS_BIBLE = {
       "STAGE 1: Deep fry the battered protein in 180\u00b0C oil for 2.5 minutes until crisp and golden. Drain on wire rack.",
       "STAGE 2: Heat wok over high flame. Swirl 15ml oil, add minced garlic, ginger, and slit green chillies. Saut\u00e9 15 seconds.",
       "Add diamond-cut onions and capsicum. Flash toss for 20 seconds over high heat so veggies retain snappy crunch.",
-      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze.",
+      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze. [\u2192 USE: Indus Supreme Hot Garlic Master Glaze (Sauce #04) (40ml Glaze)]",
       "Add the hot crispy fried protein into the bubbling glaze. Toss vigorously for 20 seconds so every piece is glossy without becoming soggy.",
       "Kill the flame, toss with chopped spring onion greens."
     ],
@@ -5494,7 +5722,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 278.8,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-4",
+    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+    "primarySauceQty": "40ml Glaze",
+    "primarySauceStage": "Stage 2 (Glaze)"
   },
   {
     "id": "mmszgir1y1ak3",
@@ -5526,8 +5758,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "Indus Signature Sauce (Schezwan / Hot Garlic / Dragon / Manchurian)",
-        "qty": "40ml",
+        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+        "qty": "40ml Glaze",
         "cost": 9.0
       },
       {
@@ -5555,7 +5787,7 @@ window.INDUS_BIBLE = {
       "STAGE 1: Deep fry the battered protein in 180\u00b0C oil for 2.5 minutes until crisp and golden. Drain on wire rack.",
       "STAGE 2: Heat wok over high flame. Swirl 15ml oil, add minced garlic, ginger, and slit green chillies. Saut\u00e9 15 seconds.",
       "Add diamond-cut onions and capsicum. Flash toss for 20 seconds over high heat so veggies retain snappy crunch.",
-      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze.",
+      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze. [\u2192 USE: Indus Supreme Hot Garlic Master Glaze (Sauce #04) (40ml Glaze)]",
       "Add the hot crispy fried protein into the bubbling glaze. Toss vigorously for 20 seconds so every piece is glossy without becoming soggy.",
       "Kill the flame, toss with chopped spring onion greens."
     ],
@@ -5567,7 +5799,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 312.0,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-4",
+    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+    "primarySauceQty": "40ml Glaze",
+    "primarySauceStage": "Stage 2 (Glaze)"
   },
   {
     "id": "mmszgir1ynaer",
@@ -5599,8 +5835,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "Indus Signature Sauce (Schezwan / Hot Garlic / Dragon / Manchurian)",
-        "qty": "40ml",
+        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+        "qty": "40ml Glaze",
         "cost": 9.0
       },
       {
@@ -5628,7 +5864,7 @@ window.INDUS_BIBLE = {
       "STAGE 1: Deep fry the battered protein in 180\u00b0C oil for 2.5 minutes until crisp and golden. Drain on wire rack.",
       "STAGE 2: Heat wok over high flame. Swirl 15ml oil, add minced garlic, ginger, and slit green chillies. Saut\u00e9 15 seconds.",
       "Add diamond-cut onions and capsicum. Flash toss for 20 seconds over high heat so veggies retain snappy crunch.",
-      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze.",
+      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze. [\u2192 USE: Indus Supreme Hot Garlic Master Glaze (Sauce #04) (40ml Glaze)]",
       "Add the hot crispy fried protein into the bubbling glaze. Toss vigorously for 20 seconds so every piece is glossy without becoming soggy.",
       "Kill the flame, toss with chopped spring onion greens."
     ],
@@ -5640,7 +5876,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 300.3,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-4",
+    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+    "primarySauceQty": "40ml Glaze",
+    "primarySauceStage": "Stage 2 (Glaze)"
   },
   {
     "id": "mmszgir1ywpm5",
@@ -5672,8 +5912,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "Indus Signature Sauce (Schezwan / Hot Garlic / Dragon / Manchurian)",
-        "qty": "40ml",
+        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+        "qty": "40ml Glaze",
         "cost": 9.0
       },
       {
@@ -5701,7 +5941,7 @@ window.INDUS_BIBLE = {
       "STAGE 1: Deep fry the battered protein in 180\u00b0C oil for 2.5 minutes until crisp and golden. Drain on wire rack.",
       "STAGE 2: Heat wok over high flame. Swirl 15ml oil, add minced garlic, ginger, and slit green chillies. Saut\u00e9 15 seconds.",
       "Add diamond-cut onions and capsicum. Flash toss for 20 seconds over high heat so veggies retain snappy crunch.",
-      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze.",
+      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze. [\u2192 USE: Indus Supreme Hot Garlic Master Glaze (Sauce #04) (40ml Glaze)]",
       "Add the hot crispy fried protein into the bubbling glaze. Toss vigorously for 20 seconds so every piece is glossy without becoming soggy.",
       "Kill the flame, toss with chopped spring onion greens."
     ],
@@ -5713,7 +5953,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 295.2,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-4",
+    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+    "primarySauceQty": "40ml Glaze",
+    "primarySauceStage": "Stage 2 (Glaze)"
   },
   {
     "id": "mmszgir1yj0x0",
@@ -5745,8 +5989,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "Indus Signature Sauce (Schezwan / Hot Garlic / Dragon / Manchurian)",
-        "qty": "40ml",
+        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+        "qty": "40ml Glaze",
         "cost": 9.0
       },
       {
@@ -5774,7 +6018,7 @@ window.INDUS_BIBLE = {
       "STAGE 1: Deep fry the battered protein in 180\u00b0C oil for 2.5 minutes until crisp and golden. Drain on wire rack.",
       "STAGE 2: Heat wok over high flame. Swirl 15ml oil, add minced garlic, ginger, and slit green chillies. Saut\u00e9 15 seconds.",
       "Add diamond-cut onions and capsicum. Flash toss for 20 seconds over high heat so veggies retain snappy crunch.",
-      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze.",
+      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze. [\u2192 USE: Indus Supreme Hot Garlic Master Glaze (Sauce #04) (40ml Glaze)]",
       "Add the hot crispy fried protein into the bubbling glaze. Toss vigorously for 20 seconds so every piece is glossy without becoming soggy.",
       "Kill the flame, toss with chopped spring onion greens."
     ],
@@ -5786,7 +6030,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 343.2,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-4",
+    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+    "primarySauceQty": "40ml Glaze",
+    "primarySauceStage": "Stage 2 (Glaze)"
   },
   {
     "id": "mmszgir1ywnu9",
@@ -5818,8 +6066,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "Indus Signature Sauce (Schezwan / Hot Garlic / Dragon / Manchurian)",
-        "qty": "40ml",
+        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+        "qty": "40ml Glaze",
         "cost": 9.0
       },
       {
@@ -5847,7 +6095,7 @@ window.INDUS_BIBLE = {
       "STAGE 1: Deep fry the battered protein in 180\u00b0C oil for 2.5 minutes until crisp and golden. Drain on wire rack.",
       "STAGE 2: Heat wok over high flame. Swirl 15ml oil, add minced garlic, ginger, and slit green chillies. Saut\u00e9 15 seconds.",
       "Add diamond-cut onions and capsicum. Flash toss for 20 seconds over high heat so veggies retain snappy crunch.",
-      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze.",
+      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze. [\u2192 USE: Indus Supreme Hot Garlic Master Glaze (Sauce #04) (40ml Glaze)]",
       "Add the hot crispy fried protein into the bubbling glaze. Toss vigorously for 20 seconds so every piece is glossy without becoming soggy.",
       "Kill the flame, toss with chopped spring onion greens."
     ],
@@ -5859,7 +6107,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 308.0,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-4",
+    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+    "primarySauceQty": "40ml Glaze",
+    "primarySauceStage": "Stage 2 (Glaze)"
   },
   {
     "id": "mmszgir1y1gzz",
@@ -5891,8 +6143,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "Indus Signature Sauce (Schezwan / Hot Garlic / Dragon / Manchurian)",
-        "qty": "40ml",
+        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+        "qty": "40ml Glaze",
         "cost": 9.0
       },
       {
@@ -5920,7 +6172,7 @@ window.INDUS_BIBLE = {
       "STAGE 1: Deep fry the battered protein in 180\u00b0C oil for 2.5 minutes until crisp and golden. Drain on wire rack.",
       "STAGE 2: Heat wok over high flame. Swirl 15ml oil, add minced garlic, ginger, and slit green chillies. Saut\u00e9 15 seconds.",
       "Add diamond-cut onions and capsicum. Flash toss for 20 seconds over high heat so veggies retain snappy crunch.",
-      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze.",
+      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze. [\u2192 USE: Indus Supreme Hot Garlic Master Glaze (Sauce #04) (40ml Glaze)]",
       "Add the hot crispy fried protein into the bubbling glaze. Toss vigorously for 20 seconds so every piece is glossy without becoming soggy.",
       "Kill the flame, toss with chopped spring onion greens."
     ],
@@ -5932,7 +6184,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 295.2,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-4",
+    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+    "primarySauceQty": "40ml Glaze",
+    "primarySauceStage": "Stage 2 (Glaze)"
   },
   {
     "id": "mmszgir1ypwxv",
@@ -5964,8 +6220,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "Indus Signature Sauce (Schezwan / Hot Garlic / Dragon / Manchurian)",
-        "qty": "40ml",
+        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+        "qty": "40ml Glaze",
         "cost": 9.0
       },
       {
@@ -5993,7 +6249,7 @@ window.INDUS_BIBLE = {
       "STAGE 1: Deep fry the battered protein in 180\u00b0C oil for 2.5 minutes until crisp and golden. Drain on wire rack.",
       "STAGE 2: Heat wok over high flame. Swirl 15ml oil, add minced garlic, ginger, and slit green chillies. Saut\u00e9 15 seconds.",
       "Add diamond-cut onions and capsicum. Flash toss for 20 seconds over high heat so veggies retain snappy crunch.",
-      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze.",
+      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze. [\u2192 USE: Indus Supreme Hot Garlic Master Glaze (Sauce #04) (40ml Glaze)]",
       "Add the hot crispy fried protein into the bubbling glaze. Toss vigorously for 20 seconds so every piece is glossy without becoming soggy.",
       "Kill the flame, toss with chopped spring onion greens."
     ],
@@ -6005,7 +6261,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 343.2,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-4",
+    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+    "primarySauceQty": "40ml Glaze",
+    "primarySauceStage": "Stage 2 (Glaze)"
   },
   {
     "id": "mmszgir1yskxf",
@@ -6037,8 +6297,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "Indus Signature Sauce (Schezwan / Hot Garlic / Dragon / Manchurian)",
-        "qty": "40ml",
+        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+        "qty": "40ml Glaze",
         "cost": 9.0
       },
       {
@@ -6066,7 +6326,7 @@ window.INDUS_BIBLE = {
       "STAGE 1: Deep fry the battered protein in 180\u00b0C oil for 2.5 minutes until crisp and golden. Drain on wire rack.",
       "STAGE 2: Heat wok over high flame. Swirl 15ml oil, add minced garlic, ginger, and slit green chillies. Saut\u00e9 15 seconds.",
       "Add diamond-cut onions and capsicum. Flash toss for 20 seconds over high heat so veggies retain snappy crunch.",
-      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze.",
+      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze. [\u2192 USE: Indus Supreme Hot Garlic Master Glaze (Sauce #04) (40ml Glaze)]",
       "Add the hot crispy fried protein into the bubbling glaze. Toss vigorously for 20 seconds so every piece is glossy without becoming soggy.",
       "Kill the flame, toss with chopped spring onion greens."
     ],
@@ -6078,7 +6338,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 308.0,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-4",
+    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+    "primarySauceQty": "40ml Glaze",
+    "primarySauceStage": "Stage 2 (Glaze)"
   },
   {
     "id": "mmszgir1ygk5e",
@@ -6110,8 +6374,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "Indus Signature Sauce (Schezwan / Hot Garlic / Dragon / Manchurian)",
-        "qty": "40ml",
+        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+        "qty": "40ml Glaze",
         "cost": 9.0
       },
       {
@@ -6139,7 +6403,7 @@ window.INDUS_BIBLE = {
       "STAGE 1: Deep fry the battered protein in 180\u00b0C oil for 2.5 minutes until crisp and golden. Drain on wire rack.",
       "STAGE 2: Heat wok over high flame. Swirl 15ml oil, add minced garlic, ginger, and slit green chillies. Saut\u00e9 15 seconds.",
       "Add diamond-cut onions and capsicum. Flash toss for 20 seconds over high heat so veggies retain snappy crunch.",
-      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze.",
+      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze. [\u2192 USE: Indus Supreme Hot Garlic Master Glaze (Sauce #04) (40ml Glaze)]",
       "Add the hot crispy fried protein into the bubbling glaze. Toss vigorously for 20 seconds so every piece is glossy without becoming soggy.",
       "Kill the flame, toss with chopped spring onion greens."
     ],
@@ -6151,7 +6415,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 295.2,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-4",
+    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+    "primarySauceQty": "40ml Glaze",
+    "primarySauceStage": "Stage 2 (Glaze)"
   },
   {
     "id": "mmszgir1yqj7n",
@@ -6183,8 +6451,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "Indus Signature Sauce (Schezwan / Hot Garlic / Dragon / Manchurian)",
-        "qty": "40ml",
+        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+        "qty": "40ml Glaze",
         "cost": 9.0
       },
       {
@@ -6212,7 +6480,7 @@ window.INDUS_BIBLE = {
       "STAGE 1: Deep fry the battered protein in 180\u00b0C oil for 2.5 minutes until crisp and golden. Drain on wire rack.",
       "STAGE 2: Heat wok over high flame. Swirl 15ml oil, add minced garlic, ginger, and slit green chillies. Saut\u00e9 15 seconds.",
       "Add diamond-cut onions and capsicum. Flash toss for 20 seconds over high heat so veggies retain snappy crunch.",
-      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze.",
+      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze. [\u2192 USE: Indus Supreme Hot Garlic Master Glaze (Sauce #04) (40ml Glaze)]",
       "Add the hot crispy fried protein into the bubbling glaze. Toss vigorously for 20 seconds so every piece is glossy without becoming soggy.",
       "Kill the flame, toss with chopped spring onion greens."
     ],
@@ -6224,7 +6492,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 343.2,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-4",
+    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+    "primarySauceQty": "40ml Glaze",
+    "primarySauceStage": "Stage 2 (Glaze)"
   },
   {
     "id": "mmszgir1yas1l",
@@ -6256,8 +6528,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "Indus Signature Sauce (Schezwan / Hot Garlic / Dragon / Manchurian)",
-        "qty": "40ml",
+        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+        "qty": "40ml Glaze",
         "cost": 9.0
       },
       {
@@ -6285,7 +6557,7 @@ window.INDUS_BIBLE = {
       "STAGE 1: Deep fry the battered protein in 180\u00b0C oil for 2.5 minutes until crisp and golden. Drain on wire rack.",
       "STAGE 2: Heat wok over high flame. Swirl 15ml oil, add minced garlic, ginger, and slit green chillies. Saut\u00e9 15 seconds.",
       "Add diamond-cut onions and capsicum. Flash toss for 20 seconds over high heat so veggies retain snappy crunch.",
-      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze.",
+      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze. [\u2192 USE: Indus Supreme Hot Garlic Master Glaze (Sauce #04) (40ml Glaze)]",
       "Add the hot crispy fried protein into the bubbling glaze. Toss vigorously for 20 seconds so every piece is glossy without becoming soggy.",
       "Kill the flame, toss with chopped spring onion greens."
     ],
@@ -6297,7 +6569,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 308.0,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-4",
+    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+    "primarySauceQty": "40ml Glaze",
+    "primarySauceStage": "Stage 2 (Glaze)"
   },
   {
     "id": "mmszgir1yn9g6",
@@ -6329,8 +6605,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "Indus Signature Sauce (Schezwan / Hot Garlic / Dragon / Manchurian)",
-        "qty": "40ml",
+        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+        "qty": "40ml Glaze",
         "cost": 9.0
       },
       {
@@ -6358,7 +6634,7 @@ window.INDUS_BIBLE = {
       "STAGE 1: Deep fry the battered protein in 180\u00b0C oil for 2.5 minutes until crisp and golden. Drain on wire rack.",
       "STAGE 2: Heat wok over high flame. Swirl 15ml oil, add minced garlic, ginger, and slit green chillies. Saut\u00e9 15 seconds.",
       "Add diamond-cut onions and capsicum. Flash toss for 20 seconds over high heat so veggies retain snappy crunch.",
-      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze.",
+      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze. [\u2192 USE: Indus Supreme Hot Garlic Master Glaze (Sauce #04) (40ml Glaze)]",
       "Add the hot crispy fried protein into the bubbling glaze. Toss vigorously for 20 seconds so every piece is glossy without becoming soggy.",
       "Kill the flame, toss with chopped spring onion greens."
     ],
@@ -6370,7 +6646,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 311.6,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-4",
+    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+    "primarySauceQty": "40ml Glaze",
+    "primarySauceStage": "Stage 2 (Glaze)"
   },
   {
     "id": "mmszgir1yolym",
@@ -6402,8 +6682,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "Indus Signature Sauce (Schezwan / Hot Garlic / Dragon / Manchurian)",
-        "qty": "40ml",
+        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+        "qty": "40ml Glaze",
         "cost": 9.0
       },
       {
@@ -6431,7 +6711,7 @@ window.INDUS_BIBLE = {
       "STAGE 1: Deep fry the battered protein in 180\u00b0C oil for 2.5 minutes until crisp and golden. Drain on wire rack.",
       "STAGE 2: Heat wok over high flame. Swirl 15ml oil, add minced garlic, ginger, and slit green chillies. Saut\u00e9 15 seconds.",
       "Add diamond-cut onions and capsicum. Flash toss for 20 seconds over high heat so veggies retain snappy crunch.",
-      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze.",
+      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze. [\u2192 USE: Indus Supreme Hot Garlic Master Glaze (Sauce #04) (40ml Glaze)]",
       "Add the hot crispy fried protein into the bubbling glaze. Toss vigorously for 20 seconds so every piece is glossy without becoming soggy.",
       "Kill the flame, toss with chopped spring onion greens."
     ],
@@ -6443,7 +6723,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 335.4,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-4",
+    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+    "primarySauceQty": "40ml Glaze",
+    "primarySauceStage": "Stage 2 (Glaze)"
   },
   {
     "id": "mmszgir1y63jr",
@@ -6475,8 +6759,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "Indus Signature Sauce (Schezwan / Hot Garlic / Dragon / Manchurian)",
-        "qty": "40ml",
+        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+        "qty": "40ml Glaze",
         "cost": 9.0
       },
       {
@@ -6504,7 +6788,7 @@ window.INDUS_BIBLE = {
       "STAGE 1: Deep fry the battered protein in 180\u00b0C oil for 2.5 minutes until crisp and golden. Drain on wire rack.",
       "STAGE 2: Heat wok over high flame. Swirl 15ml oil, add minced garlic, ginger, and slit green chillies. Saut\u00e9 15 seconds.",
       "Add diamond-cut onions and capsicum. Flash toss for 20 seconds over high heat so veggies retain snappy crunch.",
-      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze.",
+      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze. [\u2192 USE: Indus Supreme Hot Garlic Master Glaze (Sauce #04) (40ml Glaze)]",
       "Add the hot crispy fried protein into the bubbling glaze. Toss vigorously for 20 seconds so every piece is glossy without becoming soggy.",
       "Kill the flame, toss with chopped spring onion greens."
     ],
@@ -6516,7 +6800,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 346.5,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-4",
+    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+    "primarySauceQty": "40ml Glaze",
+    "primarySauceStage": "Stage 2 (Glaze)"
   },
   {
     "id": "mmszgir1y52wk",
@@ -6548,8 +6836,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "Indus Signature Sauce (Schezwan / Hot Garlic / Dragon / Manchurian)",
-        "qty": "40ml",
+        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+        "qty": "40ml (1.5 Ladles)",
         "cost": 9.0
       },
       {
@@ -6577,7 +6865,7 @@ window.INDUS_BIBLE = {
       "STAGE 1: Deep fry the battered protein in 180\u00b0C oil for 2.5 minutes until crisp and golden. Drain on wire rack.",
       "STAGE 2: Heat wok over high flame. Swirl 15ml oil, add minced garlic, ginger, and slit green chillies. Saut\u00e9 15 seconds.",
       "Add diamond-cut onions and capsicum. Flash toss for 20 seconds over high heat so veggies retain snappy crunch.",
-      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze.",
+      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze. [\u2192 USE: Indus Supreme Hot Garlic Master Glaze (Sauce #04) (40ml (1.5 Ladles))]",
       "Add the hot crispy fried protein into the bubbling glaze. Toss vigorously for 20 seconds so every piece is glossy without becoming soggy.",
       "Kill the flame, toss with chopped spring onion greens."
     ],
@@ -6589,7 +6877,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 311.6,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-4",
+    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+    "primarySauceQty": "40ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Glaze reduction)"
   },
   {
     "id": "mmszgir1ywhu0",
@@ -6621,8 +6913,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "Indus Signature Sauce (Schezwan / Hot Garlic / Dragon / Manchurian)",
-        "qty": "40ml",
+        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+        "qty": "40ml (1.5 Ladles)",
         "cost": 9.0
       },
       {
@@ -6650,7 +6942,7 @@ window.INDUS_BIBLE = {
       "STAGE 1: Deep fry the battered protein in 180\u00b0C oil for 2.5 minutes until crisp and golden. Drain on wire rack.",
       "STAGE 2: Heat wok over high flame. Swirl 15ml oil, add minced garlic, ginger, and slit green chillies. Saut\u00e9 15 seconds.",
       "Add diamond-cut onions and capsicum. Flash toss for 20 seconds over high heat so veggies retain snappy crunch.",
-      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze.",
+      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze. [\u2192 USE: Indus Supreme Hot Garlic Master Glaze (Sauce #04) (40ml (1.5 Ladles))]",
       "Add the hot crispy fried protein into the bubbling glaze. Toss vigorously for 20 seconds so every piece is glossy without becoming soggy.",
       "Kill the flame, toss with chopped spring onion greens."
     ],
@@ -6662,7 +6954,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 335.4,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-4",
+    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+    "primarySauceQty": "40ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Glaze reduction)"
   },
   {
     "id": "mmszgir1y16rn",
@@ -6694,8 +6990,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "Indus Signature Sauce (Schezwan / Hot Garlic / Dragon / Manchurian)",
-        "qty": "40ml",
+        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+        "qty": "40ml (1.5 Ladles)",
         "cost": 9.0
       },
       {
@@ -6723,7 +7019,7 @@ window.INDUS_BIBLE = {
       "STAGE 1: Deep fry the battered protein in 180\u00b0C oil for 2.5 minutes until crisp and golden. Drain on wire rack.",
       "STAGE 2: Heat wok over high flame. Swirl 15ml oil, add minced garlic, ginger, and slit green chillies. Saut\u00e9 15 seconds.",
       "Add diamond-cut onions and capsicum. Flash toss for 20 seconds over high heat so veggies retain snappy crunch.",
-      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze.",
+      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze. [\u2192 USE: Indus Supreme Hot Garlic Master Glaze (Sauce #04) (40ml (1.5 Ladles))]",
       "Add the hot crispy fried protein into the bubbling glaze. Toss vigorously for 20 seconds so every piece is glossy without becoming soggy.",
       "Kill the flame, toss with chopped spring onion greens."
     ],
@@ -6735,7 +7031,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 346.5,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-4",
+    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+    "primarySauceQty": "40ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Glaze reduction)"
   },
   {
     "id": "mmszgir1ymo0j",
@@ -6767,8 +7067,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "Indus Signature Sauce (Schezwan / Hot Garlic / Dragon / Manchurian)",
-        "qty": "40ml",
+        "item": "\u2605 Japanese Teriyaki & Yakitori Glaze (Sauce #09)",
+        "qty": "40ml (1.5 Ladles)",
         "cost": 9.0
       },
       {
@@ -6796,7 +7096,7 @@ window.INDUS_BIBLE = {
       "STAGE 1: Deep fry the battered protein in 180\u00b0C oil for 2.5 minutes until crisp and golden. Drain on wire rack.",
       "STAGE 2: Heat wok over high flame. Swirl 15ml oil, add minced garlic, ginger, and slit green chillies. Saut\u00e9 15 seconds.",
       "Add diamond-cut onions and capsicum. Flash toss for 20 seconds over high heat so veggies retain snappy crunch.",
-      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze.",
+      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze. [\u2192 USE: Japanese Teriyaki & Yakitori Glaze (Sauce #09) (40ml (1.5 Ladles))]",
       "Add the hot crispy fried protein into the bubbling glaze. Toss vigorously for 20 seconds so every piece is glossy without becoming soggy.",
       "Kill the flame, toss with chopped spring onion greens."
     ],
@@ -6808,7 +7108,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 311.6,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-9",
+    "primarySauceName": "Japanese Teriyaki & Yakitori Glaze (Sauce #09)",
+    "primarySauceQty": "40ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 3 (Lacquer glaze)"
   },
   {
     "id": "mmszgir1ywngv",
@@ -6840,8 +7144,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "Indus Signature Sauce (Schezwan / Hot Garlic / Dragon / Manchurian)",
-        "qty": "40ml",
+        "item": "\u2605 Japanese Teriyaki & Yakitori Glaze (Sauce #09)",
+        "qty": "40ml (1.5 Ladles)",
         "cost": 9.0
       },
       {
@@ -6869,7 +7173,7 @@ window.INDUS_BIBLE = {
       "STAGE 1: Deep fry the battered protein in 180\u00b0C oil for 2.5 minutes until crisp and golden. Drain on wire rack.",
       "STAGE 2: Heat wok over high flame. Swirl 15ml oil, add minced garlic, ginger, and slit green chillies. Saut\u00e9 15 seconds.",
       "Add diamond-cut onions and capsicum. Flash toss for 20 seconds over high heat so veggies retain snappy crunch.",
-      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze.",
+      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze. [\u2192 USE: Japanese Teriyaki & Yakitori Glaze (Sauce #09) (40ml (1.5 Ladles))]",
       "Add the hot crispy fried protein into the bubbling glaze. Toss vigorously for 20 seconds so every piece is glossy without becoming soggy.",
       "Kill the flame, toss with chopped spring onion greens."
     ],
@@ -6881,7 +7185,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 335.4,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-9",
+    "primarySauceName": "Japanese Teriyaki & Yakitori Glaze (Sauce #09)",
+    "primarySauceQty": "40ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 3 (Lacquer glaze)"
   },
   {
     "id": "mmszgir1yre8e",
@@ -6913,8 +7221,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "Indus Signature Sauce (Schezwan / Hot Garlic / Dragon / Manchurian)",
-        "qty": "40ml",
+        "item": "\u2605 Japanese Teriyaki & Yakitori Glaze (Sauce #09)",
+        "qty": "40ml (1.5 Ladles)",
         "cost": 9.0
       },
       {
@@ -6942,7 +7250,7 @@ window.INDUS_BIBLE = {
       "STAGE 1: Deep fry the battered protein in 180\u00b0C oil for 2.5 minutes until crisp and golden. Drain on wire rack.",
       "STAGE 2: Heat wok over high flame. Swirl 15ml oil, add minced garlic, ginger, and slit green chillies. Saut\u00e9 15 seconds.",
       "Add diamond-cut onions and capsicum. Flash toss for 20 seconds over high heat so veggies retain snappy crunch.",
-      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze.",
+      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze. [\u2192 USE: Japanese Teriyaki & Yakitori Glaze (Sauce #09) (40ml (1.5 Ladles))]",
       "Add the hot crispy fried protein into the bubbling glaze. Toss vigorously for 20 seconds so every piece is glossy without becoming soggy.",
       "Kill the flame, toss with chopped spring onion greens."
     ],
@@ -6954,7 +7262,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 323.4,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-9",
+    "primarySauceName": "Japanese Teriyaki & Yakitori Glaze (Sauce #09)",
+    "primarySauceQty": "40ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 3 (Lacquer glaze)"
   },
   {
     "id": "mmszgir1yukfe",
@@ -6986,8 +7298,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "Indus Signature Sauce (Schezwan / Hot Garlic / Dragon / Manchurian)",
-        "qty": "40ml",
+        "item": "\u2605 Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+        "qty": "35ml (1 Ladle)",
         "cost": 9.0
       },
       {
@@ -7015,7 +7327,7 @@ window.INDUS_BIBLE = {
       "STAGE 1: Deep fry the battered protein in 180\u00b0C oil for 2.5 minutes until crisp and golden. Drain on wire rack.",
       "STAGE 2: Heat wok over high flame. Swirl 15ml oil, add minced garlic, ginger, and slit green chillies. Saut\u00e9 15 seconds.",
       "Add diamond-cut onions and capsicum. Flash toss for 20 seconds over high heat so veggies retain snappy crunch.",
-      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze.",
+      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze. [\u2192 USE: Artisanal Black Bean & Garlic Sauce (Sauce #07) (35ml (1 Ladle))]",
       "Add the hot crispy fried protein into the bubbling glaze. Toss vigorously for 20 seconds so every piece is glossy without becoming soggy.",
       "Kill the flame, toss with chopped spring onion greens."
     ],
@@ -7027,7 +7339,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 319.8,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-7",
+    "primarySauceName": "Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+    "primarySauceQty": "35ml (1 Ladle)",
+    "primarySauceStage": "Stage 2 (Aromatics deglaze)"
   },
   {
     "id": "mmszgir1ygbsq",
@@ -7059,8 +7375,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "Indus Signature Sauce (Schezwan / Hot Garlic / Dragon / Manchurian)",
-        "qty": "40ml",
+        "item": "\u2605 Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+        "qty": "35ml (1 Ladle)",
         "cost": 9.0
       },
       {
@@ -7088,7 +7404,7 @@ window.INDUS_BIBLE = {
       "STAGE 1: Deep fry the battered protein in 180\u00b0C oil for 2.5 minutes until crisp and golden. Drain on wire rack.",
       "STAGE 2: Heat wok over high flame. Swirl 15ml oil, add minced garlic, ginger, and slit green chillies. Saut\u00e9 15 seconds.",
       "Add diamond-cut onions and capsicum. Flash toss for 20 seconds over high heat so veggies retain snappy crunch.",
-      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze.",
+      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze. [\u2192 USE: Artisanal Black Bean & Garlic Sauce (Sauce #07) (35ml (1 Ladle))]",
       "Add the hot crispy fried protein into the bubbling glaze. Toss vigorously for 20 seconds so every piece is glossy without becoming soggy.",
       "Kill the flame, toss with chopped spring onion greens."
     ],
@@ -7100,7 +7416,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 343.2,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-7",
+    "primarySauceName": "Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+    "primarySauceQty": "35ml (1 Ladle)",
+    "primarySauceStage": "Stage 2 (Aromatics deglaze)"
   },
   {
     "id": "mmszgir1yspnf",
@@ -7132,8 +7452,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "Indus Signature Sauce (Schezwan / Hot Garlic / Dragon / Manchurian)",
-        "qty": "40ml",
+        "item": "\u2605 Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+        "qty": "35ml (1 Ladle)",
         "cost": 9.0
       },
       {
@@ -7161,7 +7481,7 @@ window.INDUS_BIBLE = {
       "STAGE 1: Deep fry the battered protein in 180\u00b0C oil for 2.5 minutes until crisp and golden. Drain on wire rack.",
       "STAGE 2: Heat wok over high flame. Swirl 15ml oil, add minced garlic, ginger, and slit green chillies. Saut\u00e9 15 seconds.",
       "Add diamond-cut onions and capsicum. Flash toss for 20 seconds over high heat so veggies retain snappy crunch.",
-      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze.",
+      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze. [\u2192 USE: Artisanal Black Bean & Garlic Sauce (Sauce #07) (35ml (1 Ladle))]",
       "Add the hot crispy fried protein into the bubbling glaze. Toss vigorously for 20 seconds so every piece is glossy without becoming soggy.",
       "Kill the flame, toss with chopped spring onion greens."
     ],
@@ -7173,7 +7493,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 354.2,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-7",
+    "primarySauceName": "Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+    "primarySauceQty": "35ml (1 Ladle)",
+    "primarySauceStage": "Stage 2 (Aromatics deglaze)"
   },
   {
     "id": "mmszgir1yb5t6",
@@ -7210,8 +7534,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -7235,7 +7559,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -7247,7 +7571,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 164.0,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1y6d7q",
@@ -7284,8 +7612,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -7309,7 +7637,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -7321,7 +7649,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 218.4,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yan5n",
@@ -7358,8 +7690,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -7383,7 +7715,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -7395,7 +7727,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 19.0,
       "grossMargin": 194.4,
       "grossMarginPct": 81.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yccgt",
@@ -7432,8 +7768,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -7457,7 +7793,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -7469,7 +7805,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 200.2,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yzmi9",
@@ -7506,8 +7846,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Indus Signature Red Schezwan Mother Paste (Sauce #01)",
+        "qty": "45ml (1.5 Ladles)",
         "cost": 4.5
       },
       {
@@ -7531,7 +7871,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Indus Signature Red Schezwan Mother Paste (Sauce #01) (45ml (1.5 Ladles))]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -7543,7 +7883,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 180.4,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-1",
+    "primarySauceName": "Indus Signature Red Schezwan Mother Paste (Sauce #01)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Saut\u00e9 after aromatics)"
   },
   {
     "id": "mmszgir1yopmh",
@@ -7580,8 +7924,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Indus Signature Red Schezwan Mother Paste (Sauce #01)",
+        "qty": "45ml (1.5 Ladles)",
         "cost": 4.5
       },
       {
@@ -7605,7 +7949,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Indus Signature Red Schezwan Mother Paste (Sauce #01) (45ml (1.5 Ladles))]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -7617,7 +7961,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 234.0,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-1",
+    "primarySauceName": "Indus Signature Red Schezwan Mother Paste (Sauce #01)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Saut\u00e9 after aromatics)"
   },
   {
     "id": "mmszgir1yrpmi",
@@ -7654,8 +8002,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Indus Signature Red Schezwan Mother Paste (Sauce #01)",
+        "qty": "45ml (1.5 Ladles)",
         "cost": 4.5
       },
       {
@@ -7679,7 +8027,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Indus Signature Red Schezwan Mother Paste (Sauce #01) (45ml (1.5 Ladles))]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -7691,7 +8039,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 19.0,
       "grossMargin": 194.4,
       "grossMarginPct": 81.0
-    }
+    },
+    "primarySauceId": "sauce-1",
+    "primarySauceName": "Indus Signature Red Schezwan Mother Paste (Sauce #01)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Saut\u00e9 after aromatics)"
   },
   {
     "id": "mmszgir1ys7ia",
@@ -7728,8 +8080,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Indus Signature Red Schezwan Mother Paste (Sauce #01)",
+        "qty": "45ml (1.5 Ladles)",
         "cost": 4.5
       },
       {
@@ -7753,7 +8105,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Indus Signature Red Schezwan Mother Paste (Sauce #01) (45ml (1.5 Ladles))]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -7765,7 +8117,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 215.6,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-1",
+    "primarySauceName": "Indus Signature Red Schezwan Mother Paste (Sauce #01)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Saut\u00e9 after aromatics)"
   },
   {
     "id": "mmszgir1y2zsn",
@@ -7802,8 +8158,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -7827,7 +8183,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -7839,7 +8195,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 246.0,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1y4fo7",
@@ -7876,8 +8236,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Burnt Garlic & Scallion Oil Infusion (Sauce #05)",
+        "qty": "25ml Oil + 10g Crispy Chips",
         "cost": 4.5
       },
       {
@@ -7901,7 +8261,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Burnt Garlic & Scallion Oil Infusion (Sauce #05) (25ml Oil + 10g Crispy Chips)]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -7913,7 +8273,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 280.8,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-5",
+    "primarySauceName": "Burnt Garlic & Scallion Oil Infusion (Sauce #05)",
+    "primarySauceQty": "25ml Oil + 10g Crispy Chips",
+    "primarySauceStage": "Stage 1 (Wok start) & Final Garnish"
   },
   {
     "id": "mmszgir1y24mt",
@@ -7950,8 +8314,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -7975,7 +8339,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -7987,7 +8351,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 19.0,
       "grossMargin": 259.2,
       "grossMarginPct": 81.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1ya3mt",
@@ -8024,8 +8392,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Burnt Garlic & Scallion Oil Infusion (Sauce #05)",
+        "qty": "25ml Oil + 10g Crispy Chips",
         "cost": 4.5
       },
       {
@@ -8049,7 +8417,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Burnt Garlic & Scallion Oil Infusion (Sauce #05) (25ml Oil + 10g Crispy Chips)]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -8061,7 +8429,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 277.2,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-5",
+    "primarySauceName": "Burnt Garlic & Scallion Oil Infusion (Sauce #05)",
+    "primarySauceQty": "25ml Oil + 10g Crispy Chips",
+    "primarySauceStage": "Stage 1 (Wok start) & Final Garnish"
   },
   {
     "id": "mmszgir1y1s8y",
@@ -8098,8 +8470,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+        "qty": "35ml (1 Ladle)",
         "cost": 4.5
       },
       {
@@ -8123,7 +8495,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Artisanal Black Bean & Garlic Sauce (Sauce #07) (35ml (1 Ladle))]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -8135,7 +8507,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 205.0,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-7",
+    "primarySauceName": "Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+    "primarySauceQty": "35ml (1 Ladle)",
+    "primarySauceStage": "Stage 2 (Aromatics deglaze)"
   },
   {
     "id": "mmszgir1yloey",
@@ -8172,8 +8548,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+        "qty": "35ml (1 Ladle)",
         "cost": 4.5
       },
       {
@@ -8197,7 +8573,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Artisanal Black Bean & Garlic Sauce (Sauce #07) (35ml (1 Ladle))]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -8209,7 +8585,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 234.0,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-7",
+    "primarySauceName": "Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+    "primarySauceQty": "35ml (1 Ladle)",
+    "primarySauceStage": "Stage 2 (Aromatics deglaze)"
   },
   {
     "id": "mmszgir1yiki6",
@@ -8246,8 +8626,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+        "qty": "35ml (1 Ladle)",
         "cost": 4.5
       },
       {
@@ -8271,7 +8651,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Artisanal Black Bean & Garlic Sauce (Sauce #07) (35ml (1 Ladle))]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -8283,7 +8663,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 19.0,
       "grossMargin": 210.6,
       "grossMarginPct": 81.0
-    }
+    },
+    "primarySauceId": "sauce-7",
+    "primarySauceName": "Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+    "primarySauceQty": "35ml (1 Ladle)",
+    "primarySauceStage": "Stage 2 (Aromatics deglaze)"
   },
   {
     "id": "mmszgir1ycjwu",
@@ -8320,8 +8704,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+        "qty": "35ml (1 Ladle)",
         "cost": 4.5
       },
       {
@@ -8345,7 +8729,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Artisanal Black Bean & Garlic Sauce (Sauce #07) (35ml (1 Ladle))]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -8357,7 +8741,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 215.6,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-7",
+    "primarySauceName": "Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+    "primarySauceQty": "35ml (1 Ladle)",
+    "primarySauceStage": "Stage 2 (Aromatics deglaze)"
   },
   {
     "id": "mmszgir1ypd2k",
@@ -8394,8 +8782,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -8419,7 +8807,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -8431,7 +8819,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 188.6,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1y2s6d",
@@ -8468,8 +8860,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -8493,7 +8885,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -8505,7 +8897,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 234.0,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1y3msr",
@@ -8542,8 +8938,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -8567,7 +8963,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -8579,7 +8975,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 19.0,
       "grossMargin": 202.5,
       "grossMarginPct": 81.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yso17",
@@ -8616,8 +9016,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -8641,7 +9041,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -8653,7 +9053,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 207.9,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yt2wl",
@@ -8690,8 +9094,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -8715,7 +9119,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -8727,7 +9131,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 196.8,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1ydtot",
@@ -8764,8 +9172,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -8789,7 +9197,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -8801,7 +9209,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 234.0,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yl8kg",
@@ -8838,8 +9250,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -8863,7 +9275,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -8875,7 +9287,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 19.0,
       "grossMargin": 210.6,
       "grossMarginPct": 81.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yl4g6",
@@ -8912,8 +9328,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -8937,7 +9353,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -8949,7 +9365,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 215.6,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1ym10z",
@@ -8986,8 +9406,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -9011,7 +9431,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -9023,7 +9443,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 196.8,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1y00u1",
@@ -9060,8 +9484,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -9085,7 +9509,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -9097,7 +9521,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 234.0,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1y8a4a",
@@ -9134,8 +9562,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -9159,7 +9587,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -9171,7 +9599,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 19.0,
       "grossMargin": 202.5,
       "grossMarginPct": 81.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1y2yq2",
@@ -9208,8 +9640,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -9233,7 +9665,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -9245,7 +9677,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 215.6,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1y5yat",
@@ -9282,8 +9718,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Korean Gochujang Spicy Glaze (Sauce #10)",
+        "qty": "45ml (1.5 Ladles)",
         "cost": 4.5
       },
       {
@@ -9307,7 +9743,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Korean Gochujang Spicy Glaze (Sauce #10) (45ml (1.5 Ladles))]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -9319,7 +9755,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 262.4,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-10",
+    "primarySauceName": "Korean Gochujang Spicy Glaze (Sauce #10)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Saut\u00e9)"
   },
   {
     "id": "mmszgir1y2ubu",
@@ -9356,8 +9796,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Korean Gochujang Spicy Glaze (Sauce #10)",
+        "qty": "45ml (1.5 Ladles)",
         "cost": 4.5
       },
       {
@@ -9381,7 +9821,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Korean Gochujang Spicy Glaze (Sauce #10) (45ml (1.5 Ladles))]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -9393,7 +9833,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 296.4,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-10",
+    "primarySauceName": "Korean Gochujang Spicy Glaze (Sauce #10)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Saut\u00e9)"
   },
   {
     "id": "mmszgir1yhkm3",
@@ -9430,8 +9874,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Korean Gochujang Spicy Glaze (Sauce #10)",
+        "qty": "45ml (1.5 Ladles)",
         "cost": 4.5
       },
       {
@@ -9455,7 +9899,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Korean Gochujang Spicy Glaze (Sauce #10) (45ml (1.5 Ladles))]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -9467,7 +9911,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 19.0,
       "grossMargin": 275.4,
       "grossMarginPct": 81.0
-    }
+    },
+    "primarySauceId": "sauce-10",
+    "primarySauceName": "Korean Gochujang Spicy Glaze (Sauce #10)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Saut\u00e9)"
   },
   {
     "id": "mmszgir1yv81f",
@@ -9504,8 +9952,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Korean Gochujang Spicy Glaze (Sauce #10)",
+        "qty": "45ml (1.5 Ladles)",
         "cost": 4.5
       },
       {
@@ -9529,7 +9977,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Korean Gochujang Spicy Glaze (Sauce #10) (45ml (1.5 Ladles))]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -9541,7 +9989,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 277.2,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-10",
+    "primarySauceName": "Korean Gochujang Spicy Glaze (Sauce #10)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Saut\u00e9)"
   },
   {
     "id": "mmszgir1yucrt",
@@ -9578,8 +10030,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Classic Indo-Chinese Green Chilli Sauce (Sauce #11)",
+        "qty": "30ml (1 Ladle)",
         "cost": 4.5
       },
       {
@@ -9603,7 +10055,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Classic Indo-Chinese Green Chilli Sauce (Sauce #11) (30ml (1 Ladle))]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -9615,7 +10067,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 213.2,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-11",
+    "primarySauceName": "Classic Indo-Chinese Green Chilli Sauce (Sauce #11)",
+    "primarySauceQty": "30ml (1 Ladle)",
+    "primarySauceStage": "Stage 2 (Wok rim sizzle)"
   },
   {
     "id": "mmszgir1yjw3r",
@@ -9652,8 +10108,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Classic Indo-Chinese Green Chilli Sauce (Sauce #11)",
+        "qty": "30ml (1 Ladle)",
         "cost": 4.5
       },
       {
@@ -9677,7 +10133,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Classic Indo-Chinese Green Chilli Sauce (Sauce #11) (30ml (1 Ladle))]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -9689,7 +10145,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 234.0,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-11",
+    "primarySauceName": "Classic Indo-Chinese Green Chilli Sauce (Sauce #11)",
+    "primarySauceQty": "30ml (1 Ladle)",
+    "primarySauceStage": "Stage 2 (Wok rim sizzle)"
   },
   {
     "id": "mmszgir1yq86a",
@@ -9726,8 +10186,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Classic Indo-Chinese Green Chilli Sauce (Sauce #11)",
+        "qty": "30ml (1 Ladle)",
         "cost": 4.5
       },
       {
@@ -9751,7 +10211,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Classic Indo-Chinese Green Chilli Sauce (Sauce #11) (30ml (1 Ladle))]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -9763,7 +10223,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 19.0,
       "grossMargin": 210.6,
       "grossMarginPct": 81.0
-    }
+    },
+    "primarySauceId": "sauce-11",
+    "primarySauceName": "Classic Indo-Chinese Green Chilli Sauce (Sauce #11)",
+    "primarySauceQty": "30ml (1 Ladle)",
+    "primarySauceStage": "Stage 2 (Wok rim sizzle)"
   },
   {
     "id": "mmszgir1y5rof",
@@ -9800,8 +10264,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Classic Indo-Chinese Green Chilli Sauce (Sauce #11)",
+        "qty": "30ml (1 Ladle)",
         "cost": 4.5
       },
       {
@@ -9825,7 +10289,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Classic Indo-Chinese Green Chilli Sauce (Sauce #11) (30ml (1 Ladle))]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -9837,7 +10301,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 215.6,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-11",
+    "primarySauceName": "Classic Indo-Chinese Green Chilli Sauce (Sauce #11)",
+    "primarySauceQty": "30ml (1 Ladle)",
+    "primarySauceStage": "Stage 2 (Wok rim sizzle)"
   },
   {
     "id": "mmszgir1y0hmz",
@@ -9874,8 +10342,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -9899,7 +10367,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -9911,7 +10379,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 213.2,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1ynpnu",
@@ -9948,8 +10420,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -9973,7 +10445,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -9985,7 +10457,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 234.0,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yubqe",
@@ -10022,8 +10498,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -10047,7 +10523,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -10059,7 +10535,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 19.0,
       "grossMargin": 210.6,
       "grossMarginPct": 81.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yrojg",
@@ -10096,8 +10576,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -10121,7 +10601,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -10133,7 +10613,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 215.6,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1y9xve",
@@ -10170,8 +10654,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -10195,7 +10679,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -10207,7 +10691,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 205.0,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yar88",
@@ -10244,8 +10732,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -10269,7 +10757,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -10281,7 +10769,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 241.8,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yfimq",
@@ -10318,8 +10810,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -10343,7 +10835,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -10355,7 +10847,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 19.0,
       "grossMargin": 210.6,
       "grossMarginPct": 81.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1y63jz",
@@ -10392,8 +10888,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -10417,7 +10913,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -10429,7 +10925,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 215.6,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1ya70v",
@@ -10466,8 +10966,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -10491,7 +10991,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -10503,7 +11003,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 246.0,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yl4kz",
@@ -10540,8 +11044,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -10565,7 +11069,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -10577,7 +11081,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 280.8,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yl1fo",
@@ -10614,8 +11122,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -10639,7 +11147,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -10651,7 +11159,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 19.0,
       "grossMargin": 243.0,
       "grossMarginPct": 81.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1y629f",
@@ -10688,8 +11200,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -10713,7 +11225,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -10725,7 +11237,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 261.8,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yli97",
@@ -10762,8 +11278,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -10787,7 +11303,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -10799,7 +11315,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 287.0,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1ytmvp",
@@ -10836,8 +11356,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -10861,7 +11381,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -10873,7 +11393,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 312.0,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yzqnb",
@@ -10910,8 +11434,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -10935,7 +11459,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -10947,7 +11471,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 19.0,
       "grossMargin": 291.6,
       "grossMarginPct": 81.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yni7h",
@@ -10984,8 +11512,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -11009,7 +11537,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -11021,7 +11549,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 300.3,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1ymhnd",
@@ -11058,8 +11590,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Thai Curry Paste & Broth Master Base (Sauce #12)",
+        "qty": "50g Paste / 250ml Broth",
         "cost": 4.5
       },
       {
@@ -11083,7 +11615,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Thai Curry Paste & Broth Master Base (Sauce #12) (50g Paste / 250ml Broth)]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -11095,7 +11627,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 295.2,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-12",
+    "primarySauceName": "Thai Curry Paste & Broth Master Base (Sauce #12)",
+    "primarySauceQty": "50g Paste / 250ml Broth",
+    "primarySauceStage": "Stage 2 (Simmer)"
   },
   {
     "id": "mmszgir1ymd9t",
@@ -11132,8 +11668,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Thai Curry Paste & Broth Master Base (Sauce #12)",
+        "qty": "50g Paste / 250ml Broth",
         "cost": 4.5
       },
       {
@@ -11157,7 +11693,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Thai Curry Paste & Broth Master Base (Sauce #12) (50g Paste / 250ml Broth)]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -11169,7 +11705,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 319.8,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-12",
+    "primarySauceName": "Thai Curry Paste & Broth Master Base (Sauce #12)",
+    "primarySauceQty": "50g Paste / 250ml Broth",
+    "primarySauceStage": "Stage 2 (Simmer)"
   },
   {
     "id": "mmszgir1yd9rl",
@@ -11206,8 +11746,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Thai Curry Paste & Broth Master Base (Sauce #12)",
+        "qty": "50g Paste / 250ml Broth",
         "cost": 4.5
       },
       {
@@ -11231,7 +11771,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Thai Curry Paste & Broth Master Base (Sauce #12) (50g Paste / 250ml Broth)]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -11243,7 +11783,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 19.0,
       "grossMargin": 299.7,
       "grossMarginPct": 81.0
-    }
+    },
+    "primarySauceId": "sauce-12",
+    "primarySauceName": "Thai Curry Paste & Broth Master Base (Sauce #12)",
+    "primarySauceQty": "50g Paste / 250ml Broth",
+    "primarySauceStage": "Stage 2 (Simmer)"
   },
   {
     "id": "mmszgir1yjtbd",
@@ -11280,8 +11824,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Thai Curry Paste & Broth Master Base (Sauce #12)",
+        "qty": "50g Paste / 250ml Broth",
         "cost": 4.5
       },
       {
@@ -11305,7 +11849,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Thai Curry Paste & Broth Master Base (Sauce #12) (50g Paste / 250ml Broth)]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -11317,7 +11861,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 308.0,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-12",
+    "primarySauceName": "Thai Curry Paste & Broth Master Base (Sauce #12)",
+    "primarySauceQty": "50g Paste / 250ml Broth",
+    "primarySauceStage": "Stage 2 (Simmer)"
   },
   {
     "id": "mmszgir1yeh92",
@@ -11354,8 +11902,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -11379,7 +11927,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -11391,7 +11939,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 221.4,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1y7h6v",
@@ -11428,8 +11980,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -11453,7 +12005,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -11465,7 +12017,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 249.6,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yl3ve",
@@ -11502,8 +12058,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -11527,7 +12083,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -11539,7 +12095,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 19.0,
       "grossMargin": 218.7,
       "grossMarginPct": 81.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1ygjz1",
@@ -11576,8 +12136,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "Indus Master Stir-Fry Seasoning & Soy Blend",
-        "qty": "20ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -11601,7 +12161,7 @@ window.INDUS_BIBLE = {
       "Swirl in 20ml cooking oil (or burnt garlic oil). Add egg/protein and flash cook for 25 seconds.",
       "Add minced garlic, ginger, and diced vegetables. Wok-toss for 20 seconds.",
       "Add 240g cold rice. Use the back of the wok ladle to gently break any clumps while tossing.",
-      "Drizzle sauce blend and seasonings evenly over the rice.",
+      "Drizzle sauce blend and seasonings evenly over the rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Toss continuously over roaring flame for 90 seconds so every single grain is toasted, coated, and infused with *Wok Hei* smoke.",
       "Fold in spring onion greens and remove from flame."
     ],
@@ -11613,7 +12173,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 223.3,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1ynt77",
@@ -11650,8 +12214,8 @@ window.INDUS_BIBLE = {
         "cost": 15.0
       },
       {
-        "item": "Indus Master Gravy Base (Dark Soy, Chili Paste, Broth)",
-        "qty": "200ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -11678,12 +12242,12 @@ window.INDUS_BIBLE = {
     ],
     "steps": [
       "WOK 1 (Base Rice): Heat wok until smoking. Swirl 15ml oil, add 10g minced garlic until golden. Flash-toss the steamed rice with light soy and white pepper on extreme high flame for 90 seconds. Transfer to deep ceramic bowl or claypot.",
-      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic.",
+      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Add protein and diamond-cut vegetables, flash-stir fry over high heat for 60 seconds.",
-      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil.",
+      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Gradually stream in cornstarch slurry while stirring continuously until a rich, glossy, nap-coating viscosity is achieved.",
       "Finish with 5ml pure toasted sesame oil and chopped spring onion whites.",
-      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice."
+      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
     "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
@@ -11693,7 +12257,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 319.8,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yzvw9",
@@ -11730,8 +12298,8 @@ window.INDUS_BIBLE = {
         "cost": 15.0
       },
       {
-        "item": "Indus Master Gravy Base (Dark Soy, Chili Paste, Broth)",
-        "qty": "200ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -11758,12 +12326,12 @@ window.INDUS_BIBLE = {
     ],
     "steps": [
       "WOK 1 (Base Rice): Heat wok until smoking. Swirl 15ml oil, add 10g minced garlic until golden. Flash-toss the steamed rice with light soy and white pepper on extreme high flame for 90 seconds. Transfer to deep ceramic bowl or claypot.",
-      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic.",
+      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Add protein and diamond-cut vegetables, flash-stir fry over high heat for 60 seconds.",
-      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil.",
+      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Gradually stream in cornstarch slurry while stirring continuously until a rich, glossy, nap-coating viscosity is achieved.",
       "Finish with 5ml pure toasted sesame oil and chopped spring onion whites.",
-      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice."
+      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
     "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
@@ -11773,7 +12341,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 351.0,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yerir",
@@ -11810,8 +12382,8 @@ window.INDUS_BIBLE = {
         "cost": 15.0
       },
       {
-        "item": "Indus Master Gravy Base (Dark Soy, Chili Paste, Broth)",
-        "qty": "200ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -11838,12 +12410,12 @@ window.INDUS_BIBLE = {
     ],
     "steps": [
       "WOK 1 (Base Rice): Heat wok until smoking. Swirl 15ml oil, add 10g minced garlic until golden. Flash-toss the steamed rice with light soy and white pepper on extreme high flame for 90 seconds. Transfer to deep ceramic bowl or claypot.",
-      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic.",
+      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Add protein and diamond-cut vegetables, flash-stir fry over high heat for 60 seconds.",
-      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil.",
+      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Gradually stream in cornstarch slurry while stirring continuously until a rich, glossy, nap-coating viscosity is achieved.",
       "Finish with 5ml pure toasted sesame oil and chopped spring onion whites.",
-      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice."
+      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
     "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
@@ -11853,7 +12425,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 19.0,
       "grossMargin": 315.9,
       "grossMarginPct": 81.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1ylo1d",
@@ -11890,8 +12466,8 @@ window.INDUS_BIBLE = {
         "cost": 15.0
       },
       {
-        "item": "Indus Master Gravy Base (Dark Soy, Chili Paste, Broth)",
-        "qty": "200ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -11918,12 +12494,12 @@ window.INDUS_BIBLE = {
     ],
     "steps": [
       "WOK 1 (Base Rice): Heat wok until smoking. Swirl 15ml oil, add 10g minced garlic until golden. Flash-toss the steamed rice with light soy and white pepper on extreme high flame for 90 seconds. Transfer to deep ceramic bowl or claypot.",
-      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic.",
+      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Add protein and diamond-cut vegetables, flash-stir fry over high heat for 60 seconds.",
-      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil.",
+      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Gradually stream in cornstarch slurry while stirring continuously until a rich, glossy, nap-coating viscosity is achieved.",
       "Finish with 5ml pure toasted sesame oil and chopped spring onion whites.",
-      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice."
+      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
     "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
@@ -11933,7 +12509,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 315.7,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yw4us",
@@ -11970,8 +12550,8 @@ window.INDUS_BIBLE = {
         "cost": 15.0
       },
       {
-        "item": "Indus Master Gravy Base (Dark Soy, Chili Paste, Broth)",
-        "qty": "200ml",
+        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+        "qty": "40ml (1.5 Ladles)",
         "cost": 14.0
       },
       {
@@ -11998,12 +12578,12 @@ window.INDUS_BIBLE = {
     ],
     "steps": [
       "WOK 1 (Base Rice): Heat wok until smoking. Swirl 15ml oil, add 10g minced garlic until golden. Flash-toss the steamed rice with light soy and white pepper on extreme high flame for 90 seconds. Transfer to deep ceramic bowl or claypot.",
-      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic.",
+      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic. [\u2192 USE: Indus Supreme Hot Garlic Master Glaze (Sauce #04) (40ml (1.5 Ladles))]",
       "Add protein and diamond-cut vegetables, flash-stir fry over high heat for 60 seconds.",
-      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil.",
+      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil. [\u2192 USE: Indus Supreme Hot Garlic Master Glaze (Sauce #04) (40ml (1.5 Ladles))]",
       "Gradually stream in cornstarch slurry while stirring continuously until a rich, glossy, nap-coating viscosity is achieved.",
       "Finish with 5ml pure toasted sesame oil and chopped spring onion whites.",
-      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice."
+      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Supreme Hot Garlic Master Glaze (Sauce #04) (40ml (1.5 Ladles))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
     "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
@@ -12013,7 +12593,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 328.0,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-4",
+    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+    "primarySauceQty": "40ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Glaze reduction)"
   },
   {
     "id": "mmszgir1y7uay",
@@ -12050,8 +12634,8 @@ window.INDUS_BIBLE = {
         "cost": 15.0
       },
       {
-        "item": "Indus Master Gravy Base (Dark Soy, Chili Paste, Broth)",
-        "qty": "200ml",
+        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+        "qty": "40ml (1.5 Ladles)",
         "cost": 14.0
       },
       {
@@ -12078,12 +12662,12 @@ window.INDUS_BIBLE = {
     ],
     "steps": [
       "WOK 1 (Base Rice): Heat wok until smoking. Swirl 15ml oil, add 10g minced garlic until golden. Flash-toss the steamed rice with light soy and white pepper on extreme high flame for 90 seconds. Transfer to deep ceramic bowl or claypot.",
-      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic.",
+      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic. [\u2192 USE: Indus Supreme Hot Garlic Master Glaze (Sauce #04) (40ml (1.5 Ladles))]",
       "Add protein and diamond-cut vegetables, flash-stir fry over high heat for 60 seconds.",
-      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil.",
+      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil. [\u2192 USE: Indus Supreme Hot Garlic Master Glaze (Sauce #04) (40ml (1.5 Ladles))]",
       "Gradually stream in cornstarch slurry while stirring continuously until a rich, glossy, nap-coating viscosity is achieved.",
       "Finish with 5ml pure toasted sesame oil and chopped spring onion whites.",
-      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice."
+      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Supreme Hot Garlic Master Glaze (Sauce #04) (40ml (1.5 Ladles))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
     "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
@@ -12093,7 +12677,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 358.8,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-4",
+    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+    "primarySauceQty": "40ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Glaze reduction)"
   },
   {
     "id": "mmszgir1yk7ir",
@@ -12130,8 +12718,8 @@ window.INDUS_BIBLE = {
         "cost": 15.0
       },
       {
-        "item": "Indus Master Gravy Base (Dark Soy, Chili Paste, Broth)",
-        "qty": "200ml",
+        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+        "qty": "40ml (1.5 Ladles)",
         "cost": 14.0
       },
       {
@@ -12158,12 +12746,12 @@ window.INDUS_BIBLE = {
     ],
     "steps": [
       "WOK 1 (Base Rice): Heat wok until smoking. Swirl 15ml oil, add 10g minced garlic until golden. Flash-toss the steamed rice with light soy and white pepper on extreme high flame for 90 seconds. Transfer to deep ceramic bowl or claypot.",
-      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic.",
+      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic. [\u2192 USE: Indus Supreme Hot Garlic Master Glaze (Sauce #04) (40ml (1.5 Ladles))]",
       "Add protein and diamond-cut vegetables, flash-stir fry over high heat for 60 seconds.",
-      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil.",
+      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil. [\u2192 USE: Indus Supreme Hot Garlic Master Glaze (Sauce #04) (40ml (1.5 Ladles))]",
       "Gradually stream in cornstarch slurry while stirring continuously until a rich, glossy, nap-coating viscosity is achieved.",
       "Finish with 5ml pure toasted sesame oil and chopped spring onion whites.",
-      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice."
+      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Supreme Hot Garlic Master Glaze (Sauce #04) (40ml (1.5 Ladles))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
     "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
@@ -12173,7 +12761,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 19.0,
       "grossMargin": 324.0,
       "grossMarginPct": 81.0
-    }
+    },
+    "primarySauceId": "sauce-4",
+    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+    "primarySauceQty": "40ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Glaze reduction)"
   },
   {
     "id": "mmszgir1yyk3h",
@@ -12210,8 +12802,8 @@ window.INDUS_BIBLE = {
         "cost": 15.0
       },
       {
-        "item": "Indus Master Gravy Base (Dark Soy, Chili Paste, Broth)",
-        "qty": "200ml",
+        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+        "qty": "40ml (1.5 Ladles)",
         "cost": 14.0
       },
       {
@@ -12238,12 +12830,12 @@ window.INDUS_BIBLE = {
     ],
     "steps": [
       "WOK 1 (Base Rice): Heat wok until smoking. Swirl 15ml oil, add 10g minced garlic until golden. Flash-toss the steamed rice with light soy and white pepper on extreme high flame for 90 seconds. Transfer to deep ceramic bowl or claypot.",
-      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic.",
+      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic. [\u2192 USE: Indus Supreme Hot Garlic Master Glaze (Sauce #04) (40ml (1.5 Ladles))]",
       "Add protein and diamond-cut vegetables, flash-stir fry over high heat for 60 seconds.",
-      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil.",
+      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil. [\u2192 USE: Indus Supreme Hot Garlic Master Glaze (Sauce #04) (40ml (1.5 Ladles))]",
       "Gradually stream in cornstarch slurry while stirring continuously until a rich, glossy, nap-coating viscosity is achieved.",
       "Finish with 5ml pure toasted sesame oil and chopped spring onion whites.",
-      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice."
+      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Supreme Hot Garlic Master Glaze (Sauce #04) (40ml (1.5 Ladles))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
     "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
@@ -12253,7 +12845,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 323.4,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-4",
+    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+    "primarySauceQty": "40ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Glaze reduction)"
   },
   {
     "id": "mmszgir1yh46p",
@@ -12290,8 +12886,8 @@ window.INDUS_BIBLE = {
         "cost": 15.0
       },
       {
-        "item": "Indus Master Gravy Base (Dark Soy, Chili Paste, Broth)",
-        "qty": "200ml",
+        "item": "\u2605 Indo-Chinese Manchurian Mother Sauce Base (Sauce #03)",
+        "qty": "60ml (2 Ladles for Dry / 200ml for Gravy)",
         "cost": 14.0
       },
       {
@@ -12318,12 +12914,12 @@ window.INDUS_BIBLE = {
     ],
     "steps": [
       "WOK 1 (Base Rice): Heat wok until smoking. Swirl 15ml oil, add 10g minced garlic until golden. Flash-toss the steamed rice with light soy and white pepper on extreme high flame for 90 seconds. Transfer to deep ceramic bowl or claypot.",
-      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic.",
+      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic. [\u2192 USE: Indo-Chinese Manchurian Mother Sauce Base (Sauce #03) (60ml (2 Ladles for Dry / 200ml for Gravy))]",
       "Add protein and diamond-cut vegetables, flash-stir fry over high heat for 60 seconds.",
-      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil.",
+      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil. [\u2192 USE: Indo-Chinese Manchurian Mother Sauce Base (Sauce #03) (60ml (2 Ladles for Dry / 200ml for Gravy))]",
       "Gradually stream in cornstarch slurry while stirring continuously until a rich, glossy, nap-coating viscosity is achieved.",
       "Finish with 5ml pure toasted sesame oil and chopped spring onion whites.",
-      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice."
+      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indo-Chinese Manchurian Mother Sauce Base (Sauce #03) (60ml (2 Ladles for Dry / 200ml for Gravy))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
     "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
@@ -12333,7 +12929,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 311.6,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-3",
+    "primarySauceName": "Indo-Chinese Manchurian Mother Sauce Base (Sauce #03)",
+    "primarySauceQty": "60ml (2 Ladles for Dry / 200ml for Gravy)",
+    "primarySauceStage": "Stage 3 (Simmer reduction)"
   },
   {
     "id": "mmszgir1y4e7t",
@@ -12370,8 +12970,8 @@ window.INDUS_BIBLE = {
         "cost": 15.0
       },
       {
-        "item": "Indus Master Gravy Base (Dark Soy, Chili Paste, Broth)",
-        "qty": "200ml",
+        "item": "\u2605 Indo-Chinese Manchurian Mother Sauce Base (Sauce #03)",
+        "qty": "60ml (2 Ladles for Dry / 200ml for Gravy)",
         "cost": 14.0
       },
       {
@@ -12398,12 +12998,12 @@ window.INDUS_BIBLE = {
     ],
     "steps": [
       "WOK 1 (Base Rice): Heat wok until smoking. Swirl 15ml oil, add 10g minced garlic until golden. Flash-toss the steamed rice with light soy and white pepper on extreme high flame for 90 seconds. Transfer to deep ceramic bowl or claypot.",
-      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic.",
+      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic. [\u2192 USE: Indo-Chinese Manchurian Mother Sauce Base (Sauce #03) (60ml (2 Ladles for Dry / 200ml for Gravy))]",
       "Add protein and diamond-cut vegetables, flash-stir fry over high heat for 60 seconds.",
-      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil.",
+      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil. [\u2192 USE: Indo-Chinese Manchurian Mother Sauce Base (Sauce #03) (60ml (2 Ladles for Dry / 200ml for Gravy))]",
       "Gradually stream in cornstarch slurry while stirring continuously until a rich, glossy, nap-coating viscosity is achieved.",
       "Finish with 5ml pure toasted sesame oil and chopped spring onion whites.",
-      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice."
+      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indo-Chinese Manchurian Mother Sauce Base (Sauce #03) (60ml (2 Ladles for Dry / 200ml for Gravy))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
     "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
@@ -12413,7 +13013,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 343.2,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-3",
+    "primarySauceName": "Indo-Chinese Manchurian Mother Sauce Base (Sauce #03)",
+    "primarySauceQty": "60ml (2 Ladles for Dry / 200ml for Gravy)",
+    "primarySauceStage": "Stage 3 (Simmer reduction)"
   },
   {
     "id": "mmszgir1yxg8g",
@@ -12450,8 +13054,8 @@ window.INDUS_BIBLE = {
         "cost": 15.0
       },
       {
-        "item": "Indus Master Gravy Base (Dark Soy, Chili Paste, Broth)",
-        "qty": "200ml",
+        "item": "\u2605 Indo-Chinese Manchurian Mother Sauce Base (Sauce #03)",
+        "qty": "60ml (2 Ladles for Dry / 200ml for Gravy)",
         "cost": 14.0
       },
       {
@@ -12478,12 +13082,12 @@ window.INDUS_BIBLE = {
     ],
     "steps": [
       "WOK 1 (Base Rice): Heat wok until smoking. Swirl 15ml oil, add 10g minced garlic until golden. Flash-toss the steamed rice with light soy and white pepper on extreme high flame for 90 seconds. Transfer to deep ceramic bowl or claypot.",
-      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic.",
+      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic. [\u2192 USE: Indo-Chinese Manchurian Mother Sauce Base (Sauce #03) (60ml (2 Ladles for Dry / 200ml for Gravy))]",
       "Add protein and diamond-cut vegetables, flash-stir fry over high heat for 60 seconds.",
-      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil.",
+      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil. [\u2192 USE: Indo-Chinese Manchurian Mother Sauce Base (Sauce #03) (60ml (2 Ladles for Dry / 200ml for Gravy))]",
       "Gradually stream in cornstarch slurry while stirring continuously until a rich, glossy, nap-coating viscosity is achieved.",
       "Finish with 5ml pure toasted sesame oil and chopped spring onion whites.",
-      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice."
+      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indo-Chinese Manchurian Mother Sauce Base (Sauce #03) (60ml (2 Ladles for Dry / 200ml for Gravy))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
     "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
@@ -12493,7 +13097,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 19.0,
       "grossMargin": 307.8,
       "grossMarginPct": 81.0
-    }
+    },
+    "primarySauceId": "sauce-3",
+    "primarySauceName": "Indo-Chinese Manchurian Mother Sauce Base (Sauce #03)",
+    "primarySauceQty": "60ml (2 Ladles for Dry / 200ml for Gravy)",
+    "primarySauceStage": "Stage 3 (Simmer reduction)"
   },
   {
     "id": "mmszgir1yxtsq",
@@ -12530,8 +13138,8 @@ window.INDUS_BIBLE = {
         "cost": 15.0
       },
       {
-        "item": "Indus Master Gravy Base (Dark Soy, Chili Paste, Broth)",
-        "qty": "200ml",
+        "item": "\u2605 Indo-Chinese Manchurian Mother Sauce Base (Sauce #03)",
+        "qty": "60ml (2 Ladles for Dry / 200ml for Gravy)",
         "cost": 14.0
       },
       {
@@ -12558,12 +13166,12 @@ window.INDUS_BIBLE = {
     ],
     "steps": [
       "WOK 1 (Base Rice): Heat wok until smoking. Swirl 15ml oil, add 10g minced garlic until golden. Flash-toss the steamed rice with light soy and white pepper on extreme high flame for 90 seconds. Transfer to deep ceramic bowl or claypot.",
-      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic.",
+      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic. [\u2192 USE: Indo-Chinese Manchurian Mother Sauce Base (Sauce #03) (60ml (2 Ladles for Dry / 200ml for Gravy))]",
       "Add protein and diamond-cut vegetables, flash-stir fry over high heat for 60 seconds.",
-      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil.",
+      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil. [\u2192 USE: Indo-Chinese Manchurian Mother Sauce Base (Sauce #03) (60ml (2 Ladles for Dry / 200ml for Gravy))]",
       "Gradually stream in cornstarch slurry while stirring continuously until a rich, glossy, nap-coating viscosity is achieved.",
       "Finish with 5ml pure toasted sesame oil and chopped spring onion whites.",
-      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice."
+      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indo-Chinese Manchurian Mother Sauce Base (Sauce #03) (60ml (2 Ladles for Dry / 200ml for Gravy))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
     "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
@@ -12573,7 +13181,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 308.0,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-3",
+    "primarySauceName": "Indo-Chinese Manchurian Mother Sauce Base (Sauce #03)",
+    "primarySauceQty": "60ml (2 Ladles for Dry / 200ml for Gravy)",
+    "primarySauceStage": "Stage 3 (Simmer reduction)"
   },
   {
     "id": "mmszgir1yykju",
@@ -12610,8 +13222,8 @@ window.INDUS_BIBLE = {
         "cost": 15.0
       },
       {
-        "item": "Indus Master Gravy Base (Dark Soy, Chili Paste, Broth)",
-        "qty": "200ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -12638,12 +13250,12 @@ window.INDUS_BIBLE = {
     ],
     "steps": [
       "WOK 1 (Base Rice): Heat wok until smoking. Swirl 15ml oil, add 10g minced garlic until golden. Flash-toss the steamed rice with light soy and white pepper on extreme high flame for 90 seconds. Transfer to deep ceramic bowl or claypot.",
-      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic.",
+      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Add protein and diamond-cut vegetables, flash-stir fry over high heat for 60 seconds.",
-      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil.",
+      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Gradually stream in cornstarch slurry while stirring continuously until a rich, glossy, nap-coating viscosity is achieved.",
       "Finish with 5ml pure toasted sesame oil and chopped spring onion whites.",
-      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice."
+      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
     "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
@@ -12653,7 +13265,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 328.0,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yxsfi",
@@ -12690,8 +13306,8 @@ window.INDUS_BIBLE = {
         "cost": 15.0
       },
       {
-        "item": "Indus Master Gravy Base (Dark Soy, Chili Paste, Broth)",
-        "qty": "200ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -12718,12 +13334,12 @@ window.INDUS_BIBLE = {
     ],
     "steps": [
       "WOK 1 (Base Rice): Heat wok until smoking. Swirl 15ml oil, add 10g minced garlic until golden. Flash-toss the steamed rice with light soy and white pepper on extreme high flame for 90 seconds. Transfer to deep ceramic bowl or claypot.",
-      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic.",
+      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Add protein and diamond-cut vegetables, flash-stir fry over high heat for 60 seconds.",
-      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil.",
+      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Gradually stream in cornstarch slurry while stirring continuously until a rich, glossy, nap-coating viscosity is achieved.",
       "Finish with 5ml pure toasted sesame oil and chopped spring onion whites.",
-      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice."
+      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
     "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
@@ -12733,7 +13349,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 358.8,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yj2ox",
@@ -12770,8 +13390,8 @@ window.INDUS_BIBLE = {
         "cost": 15.0
       },
       {
-        "item": "Indus Master Gravy Base (Dark Soy, Chili Paste, Broth)",
-        "qty": "200ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -12798,12 +13418,12 @@ window.INDUS_BIBLE = {
     ],
     "steps": [
       "WOK 1 (Base Rice): Heat wok until smoking. Swirl 15ml oil, add 10g minced garlic until golden. Flash-toss the steamed rice with light soy and white pepper on extreme high flame for 90 seconds. Transfer to deep ceramic bowl or claypot.",
-      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic.",
+      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Add protein and diamond-cut vegetables, flash-stir fry over high heat for 60 seconds.",
-      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil.",
+      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Gradually stream in cornstarch slurry while stirring continuously until a rich, glossy, nap-coating viscosity is achieved.",
       "Finish with 5ml pure toasted sesame oil and chopped spring onion whites.",
-      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice."
+      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
     "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
@@ -12813,7 +13433,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 19.0,
       "grossMargin": 332.1,
       "grossMarginPct": 81.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yqlt5",
@@ -12850,8 +13474,8 @@ window.INDUS_BIBLE = {
         "cost": 15.0
       },
       {
-        "item": "Indus Master Gravy Base (Dark Soy, Chili Paste, Broth)",
-        "qty": "200ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -12878,12 +13502,12 @@ window.INDUS_BIBLE = {
     ],
     "steps": [
       "WOK 1 (Base Rice): Heat wok until smoking. Swirl 15ml oil, add 10g minced garlic until golden. Flash-toss the steamed rice with light soy and white pepper on extreme high flame for 90 seconds. Transfer to deep ceramic bowl or claypot.",
-      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic.",
+      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Add protein and diamond-cut vegetables, flash-stir fry over high heat for 60 seconds.",
-      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil.",
+      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Gradually stream in cornstarch slurry while stirring continuously until a rich, glossy, nap-coating viscosity is achieved.",
       "Finish with 5ml pure toasted sesame oil and chopped spring onion whites.",
-      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice."
+      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
     "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
@@ -12893,7 +13517,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 331.1,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1y4wqs",
@@ -12930,8 +13558,8 @@ window.INDUS_BIBLE = {
         "cost": 15.0
       },
       {
-        "item": "Indus Master Gravy Base (Dark Soy, Chili Paste, Broth)",
-        "qty": "200ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -12958,12 +13586,12 @@ window.INDUS_BIBLE = {
     ],
     "steps": [
       "WOK 1 (Base Rice): Heat wok until smoking. Swirl 15ml oil, add 10g minced garlic until golden. Flash-toss the steamed rice with light soy and white pepper on extreme high flame for 90 seconds. Transfer to deep ceramic bowl or claypot.",
-      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic.",
+      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Add protein and diamond-cut vegetables, flash-stir fry over high heat for 60 seconds.",
-      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil.",
+      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Gradually stream in cornstarch slurry while stirring continuously until a rich, glossy, nap-coating viscosity is achieved.",
       "Finish with 5ml pure toasted sesame oil and chopped spring onion whites.",
-      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice."
+      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
     "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
@@ -12973,7 +13601,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 328.0,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yoc9u",
@@ -13010,8 +13642,8 @@ window.INDUS_BIBLE = {
         "cost": 15.0
       },
       {
-        "item": "Indus Master Gravy Base (Dark Soy, Chili Paste, Broth)",
-        "qty": "200ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -13038,12 +13670,12 @@ window.INDUS_BIBLE = {
     ],
     "steps": [
       "WOK 1 (Base Rice): Heat wok until smoking. Swirl 15ml oil, add 10g minced garlic until golden. Flash-toss the steamed rice with light soy and white pepper on extreme high flame for 90 seconds. Transfer to deep ceramic bowl or claypot.",
-      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic.",
+      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Add protein and diamond-cut vegetables, flash-stir fry over high heat for 60 seconds.",
-      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil.",
+      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Gradually stream in cornstarch slurry while stirring continuously until a rich, glossy, nap-coating viscosity is achieved.",
       "Finish with 5ml pure toasted sesame oil and chopped spring onion whites.",
-      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice."
+      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
     "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
@@ -13053,7 +13685,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 358.8,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1ygyb5",
@@ -13090,8 +13726,8 @@ window.INDUS_BIBLE = {
         "cost": 15.0
       },
       {
-        "item": "Indus Master Gravy Base (Dark Soy, Chili Paste, Broth)",
-        "qty": "200ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -13118,12 +13754,12 @@ window.INDUS_BIBLE = {
     ],
     "steps": [
       "WOK 1 (Base Rice): Heat wok until smoking. Swirl 15ml oil, add 10g minced garlic until golden. Flash-toss the steamed rice with light soy and white pepper on extreme high flame for 90 seconds. Transfer to deep ceramic bowl or claypot.",
-      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic.",
+      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Add protein and diamond-cut vegetables, flash-stir fry over high heat for 60 seconds.",
-      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil.",
+      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Gradually stream in cornstarch slurry while stirring continuously until a rich, glossy, nap-coating viscosity is achieved.",
       "Finish with 5ml pure toasted sesame oil and chopped spring onion whites.",
-      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice."
+      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
     "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
@@ -13133,7 +13769,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 19.0,
       "grossMargin": 324.0,
       "grossMarginPct": 81.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yxhec",
@@ -13170,8 +13810,8 @@ window.INDUS_BIBLE = {
         "cost": 15.0
       },
       {
-        "item": "Indus Master Gravy Base (Dark Soy, Chili Paste, Broth)",
-        "qty": "200ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -13198,12 +13838,12 @@ window.INDUS_BIBLE = {
     ],
     "steps": [
       "WOK 1 (Base Rice): Heat wok until smoking. Swirl 15ml oil, add 10g minced garlic until golden. Flash-toss the steamed rice with light soy and white pepper on extreme high flame for 90 seconds. Transfer to deep ceramic bowl or claypot.",
-      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic.",
+      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Add protein and diamond-cut vegetables, flash-stir fry over high heat for 60 seconds.",
-      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil.",
+      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Gradually stream in cornstarch slurry while stirring continuously until a rich, glossy, nap-coating viscosity is achieved.",
       "Finish with 5ml pure toasted sesame oil and chopped spring onion whites.",
-      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice."
+      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
     "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
@@ -13213,7 +13853,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 354.2,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yz6md",
@@ -13250,8 +13894,8 @@ window.INDUS_BIBLE = {
         "cost": 15.0
       },
       {
-        "item": "Indus Master Gravy Base (Dark Soy, Chili Paste, Broth)",
-        "qty": "200ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -13278,12 +13922,12 @@ window.INDUS_BIBLE = {
     ],
     "steps": [
       "WOK 1 (Base Rice): Heat wok until smoking. Swirl 15ml oil, add 10g minced garlic until golden. Flash-toss the steamed rice with light soy and white pepper on extreme high flame for 90 seconds. Transfer to deep ceramic bowl or claypot.",
-      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic.",
+      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Add protein and diamond-cut vegetables, flash-stir fry over high heat for 60 seconds.",
-      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil.",
+      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Gradually stream in cornstarch slurry while stirring continuously until a rich, glossy, nap-coating viscosity is achieved.",
       "Finish with 5ml pure toasted sesame oil and chopped spring onion whites.",
-      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice."
+      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
     "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
@@ -13293,7 +13937,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 328.0,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1y8ims",
@@ -13330,8 +13978,8 @@ window.INDUS_BIBLE = {
         "cost": 15.0
       },
       {
-        "item": "Indus Master Gravy Base (Dark Soy, Chili Paste, Broth)",
-        "qty": "200ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -13358,12 +14006,12 @@ window.INDUS_BIBLE = {
     ],
     "steps": [
       "WOK 1 (Base Rice): Heat wok until smoking. Swirl 15ml oil, add 10g minced garlic until golden. Flash-toss the steamed rice with light soy and white pepper on extreme high flame for 90 seconds. Transfer to deep ceramic bowl or claypot.",
-      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic.",
+      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Add protein and diamond-cut vegetables, flash-stir fry over high heat for 60 seconds.",
-      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil.",
+      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Gradually stream in cornstarch slurry while stirring continuously until a rich, glossy, nap-coating viscosity is achieved.",
       "Finish with 5ml pure toasted sesame oil and chopped spring onion whites.",
-      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice."
+      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
     "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
@@ -13373,7 +14021,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 374.4,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yhqee",
@@ -13410,8 +14062,8 @@ window.INDUS_BIBLE = {
         "cost": 15.0
       },
       {
-        "item": "Indus Master Gravy Base (Dark Soy, Chili Paste, Broth)",
-        "qty": "200ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -13438,12 +14090,12 @@ window.INDUS_BIBLE = {
     ],
     "steps": [
       "WOK 1 (Base Rice): Heat wok until smoking. Swirl 15ml oil, add 10g minced garlic until golden. Flash-toss the steamed rice with light soy and white pepper on extreme high flame for 90 seconds. Transfer to deep ceramic bowl or claypot.",
-      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic.",
+      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Add protein and diamond-cut vegetables, flash-stir fry over high heat for 60 seconds.",
-      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil.",
+      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Gradually stream in cornstarch slurry while stirring continuously until a rich, glossy, nap-coating viscosity is achieved.",
       "Finish with 5ml pure toasted sesame oil and chopped spring onion whites.",
-      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice."
+      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
     "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
@@ -13453,7 +14105,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 19.0,
       "grossMargin": 340.2,
       "grossMarginPct": 81.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1ywv8p",
@@ -13490,8 +14146,8 @@ window.INDUS_BIBLE = {
         "cost": 15.0
       },
       {
-        "item": "Indus Master Gravy Base (Dark Soy, Chili Paste, Broth)",
-        "qty": "200ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -13518,12 +14174,12 @@ window.INDUS_BIBLE = {
     ],
     "steps": [
       "WOK 1 (Base Rice): Heat wok until smoking. Swirl 15ml oil, add 10g minced garlic until golden. Flash-toss the steamed rice with light soy and white pepper on extreme high flame for 90 seconds. Transfer to deep ceramic bowl or claypot.",
-      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic.",
+      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Add protein and diamond-cut vegetables, flash-stir fry over high heat for 60 seconds.",
-      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil.",
+      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Gradually stream in cornstarch slurry while stirring continuously until a rich, glossy, nap-coating viscosity is achieved.",
       "Finish with 5ml pure toasted sesame oil and chopped spring onion whites.",
-      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice."
+      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
     "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
@@ -13533,7 +14189,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 354.2,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yyw3n",
@@ -13570,8 +14230,8 @@ window.INDUS_BIBLE = {
         "cost": 15.0
       },
       {
-        "item": "Indus Master Gravy Base (Dark Soy, Chili Paste, Broth)",
-        "qty": "200ml",
+        "item": "\u2605 Indus Signature Red Schezwan Mother Paste (Sauce #01)",
+        "qty": "45ml (1.5 Ladles)",
         "cost": 14.0
       },
       {
@@ -13598,12 +14258,12 @@ window.INDUS_BIBLE = {
     ],
     "steps": [
       "WOK 1 (Base Rice): Heat wok until smoking. Swirl 15ml oil, add 10g minced garlic until golden. Flash-toss the steamed rice with light soy and white pepper on extreme high flame for 90 seconds. Transfer to deep ceramic bowl or claypot.",
-      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic.",
+      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic. [\u2192 USE: Indus Signature Red Schezwan Mother Paste (Sauce #01) (45ml (1.5 Ladles))]",
       "Add protein and diamond-cut vegetables, flash-stir fry over high heat for 60 seconds.",
-      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil.",
+      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil. [\u2192 USE: Indus Signature Red Schezwan Mother Paste (Sauce #01) (45ml (1.5 Ladles))]",
       "Gradually stream in cornstarch slurry while stirring continuously until a rich, glossy, nap-coating viscosity is achieved.",
       "Finish with 5ml pure toasted sesame oil and chopped spring onion whites.",
-      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice."
+      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Signature Red Schezwan Mother Paste (Sauce #01) (45ml (1.5 Ladles))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
     "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
@@ -13613,7 +14273,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 287.0,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-1",
+    "primarySauceName": "Indus Signature Red Schezwan Mother Paste (Sauce #01)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Saut\u00e9 after aromatics)"
   },
   {
     "id": "mmszgir1yw2f3",
@@ -13650,8 +14314,8 @@ window.INDUS_BIBLE = {
         "cost": 15.0
       },
       {
-        "item": "Indus Master Gravy Base (Dark Soy, Chili Paste, Broth)",
-        "qty": "200ml",
+        "item": "\u2605 Indus Signature Red Schezwan Mother Paste (Sauce #01)",
+        "qty": "45ml (1.5 Ladles)",
         "cost": 14.0
       },
       {
@@ -13678,12 +14342,12 @@ window.INDUS_BIBLE = {
     ],
     "steps": [
       "WOK 1 (Base Rice): Heat wok until smoking. Swirl 15ml oil, add 10g minced garlic until golden. Flash-toss the steamed rice with light soy and white pepper on extreme high flame for 90 seconds. Transfer to deep ceramic bowl or claypot.",
-      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic.",
+      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic. [\u2192 USE: Indus Signature Red Schezwan Mother Paste (Sauce #01) (45ml (1.5 Ladles))]",
       "Add protein and diamond-cut vegetables, flash-stir fry over high heat for 60 seconds.",
-      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil.",
+      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil. [\u2192 USE: Indus Signature Red Schezwan Mother Paste (Sauce #01) (45ml (1.5 Ladles))]",
       "Gradually stream in cornstarch slurry while stirring continuously until a rich, glossy, nap-coating viscosity is achieved.",
       "Finish with 5ml pure toasted sesame oil and chopped spring onion whites.",
-      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice."
+      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Signature Red Schezwan Mother Paste (Sauce #01) (45ml (1.5 Ladles))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
     "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
@@ -13693,7 +14357,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 312.0,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-1",
+    "primarySauceName": "Indus Signature Red Schezwan Mother Paste (Sauce #01)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Saut\u00e9 after aromatics)"
   },
   {
     "id": "mmszgir1y5f81",
@@ -13730,8 +14398,8 @@ window.INDUS_BIBLE = {
         "cost": 15.0
       },
       {
-        "item": "Indus Master Gravy Base (Dark Soy, Chili Paste, Broth)",
-        "qty": "200ml",
+        "item": "\u2605 Indus Signature Red Schezwan Mother Paste (Sauce #01)",
+        "qty": "45ml (1.5 Ladles)",
         "cost": 14.0
       },
       {
@@ -13758,12 +14426,12 @@ window.INDUS_BIBLE = {
     ],
     "steps": [
       "WOK 1 (Base Rice): Heat wok until smoking. Swirl 15ml oil, add 10g minced garlic until golden. Flash-toss the steamed rice with light soy and white pepper on extreme high flame for 90 seconds. Transfer to deep ceramic bowl or claypot.",
-      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic.",
+      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic. [\u2192 USE: Indus Signature Red Schezwan Mother Paste (Sauce #01) (45ml (1.5 Ladles))]",
       "Add protein and diamond-cut vegetables, flash-stir fry over high heat for 60 seconds.",
-      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil.",
+      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil. [\u2192 USE: Indus Signature Red Schezwan Mother Paste (Sauce #01) (45ml (1.5 Ladles))]",
       "Gradually stream in cornstarch slurry while stirring continuously until a rich, glossy, nap-coating viscosity is achieved.",
       "Finish with 5ml pure toasted sesame oil and chopped spring onion whites.",
-      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice."
+      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Signature Red Schezwan Mother Paste (Sauce #01) (45ml (1.5 Ladles))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
     "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
@@ -13773,7 +14441,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 19.0,
       "grossMargin": 291.6,
       "grossMarginPct": 81.0
-    }
+    },
+    "primarySauceId": "sauce-1",
+    "primarySauceName": "Indus Signature Red Schezwan Mother Paste (Sauce #01)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Saut\u00e9 after aromatics)"
   },
   {
     "id": "mmszgir1ydm82",
@@ -13810,8 +14482,8 @@ window.INDUS_BIBLE = {
         "cost": 15.0
       },
       {
-        "item": "Indus Master Gravy Base (Dark Soy, Chili Paste, Broth)",
-        "qty": "200ml",
+        "item": "\u2605 Indus Signature Red Schezwan Mother Paste (Sauce #01)",
+        "qty": "45ml (1.5 Ladles)",
         "cost": 14.0
       },
       {
@@ -13838,12 +14510,12 @@ window.INDUS_BIBLE = {
     ],
     "steps": [
       "WOK 1 (Base Rice): Heat wok until smoking. Swirl 15ml oil, add 10g minced garlic until golden. Flash-toss the steamed rice with light soy and white pepper on extreme high flame for 90 seconds. Transfer to deep ceramic bowl or claypot.",
-      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic.",
+      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic. [\u2192 USE: Indus Signature Red Schezwan Mother Paste (Sauce #01) (45ml (1.5 Ladles))]",
       "Add protein and diamond-cut vegetables, flash-stir fry over high heat for 60 seconds.",
-      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil.",
+      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil. [\u2192 USE: Indus Signature Red Schezwan Mother Paste (Sauce #01) (45ml (1.5 Ladles))]",
       "Gradually stream in cornstarch slurry while stirring continuously until a rich, glossy, nap-coating viscosity is achieved.",
       "Finish with 5ml pure toasted sesame oil and chopped spring onion whites.",
-      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice."
+      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Signature Red Schezwan Mother Paste (Sauce #01) (45ml (1.5 Ladles))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
     "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
@@ -13853,7 +14525,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 284.9,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-1",
+    "primarySauceName": "Indus Signature Red Schezwan Mother Paste (Sauce #01)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Saut\u00e9 after aromatics)"
   },
   {
     "id": "mmszgir1y50yz",
@@ -13890,8 +14566,8 @@ window.INDUS_BIBLE = {
         "cost": 15.0
       },
       {
-        "item": "Indus Master Gravy Base (Dark Soy, Chili Paste, Broth)",
-        "qty": "200ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -13918,12 +14594,12 @@ window.INDUS_BIBLE = {
     ],
     "steps": [
       "WOK 1 (Base Rice): Heat wok until smoking. Swirl 15ml oil, add 10g minced garlic until golden. Flash-toss the steamed rice with light soy and white pepper on extreme high flame for 90 seconds. Transfer to deep ceramic bowl or claypot.",
-      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic.",
+      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Add protein and diamond-cut vegetables, flash-stir fry over high heat for 60 seconds.",
-      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil.",
+      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Gradually stream in cornstarch slurry while stirring continuously until a rich, glossy, nap-coating viscosity is achieved.",
       "Finish with 5ml pure toasted sesame oil and chopped spring onion whites.",
-      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice."
+      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
     "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
@@ -13933,7 +14609,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 303.4,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1ycd13",
@@ -13970,8 +14650,8 @@ window.INDUS_BIBLE = {
         "cost": 15.0
       },
       {
-        "item": "Indus Master Gravy Base (Dark Soy, Chili Paste, Broth)",
-        "qty": "200ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -13998,12 +14678,12 @@ window.INDUS_BIBLE = {
     ],
     "steps": [
       "WOK 1 (Base Rice): Heat wok until smoking. Swirl 15ml oil, add 10g minced garlic until golden. Flash-toss the steamed rice with light soy and white pepper on extreme high flame for 90 seconds. Transfer to deep ceramic bowl or claypot.",
-      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic.",
+      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Add protein and diamond-cut vegetables, flash-stir fry over high heat for 60 seconds.",
-      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil.",
+      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Gradually stream in cornstarch slurry while stirring continuously until a rich, glossy, nap-coating viscosity is achieved.",
       "Finish with 5ml pure toasted sesame oil and chopped spring onion whites.",
-      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice."
+      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
     "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
@@ -14013,7 +14693,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 343.2,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yu4wq",
@@ -14050,8 +14734,8 @@ window.INDUS_BIBLE = {
         "cost": 15.0
       },
       {
-        "item": "Indus Master Gravy Base (Dark Soy, Chili Paste, Broth)",
-        "qty": "200ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -14078,12 +14762,12 @@ window.INDUS_BIBLE = {
     ],
     "steps": [
       "WOK 1 (Base Rice): Heat wok until smoking. Swirl 15ml oil, add 10g minced garlic until golden. Flash-toss the steamed rice with light soy and white pepper on extreme high flame for 90 seconds. Transfer to deep ceramic bowl or claypot.",
-      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic.",
+      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Add protein and diamond-cut vegetables, flash-stir fry over high heat for 60 seconds.",
-      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil.",
+      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Gradually stream in cornstarch slurry while stirring continuously until a rich, glossy, nap-coating viscosity is achieved.",
       "Finish with 5ml pure toasted sesame oil and chopped spring onion whites.",
-      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice."
+      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
     "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
@@ -14093,7 +14777,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 19.0,
       "grossMargin": 307.8,
       "grossMarginPct": 81.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yh0c5",
@@ -14130,8 +14818,8 @@ window.INDUS_BIBLE = {
         "cost": 15.0
       },
       {
-        "item": "Indus Master Gravy Base (Dark Soy, Chili Paste, Broth)",
-        "qty": "200ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -14158,12 +14846,12 @@ window.INDUS_BIBLE = {
     ],
     "steps": [
       "WOK 1 (Base Rice): Heat wok until smoking. Swirl 15ml oil, add 10g minced garlic until golden. Flash-toss the steamed rice with light soy and white pepper on extreme high flame for 90 seconds. Transfer to deep ceramic bowl or claypot.",
-      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic.",
+      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Add protein and diamond-cut vegetables, flash-stir fry over high heat for 60 seconds.",
-      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil.",
+      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Gradually stream in cornstarch slurry while stirring continuously until a rich, glossy, nap-coating viscosity is achieved.",
       "Finish with 5ml pure toasted sesame oil and chopped spring onion whites.",
-      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice."
+      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
     "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
@@ -14173,7 +14861,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 308.0,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yjl6s",
@@ -14210,8 +14902,8 @@ window.INDUS_BIBLE = {
         "cost": 15.0
       },
       {
-        "item": "Indus Master Gravy Base (Dark Soy, Chili Paste, Broth)",
-        "qty": "200ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -14238,12 +14930,12 @@ window.INDUS_BIBLE = {
     ],
     "steps": [
       "WOK 1 (Base Rice): Heat wok until smoking. Swirl 15ml oil, add 10g minced garlic until golden. Flash-toss the steamed rice with light soy and white pepper on extreme high flame for 90 seconds. Transfer to deep ceramic bowl or claypot.",
-      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic.",
+      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Add protein and diamond-cut vegetables, flash-stir fry over high heat for 60 seconds.",
-      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil.",
+      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Gradually stream in cornstarch slurry while stirring continuously until a rich, glossy, nap-coating viscosity is achieved.",
       "Finish with 5ml pure toasted sesame oil and chopped spring onion whites.",
-      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice."
+      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
     "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
@@ -14253,7 +14945,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 328.0,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1youcu",
@@ -14290,8 +14986,8 @@ window.INDUS_BIBLE = {
         "cost": 15.0
       },
       {
-        "item": "Indus Master Gravy Base (Dark Soy, Chili Paste, Broth)",
-        "qty": "200ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -14318,12 +15014,12 @@ window.INDUS_BIBLE = {
     ],
     "steps": [
       "WOK 1 (Base Rice): Heat wok until smoking. Swirl 15ml oil, add 10g minced garlic until golden. Flash-toss the steamed rice with light soy and white pepper on extreme high flame for 90 seconds. Transfer to deep ceramic bowl or claypot.",
-      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic.",
+      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Add protein and diamond-cut vegetables, flash-stir fry over high heat for 60 seconds.",
-      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil.",
+      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Gradually stream in cornstarch slurry while stirring continuously until a rich, glossy, nap-coating viscosity is achieved.",
       "Finish with 5ml pure toasted sesame oil and chopped spring onion whites.",
-      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice."
+      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
     "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
@@ -14333,7 +15029,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 358.8,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1ytehc",
@@ -14370,8 +15070,8 @@ window.INDUS_BIBLE = {
         "cost": 15.0
       },
       {
-        "item": "Indus Master Gravy Base (Dark Soy, Chili Paste, Broth)",
-        "qty": "200ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -14398,12 +15098,12 @@ window.INDUS_BIBLE = {
     ],
     "steps": [
       "WOK 1 (Base Rice): Heat wok until smoking. Swirl 15ml oil, add 10g minced garlic until golden. Flash-toss the steamed rice with light soy and white pepper on extreme high flame for 90 seconds. Transfer to deep ceramic bowl or claypot.",
-      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic.",
+      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Add protein and diamond-cut vegetables, flash-stir fry over high heat for 60 seconds.",
-      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil.",
+      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Gradually stream in cornstarch slurry while stirring continuously until a rich, glossy, nap-coating viscosity is achieved.",
       "Finish with 5ml pure toasted sesame oil and chopped spring onion whites.",
-      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice."
+      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
     "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
@@ -14413,7 +15113,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 19.0,
       "grossMargin": 332.1,
       "grossMarginPct": 81.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yic8z",
@@ -14450,8 +15154,8 @@ window.INDUS_BIBLE = {
         "cost": 15.0
       },
       {
-        "item": "Indus Master Gravy Base (Dark Soy, Chili Paste, Broth)",
-        "qty": "200ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -14478,12 +15182,12 @@ window.INDUS_BIBLE = {
     ],
     "steps": [
       "WOK 1 (Base Rice): Heat wok until smoking. Swirl 15ml oil, add 10g minced garlic until golden. Flash-toss the steamed rice with light soy and white pepper on extreme high flame for 90 seconds. Transfer to deep ceramic bowl or claypot.",
-      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic.",
+      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Add protein and diamond-cut vegetables, flash-stir fry over high heat for 60 seconds.",
-      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil.",
+      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Gradually stream in cornstarch slurry while stirring continuously until a rich, glossy, nap-coating viscosity is achieved.",
       "Finish with 5ml pure toasted sesame oil and chopped spring onion whites.",
-      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice."
+      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
     "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
@@ -14493,7 +15197,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 331.1,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yuqtx",
@@ -14530,8 +15238,8 @@ window.INDUS_BIBLE = {
         "cost": 15.0
       },
       {
-        "item": "Indus Master Gravy Base (Dark Soy, Chili Paste, Broth)",
-        "qty": "200ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -14558,12 +15266,12 @@ window.INDUS_BIBLE = {
     ],
     "steps": [
       "WOK 1 (Base Rice): Heat wok until smoking. Swirl 15ml oil, add 10g minced garlic until golden. Flash-toss the steamed rice with light soy and white pepper on extreme high flame for 90 seconds. Transfer to deep ceramic bowl or claypot.",
-      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic.",
+      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Add protein and diamond-cut vegetables, flash-stir fry over high heat for 60 seconds.",
-      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil.",
+      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Gradually stream in cornstarch slurry while stirring continuously until a rich, glossy, nap-coating viscosity is achieved.",
       "Finish with 5ml pure toasted sesame oil and chopped spring onion whites.",
-      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice."
+      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
     "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
@@ -14573,7 +15281,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 328.0,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yyls6",
@@ -14610,8 +15322,8 @@ window.INDUS_BIBLE = {
         "cost": 15.0
       },
       {
-        "item": "Indus Master Gravy Base (Dark Soy, Chili Paste, Broth)",
-        "qty": "200ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -14638,12 +15350,12 @@ window.INDUS_BIBLE = {
     ],
     "steps": [
       "WOK 1 (Base Rice): Heat wok until smoking. Swirl 15ml oil, add 10g minced garlic until golden. Flash-toss the steamed rice with light soy and white pepper on extreme high flame for 90 seconds. Transfer to deep ceramic bowl or claypot.",
-      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic.",
+      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Add protein and diamond-cut vegetables, flash-stir fry over high heat for 60 seconds.",
-      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil.",
+      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Gradually stream in cornstarch slurry while stirring continuously until a rich, glossy, nap-coating viscosity is achieved.",
       "Finish with 5ml pure toasted sesame oil and chopped spring onion whites.",
-      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice."
+      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
     "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
@@ -14653,7 +15365,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 358.8,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1y78v4",
@@ -14690,8 +15406,8 @@ window.INDUS_BIBLE = {
         "cost": 15.0
       },
       {
-        "item": "Indus Master Gravy Base (Dark Soy, Chili Paste, Broth)",
-        "qty": "200ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -14718,12 +15434,12 @@ window.INDUS_BIBLE = {
     ],
     "steps": [
       "WOK 1 (Base Rice): Heat wok until smoking. Swirl 15ml oil, add 10g minced garlic until golden. Flash-toss the steamed rice with light soy and white pepper on extreme high flame for 90 seconds. Transfer to deep ceramic bowl or claypot.",
-      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic.",
+      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Add protein and diamond-cut vegetables, flash-stir fry over high heat for 60 seconds.",
-      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil.",
+      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Gradually stream in cornstarch slurry while stirring continuously until a rich, glossy, nap-coating viscosity is achieved.",
       "Finish with 5ml pure toasted sesame oil and chopped spring onion whites.",
-      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice."
+      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
     "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
@@ -14733,7 +15449,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 19.0,
       "grossMargin": 332.1,
       "grossMarginPct": 81.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yksuu",
@@ -14770,8 +15490,8 @@ window.INDUS_BIBLE = {
         "cost": 15.0
       },
       {
-        "item": "Indus Master Gravy Base (Dark Soy, Chili Paste, Broth)",
-        "qty": "200ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -14798,12 +15518,12 @@ window.INDUS_BIBLE = {
     ],
     "steps": [
       "WOK 1 (Base Rice): Heat wok until smoking. Swirl 15ml oil, add 10g minced garlic until golden. Flash-toss the steamed rice with light soy and white pepper on extreme high flame for 90 seconds. Transfer to deep ceramic bowl or claypot.",
-      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic.",
+      "WOK 2 (Gravy): Wipe wok clean. Heat 15ml oil, add ginger-garlic mince and green chillies. Saut\u00e9 for 15 seconds until aromatic. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Add protein and diamond-cut vegetables, flash-stir fry over high heat for 60 seconds.",
-      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil.",
+      "Pour in Indus mother gravy base and seasoned vegetable broth. Bring to a rolling boil. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Gradually stream in cornstarch slurry while stirring continuously until a rich, glossy, nap-coating viscosity is achieved.",
       "Finish with 5ml pure toasted sesame oil and chopped spring onion whites.",
-      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice."
+      "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
     "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
@@ -14813,7 +15533,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 331.1,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yyo5v",
@@ -14853,6 +15577,11 @@ window.INDUS_BIBLE = {
         "item": "Toppings (Nori Sheet, Sweet Corn, Scallions, Sesame)",
         "qty": "30g",
         "cost": 10.0
+      },
+      {
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze",
+        "cost": 5.0
       }
     ],
     "misaRequired": [
@@ -14862,7 +15591,7 @@ window.INDUS_BIBLE = {
     ],
     "steps": [
       "Boil fresh ramen noodles in salted water for exactly 2 minutes until springy.",
-      "Heat 300ml signature broth in a saucepan with miso/shoyu tare.",
+      "Heat 300ml signature broth in a saucepan with miso/shoyu tare. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze)]",
       "Place hot broth in deep ceramic ramen bowl.",
       "Fold in cooked noodles with chopsticks to create a neat bed.",
       "Arrange chashu chicken slices, halved ramen egg, nori sheet, blanched bok choy, and sweet corn on top.",
@@ -14876,7 +15605,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 429.0,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1yxqxm",
@@ -14916,6 +15649,11 @@ window.INDUS_BIBLE = {
         "item": "Toppings (Nori Sheet, Sweet Corn, Scallions, Sesame)",
         "qty": "30g",
         "cost": 10.0
+      },
+      {
+        "item": "\u2605 Japanese Seasoned Vinegar Tare & Teriyaki Drizzle",
+        "qty": "20ml Drizzle",
+        "cost": 5.0
       }
     ],
     "misaRequired": [
@@ -14925,7 +15663,7 @@ window.INDUS_BIBLE = {
     ],
     "steps": [
       "Boil fresh ramen noodles in salted water for exactly 2 minutes until springy.",
-      "Heat 300ml signature broth in a saucepan with miso/shoyu tare.",
+      "Heat 300ml signature broth in a saucepan with miso/shoyu tare. [\u2192 USE: Japanese Seasoned Vinegar Tare & Teriyaki Drizzle (20ml Drizzle)]",
       "Place hot broth in deep ceramic ramen bowl.",
       "Fold in cooked noodles with chopsticks to create a neat bed.",
       "Arrange chashu chicken slices, halved ramen egg, nori sheet, blanched bok choy, and sweet corn on top.",
@@ -14939,7 +15677,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 429.0,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-9",
+    "primarySauceName": "Japanese Seasoned Vinegar Tare & Teriyaki Drizzle",
+    "primarySauceQty": "20ml Drizzle",
+    "primarySauceStage": "Sushi Glaze"
   },
   {
     "id": "mmszgir1ybvz0",
@@ -14979,6 +15721,11 @@ window.INDUS_BIBLE = {
         "item": "Toppings (Nori Sheet, Sweet Corn, Scallions, Sesame)",
         "qty": "30g",
         "cost": 10.0
+      },
+      {
+        "item": "\u2605 Japanese Teriyaki & Yakitori Glaze (Sauce #09)",
+        "qty": "40ml (1.5 Ladles)",
+        "cost": 5.0
       }
     ],
     "misaRequired": [
@@ -14988,7 +15735,7 @@ window.INDUS_BIBLE = {
     ],
     "steps": [
       "Boil fresh ramen noodles in salted water for exactly 2 minutes until springy.",
-      "Heat 300ml signature broth in a saucepan with miso/shoyu tare.",
+      "Heat 300ml signature broth in a saucepan with miso/shoyu tare. [\u2192 USE: Japanese Teriyaki & Yakitori Glaze (Sauce #09) (40ml (1.5 Ladles))]",
       "Place hot broth in deep ceramic ramen bowl.",
       "Fold in cooked noodles with chopsticks to create a neat bed.",
       "Arrange chashu chicken slices, halved ramen egg, nori sheet, blanched bok choy, and sweet corn on top.",
@@ -15002,7 +15749,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 346.5,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-9",
+    "primarySauceName": "Japanese Teriyaki & Yakitori Glaze (Sauce #09)",
+    "primarySauceQty": "40ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 3 (Lacquer glaze)"
   },
   {
     "id": "mmszgir1yzdcn",
@@ -15042,6 +15793,11 @@ window.INDUS_BIBLE = {
         "item": "Toppings (Nori Sheet, Sweet Corn, Scallions, Sesame)",
         "qty": "30g",
         "cost": 10.0
+      },
+      {
+        "item": "\u2605 Japanese Seasoned Vinegar Tare & Teriyaki Drizzle",
+        "qty": "20ml Drizzle",
+        "cost": 5.0
       }
     ],
     "misaRequired": [
@@ -15051,7 +15807,7 @@ window.INDUS_BIBLE = {
     ],
     "steps": [
       "Boil fresh ramen noodles in salted water for exactly 2 minutes until springy.",
-      "Heat 300ml signature broth in a saucepan with miso/shoyu tare.",
+      "Heat 300ml signature broth in a saucepan with miso/shoyu tare. [\u2192 USE: Japanese Seasoned Vinegar Tare & Teriyaki Drizzle (20ml Drizzle)]",
       "Place hot broth in deep ceramic ramen bowl.",
       "Fold in cooked noodles with chopsticks to create a neat bed.",
       "Arrange chashu chicken slices, halved ramen egg, nori sheet, blanched bok choy, and sweet corn on top.",
@@ -15065,7 +15821,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 410.0,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-9",
+    "primarySauceName": "Japanese Seasoned Vinegar Tare & Teriyaki Drizzle",
+    "primarySauceQty": "20ml Drizzle",
+    "primarySauceStage": "Sushi Glaze"
   },
   {
     "id": "mmszgir1y33ix",
@@ -15105,6 +15865,11 @@ window.INDUS_BIBLE = {
         "item": "Toppings (Nori Sheet, Sweet Corn, Scallions, Sesame)",
         "qty": "30g",
         "cost": 10.0
+      },
+      {
+        "item": "\u2605 Japanese Seasoned Vinegar Tare & Teriyaki Drizzle",
+        "qty": "20ml Drizzle",
+        "cost": 5.0
       }
     ],
     "misaRequired": [
@@ -15114,7 +15879,7 @@ window.INDUS_BIBLE = {
     ],
     "steps": [
       "Boil fresh ramen noodles in salted water for exactly 2 minutes until springy.",
-      "Heat 300ml signature broth in a saucepan with miso/shoyu tare.",
+      "Heat 300ml signature broth in a saucepan with miso/shoyu tare. [\u2192 USE: Japanese Seasoned Vinegar Tare & Teriyaki Drizzle (20ml Drizzle)]",
       "Place hot broth in deep ceramic ramen bowl.",
       "Fold in cooked noodles with chopsticks to create a neat bed.",
       "Arrange chashu chicken slices, halved ramen egg, nori sheet, blanched bok choy, and sweet corn on top.",
@@ -15128,7 +15893,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 410.0,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-9",
+    "primarySauceName": "Japanese Seasoned Vinegar Tare & Teriyaki Drizzle",
+    "primarySauceQty": "20ml Drizzle",
+    "primarySauceStage": "Sushi Glaze"
   },
   {
     "id": "mmszgir1ygwmo",
@@ -15168,6 +15937,11 @@ window.INDUS_BIBLE = {
         "item": "Toppings (Nori Sheet, Sweet Corn, Scallions, Sesame)",
         "qty": "30g",
         "cost": 10.0
+      },
+      {
+        "item": "\u2605 Indus Rich Miso/Shoyu Tare & Ramen Broth",
+        "qty": "300ml Piping Hot Broth",
+        "cost": 5.0
       }
     ],
     "misaRequired": [
@@ -15177,7 +15951,7 @@ window.INDUS_BIBLE = {
     ],
     "steps": [
       "Boil fresh ramen noodles in salted water for exactly 2 minutes until springy.",
-      "Heat 300ml signature broth in a saucepan with miso/shoyu tare.",
+      "Heat 300ml signature broth in a saucepan with miso/shoyu tare. [\u2192 USE: Indus Rich Miso/Shoyu Tare & Ramen Broth (300ml Piping Hot Broth)]",
       "Place hot broth in deep ceramic ramen bowl.",
       "Fold in cooked noodles with chopsticks to create a neat bed.",
       "Arrange chashu chicken slices, halved ramen egg, nori sheet, blanched bok choy, and sweet corn on top.",
@@ -15191,7 +15965,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 351.0,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-12",
+    "primarySauceName": "Indus Rich Miso/Shoyu Tare & Ramen Broth",
+    "primarySauceQty": "300ml Piping Hot Broth",
+    "primarySauceStage": "Bowl Assembly"
   },
   {
     "id": "mmszgir1y8pas",
@@ -15231,6 +16009,11 @@ window.INDUS_BIBLE = {
         "item": "Toppings (Nori Sheet, Sweet Corn, Scallions, Sesame)",
         "qty": "30g",
         "cost": 10.0
+      },
+      {
+        "item": "\u2605 Indus Rich Miso/Shoyu Tare & Ramen Broth",
+        "qty": "300ml Piping Hot Broth",
+        "cost": 5.0
       }
     ],
     "misaRequired": [
@@ -15240,7 +16023,7 @@ window.INDUS_BIBLE = {
     ],
     "steps": [
       "Boil fresh ramen noodles in salted water for exactly 2 minutes until springy.",
-      "Heat 300ml signature broth in a saucepan with miso/shoyu tare.",
+      "Heat 300ml signature broth in a saucepan with miso/shoyu tare. [\u2192 USE: Indus Rich Miso/Shoyu Tare & Ramen Broth (300ml Piping Hot Broth)]",
       "Place hot broth in deep ceramic ramen bowl.",
       "Fold in cooked noodles with chopsticks to create a neat bed.",
       "Arrange chashu chicken slices, halved ramen egg, nori sheet, blanched bok choy, and sweet corn on top.",
@@ -15254,7 +16037,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 369.0,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-12",
+    "primarySauceName": "Indus Rich Miso/Shoyu Tare & Ramen Broth",
+    "primarySauceQty": "300ml Piping Hot Broth",
+    "primarySauceStage": "Bowl Assembly"
   },
   {
     "id": "mmszgir1ya3wb",
@@ -15294,6 +16081,11 @@ window.INDUS_BIBLE = {
         "item": "Toppings (Nori Sheet, Sweet Corn, Scallions, Sesame)",
         "qty": "30g",
         "cost": 10.0
+      },
+      {
+        "item": "\u2605 Korean Gochujang Spicy Glaze (Sauce #10)",
+        "qty": "45ml (1.5 Ladles)",
+        "cost": 5.0
       }
     ],
     "misaRequired": [
@@ -15303,7 +16095,7 @@ window.INDUS_BIBLE = {
     ],
     "steps": [
       "Boil fresh ramen noodles in salted water for exactly 2 minutes until springy.",
-      "Heat 300ml signature broth in a saucepan with miso/shoyu tare.",
+      "Heat 300ml signature broth in a saucepan with miso/shoyu tare. [\u2192 USE: Korean Gochujang Spicy Glaze (Sauce #10) (45ml (1.5 Ladles))]",
       "Place hot broth in deep ceramic ramen bowl.",
       "Fold in cooked noodles with chopsticks to create a neat bed.",
       "Arrange chashu chicken slices, halved ramen egg, nori sheet, blanched bok choy, and sweet corn on top.",
@@ -15317,7 +16109,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 366.6,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-10",
+    "primarySauceName": "Korean Gochujang Spicy Glaze (Sauce #10)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Saut\u00e9)"
   },
   {
     "id": "mmszgir1yjqwp",
@@ -15357,6 +16153,11 @@ window.INDUS_BIBLE = {
         "item": "Toppings (Nori Sheet, Sweet Corn, Scallions, Sesame)",
         "qty": "30g",
         "cost": 10.0
+      },
+      {
+        "item": "\u2605 Indus Rich Miso/Shoyu Tare & Ramen Broth",
+        "qty": "300ml Piping Hot Broth",
+        "cost": 5.0
       }
     ],
     "misaRequired": [
@@ -15366,7 +16167,7 @@ window.INDUS_BIBLE = {
     ],
     "steps": [
       "Boil fresh ramen noodles in salted water for exactly 2 minutes until springy.",
-      "Heat 300ml signature broth in a saucepan with miso/shoyu tare.",
+      "Heat 300ml signature broth in a saucepan with miso/shoyu tare. [\u2192 USE: Indus Rich Miso/Shoyu Tare & Ramen Broth (300ml Piping Hot Broth)]",
       "Place hot broth in deep ceramic ramen bowl.",
       "Fold in cooked noodles with chopsticks to create a neat bed.",
       "Arrange chashu chicken slices, halved ramen egg, nori sheet, blanched bok choy, and sweet corn on top.",
@@ -15380,7 +16181,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 358.8,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-12",
+    "primarySauceName": "Indus Rich Miso/Shoyu Tare & Ramen Broth",
+    "primarySauceQty": "300ml Piping Hot Broth",
+    "primarySauceStage": "Bowl Assembly"
   },
   {
     "id": "mmszgir1ysayl",
@@ -15420,6 +16225,11 @@ window.INDUS_BIBLE = {
         "item": "Toppings (Nori Sheet, Sweet Corn, Scallions, Sesame)",
         "qty": "30g",
         "cost": 10.0
+      },
+      {
+        "item": "\u2605 Indus Rich Miso/Shoyu Tare & Ramen Broth",
+        "qty": "300ml Piping Hot Broth",
+        "cost": 5.0
       }
     ],
     "misaRequired": [
@@ -15429,7 +16239,7 @@ window.INDUS_BIBLE = {
     ],
     "steps": [
       "Boil fresh ramen noodles in salted water for exactly 2 minutes until springy.",
-      "Heat 300ml signature broth in a saucepan with miso/shoyu tare.",
+      "Heat 300ml signature broth in a saucepan with miso/shoyu tare. [\u2192 USE: Indus Rich Miso/Shoyu Tare & Ramen Broth (300ml Piping Hot Broth)]",
       "Place hot broth in deep ceramic ramen bowl.",
       "Fold in cooked noodles with chopsticks to create a neat bed.",
       "Arrange chashu chicken slices, halved ramen egg, nori sheet, blanched bok choy, and sweet corn on top.",
@@ -15443,7 +16253,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 28.0,
       "grossMargin": 396.0,
       "grossMarginPct": 72.0
-    }
+    },
+    "primarySauceId": "sauce-12",
+    "primarySauceName": "Indus Rich Miso/Shoyu Tare & Ramen Broth",
+    "primarySauceQty": "300ml Piping Hot Broth",
+    "primarySauceStage": "Bowl Assembly"
   },
   {
     "id": "mmszgir1ydep7",
@@ -15483,6 +16297,11 @@ window.INDUS_BIBLE = {
         "item": "Toppings (Nori Sheet, Sweet Corn, Scallions, Sesame)",
         "qty": "30g",
         "cost": 10.0
+      },
+      {
+        "item": "\u2605 Indus Rich Miso/Shoyu Tare & Ramen Broth",
+        "qty": "300ml Piping Hot Broth",
+        "cost": 5.0
       }
     ],
     "misaRequired": [
@@ -15492,7 +16311,7 @@ window.INDUS_BIBLE = {
     ],
     "steps": [
       "Boil fresh ramen noodles in salted water for exactly 2 minutes until springy.",
-      "Heat 300ml signature broth in a saucepan with miso/shoyu tare.",
+      "Heat 300ml signature broth in a saucepan with miso/shoyu tare. [\u2192 USE: Indus Rich Miso/Shoyu Tare & Ramen Broth (300ml Piping Hot Broth)]",
       "Place hot broth in deep ceramic ramen bowl.",
       "Fold in cooked noodles with chopsticks to create a neat bed.",
       "Arrange chashu chicken slices, halved ramen egg, nori sheet, blanched bok choy, and sweet corn on top.",
@@ -15506,7 +16325,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 393.6,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-12",
+    "primarySauceName": "Indus Rich Miso/Shoyu Tare & Ramen Broth",
+    "primarySauceQty": "300ml Piping Hot Broth",
+    "primarySauceStage": "Bowl Assembly"
   },
   {
     "id": "mmszgir1ykyq7",
@@ -15546,6 +16369,11 @@ window.INDUS_BIBLE = {
         "item": "Toppings (Nori Sheet, Sweet Corn, Scallions, Sesame)",
         "qty": "30g",
         "cost": 10.0
+      },
+      {
+        "item": "\u2605 Indus Rich Miso/Shoyu Tare & Ramen Broth",
+        "qty": "300ml Piping Hot Broth",
+        "cost": 5.0
       }
     ],
     "misaRequired": [
@@ -15555,7 +16383,7 @@ window.INDUS_BIBLE = {
     ],
     "steps": [
       "Boil fresh ramen noodles in salted water for exactly 2 minutes until springy.",
-      "Heat 300ml signature broth in a saucepan with miso/shoyu tare.",
+      "Heat 300ml signature broth in a saucepan with miso/shoyu tare. [\u2192 USE: Indus Rich Miso/Shoyu Tare & Ramen Broth (300ml Piping Hot Broth)]",
       "Place hot broth in deep ceramic ramen bowl.",
       "Fold in cooked noodles with chopsticks to create a neat bed.",
       "Arrange chashu chicken slices, halved ramen egg, nori sheet, blanched bok choy, and sweet corn on top.",
@@ -15569,7 +16397,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 374.4,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-12",
+    "primarySauceName": "Indus Rich Miso/Shoyu Tare & Ramen Broth",
+    "primarySauceQty": "300ml Piping Hot Broth",
+    "primarySauceStage": "Bowl Assembly"
   },
   {
     "id": "mmszgir1ysk7l",
@@ -15596,8 +16428,8 @@ window.INDUS_BIBLE = {
         "cost": 8.0
       },
       {
-        "item": "Indus Signature Seasoning & Sauce Blend",
-        "qty": "30ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -15619,7 +16451,7 @@ window.INDUS_BIBLE = {
     "steps": [
       "Heat wok until smoking hot.",
       "Add oil, aromatics, and protein. Flash stir fry over high flame.",
-      "Add sauces, broth, and seasonings.",
+      "Add sauces, broth, and seasonings. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze)]",
       "Toss vigorously until glazed and fully incorporated.",
       "Garnish and serve piping hot."
     ],
@@ -15631,7 +16463,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 369.6,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1yhwqm",
@@ -15658,8 +16494,8 @@ window.INDUS_BIBLE = {
         "cost": 8.0
       },
       {
-        "item": "Indus Signature Seasoning & Sauce Blend",
-        "qty": "30ml",
+        "item": "\u2605 Indus Signature Red Schezwan Mother Paste (Sauce #01)",
+        "qty": "45ml (1.5 Ladles)",
         "cost": 6.0
       },
       {
@@ -15681,7 +16517,7 @@ window.INDUS_BIBLE = {
     "steps": [
       "Heat wok until smoking hot.",
       "Add oil, aromatics, and protein. Flash stir fry over high flame.",
-      "Add sauces, broth, and seasonings.",
+      "Add sauces, broth, and seasonings. [\u2192 USE: Indus Signature Red Schezwan Mother Paste (Sauce #01) (45ml (1.5 Ladles))]",
       "Toss vigorously until glazed and fully incorporated.",
       "Garnish and serve piping hot."
     ],
@@ -15693,7 +16529,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 400.4,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-1",
+    "primarySauceName": "Indus Signature Red Schezwan Mother Paste (Sauce #01)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Saut\u00e9 after aromatics)"
   },
   {
     "id": "mmszgir1y05n2",
@@ -15720,8 +16560,8 @@ window.INDUS_BIBLE = {
         "cost": 8.0
       },
       {
-        "item": "Indus Signature Seasoning & Sauce Blend",
-        "qty": "30ml",
+        "item": "\u2605 Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+        "qty": "35ml (1 Ladle)",
         "cost": 6.0
       },
       {
@@ -15743,7 +16583,7 @@ window.INDUS_BIBLE = {
     "steps": [
       "Heat wok until smoking hot.",
       "Add oil, aromatics, and protein. Flash stir fry over high flame.",
-      "Add sauces, broth, and seasonings.",
+      "Add sauces, broth, and seasonings. [\u2192 USE: Artisanal Black Bean & Garlic Sauce (Sauce #07) (35ml (1 Ladle))]",
       "Toss vigorously until glazed and fully incorporated.",
       "Garnish and serve piping hot."
     ],
@@ -15755,7 +16595,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 308.0,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-7",
+    "primarySauceName": "Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+    "primarySauceQty": "35ml (1 Ladle)",
+    "primarySauceStage": "Stage 2 (Aromatics deglaze)"
   },
   {
     "id": "mmszgir1yyapj",
@@ -15782,8 +16626,8 @@ window.INDUS_BIBLE = {
         "cost": 8.0
       },
       {
-        "item": "Indus Signature Seasoning & Sauce Blend",
-        "qty": "30ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -15805,7 +16649,7 @@ window.INDUS_BIBLE = {
     "steps": [
       "Heat wok until smoking hot.",
       "Add oil, aromatics, and protein. Flash stir fry over high flame.",
-      "Add sauces, broth, and seasonings.",
+      "Add sauces, broth, and seasonings. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze)]",
       "Toss vigorously until glazed and fully incorporated.",
       "Garnish and serve piping hot."
     ],
@@ -15817,7 +16661,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 423.5,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1yg355",
@@ -15844,8 +16692,8 @@ window.INDUS_BIBLE = {
         "cost": 8.0
       },
       {
-        "item": "Indus Signature Seasoning & Sauce Blend",
-        "qty": "30ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -15867,7 +16715,7 @@ window.INDUS_BIBLE = {
     "steps": [
       "Heat wok until smoking hot.",
       "Add oil, aromatics, and protein. Flash stir fry over high flame.",
-      "Add sauces, broth, and seasonings.",
+      "Add sauces, broth, and seasonings. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze)]",
       "Toss vigorously until glazed and fully incorporated.",
       "Garnish and serve piping hot."
     ],
@@ -15879,7 +16727,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 462.0,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1yyvfq",
@@ -15906,8 +16758,8 @@ window.INDUS_BIBLE = {
         "cost": 8.0
       },
       {
-        "item": "Indus Signature Seasoning & Sauce Blend",
-        "qty": "30ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -15929,7 +16781,7 @@ window.INDUS_BIBLE = {
     "steps": [
       "Heat wok until smoking hot.",
       "Add oil, aromatics, and protein. Flash stir fry over high flame.",
-      "Add sauces, broth, and seasonings.",
+      "Add sauces, broth, and seasonings. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze)]",
       "Toss vigorously until glazed and fully incorporated.",
       "Garnish and serve piping hot."
     ],
@@ -15941,7 +16793,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 410.0,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1ypjap",
@@ -15968,8 +16824,8 @@ window.INDUS_BIBLE = {
         "cost": 8.0
       },
       {
-        "item": "Indus Signature Seasoning & Sauce Blend",
-        "qty": "30ml",
+        "item": "\u2605 Artisanal Momo Jhol Broth & Chutney (Sauce #13)",
+        "qty": "150ml Warm Broth / 40ml Chutney",
         "cost": 6.0
       },
       {
@@ -15991,7 +16847,7 @@ window.INDUS_BIBLE = {
     "steps": [
       "Heat wok until smoking hot.",
       "Add oil, aromatics, and protein. Flash stir fry over high flame.",
-      "Add sauces, broth, and seasonings.",
+      "Add sauces, broth, and seasonings. [\u2192 USE: Artisanal Momo Jhol Broth & Chutney (Sauce #13) (150ml Warm Broth / 40ml Chutney)]",
       "Toss vigorously until glazed and fully incorporated.",
       "Garnish and serve piping hot."
     ],
@@ -16003,7 +16859,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 107.8,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-13",
+    "primarySauceName": "Artisanal Momo Jhol Broth & Chutney (Sauce #13)",
+    "primarySauceQty": "150ml Warm Broth / 40ml Chutney",
+    "primarySauceStage": "Accompaniment / Pour-over"
   },
   {
     "id": "mmszgir1yz0lp",
@@ -16030,8 +16890,8 @@ window.INDUS_BIBLE = {
         "cost": 8.0
       },
       {
-        "item": "Indus Signature Seasoning & Sauce Blend",
-        "qty": "30ml",
+        "item": "\u2605 Artisanal Momo Jhol Broth & Chutney (Sauce #13)",
+        "qty": "150ml Warm Broth / 40ml Chutney",
         "cost": 6.0
       },
       {
@@ -16053,7 +16913,7 @@ window.INDUS_BIBLE = {
     "steps": [
       "Heat wok until smoking hot.",
       "Add oil, aromatics, and protein. Flash stir fry over high flame.",
-      "Add sauces, broth, and seasonings.",
+      "Add sauces, broth, and seasonings. [\u2192 USE: Artisanal Momo Jhol Broth & Chutney (Sauce #13) (150ml Warm Broth / 40ml Chutney)]",
       "Toss vigorously until glazed and fully incorporated.",
       "Garnish and serve piping hot."
     ],
@@ -16065,7 +16925,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 146.3,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-13",
+    "primarySauceName": "Artisanal Momo Jhol Broth & Chutney (Sauce #13)",
+    "primarySauceQty": "150ml Warm Broth / 40ml Chutney",
+    "primarySauceStage": "Accompaniment / Pour-over"
   },
   {
     "id": "mmszgir1y42es",
@@ -16092,8 +16956,8 @@ window.INDUS_BIBLE = {
         "cost": 8.0
       },
       {
-        "item": "Indus Signature Seasoning & Sauce Blend",
-        "qty": "30ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -16115,7 +16979,7 @@ window.INDUS_BIBLE = {
     "steps": [
       "Heat wok until smoking hot.",
       "Add oil, aromatics, and protein. Flash stir fry over high flame.",
-      "Add sauces, broth, and seasonings.",
+      "Add sauces, broth, and seasonings. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze)]",
       "Toss vigorously until glazed and fully incorporated.",
       "Garnish and serve piping hot."
     ],
@@ -16127,7 +16991,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 16.4,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1yu47j",
@@ -16154,8 +17022,8 @@ window.INDUS_BIBLE = {
         "cost": 8.0
       },
       {
-        "item": "Indus Signature Seasoning & Sauce Blend",
-        "qty": "30ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -16177,7 +17045,7 @@ window.INDUS_BIBLE = {
     "steps": [
       "Heat wok until smoking hot.",
       "Add oil, aromatics, and protein. Flash stir fry over high flame.",
-      "Add sauces, broth, and seasonings.",
+      "Add sauces, broth, and seasonings. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze)]",
       "Toss vigorously until glazed and fully incorporated.",
       "Garnish and serve piping hot."
     ],
@@ -16189,7 +17057,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 36.9,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1ysvqb",
@@ -16216,8 +17088,8 @@ window.INDUS_BIBLE = {
         "cost": 8.0
       },
       {
-        "item": "Indus Signature Seasoning & Sauce Blend",
-        "qty": "30ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -16239,7 +17111,7 @@ window.INDUS_BIBLE = {
     "steps": [
       "Heat wok until smoking hot.",
       "Add oil, aromatics, and protein. Flash stir fry over high flame.",
-      "Add sauces, broth, and seasonings.",
+      "Add sauces, broth, and seasonings. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze)]",
       "Toss vigorously until glazed and fully incorporated.",
       "Garnish and serve piping hot."
     ],
@@ -16251,7 +17123,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 8.2,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1ykbew",
@@ -16278,8 +17154,8 @@ window.INDUS_BIBLE = {
         "cost": 8.0
       },
       {
-        "item": "Indus Signature Seasoning & Sauce Blend",
-        "qty": "30ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -16301,7 +17177,7 @@ window.INDUS_BIBLE = {
     "steps": [
       "Heat wok until smoking hot.",
       "Add oil, aromatics, and protein. Flash stir fry over high flame.",
-      "Add sauces, broth, and seasonings.",
+      "Add sauces, broth, and seasonings. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze)]",
       "Toss vigorously until glazed and fully incorporated.",
       "Garnish and serve piping hot."
     ],
@@ -16313,7 +17189,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 16.4,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1yb9dm",
@@ -16340,8 +17220,8 @@ window.INDUS_BIBLE = {
         "cost": 8.0
       },
       {
-        "item": "Indus Signature Seasoning & Sauce Blend",
-        "qty": "30ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -16363,7 +17243,7 @@ window.INDUS_BIBLE = {
     "steps": [
       "Heat wok until smoking hot.",
       "Add oil, aromatics, and protein. Flash stir fry over high flame.",
-      "Add sauces, broth, and seasonings.",
+      "Add sauces, broth, and seasonings. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze)]",
       "Toss vigorously until glazed and fully incorporated.",
       "Garnish and serve piping hot."
     ],
@@ -16375,7 +17255,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 16.4,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1yulip",
@@ -16402,8 +17286,8 @@ window.INDUS_BIBLE = {
         "cost": 8.0
       },
       {
-        "item": "Indus Signature Seasoning & Sauce Blend",
-        "qty": "30ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -16425,7 +17309,7 @@ window.INDUS_BIBLE = {
     "steps": [
       "Heat wok until smoking hot.",
       "Add oil, aromatics, and protein. Flash stir fry over high flame.",
-      "Add sauces, broth, and seasonings.",
+      "Add sauces, broth, and seasonings. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze)]",
       "Toss vigorously until glazed and fully incorporated.",
       "Garnish and serve piping hot."
     ],
@@ -16437,7 +17321,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 8.2,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1yigkd",
@@ -16464,8 +17352,8 @@ window.INDUS_BIBLE = {
         "cost": 8.0
       },
       {
-        "item": "Indus Signature Seasoning & Sauce Blend",
-        "qty": "30ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -16487,7 +17375,7 @@ window.INDUS_BIBLE = {
     "steps": [
       "Heat wok until smoking hot.",
       "Add oil, aromatics, and protein. Flash stir fry over high flame.",
-      "Add sauces, broth, and seasonings.",
+      "Add sauces, broth, and seasonings. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze)]",
       "Toss vigorously until glazed and fully incorporated.",
       "Garnish and serve piping hot."
     ],
@@ -16499,7 +17387,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 36.9,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1yu6zp",
@@ -16526,8 +17418,8 @@ window.INDUS_BIBLE = {
         "cost": 8.0
       },
       {
-        "item": "Indus Signature Seasoning & Sauce Blend",
-        "qty": "30ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -16549,7 +17441,7 @@ window.INDUS_BIBLE = {
     "steps": [
       "Heat wok until smoking hot.",
       "Add oil, aromatics, and protein. Flash stir fry over high flame.",
-      "Add sauces, broth, and seasonings.",
+      "Add sauces, broth, and seasonings. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze)]",
       "Toss vigorously until glazed and fully incorporated.",
       "Garnish and serve piping hot."
     ],
@@ -16561,7 +17453,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 16.4,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1ygcqt",
@@ -16588,8 +17484,8 @@ window.INDUS_BIBLE = {
         "cost": 8.0
       },
       {
-        "item": "Indus Signature Seasoning & Sauce Blend",
-        "qty": "30ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -16611,7 +17507,7 @@ window.INDUS_BIBLE = {
     "steps": [
       "Heat wok until smoking hot.",
       "Add oil, aromatics, and protein. Flash stir fry over high flame.",
-      "Add sauces, broth, and seasonings.",
+      "Add sauces, broth, and seasonings. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze)]",
       "Toss vigorously until glazed and fully incorporated.",
       "Garnish and serve piping hot."
     ],
@@ -16623,7 +17519,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 16.4,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1yjc1w",
@@ -16650,8 +17550,8 @@ window.INDUS_BIBLE = {
         "cost": 8.0
       },
       {
-        "item": "Indus Signature Seasoning & Sauce Blend",
-        "qty": "30ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -16673,7 +17573,7 @@ window.INDUS_BIBLE = {
     "steps": [
       "Heat wok until smoking hot.",
       "Add oil, aromatics, and protein. Flash stir fry over high flame.",
-      "Add sauces, broth, and seasonings.",
+      "Add sauces, broth, and seasonings. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze)]",
       "Toss vigorously until glazed and fully incorporated.",
       "Garnish and serve piping hot."
     ],
@@ -16685,7 +17585,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 16.4,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1ycvfr",
@@ -16712,8 +17616,8 @@ window.INDUS_BIBLE = {
         "cost": 8.0
       },
       {
-        "item": "Indus Signature Seasoning & Sauce Blend",
-        "qty": "30ml",
+        "item": "\u2605 Indus Signature Red Schezwan Mother Paste (Sauce #01)",
+        "qty": "45ml (1.5 Ladles)",
         "cost": 6.0
       },
       {
@@ -16735,7 +17639,7 @@ window.INDUS_BIBLE = {
     "steps": [
       "Heat wok until smoking hot.",
       "Add oil, aromatics, and protein. Flash stir fry over high flame.",
-      "Add sauces, broth, and seasonings.",
+      "Add sauces, broth, and seasonings. [\u2192 USE: Indus Signature Red Schezwan Mother Paste (Sauce #01) (45ml (1.5 Ladles))]",
       "Toss vigorously until glazed and fully incorporated.",
       "Garnish and serve piping hot."
     ],
@@ -16747,7 +17651,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 16.4,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-1",
+    "primarySauceName": "Indus Signature Red Schezwan Mother Paste (Sauce #01)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Saut\u00e9 after aromatics)"
   },
   {
     "id": "mmszgir1y7w3r",
@@ -16774,8 +17682,8 @@ window.INDUS_BIBLE = {
         "cost": 8.0
       },
       {
-        "item": "Indus Signature Seasoning & Sauce Blend",
-        "qty": "30ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -16797,7 +17705,7 @@ window.INDUS_BIBLE = {
     "steps": [
       "Heat wok until smoking hot.",
       "Add oil, aromatics, and protein. Flash stir fry over high flame.",
-      "Add sauces, broth, and seasonings.",
+      "Add sauces, broth, and seasonings. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze)]",
       "Toss vigorously until glazed and fully incorporated.",
       "Garnish and serve piping hot."
     ],
@@ -16809,7 +17717,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 16.4,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1yvgo9",
@@ -16836,8 +17748,8 @@ window.INDUS_BIBLE = {
         "cost": 8.0
       },
       {
-        "item": "Indus Signature Seasoning & Sauce Blend",
-        "qty": "30ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -16859,7 +17771,7 @@ window.INDUS_BIBLE = {
     "steps": [
       "Heat wok until smoking hot.",
       "Add oil, aromatics, and protein. Flash stir fry over high flame.",
-      "Add sauces, broth, and seasonings.",
+      "Add sauces, broth, and seasonings. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze)]",
       "Toss vigorously until glazed and fully incorporated.",
       "Garnish and serve piping hot."
     ],
@@ -16871,7 +17783,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 24.6,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1ynoo3",
@@ -16898,8 +17814,8 @@ window.INDUS_BIBLE = {
         "cost": 8.0
       },
       {
-        "item": "Indus Signature Seasoning & Sauce Blend",
-        "qty": "30ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -16921,7 +17837,7 @@ window.INDUS_BIBLE = {
     "steps": [
       "Heat wok until smoking hot.",
       "Add oil, aromatics, and protein. Flash stir fry over high flame.",
-      "Add sauces, broth, and seasonings.",
+      "Add sauces, broth, and seasonings. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze)]",
       "Toss vigorously until glazed and fully incorporated.",
       "Garnish and serve piping hot."
     ],
@@ -16933,7 +17849,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 28.6,
       "grossMargin": 50.0,
       "grossMarginPct": 71.4
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1yhsph",
@@ -16960,8 +17880,8 @@ window.INDUS_BIBLE = {
         "cost": 8.0
       },
       {
-        "item": "Indus Signature Seasoning & Sauce Blend",
-        "qty": "30ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -16983,7 +17903,7 @@ window.INDUS_BIBLE = {
     "steps": [
       "Heat wok until smoking hot.",
       "Add oil, aromatics, and protein. Flash stir fry over high flame.",
-      "Add sauces, broth, and seasonings.",
+      "Add sauces, broth, and seasonings. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze)]",
       "Toss vigorously until glazed and fully incorporated.",
       "Garnish and serve piping hot."
     ],
@@ -16995,7 +17915,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 30.8,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1yno02",
@@ -17022,8 +17946,8 @@ window.INDUS_BIBLE = {
         "cost": 8.0
       },
       {
-        "item": "Indus Signature Seasoning & Sauce Blend",
-        "qty": "30ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -17045,7 +17969,7 @@ window.INDUS_BIBLE = {
     "steps": [
       "Heat wok until smoking hot.",
       "Add oil, aromatics, and protein. Flash stir fry over high flame.",
-      "Add sauces, broth, and seasonings.",
+      "Add sauces, broth, and seasonings. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze)]",
       "Toss vigorously until glazed and fully incorporated.",
       "Garnish and serve piping hot."
     ],
@@ -17057,7 +17981,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 19.0,
       "grossMargin": 32.4,
       "grossMarginPct": 81.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1ylpy2",
@@ -17084,8 +18012,8 @@ window.INDUS_BIBLE = {
         "cost": 8.0
       },
       {
-        "item": "Indus Signature Seasoning & Sauce Blend",
-        "qty": "30ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -17107,7 +18035,7 @@ window.INDUS_BIBLE = {
     "steps": [
       "Heat wok until smoking hot.",
       "Add oil, aromatics, and protein. Flash stir fry over high flame.",
-      "Add sauces, broth, and seasonings.",
+      "Add sauces, broth, and seasonings. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze)]",
       "Toss vigorously until glazed and fully incorporated.",
       "Garnish and serve piping hot."
     ],
@@ -17119,7 +18047,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 24.6,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1ygxbb",
@@ -17151,8 +18083,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -17181,8 +18113,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -17193,7 +18125,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 164.0,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yxxhl",
@@ -17225,8 +18161,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -17255,8 +18191,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -17267,7 +18203,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 218.4,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yf8bu",
@@ -17299,8 +18239,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -17329,8 +18269,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -17341,7 +18281,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 19.0,
       "grossMargin": 194.4,
       "grossMarginPct": 81.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yw0ec",
@@ -17373,8 +18317,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -17403,8 +18347,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -17415,7 +18359,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 200.2,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yjw3d",
@@ -17447,8 +18395,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Indus Signature Red Schezwan Mother Paste (Sauce #01)",
+        "qty": "45ml (1.5 Ladles)",
         "cost": 5.0
       },
       {
@@ -17477,8 +18425,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Indus Signature Red Schezwan Mother Paste (Sauce #01) (45ml (1.5 Ladles))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Indus Signature Red Schezwan Mother Paste (Sauce #01) (45ml (1.5 Ladles))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -17489,7 +18437,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 180.4,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-1",
+    "primarySauceName": "Indus Signature Red Schezwan Mother Paste (Sauce #01)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Saut\u00e9 after aromatics)"
   },
   {
     "id": "mmszgir1yp5ir",
@@ -17521,8 +18473,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Indus Signature Red Schezwan Mother Paste (Sauce #01)",
+        "qty": "45ml (1.5 Ladles)",
         "cost": 5.0
       },
       {
@@ -17551,8 +18503,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Indus Signature Red Schezwan Mother Paste (Sauce #01) (45ml (1.5 Ladles))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Indus Signature Red Schezwan Mother Paste (Sauce #01) (45ml (1.5 Ladles))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -17563,7 +18515,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 234.0,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-1",
+    "primarySauceName": "Indus Signature Red Schezwan Mother Paste (Sauce #01)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Saut\u00e9 after aromatics)"
   },
   {
     "id": "mmszgir1ybqx0",
@@ -17595,8 +18551,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Indus Signature Red Schezwan Mother Paste (Sauce #01)",
+        "qty": "45ml (1.5 Ladles)",
         "cost": 5.0
       },
       {
@@ -17625,8 +18581,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Indus Signature Red Schezwan Mother Paste (Sauce #01) (45ml (1.5 Ladles))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Indus Signature Red Schezwan Mother Paste (Sauce #01) (45ml (1.5 Ladles))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -17637,7 +18593,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 19.0,
       "grossMargin": 194.4,
       "grossMarginPct": 81.0
-    }
+    },
+    "primarySauceId": "sauce-1",
+    "primarySauceName": "Indus Signature Red Schezwan Mother Paste (Sauce #01)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Saut\u00e9 after aromatics)"
   },
   {
     "id": "mmszgir1yhkb2",
@@ -17669,8 +18629,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Indus Signature Red Schezwan Mother Paste (Sauce #01)",
+        "qty": "45ml (1.5 Ladles)",
         "cost": 5.0
       },
       {
@@ -17699,8 +18659,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Indus Signature Red Schezwan Mother Paste (Sauce #01) (45ml (1.5 Ladles))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Indus Signature Red Schezwan Mother Paste (Sauce #01) (45ml (1.5 Ladles))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -17711,7 +18671,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 215.6,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-1",
+    "primarySauceName": "Indus Signature Red Schezwan Mother Paste (Sauce #01)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Saut\u00e9 after aromatics)"
   },
   {
     "id": "mmszgir1y3u7d",
@@ -17743,8 +18707,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -17773,8 +18737,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -17785,7 +18749,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 246.0,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1ytej9",
@@ -17817,8 +18785,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -17847,8 +18815,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -17859,7 +18827,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 280.8,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1ymeky",
@@ -17891,8 +18863,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -17921,8 +18893,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -17933,7 +18905,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 19.0,
       "grossMargin": 259.2,
       "grossMarginPct": 81.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yvabt",
@@ -17965,8 +18941,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -17995,8 +18971,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -18007,7 +18983,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 277.2,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1y3mf6",
@@ -18039,8 +19019,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+        "qty": "35ml (1 Ladle)",
         "cost": 5.0
       },
       {
@@ -18069,8 +19049,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Artisanal Black Bean & Garlic Sauce (Sauce #07) (35ml (1 Ladle))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Artisanal Black Bean & Garlic Sauce (Sauce #07) (35ml (1 Ladle))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -18081,7 +19061,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 205.0,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-7",
+    "primarySauceName": "Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+    "primarySauceQty": "35ml (1 Ladle)",
+    "primarySauceStage": "Stage 2 (Aromatics deglaze)"
   },
   {
     "id": "mmszgir1yais4",
@@ -18113,8 +19097,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+        "qty": "35ml (1 Ladle)",
         "cost": 5.0
       },
       {
@@ -18143,8 +19127,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Artisanal Black Bean & Garlic Sauce (Sauce #07) (35ml (1 Ladle))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Artisanal Black Bean & Garlic Sauce (Sauce #07) (35ml (1 Ladle))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -18155,7 +19139,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 234.0,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-7",
+    "primarySauceName": "Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+    "primarySauceQty": "35ml (1 Ladle)",
+    "primarySauceStage": "Stage 2 (Aromatics deglaze)"
   },
   {
     "id": "mmszgir1y8g1a",
@@ -18187,8 +19175,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+        "qty": "35ml (1 Ladle)",
         "cost": 5.0
       },
       {
@@ -18217,8 +19205,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Artisanal Black Bean & Garlic Sauce (Sauce #07) (35ml (1 Ladle))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Artisanal Black Bean & Garlic Sauce (Sauce #07) (35ml (1 Ladle))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -18229,7 +19217,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 19.0,
       "grossMargin": 210.6,
       "grossMarginPct": 81.0
-    }
+    },
+    "primarySauceId": "sauce-7",
+    "primarySauceName": "Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+    "primarySauceQty": "35ml (1 Ladle)",
+    "primarySauceStage": "Stage 2 (Aromatics deglaze)"
   },
   {
     "id": "mmszgir1y473j",
@@ -18261,8 +19253,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+        "qty": "35ml (1 Ladle)",
         "cost": 5.0
       },
       {
@@ -18291,8 +19283,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Artisanal Black Bean & Garlic Sauce (Sauce #07) (35ml (1 Ladle))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Artisanal Black Bean & Garlic Sauce (Sauce #07) (35ml (1 Ladle))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -18303,7 +19295,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 215.6,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-7",
+    "primarySauceName": "Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+    "primarySauceQty": "35ml (1 Ladle)",
+    "primarySauceStage": "Stage 2 (Aromatics deglaze)"
   },
   {
     "id": "mmszgir1y964b",
@@ -18335,8 +19331,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -18365,8 +19361,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -18377,7 +19373,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 188.6,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yp9lo",
@@ -18409,8 +19409,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -18439,8 +19439,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -18451,7 +19451,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 234.0,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yp5zn",
@@ -18483,8 +19487,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -18513,8 +19517,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -18525,7 +19529,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 19.0,
       "grossMargin": 202.5,
       "grossMarginPct": 81.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1ye6hm",
@@ -18557,8 +19565,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -18587,8 +19595,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -18599,7 +19607,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 207.9,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yc57n",
@@ -18631,8 +19643,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -18661,8 +19673,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -18673,7 +19685,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 196.8,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1ymkvz",
@@ -18705,8 +19721,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -18735,8 +19751,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -18747,7 +19763,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 234.0,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1ydxyw",
@@ -18779,8 +19799,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -18809,8 +19829,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -18821,7 +19841,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 19.0,
       "grossMargin": 210.6,
       "grossMarginPct": 81.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yrjg4",
@@ -18853,8 +19877,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -18883,8 +19907,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -18895,7 +19919,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 215.6,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yrffu",
@@ -18927,8 +19955,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -18957,8 +19985,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -18969,7 +19997,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 196.8,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1ys20w",
@@ -19001,8 +20033,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -19031,8 +20063,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -19043,7 +20075,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 234.0,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yns5c",
@@ -19075,8 +20111,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -19105,8 +20141,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -19117,7 +20153,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 19.0,
       "grossMargin": 202.5,
       "grossMarginPct": 81.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1y416x",
@@ -19149,8 +20189,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -19179,8 +20219,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -19191,7 +20231,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 215.6,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1ycige",
@@ -19223,8 +20267,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Korean Gochujang Spicy Glaze (Sauce #10)",
+        "qty": "45ml (1.5 Ladles)",
         "cost": 5.0
       },
       {
@@ -19253,8 +20297,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Korean Gochujang Spicy Glaze (Sauce #10) (45ml (1.5 Ladles))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Korean Gochujang Spicy Glaze (Sauce #10) (45ml (1.5 Ladles))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -19265,7 +20309,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 262.4,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-10",
+    "primarySauceName": "Korean Gochujang Spicy Glaze (Sauce #10)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Saut\u00e9)"
   },
   {
     "id": "mmszgir1ynllz",
@@ -19297,8 +20345,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Korean Gochujang Spicy Glaze (Sauce #10)",
+        "qty": "45ml (1.5 Ladles)",
         "cost": 5.0
       },
       {
@@ -19327,8 +20375,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Korean Gochujang Spicy Glaze (Sauce #10) (45ml (1.5 Ladles))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Korean Gochujang Spicy Glaze (Sauce #10) (45ml (1.5 Ladles))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -19339,7 +20387,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 296.4,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-10",
+    "primarySauceName": "Korean Gochujang Spicy Glaze (Sauce #10)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Saut\u00e9)"
   },
   {
     "id": "mmszgir1ygkre",
@@ -19371,8 +20423,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Korean Gochujang Spicy Glaze (Sauce #10)",
+        "qty": "45ml (1.5 Ladles)",
         "cost": 5.0
       },
       {
@@ -19401,8 +20453,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Korean Gochujang Spicy Glaze (Sauce #10) (45ml (1.5 Ladles))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Korean Gochujang Spicy Glaze (Sauce #10) (45ml (1.5 Ladles))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -19413,7 +20465,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 19.0,
       "grossMargin": 275.4,
       "grossMarginPct": 81.0
-    }
+    },
+    "primarySauceId": "sauce-10",
+    "primarySauceName": "Korean Gochujang Spicy Glaze (Sauce #10)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Saut\u00e9)"
   },
   {
     "id": "mmszgir1ydupb",
@@ -19445,8 +20501,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Korean Gochujang Spicy Glaze (Sauce #10)",
+        "qty": "45ml (1.5 Ladles)",
         "cost": 5.0
       },
       {
@@ -19475,8 +20531,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Korean Gochujang Spicy Glaze (Sauce #10) (45ml (1.5 Ladles))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Korean Gochujang Spicy Glaze (Sauce #10) (45ml (1.5 Ladles))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -19487,7 +20543,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 277.2,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-10",
+    "primarySauceName": "Korean Gochujang Spicy Glaze (Sauce #10)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Saut\u00e9)"
   },
   {
     "id": "mmszgir1ywubs",
@@ -19519,8 +20579,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Classic Indo-Chinese Green Chilli Sauce (Sauce #11)",
+        "qty": "30ml (1 Ladle)",
         "cost": 5.0
       },
       {
@@ -19549,8 +20609,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Classic Indo-Chinese Green Chilli Sauce (Sauce #11) (30ml (1 Ladle))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Classic Indo-Chinese Green Chilli Sauce (Sauce #11) (30ml (1 Ladle))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -19561,7 +20621,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 213.2,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-11",
+    "primarySauceName": "Classic Indo-Chinese Green Chilli Sauce (Sauce #11)",
+    "primarySauceQty": "30ml (1 Ladle)",
+    "primarySauceStage": "Stage 2 (Wok rim sizzle)"
   },
   {
     "id": "mmszgir1y98ul",
@@ -19593,8 +20657,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Classic Indo-Chinese Green Chilli Sauce (Sauce #11)",
+        "qty": "30ml (1 Ladle)",
         "cost": 5.0
       },
       {
@@ -19623,8 +20687,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Classic Indo-Chinese Green Chilli Sauce (Sauce #11) (30ml (1 Ladle))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Classic Indo-Chinese Green Chilli Sauce (Sauce #11) (30ml (1 Ladle))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -19635,7 +20699,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 234.0,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-11",
+    "primarySauceName": "Classic Indo-Chinese Green Chilli Sauce (Sauce #11)",
+    "primarySauceQty": "30ml (1 Ladle)",
+    "primarySauceStage": "Stage 2 (Wok rim sizzle)"
   },
   {
     "id": "mmszgir1yhuif",
@@ -19667,8 +20735,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Classic Indo-Chinese Green Chilli Sauce (Sauce #11)",
+        "qty": "30ml (1 Ladle)",
         "cost": 5.0
       },
       {
@@ -19697,8 +20765,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Classic Indo-Chinese Green Chilli Sauce (Sauce #11) (30ml (1 Ladle))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Classic Indo-Chinese Green Chilli Sauce (Sauce #11) (30ml (1 Ladle))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -19709,7 +20777,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 19.0,
       "grossMargin": 210.6,
       "grossMarginPct": 81.0
-    }
+    },
+    "primarySauceId": "sauce-11",
+    "primarySauceName": "Classic Indo-Chinese Green Chilli Sauce (Sauce #11)",
+    "primarySauceQty": "30ml (1 Ladle)",
+    "primarySauceStage": "Stage 2 (Wok rim sizzle)"
   },
   {
     "id": "mmszgir1y3wno",
@@ -19741,8 +20813,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Classic Indo-Chinese Green Chilli Sauce (Sauce #11)",
+        "qty": "30ml (1 Ladle)",
         "cost": 5.0
       },
       {
@@ -19771,8 +20843,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Classic Indo-Chinese Green Chilli Sauce (Sauce #11) (30ml (1 Ladle))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Classic Indo-Chinese Green Chilli Sauce (Sauce #11) (30ml (1 Ladle))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -19783,7 +20855,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 215.6,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-11",
+    "primarySauceName": "Classic Indo-Chinese Green Chilli Sauce (Sauce #11)",
+    "primarySauceQty": "30ml (1 Ladle)",
+    "primarySauceStage": "Stage 2 (Wok rim sizzle)"
   },
   {
     "id": "mmszgir1y6ske",
@@ -19815,8 +20891,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -19845,8 +20921,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -19857,7 +20933,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 213.2,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yklp4",
@@ -19889,8 +20969,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -19919,8 +20999,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -19931,7 +21011,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 234.0,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1ynetn",
@@ -19963,8 +21047,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -19993,8 +21077,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -20005,7 +21089,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 19.0,
       "grossMargin": 210.6,
       "grossMarginPct": 81.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yc4zq",
@@ -20037,8 +21125,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -20067,8 +21155,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -20079,7 +21167,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 215.6,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yna27",
@@ -20111,8 +21203,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -20141,8 +21233,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -20153,7 +21245,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 205.0,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yvh4s",
@@ -20185,8 +21281,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -20215,8 +21311,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -20227,7 +21323,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 241.8,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yzoxm",
@@ -20259,8 +21359,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -20289,8 +21389,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -20301,7 +21401,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 19.0,
       "grossMargin": 210.6,
       "grossMarginPct": 81.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yqvq9",
@@ -20333,8 +21437,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -20363,8 +21467,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -20375,7 +21479,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 215.6,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yjjmq",
@@ -20407,8 +21515,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -20437,8 +21545,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -20449,7 +21557,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 246.0,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yeui2",
@@ -20481,8 +21593,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -20511,8 +21623,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -20523,7 +21635,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 280.8,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yufj5",
@@ -20555,8 +21671,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -20585,8 +21701,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -20597,7 +21713,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 19.0,
       "grossMargin": 243.0,
       "grossMarginPct": 81.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yw67g",
@@ -20629,8 +21749,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -20659,8 +21779,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -20671,7 +21791,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 261.8,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1y82k1",
@@ -20703,8 +21827,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Korean Gochujang Spicy Glaze (Sauce #10)",
+        "qty": "45ml (1.5 Ladles)",
         "cost": 5.0
       },
       {
@@ -20733,8 +21857,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Korean Gochujang Spicy Glaze (Sauce #10) (45ml (1.5 Ladles))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Korean Gochujang Spicy Glaze (Sauce #10) (45ml (1.5 Ladles))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -20745,7 +21869,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 287.0,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-10",
+    "primarySauceName": "Korean Gochujang Spicy Glaze (Sauce #10)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Saut\u00e9)"
   },
   {
     "id": "mmszgir1ypdmt",
@@ -20777,8 +21905,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Korean Gochujang Spicy Glaze (Sauce #10)",
+        "qty": "45ml (1.5 Ladles)",
         "cost": 5.0
       },
       {
@@ -20807,8 +21935,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Korean Gochujang Spicy Glaze (Sauce #10) (45ml (1.5 Ladles))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Korean Gochujang Spicy Glaze (Sauce #10) (45ml (1.5 Ladles))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -20819,7 +21947,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 312.0,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-10",
+    "primarySauceName": "Korean Gochujang Spicy Glaze (Sauce #10)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Saut\u00e9)"
   },
   {
     "id": "mmszgir1y4n2z",
@@ -20851,8 +21983,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Korean Gochujang Spicy Glaze (Sauce #10)",
+        "qty": "45ml (1.5 Ladles)",
         "cost": 5.0
       },
       {
@@ -20881,8 +22013,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Korean Gochujang Spicy Glaze (Sauce #10) (45ml (1.5 Ladles))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Korean Gochujang Spicy Glaze (Sauce #10) (45ml (1.5 Ladles))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -20893,7 +22025,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 19.0,
       "grossMargin": 291.6,
       "grossMarginPct": 81.0
-    }
+    },
+    "primarySauceId": "sauce-10",
+    "primarySauceName": "Korean Gochujang Spicy Glaze (Sauce #10)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Saut\u00e9)"
   },
   {
     "id": "mmszgir1y6zlm",
@@ -20925,8 +22061,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Korean Gochujang Spicy Glaze (Sauce #10)",
+        "qty": "45ml (1.5 Ladles)",
         "cost": 5.0
       },
       {
@@ -20955,8 +22091,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Korean Gochujang Spicy Glaze (Sauce #10) (45ml (1.5 Ladles))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Korean Gochujang Spicy Glaze (Sauce #10) (45ml (1.5 Ladles))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -20967,7 +22103,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 300.3,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-10",
+    "primarySauceName": "Korean Gochujang Spicy Glaze (Sauce #10)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Saut\u00e9)"
   },
   {
     "id": "mmszgir1yqh07",
@@ -20999,8 +22139,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Thai Curry Paste & Broth Master Base (Sauce #12)",
+        "qty": "50g Paste / 250ml Broth",
         "cost": 5.0
       },
       {
@@ -21029,8 +22169,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Thai Curry Paste & Broth Master Base (Sauce #12) (50g Paste / 250ml Broth)]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Thai Curry Paste & Broth Master Base (Sauce #12) (50g Paste / 250ml Broth)]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -21041,7 +22181,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 295.2,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-12",
+    "primarySauceName": "Thai Curry Paste & Broth Master Base (Sauce #12)",
+    "primarySauceQty": "50g Paste / 250ml Broth",
+    "primarySauceStage": "Stage 2 (Simmer)"
   },
   {
     "id": "mmszgir1yn38w",
@@ -21073,8 +22217,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Thai Curry Paste & Broth Master Base (Sauce #12)",
+        "qty": "50g Paste / 250ml Broth",
         "cost": 5.0
       },
       {
@@ -21103,8 +22247,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Thai Curry Paste & Broth Master Base (Sauce #12) (50g Paste / 250ml Broth)]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Thai Curry Paste & Broth Master Base (Sauce #12) (50g Paste / 250ml Broth)]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -21115,7 +22259,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 319.8,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-12",
+    "primarySauceName": "Thai Curry Paste & Broth Master Base (Sauce #12)",
+    "primarySauceQty": "50g Paste / 250ml Broth",
+    "primarySauceStage": "Stage 2 (Simmer)"
   },
   {
     "id": "mmszgir1y9yq3",
@@ -21147,8 +22295,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Thai Curry Paste & Broth Master Base (Sauce #12)",
+        "qty": "50g Paste / 250ml Broth",
         "cost": 5.0
       },
       {
@@ -21177,8 +22325,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Thai Curry Paste & Broth Master Base (Sauce #12) (50g Paste / 250ml Broth)]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Thai Curry Paste & Broth Master Base (Sauce #12) (50g Paste / 250ml Broth)]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -21189,7 +22337,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 19.0,
       "grossMargin": 299.7,
       "grossMarginPct": 81.0
-    }
+    },
+    "primarySauceId": "sauce-12",
+    "primarySauceName": "Thai Curry Paste & Broth Master Base (Sauce #12)",
+    "primarySauceQty": "50g Paste / 250ml Broth",
+    "primarySauceStage": "Stage 2 (Simmer)"
   },
   {
     "id": "mmszgir1yisl3",
@@ -21221,8 +22373,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Thai Curry Paste & Broth Master Base (Sauce #12)",
+        "qty": "50g Paste / 250ml Broth",
         "cost": 5.0
       },
       {
@@ -21251,8 +22403,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Thai Curry Paste & Broth Master Base (Sauce #12) (50g Paste / 250ml Broth)]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Thai Curry Paste & Broth Master Base (Sauce #12) (50g Paste / 250ml Broth)]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -21263,7 +22415,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 308.0,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-12",
+    "primarySauceName": "Thai Curry Paste & Broth Master Base (Sauce #12)",
+    "primarySauceQty": "50g Paste / 250ml Broth",
+    "primarySauceStage": "Stage 2 (Simmer)"
   },
   {
     "id": "mmszgir1yus3j",
@@ -21295,8 +22451,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -21325,8 +22481,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -21337,7 +22493,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 221.4,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yz20a",
@@ -21369,8 +22529,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -21399,8 +22559,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -21411,7 +22571,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 22.0,
       "grossMargin": 249.6,
       "grossMarginPct": 78.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yi1z7",
@@ -21443,8 +22607,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -21473,8 +22637,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -21485,7 +22649,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 19.0,
       "grossMargin": 218.7,
       "grossMarginPct": 81.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yaepw",
@@ -21517,8 +22685,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "Indus Seasoning Sauce (Dark Soy, Light Soy, Vinegar, White Pepper)",
-        "qty": "25ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -21547,8 +22715,8 @@ window.INDUS_BIBLE = {
       "Add 20ml oil and swirl to coat. Crack egg / add velveted protein and flash-scramble for 20 seconds.",
       "Toss in garlic, ginger slivers, and julienned vegetables. Flash stir-fry for 30 seconds maintaining crisp crunch.",
       "Drop in 220g chilled boiled noodles. Keep the wok moving with tossing motion to separate strands.",
-      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars).",
-      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds.",
+      "Drizzle Indus seasoning sauce along the inner perimeter of the hot wok (the sizzle caramelizes the soy sugars). [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
+      "Add cracked white pepper, aroma seasoning, and spring onion whites. Toss vigorously over 400\u00b0C flame for 60 seconds. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]",
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
@@ -21559,7 +22727,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 223.3,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1y73cy",
@@ -21586,8 +22758,8 @@ window.INDUS_BIBLE = {
         "cost": 8.0
       },
       {
-        "item": "Indus Signature Seasoning & Sauce Blend",
-        "qty": "30ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -21609,7 +22781,7 @@ window.INDUS_BIBLE = {
     "steps": [
       "Heat wok until smoking hot.",
       "Add oil, aromatics, and protein. Flash stir fry over high flame.",
-      "Add sauces, broth, and seasonings.",
+      "Add sauces, broth, and seasonings. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze)]",
       "Toss vigorously until glazed and fully incorporated.",
       "Garnish and serve piping hot."
     ],
@@ -21621,7 +22793,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 16.4,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1y0zjz",
@@ -21648,8 +22824,8 @@ window.INDUS_BIBLE = {
         "cost": 8.0
       },
       {
-        "item": "Indus Signature Seasoning & Sauce Blend",
-        "qty": "30ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -21671,7 +22847,7 @@ window.INDUS_BIBLE = {
     "steps": [
       "Heat wok until smoking hot.",
       "Add oil, aromatics, and protein. Flash stir fry over high flame.",
-      "Add sauces, broth, and seasonings.",
+      "Add sauces, broth, and seasonings. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze)]",
       "Toss vigorously until glazed and fully incorporated.",
       "Garnish and serve piping hot."
     ],
@@ -21683,7 +22859,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 23.0,
       "grossMargin": 200.2,
       "grossMarginPct": 77.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1ysyj7",
@@ -21710,8 +22890,8 @@ window.INDUS_BIBLE = {
         "cost": 8.0
       },
       {
-        "item": "Indus Signature Seasoning & Sauce Blend",
-        "qty": "30ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -21733,7 +22913,7 @@ window.INDUS_BIBLE = {
     "steps": [
       "Heat wok until smoking hot.",
       "Add oil, aromatics, and protein. Flash stir fry over high flame.",
-      "Add sauces, broth, and seasonings.",
+      "Add sauces, broth, and seasonings. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze)]",
       "Toss vigorously until glazed and fully incorporated.",
       "Garnish and serve piping hot."
     ],
@@ -21745,7 +22925,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 24.6,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1ya2up",
@@ -21777,8 +22961,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "Indus Signature Sauce (Schezwan / Hot Garlic / Dragon / Manchurian)",
-        "qty": "40ml",
+        "item": "\u2605 Indus Dark Base + Green Chilli Puree Blend (Sauce #02 & #11)",
+        "qty": "35ml Saut\u00e9 Glaze",
         "cost": 9.0
       },
       {
@@ -21806,7 +22990,7 @@ window.INDUS_BIBLE = {
       "STAGE 1: Deep fry the battered protein in 180\u00b0C oil for 2.5 minutes until crisp and golden. Drain on wire rack.",
       "STAGE 2: Heat wok over high flame. Swirl 15ml oil, add minced garlic, ginger, and slit green chillies. Saut\u00e9 15 seconds.",
       "Add diamond-cut onions and capsicum. Flash toss for 20 seconds over high heat so veggies retain snappy crunch.",
-      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze.",
+      "Add the signature Indus sauce base, dark soy, vinegar, and a splash of broth. Simmer for 15 seconds to glaze. [\u2192 USE: Indus Dark Base + Green Chilli Puree Blend (Sauce #02 & #11) (35ml Saut\u00e9 Glaze)]",
       "Add the hot crispy fried protein into the bubbling glaze. Toss vigorously for 20 seconds so every piece is glossy without becoming soggy.",
       "Kill the flame, toss with chopped spring onion greens."
     ],
@@ -21818,7 +23002,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 18.0,
       "grossMargin": 262.4,
       "grossMarginPct": 82.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Base + Green Chilli Puree Blend (Sauce #02 & #11)",
+    "primarySauceQty": "35ml Saut\u00e9 Glaze",
+    "primarySauceStage": "Stage 2 (Glaze)"
   },
   {
     "id": "mmt6e4qgn68k9",
@@ -21845,8 +23033,8 @@ window.INDUS_BIBLE = {
         "cost": 8.0
       },
       {
-        "item": "Indus Signature Seasoning & Sauce Blend",
-        "qty": "30ml",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -21868,7 +23056,7 @@ window.INDUS_BIBLE = {
     "steps": [
       "Heat wok until smoking hot.",
       "Add oil, aromatics, and protein. Flash stir fry over high flame.",
-      "Add sauces, broth, and seasonings.",
+      "Add sauces, broth, and seasonings. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze)]",
       "Toss vigorously until glazed and fully incorporated.",
       "Garnish and serve piping hot."
     ],
@@ -21880,7 +23068,11 @@ window.INDUS_BIBLE = {
       "foodCostPct": 19.0,
       "grossMargin": 40.5,
       "grossMarginPct": 81.0
-    }
+    },
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   }
 ],
   emergencySubs: [

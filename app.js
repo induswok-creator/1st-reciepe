@@ -480,6 +480,10 @@ function renderRecipeCatalog() {
         <div class="dish-card-cat-name">${dish.cat} ${dish.sub ? '• ' + dish.sub : ''}</div>
         <h4 class="dish-card-title">${dish.name}</h4>
         
+        <div class="card-sauce-badge" title="${dish.primarySauceName}">
+          🥣 ${dish.primarySauceName.split('(')[0].replace('Indus', '').replace('Mother', '').trim()}
+        </div>
+
         <div class="dish-meta-pills">
           <span>⏱️ ${dish.cookTime}</span>
           <span style="color:var(--green); font-weight:700;">₹${dish.costing.rawCost.toFixed(0)}</span>
@@ -524,6 +528,16 @@ function openRecipeModal(recipeId) {
   document.getElementById('modalRawCost').textContent = `₹${recipe.costing.rawCost.toFixed(2)} (${recipe.costing.foodCostPct}%)`;
   document.getElementById('modalTimeSpec').textContent = `${recipe.prepTime} / ${recipe.cookTime}`;
   document.getElementById('modalFlameSpec').textContent = recipe.wokHeat;
+
+  // Set Primary Mother Sauce Base info
+  const sauceTitle = document.getElementById('modalSauceTitle');
+  const sauceUsage = document.getElementById('modalSauceUsage');
+  if (sauceTitle && recipe.primarySauceName) {
+    sauceTitle.textContent = recipe.primarySauceName;
+  }
+  if (sauceUsage && recipe.primarySauceQty) {
+    sauceUsage.innerHTML = `Standard Kitchen Dose: <strong>${recipe.primarySauceQty}</strong> • ${recipe.primarySauceStage || 'Stage 2 (Aromatics Sauté)'}`;
+  }
 
   document.getElementById('modalPlatingText').textContent = recipe.plating || 'Serve piping hot in Indus Wok branded presentation tableware with fresh garnish.';
   document.getElementById('modalChefTipText').textContent = recipe.chefTip || 'Maintain extreme wok heat for signature smokiness and preserve vegetable crispness.';
@@ -599,6 +613,31 @@ function renderScaledIngredients() {
 function closeRecipeModal() {
   document.getElementById('recipeModalOverlay').classList.remove('open');
   document.body.style.overflow = '';
+}
+
+function jumpToSauceRecipe() {
+  if (!currentActiveRecipe || !currentActiveRecipe.primarySauceId) return;
+  const targetSauceId = currentActiveRecipe.primarySauceId;
+  closeRecipeModal();
+  switchTab('sauces');
+  setTimeout(() => {
+    // filter to all sauces so target is visible
+    renderMotherSauces('all');
+    document.querySelectorAll('#sauceCategoryFilters .sauce-chip').forEach((c, idx) => {
+      c.classList.toggle('active', idx === 0);
+    });
+    const targetEl = document.getElementById(targetSauceId);
+    if (targetEl) {
+      targetEl.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      targetEl.style.transition = 'box-shadow 0.3s, transform 0.3s';
+      targetEl.style.boxShadow = '0 0 0 3px #b91327, 0 10px 30px rgba(185,19,39,0.35)';
+      targetEl.style.transform = 'scale(1.02)';
+      setTimeout(() => {
+        targetEl.style.boxShadow = '';
+        targetEl.style.transform = '';
+      }, 3500);
+    }
+  }, 350);
 }
 
 function navigateRecipe(direction) {
