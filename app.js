@@ -13,6 +13,7 @@ let currentProteinFilter = 'all';
 document.addEventListener('DOMContentLoaded', () => {
   renderFlagshipSpecials();
   renderKitchenPantry();
+  renderBeginnerGuide();
   renderMotherSauces('all');
   renderMasterCuts();
   renderMisaModules();
@@ -41,11 +42,11 @@ function renderKitchenPantry() {
 
   const items = window.INDUS_BIBLE.pantry;
   container.innerHTML = items.map(item => `
-    <div class="pantry-card">
+    <div class="pantry-card clickable-pantry" onclick="openPantryModal('${item.id}')" title="Tap to learn how to use ${item.name} in simple words">
       <div class="pantry-icon">${item.icon}</div>
       <div class="pantry-info">
         <h5>${item.name}</h5>
-        <span>${item.cat}</span>
+        <span>${item.cat} · <strong style="color: var(--gold); font-size: 11px;">Tap Guide 👆</strong></span>
       </div>
     </div>
   `).join('');
@@ -783,5 +784,169 @@ function updateCostingSimulation() {
     recBox.innerHTML = `✅ <strong>Optimal:</strong> Food cost of <strong>${computedFcPct.toFixed(1)}%</strong> meets target (&le;${targetFc}%). Continue monitoring chicken portion weights on scales.`;
   } else {
     recBox.innerHTML = `⚠️ <strong>Warning:</strong> Food cost of <strong>${computedFcPct.toFixed(1)}%</strong> exceeds target (${targetFc}%). Recommend adjusting prices upward by ~₹15.`;
+  }
+}
+
+
+/* ==========================================================================
+   BEGINNER 101 MASTERCLASS & JARGON GLOSSARY CONTROLLER
+   ========================================================================== */
+function renderBeginnerGuide() {
+  const guide = window.INDUS_BIBLE && window.INDUS_BIBLE.beginnerGuide;
+  if (!guide) return;
+
+  // 1. Golden Rules
+  const rulesContainer = document.getElementById('goldenRulesContainer');
+  if (rulesContainer && guide.sixRules) {
+    rulesContainer.innerHTML = guide.sixRules.map(rule => `
+      <div class="golden-rule-card">
+        <div class="golden-rule-header">
+          <div class="golden-rule-num">${rule.num}</div>
+          <h4>${rule.title}</h4>
+        </div>
+        <p class="golden-rule-desc">${rule.desc}</p>
+      </div>
+    `).join('');
+  }
+
+  // 2. Glossary
+  renderJargonGlossary(guide.glossary);
+
+  // 3. Ladle Chart
+  const ladleContainer = document.getElementById('ladleChartContainer');
+  if (ladleContainer && guide.ladleGuide) {
+    ladleContainer.innerHTML = guide.ladleGuide.map(item => `
+      <div class="ladle-card">
+        <div class="ladle-tool-name">🥄 ${item.tool}</div>
+        <div class="ladle-approx">${item.approx}</div>
+        <div class="ladle-use">${item.use}</div>
+      </div>
+    `).join('');
+  }
+
+  // 4. Blueprint Timeline
+  const bpContainer = document.getElementById('blueprintTimelineContainer');
+  if (bpContainer && guide.threeStepFlow) {
+    bpContainer.innerHTML = guide.threeStepFlow.map((step, idx) => `
+      <div class="blueprint-step-card">
+        <div class="blueprint-step-badge">STAGE ${idx + 1}</div>
+        <div class="blueprint-step-content">
+          <h4>${step.step}</h4>
+          <p>${step.action}</p>
+        </div>
+      </div>
+    `).join('');
+  }
+}
+
+function renderJargonGlossary(items) {
+  const container = document.getElementById('jargonGlossaryContainer');
+  if (!container) return;
+
+  if (!items || items.length === 0) {
+    container.innerHTML = `<div style="grid-column: 1/-1; padding: 24px; text-align: center; color: var(--text-muted);">No matching culinary terms found. Try typing 'velvet', 'wok', 'maggi', or 'slurry'.</div>`;
+    return;
+  }
+
+  container.innerHTML = items.map(item => `
+    <div class="jargon-card">
+      <div class="jargon-card-top">
+        <span class="jargon-icon">${item.icon}</span>
+        <div>
+          <h4 class="jargon-title">${item.term}</h4>
+          <span class="jargon-pronounce">🗣️ Say: <em>${item.pronunciation}</em></span>
+        </div>
+      </div>
+      
+      <div class="jargon-section simple-box">
+        <div class="jargon-label">💡 In Simple Words:</div>
+        <div class="jargon-val">${item.simple}</div>
+      </div>
+
+      <div class="jargon-section">
+        <div class="jargon-label">❓ Why Chefs Do This:</div>
+        <div class="jargon-val">${item.why}</div>
+      </div>
+
+      <div class="jargon-section how-box">
+        <div class="jargon-label">👨‍🍳 How to Do It:</div>
+        <div class="jargon-val">${item.how}</div>
+      </div>
+    </div>
+  `).join('');
+}
+
+function filterJargonGlossary() {
+  const query = (document.getElementById('jargonSearchInput')?.value || '').toLowerCase().trim();
+  const allItems = (window.INDUS_BIBLE && window.INDUS_BIBLE.beginnerGuide && window.INDUS_BIBLE.beginnerGuide.glossary) || [];
+  if (!query) {
+    renderJargonGlossary(allItems);
+    return;
+  }
+  const filtered = allItems.filter(item => 
+    item.term.toLowerCase().includes(query) ||
+    item.simple.toLowerCase().includes(query) ||
+    item.why.toLowerCase().includes(query) ||
+    item.how.toLowerCase().includes(query)
+  );
+  renderJargonGlossary(filtered);
+}
+
+function openPantryModal(pantryId) {
+  const item = window.INDUS_BIBLE && window.INDUS_BIBLE.pantry && window.INDUS_BIBLE.pantry.find(p => p.id === pantryId);
+  if (!item) return;
+
+  document.getElementById('pantryModalIcon').textContent = item.icon || '🧂';
+  document.getElementById('pantryModalName').textContent = item.name;
+  document.getElementById('pantryModalCat').textContent = item.cat;
+
+  const usedInSauces = ((window.INDUS_BIBLE && window.INDUS_BIBLE.sauces) || []).filter(s => 
+    s.ingredients.some(ing => ing.item.toLowerCase().includes(item.name.toLowerCase()) || item.name.toLowerCase().includes(ing.item.toLowerCase()))
+  );
+
+  const body = document.getElementById('pantryModalBody');
+  body.innerHTML = `
+    <div class="pantry-modal-details">
+      <div class="pantry-detail-row">
+        <div class="pantry-detail-label" style="font-weight: 700; color: var(--text-muted); font-size: 13px; text-transform: uppercase;">👅 Taste & Flavor Profile:</div>
+        <div class="pantry-detail-value" style="font-size: 15px; font-weight: 600; color: var(--red); margin-top: 4px;">${item.simpleTaste || 'Savory restaurant seasoning'}</div>
+      </div>
+
+      <div class="pantry-detail-row" style="margin-top: 14px;">
+        <div class="pantry-detail-label" style="font-weight: 700; color: var(--text-muted); font-size: 13px; text-transform: uppercase;">🍳 What It Does in Your Dishes (Simple Words):</div>
+        <div class="pantry-detail-value" style="margin-top: 4px; line-height: 1.5; color: var(--text-main);">${item.simpleRole || 'Enhances the savory depth and authentic restaurant aroma.'}</div>
+      </div>
+
+      <div class="pantry-detail-row" style="margin-top: 14px; background: var(--gold-light); border: 1px solid var(--gold-border); padding: 14px; border-radius: var(--radius-sm);">
+        <div class="pantry-detail-label" style="color: #8c6310; font-weight: 700; font-size: 13px;">💡 Beginner Chef Tip:</div>
+        <div class="pantry-detail-value" style="color: #593e06; font-weight: 500; margin-top: 4px; line-height: 1.5;">${item.beginnerTip || 'Use as directed in recipes for balanced flavor.'}</div>
+      </div>
+
+      ${usedInSauces.length > 0 ? `
+        <div class="pantry-detail-row" style="margin-top: 16px;">
+          <div class="pantry-detail-label" style="font-weight: 700; color: var(--text-muted); font-size: 13px; text-transform: uppercase; margin-bottom: 8px;">🥣 Used in These Mother Sauces:</div>
+          <div class="pantry-sauce-chips" style="display: flex; flex-wrap: wrap; gap: 8px;">
+            ${usedInSauces.map(s => `
+              <span class="sauce-pill-chip" style="background: var(--red-light); color: var(--red); border: 1px solid rgba(185,19,39,0.2); padding: 4px 10px; border-radius: 20px; font-size: 12px; font-weight: 600; cursor: pointer;" onclick="closePantryModal(); switchTab('sauces');">${s.name}</span>
+            `).join('')}
+          </div>
+        </div>
+      ` : ''}
+    </div>
+  `;
+
+  document.getElementById('pantryModalOverlay').style.display = 'flex';
+  document.body.style.overflow = 'hidden';
+}
+
+function closePantryModal() {
+  const overlay = document.getElementById('pantryModalOverlay');
+  if (overlay) overlay.style.display = 'none';
+  document.body.style.overflow = '';
+}
+
+function handlePantryModalOutsideClick(e) {
+  if (e.target.id === 'pantryModalOverlay') {
+    closePantryModal();
   }
 }

@@ -4,7 +4,7 @@
    Tailored 100% to Your Exact 20 Kitchen Products:
    [Dark Soya, Light Soya, Vinegar, Tomato Sauce, Red Chilli Sauce, Teriyaki,
     Oyster, Kung Pao, Black Pepper, Plum Sauce, Hoisin, Japanese Mayo, Sriracha,
-    Cream Cheese, Red Curry Paste, Yellow Curry Paste, Tahini, Magic Seasoning,
+    Cream Cheese, Red Curry Paste, Yellow Curry Paste, Tahini, Maggi Seasoning,
     Honey, Madras Curry Powder]
    =========================================================================== */
 
@@ -14,121 +14,181 @@ window.INDUS_BIBLE = {
     "id": "p1",
     "name": "Dark Soya Sauce",
     "cat": "Soy & Umami",
-    "icon": "\ud83c\udf7e"
+    "icon": "\ud83c\udf7e",
+    "simpleTaste": "Savory, rich, slightly sweet with a deep caramel-brown color",
+    "simpleRole": "Gives dishes their dark restaurant color and rich caramelized aroma when drizzled along the hot wok rim.",
+    "beginnerTip": "Use sparingly! 1 tablespoon gives heavy color. Too much will turn noodles pitch black."
   },
   {
     "id": "p2",
     "name": "Light Soya Sauce",
     "cat": "Soy & Umami",
-    "icon": "\ud83c\udf76"
+    "icon": "\ud83c\udf76",
+    "simpleTaste": "Salty, savory, light golden-brown, clean soy taste",
+    "simpleRole": "Acts as your primary liquid salt and savory booster without darkening the color of your fried rice or noodles.",
+    "beginnerTip": "Taste before adding extra table salt! Light soy sauce provides most of the salt in Asian cooking."
   },
   {
     "id": "p3",
-    "name": "Vinegar (White Synthetic)",
+    "name": "Vinegar (White Synthetic / Sirka)",
     "cat": "Acids",
-    "icon": "\ud83e\uddea"
+    "icon": "\ud83e\uddea",
+    "simpleTaste": "Sharp, bright, clean sour tang",
+    "simpleRole": "Cuts through cooking oil, brightens flavors, and provides the essential sour punch in Manchurian, Hot & Sour, and Schezwan.",
+    "beginnerTip": "Add towards the middle/end of wok cooking. High heat softens the sharp acid into a mouth-watering tang."
   },
   {
     "id": "p4",
     "name": "Tomato Sauce (Ketchup)",
     "cat": "Bases",
-    "icon": "\ud83c\udf45"
+    "icon": "\ud83c\udf45",
+    "simpleTaste": "Sweet, tangy, mild tomato acidity",
+    "simpleRole": "The secret foundational body for sweet, sour, and red gravies (Manchurian, Sweet & Sour, Triple Schezwan Gravy).",
+    "beginnerTip": "Balances fiery red chili pastes and gives gravies a smooth, shiny texture."
   },
   {
     "id": "p5",
     "name": "Red Chilli Sauce",
     "cat": "Chili Bases",
-    "icon": "\ud83c\udf36\ufe0f"
+    "icon": "\ud83c\udf36\ufe0f",
+    "simpleTaste": "Medium-high heat, garlicky, vibrant red",
+    "simpleRole": "The universal backbone of Indo-Chinese street food. Provides bright red color and spicy warmth.",
+    "beginnerTip": "Cook in warm oil with garlic for 15 seconds to release its vibrant red color into the oil."
   },
   {
     "id": "p6",
     "name": "Teriyaki Sauce",
     "cat": "Glazes",
-    "icon": "\ud83e\udd62"
+    "icon": "\ud83e\udd62",
+    "simpleTaste": "Sweet, savory, glossy, mouth-coating soy glaze",
+    "simpleRole": "Used for Japanese teriyaki stir-fries, noodle glazes, and dipping sauces.",
+    "beginnerTip": "Because it contains sugar, add in the final 30 seconds of cooking so it creates a shiny glaze without burning."
   },
   {
     "id": "p7",
     "name": "Oyster Sauce",
     "cat": "Savory Glazes",
-    "icon": "\ud83e\uddaa"
+    "icon": "\ud83e\uddaa",
+    "simpleTaste": "Intense savory umami, slightly sweet, velvety (does NOT taste fishy!)",
+    "simpleRole": "The secret ingredient in Cantonese banquets. Gives noodles and claypot gravies a deep, luxurious restaurant savoriness.",
+    "beginnerTip": "1 teaspoon is enough to elevate ordinary fried noodles into restaurant-quality."
   },
   {
     "id": "p8",
     "name": "Kung Pao Sauce",
     "cat": "Glazes",
-    "icon": "\ud83e\udd5c"
+    "icon": "\ud83e\udd5c",
+    "simpleTaste": "Sweet, tangy, peppery with roasted nutty notes",
+    "simpleRole": "Specialty Sichuan stir-fry sauce for chicken, paneer, and peanut wok dishes.",
+    "beginnerTip": "Pairs best with roasted peanuts, cubed bell peppers, and dried whole red chilies."
   },
   {
     "id": "p9",
     "name": "Black Pepper (Kaali Mirch)",
     "cat": "Spices",
-    "icon": "\ud83e\uddc2"
+    "icon": "\ud83e\uddc2",
+    "simpleTaste": "Warm, pungent, lingering throat heat (different from chili burn)",
+    "simpleRole": "Essential for Black Pepper Chicken, Burnt Garlic Rice, Manchow Soup, and Hakka Noodles.",
+    "beginnerTip": "Sprinkle at the very end of cooking to keep its fragrant essential oils alive."
   },
   {
     "id": "p10",
     "name": "Plum Sauce",
     "cat": "Sweet & Fruity",
-    "icon": "\ud83c\udf51"
+    "icon": "\ud83c\udf51",
+    "simpleTaste": "Sweet, fruity, tart, amber-colored luscious jam",
+    "simpleRole": "The authentic master Cantonese ingredient for Sweet & Sour glaze and crispy spring roll dips.",
+    "beginnerTip": "Combine with Tomato Sauce, Vinegar, and Honey for the ultimate restaurant Sweet & Sour sauce."
   },
   {
     "id": "p11",
     "name": "Hoisin Sauce",
     "cat": "Sweet & Savory",
-    "icon": "\ud83c\udf6f"
+    "icon": "\ud83c\udf6f",
+    "simpleTaste": "Sweet, savory, smoky, thick Chinese barbecue glaze",
+    "simpleRole": "Powers Hong Kong street noodles, barbecue chicken wings, and crispy starter glazes.",
+    "beginnerTip": "Thick and sticky\u2014drizzle along the wok rim so it caramelizes immediately into a fragrant glaze."
   },
   {
     "id": "p12",
     "name": "Japanese Mayo (Kewpie style)",
     "cat": "Emulsions",
-    "icon": "\ud83e\udd63"
+    "icon": "\ud83e\udd63",
+    "simpleTaste": "Super creamy, rich egg yolk flavor, tangy rice vinegar",
+    "simpleRole": "The base for spicy sushi sauces, dim sum dips, and drizzling over crispy tempura starters.",
+    "beginnerTip": "Mix with Sriracha Sauce (3:1 ratio) to create instant restaurant Spicy Mayo."
   },
   {
     "id": "p13",
     "name": "Sriracha Sauce",
     "cat": "Chili Bases",
-    "icon": "\ud83d\udd25"
+    "icon": "\ud83d\udd25",
+    "simpleTaste": "Fiery, garlicky, vibrant crimson red, tangy",
+    "simpleRole": "Powers Dragon Chicken, Hot Garlic Gravies, and spicy noodle bowls with clean, punchy chili heat.",
+    "beginnerTip": "Gives a brighter, cleaner heat than cooked chili paste."
   },
   {
     "id": "p14",
     "name": "Cream Cheese",
     "cat": "Dairy & Sushi",
-    "icon": "\ud83e\uddc0"
+    "icon": "\ud83e\uddc0",
+    "simpleTaste": "Rich, creamy, mild, melt-in-mouth smooth",
+    "simpleRole": "Used inside modern fusion sushi rolls (Philadelphia roll, Tempura roll) and creamy dim sum fillings.",
+    "beginnerTip": "Keep cold in the fridge until ready to roll inside nori sushi sheets so it stays firm."
   },
   {
     "id": "p15",
     "name": "Red Curry Paste",
     "cat": "Curry Pastes",
-    "icon": "\ud83c\udf5b"
+    "icon": "\ud83c\udf5b",
+    "simpleTaste": "Aromatic Thai red chili, lemongrass, galangal, kaffir lime",
+    "simpleRole": "Base for Thai Red Curry, Thai Fried Rice, Curry Ramen, and Tom Yum broths.",
+    "beginnerTip": "Fry in 1 tbsp hot oil for 45 seconds to 'wake up' the lemongrass and citrus oils before adding liquids."
   },
   {
     "id": "p16",
     "name": "Yellow Curry Paste",
     "cat": "Curry Pastes",
-    "icon": "\ud83e\udd58"
+    "icon": "\ud83e\udd58",
+    "simpleTaste": "Mild, earthy turmeric, shallots, lemongrass, warm spices",
+    "simpleRole": "Base for Thai Yellow Curry, Singapore Yellow Curry broths, and mild noodle dishes.",
+    "beginnerTip": "Gentler and less spicy than red curry paste, great for guests who want aroma without extreme heat."
   },
   {
     "id": "p17",
     "name": "Tahini (Sesame Paste)",
     "cat": "Nut & Seed Pastes",
-    "icon": "\ud83e\uded2"
+    "icon": "\ud83e\uded2",
+    "simpleTaste": "Nutty, rich, roasted sesame butter, creamy",
+    "simpleRole": "The secret ingredient for Dan Dan Noodles, Sesame Momo Jhol broth, and nutty dipping sauces.",
+    "beginnerTip": "Whisk with warm water or broth first to prevent clumping and create a silky smooth emulsion."
   },
   {
     "id": "p18",
-    "name": "Magic Seasoning (Aroma / Broth Powder)",
-    "cat": "Seasonings",
-    "icon": "\u2728"
+    "name": "Maggi Seasoning (Liquid / Powder Umami Booster)",
+    "cat": "Seasonings & Umami",
+    "icon": "\u2728",
+    "simpleTaste": "Deep savory roasted umami, concentrated richness, salty",
+    "simpleRole": "The restaurant secret flavor booster! Adds the signature mouth-watering savoriness to Fried Rice, Hakka Noodles, and Gravies.",
+    "beginnerTip": "Just 1/2 teaspoon transforms a good dish into an unforgettable restaurant-quality masterpiece."
   },
   {
     "id": "p19",
     "name": "Honey",
     "cat": "Sweeteners",
-    "icon": "\ud83c\udf6f"
+    "icon": "\ud83c\udf6f",
+    "simpleTaste": "Pure floral sweetness, glossy, smooth",
+    "simpleRole": "Creates sticky, mirror-like glazes on Dragon Chicken, Honey Chilli Potato, and Teriyaki chicken.",
+    "beginnerTip": "Add off the flame or in the final 15 seconds to keep its glossy shine without burning."
   },
   {
     "id": "p20",
     "name": "Madras Curry Powder",
     "cat": "Spices",
-    "icon": "\ud83c\udf3f"
+    "icon": "\ud83c\udf3f",
+    "simpleTaste": "Warm, earthy, fragrant roasted coriander, cumin, turmeric",
+    "simpleRole": "The signature spice blend for authentic Singapore Fried Rice, Singapore Noodles, and Dragon Chicken marinade.",
+    "beginnerTip": "Always 'bloom' (fry) in warm oil for 30 seconds before adding rice/noodles to release its fragrance and prevent raw powder taste."
   }
 ],
   sauces: [
@@ -141,7 +201,7 @@ window.INDUS_BIBLE = {
     "cookTime": "25 mins",
     "shelfLife": "21 Days Chilled | 60 Days Frozen",
     "spiceLevel": "\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f (Fiery Umami Sizzle)",
-    "description": "Standardized for your exact inventory: Red Chilli Sauce + Sriracha Sauce + Tomato Sauce + Vinegar + Dark Soya + Garlic + Ginger + Magic Seasoning + Oil.",
+    "description": "Standardized for your exact inventory: Red Chilli Sauce + Sriracha Sauce + Tomato Sauce + Vinegar + Dark Soya + Garlic + Ginger + Maggi Seasoning + Oil.",
     "ingredients": [
       {
         "item": "Red Chilli Sauce (Bottled)",
@@ -176,7 +236,7 @@ window.INDUS_BIBLE = {
         "qty": "150ml"
       },
       {
-        "item": "Magic Seasoning Powder",
+        "item": "Maggi Seasoning Powder",
         "qty": "35g"
       },
       {
@@ -197,10 +257,10 @@ window.INDUS_BIBLE = {
       "Add minced garlic and ginger. Saut\u00e9 for 6 minutes until aromatic and light golden.",
       "Pour in Red Chilli Sauce, Sriracha Sauce, and Tomato Sauce. Stir well.",
       "Lower flame to gentle simmer and cook for 15 minutes until red oil separates and floats on top.",
-      "Add Dark Soya Sauce, White Vinegar, Magic Seasoning, Honey/Sugar, black pepper, and salt. Cook 5 more minutes.",
+      "Add Dark Soya Sauce, White Vinegar, Maggi Seasoning, Honey/Sugar, black pepper, and salt. Cook 5 more minutes.",
       "Cool and store in airtight container with a 1cm layer of oil on top."
     ],
-    "emergencySub": "3 tbsp Red Chilli Sauce + 1.5 tbsp Sriracha + 1 tbsp Tomato Sauce + 1 tbsp Minced Garlic + 1 tsp Dark Soy + 1 tsp Vinegar + 1/2 tsp Magic Seasoning.",
+    "emergencySub": "3 tbsp Red Chilli Sauce + 1.5 tbsp Sriracha + 1 tbsp Tomato Sauce + 1 tbsp Minced Garlic + 1 tsp Dark Soy + 1 tsp Vinegar + 1/2 tsp Maggi Seasoning.",
     "qualityChecks": "Ruby red glossy oil separation, sharp garlicky chili punch with deep umami."
   },
   {
@@ -212,7 +272,7 @@ window.INDUS_BIBLE = {
     "cookTime": "12 mins",
     "shelfLife": "30 Days Ambient in Squeeze Bottles",
     "spiceLevel": "\ud83c\udf36\ufe0f (Savory Umami)",
-    "description": "Powers all Hakka Noodles and Fried Rice. Uses Dark Soya Sauce + Light Soya Sauce + Oyster Sauce + Vinegar + Magic Seasoning + Sugar/Honey.",
+    "description": "Powers all Hakka Noodles and Fried Rice. Uses Dark Soya Sauce + Light Soya Sauce + Oyster Sauce + Vinegar + Maggi Seasoning + Sugar/Honey.",
     "ingredients": [
       {
         "item": "Dark Soya Sauce",
@@ -235,7 +295,7 @@ window.INDUS_BIBLE = {
         "qty": "200g"
       },
       {
-        "item": "Magic Seasoning Powder",
+        "item": "Maggi Seasoning Powder",
         "qty": "40g"
       },
       {
@@ -249,11 +309,11 @@ window.INDUS_BIBLE = {
     ],
     "method": [
       "In a saucepan, combine water, Dark Soya Sauce, Light Soya Sauce, Oyster Sauce, and White Vinegar.",
-      "Add Honey/Sugar, Magic Seasoning, and Black Pepper.",
+      "Add Honey/Sugar, Maggi Seasoning, and Black Pepper.",
       "Bring to a gentle boil over medium heat for 10 minutes to marry all flavors.",
       "Cool completely and funnel into kitchen squeeze bottles labeled 'INDUS DARK BASE'."
     ],
-    "emergencySub": "2 tbsp Dark Soya + 1 tbsp Light Soya + 1 tsp Oyster Sauce + 1 tsp Vinegar + 1/2 tsp Magic Seasoning + 1/2 tsp Sugar.",
+    "emergencySub": "2 tbsp Dark Soya + 1 tbsp Light Soya + 1 tsp Oyster Sauce + 1 tsp Vinegar + 1/2 tsp Maggi Seasoning + 1/2 tsp Sugar.",
     "qualityChecks": "Rich dark brown liquid, deep savory umami with glossy body."
   },
   {
@@ -265,7 +325,7 @@ window.INDUS_BIBLE = {
     "cookTime": "20 mins",
     "shelfLife": "7 Days Chilled",
     "spiceLevel": "\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f (Pungent Ginger-Garlic)",
-    "description": "Uses Minced Garlic, Ginger, Dark Soya Sauce, Red Chilli Sauce, Tomato Sauce, Vinegar, and Magic Seasoning.",
+    "description": "Uses Minced Garlic, Ginger, Dark Soya Sauce, Red Chilli Sauce, Tomato Sauce, Vinegar, and Maggi Seasoning.",
     "ingredients": [
       {
         "item": "Refined Cooking Oil",
@@ -300,7 +360,7 @@ window.INDUS_BIBLE = {
         "qty": "120ml"
       },
       {
-        "item": "Magic Seasoning Powder",
+        "item": "Maggi Seasoning Powder",
         "qty": "40g"
       },
       {
@@ -323,10 +383,10 @@ window.INDUS_BIBLE = {
     "method": [
       "Heat oil in wok, saut\u00e9 minced garlic, ginger, and green chillies for 5 minutes.",
       "Add Dark Soya Sauce, Red Chilli Sauce, Tomato Sauce, and White Vinegar. Stir for 2 minutes.",
-      "Pour in 2.5L water with Magic Seasoning, Black Pepper, and Salt. Boil for 8 minutes.",
+      "Pour in 2.5L water with Maggi Seasoning, Black Pepper, and Salt. Boil for 8 minutes.",
       "Cool and chill. During service, ladle 60ml for Dry or 200ml for Gravy and thicken with cornflour slurry."
     ],
-    "emergencySub": "1 tbsp Minced Garlic + 1 tbsp Ginger + 1 tbsp Dark Soya + 1 tbsp Red Chilli Sauce + 1 tsp Tomato Sauce + 1 tsp Vinegar + 1/2 tsp Magic Seasoning + 1 cup Water + Cornflour.",
+    "emergencySub": "1 tbsp Minced Garlic + 1 tbsp Ginger + 1 tbsp Dark Soya + 1 tbsp Red Chilli Sauce + 1 tsp Tomato Sauce + 1 tsp Vinegar + 1/2 tsp Maggi Seasoning + 1 cup Water + Cornflour.",
     "qualityChecks": "Glossy chocolate brown color with pungent ginger-garlic kick."
   },
   {
@@ -338,7 +398,7 @@ window.INDUS_BIBLE = {
     "cookTime": "20 mins",
     "shelfLife": "14 Days Chilled",
     "spiceLevel": "\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f (Fiery Tangy Garlic)",
-    "description": "Uses Heavy Minced Garlic + Sriracha Sauce + Red Chilli Sauce + Tomato Sauce + Dark Soya + Vinegar + Honey + Magic Seasoning.",
+    "description": "Uses Heavy Minced Garlic + Sriracha Sauce + Red Chilli Sauce + Tomato Sauce + Dark Soya + Vinegar + Honey + Maggi Seasoning.",
     "ingredients": [
       {
         "item": "Refined Cooking Oil",
@@ -373,7 +433,7 @@ window.INDUS_BIBLE = {
         "qty": "80g"
       },
       {
-        "item": "Magic Seasoning",
+        "item": "Maggi Seasoning",
         "qty": "30g"
       },
       {
@@ -384,7 +444,7 @@ window.INDUS_BIBLE = {
     "method": [
       "Heat oil in wok, saut\u00e9 500g garlic for 5 minutes until pale golden.",
       "Add Sriracha, Red Chilli Sauce, and Tomato Sauce. Cook 8 minutes.",
-      "Add Dark Soya, Vinegar, Honey, Magic Seasoning, and water. Simmer 8 minutes.",
+      "Add Dark Soya, Vinegar, Honey, Maggi Seasoning, and water. Simmer 8 minutes.",
       "Cool and bottle."
     ],
     "emergencySub": "2 tbsp Sriracha + 1.5 tbsp Red Chilli Sauce + 1.5 tbsp Tomato Sauce + 1.5 tbsp Minced Garlic + 1 tsp Soy + 1 tsp Vinegar + 1/2 tsp Honey.",
@@ -472,7 +532,7 @@ window.INDUS_BIBLE = {
         "qty": "50g"
       },
       {
-        "item": "Magic Seasoning",
+        "item": "Maggi Seasoning",
         "qty": "20g"
       },
       {
@@ -481,7 +541,7 @@ window.INDUS_BIBLE = {
       }
     ],
     "method": [
-      "In a saucepan, whisk bottled Kung Pao Sauce, Hoisin Sauce, Red Chilli Sauce, Light Soya, Vinegar, Honey, Tahini, and Magic Seasoning with water.",
+      "In a saucepan, whisk bottled Kung Pao Sauce, Hoisin Sauce, Red Chilli Sauce, Light Soya, Vinegar, Honey, Tahini, and Maggi Seasoning with water.",
       "Simmer over medium flame for 10 minutes until glossy and uniform.",
       "Bottle in dispenser jugs."
     ],
@@ -497,7 +557,7 @@ window.INDUS_BIBLE = {
     "cookTime": "12 mins",
     "shelfLife": "21 Days Chilled",
     "spiceLevel": "\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f (Pungent Black Pepper & Savory Oyster)",
-    "description": "Uses your Black Pepper + Oyster Sauce + Dark Soya Sauce + Light Soya + Garlic + Vinegar + Honey + Magic Seasoning.",
+    "description": "Uses your Black Pepper + Oyster Sauce + Dark Soya Sauce + Light Soya + Garlic + Vinegar + Honey + Maggi Seasoning.",
     "ingredients": [
       {
         "item": "Oyster Sauce",
@@ -532,7 +592,7 @@ window.INDUS_BIBLE = {
         "qty": "80g"
       },
       {
-        "item": "Magic Seasoning",
+        "item": "Maggi Seasoning",
         "qty": "25g"
       },
       {
@@ -543,7 +603,7 @@ window.INDUS_BIBLE = {
     "method": [
       "Heat oil in wok, saut\u00e9 minced garlic for 3 minutes.",
       "Add crushed black pepper, fry for 30 seconds to bloom.",
-      "Add Oyster Sauce, Dark Soya, Light Soya, White Vinegar, Honey, Magic Seasoning, and water.",
+      "Add Oyster Sauce, Dark Soya, Light Soya, White Vinegar, Honey, Maggi Seasoning, and water.",
       "Simmer 10 minutes into a rich, glossy black pepper glaze.",
       "Cool and bottle."
     ],
@@ -729,7 +789,7 @@ window.INDUS_BIBLE = {
     "cookTime": "10 mins",
     "shelfLife": "30 Days Chilled",
     "spiceLevel": "\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f (Aromatic Spiced Curry)",
-    "description": "Powers Singapore Fried Rice and Singapore Noodles using your Madras Curry Powder + Light Soya + Red Chilli Sauce + Magic Seasoning + Vinegar.",
+    "description": "Powers Singapore Fried Rice and Singapore Noodles using your Madras Curry Powder + Light Soya + Red Chilli Sauce + Maggi Seasoning + Vinegar.",
     "ingredients": [
       {
         "item": "Madras Curry Powder",
@@ -748,7 +808,7 @@ window.INDUS_BIBLE = {
         "qty": "120ml"
       },
       {
-        "item": "Magic Seasoning Powder",
+        "item": "Maggi Seasoning Powder",
         "qty": "35g"
       },
       {
@@ -766,11 +826,11 @@ window.INDUS_BIBLE = {
     ],
     "method": [
       "Heat oil in saucepan, gently fry Madras Curry Powder for 60 seconds over low heat until fragrant.",
-      "Deglaze with Light Soya Sauce, Red Chilli Sauce, White Vinegar, water, Honey, and Magic Seasoning.",
+      "Deglaze with Light Soya Sauce, Red Chilli Sauce, White Vinegar, water, Honey, and Maggi Seasoning.",
       "Simmer for 8 minutes to emulsify.",
       "Cool and bottle for Singapore dishes."
     ],
-    "emergencySub": "1 tsp Madras Curry Powder + 2 tbsp Light Soy + 1 tbsp Red Chilli Sauce + 1 tsp Vinegar + 1/2 tsp Magic Seasoning.",
+    "emergencySub": "1 tsp Madras Curry Powder + 2 tbsp Light Soy + 1 tbsp Red Chilli Sauce + 1 tsp Vinegar + 1/2 tsp Maggi Seasoning.",
     "qualityChecks": "Vibrant golden-amber sauce with intoxicating Singapore curry aroma."
   },
   {
@@ -782,7 +842,7 @@ window.INDUS_BIBLE = {
     "cookTime": "15 mins",
     "shelfLife": "14 Days Chilled",
     "spiceLevel": "\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f (Aromatic Thai Spices)",
-    "description": "Powers Thai Soups, Thai Noodles, and Curry Ramen using your Red Curry Paste / Yellow Curry Paste + Light Soya + Magic Seasoning + Vinegar + Honey.",
+    "description": "Powers Thai Soups, Thai Noodles, and Curry Ramen using your Red Curry Paste / Yellow Curry Paste + Light Soya + Maggi Seasoning + Vinegar + Honey.",
     "ingredients": [
       {
         "item": "Red Curry Paste (or Yellow Curry Paste)",
@@ -805,7 +865,7 @@ window.INDUS_BIBLE = {
         "qty": "60g"
       },
       {
-        "item": "Magic Seasoning Powder",
+        "item": "Maggi Seasoning Powder",
         "qty": "35g"
       },
       {
@@ -815,11 +875,11 @@ window.INDUS_BIBLE = {
     ],
     "method": [
       "Heat oil in pot, fry Red/Yellow Curry Paste for 5 minutes until oil glitters with color.",
-      "Pour in water/broth, Light Soya Sauce, White Vinegar, Honey, and Magic Seasoning.",
+      "Pour in water/broth, Light Soya Sauce, White Vinegar, Honey, and Maggi Seasoning.",
       "Simmer for 10 minutes into a rich, fragrant Thai base.",
       "Portion and chill."
     ],
-    "emergencySub": "2 tbsp Red/Yellow Curry Paste + 2 tbsp Light Soy + 1 tsp Vinegar + 1/2 tsp Magic Seasoning + 1 cup Water.",
+    "emergencySub": "2 tbsp Red/Yellow Curry Paste + 2 tbsp Light Soy + 1 tsp Vinegar + 1/2 tsp Maggi Seasoning + 1 cup Water.",
     "qualityChecks": "Heady aromatic Thai spice fragrance with golden-red shimmer."
   },
   {
@@ -831,7 +891,7 @@ window.INDUS_BIBLE = {
     "cookTime": "10 mins",
     "shelfLife": "7 Days Chilled",
     "spiceLevel": "\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f (Nutty Sesame Chili Tang)",
-    "description": "Uses your Tahini (Sesame Paste) + Tomato Sauce + Sriracha Sauce + Garlic + White Vinegar + Magic Seasoning.",
+    "description": "Uses your Tahini (Sesame Paste) + Tomato Sauce + Sriracha Sauce + Garlic + White Vinegar + Maggi Seasoning.",
     "ingredients": [
       {
         "item": "Tahini (Sesame Paste)",
@@ -854,7 +914,7 @@ window.INDUS_BIBLE = {
         "qty": "80ml"
       },
       {
-        "item": "Magic Seasoning Powder",
+        "item": "Maggi Seasoning Powder",
         "qty": "25g"
       },
       {
@@ -871,7 +931,7 @@ window.INDUS_BIBLE = {
       }
     ],
     "method": [
-      "In a blender or bowl, whisk Tahini, Tomato Sauce, Sriracha Sauce, minced garlic, vinegar, honey, and Magic Seasoning.",
+      "In a blender or bowl, whisk Tahini, Tomato Sauce, Sriracha Sauce, minced garlic, vinegar, honey, and Maggi Seasoning.",
       "Gradually stream in hot water while whisking into a smooth, creamy golden-orange broth.",
       "Simmer for 5 minutes. Serve warm with steamed momos."
     ],
@@ -1172,281 +1232,273 @@ window.INDUS_BIBLE = {
     "grossMarginPct": 75.79,
     "image": "images/indus_dragon_chicken.jpg",
     "flavorProfile": "Double-crisped velveted chicken batons tossed in wok-charred whole red chillies, golden roasted cashews, burnt garlic, Sriracha-Honey fire-cracker glaze, Oyster sauce umami, and a secret pinch of Madras Curry Powder.",
-    "whySpecial": "The legendary Indo-Chinese chef formulation: Madras Curry Powder + Sriracha + Honey + Oyster Sauce + Cashews creates an irresistible fire-cracker crunch.",
-    "bom": [
+    "whySpecial": "Unlike generic chilly chicken, authentic Dragon Chicken utilizes Madras curry powder + green chili paste in the velvet marinade, and finishes in a high-viscosity Sriracha-Honey glaze with double-roasted whole cashews.",
+    "ingredientsCost": [
       {
-        "ingredient": "Boneless Chicken Breast (Cut into 1x5cm batons)",
-        "qty": "180g",
-        "unitRate": "\u20b9240 / kg",
-        "cost": 43.2
+        "ingredient": "Chicken Breast (Velveted Batons, 200g raw)",
+        "qty": "200g",
+        "unitRate": "\u20b9280/kg",
+        "cost": 56.0
       },
       {
-        "ingredient": "Velveting Batter (Egg white + cornstarch + pinch Madras Curry Powder)",
+        "ingredient": "Velveting Marinade (Cornstarch, Egg White, Madras Curry, Soy)",
         "qty": "30g",
-        "unitRate": "\u20b9150 / kg",
+        "unitRate": "Batch",
         "cost": 4.5
       },
       {
-        "ingredient": "Indus Dragon Glaze (Sriracha + Red Chilli + Honey + Oyster + Dark Soy)",
-        "qty": "50ml",
-        "unitRate": "\u20b9256 / L",
-        "cost": 12.8
-      },
-      {
-        "ingredient": "Whole Roasted Cashews (Golden toasted in oil)",
+        "ingredient": "Cashew Nuts (Split Whole, Roasted)",
         "qty": "20g",
-        "unitRate": "\u20b9700 / kg",
-        "cost": 14.0
+        "unitRate": "\u20b9900/kg",
+        "cost": 18.0
       },
       {
-        "ingredient": "Whole Dried Red Chillies & Minced Garlic/Ginger",
+        "ingredient": "Indus Dragon Master Glaze (Sriracha + Red Chilli + Tomato + Oyster + Honey)",
+        "qty": "50g",
+        "unitRate": "Scratch",
+        "cost": 4.2
+      },
+      {
+        "ingredient": "Aromatics (Garlic Brunoise, Ginger, Dry Whole Red Chilli)",
         "qty": "25g",
-        "unitRate": "\u20b9160 / kg",
-        "cost": 4.0
+        "unitRate": "Market",
+        "cost": 1.8
       },
       {
-        "ingredient": "Refined Frying & Wok Cooking Oil (Absorption)",
-        "qty": "30ml",
-        "unitRate": "\u20b9150 / L",
-        "cost": 4.5
+        "ingredient": "Maggi Seasoning + Scallion Greens & White Sesame",
+        "qty": "5g",
+        "unitRate": "Batch",
+        "cost": 0.8
       },
       {
-        "ingredient": "Magic Seasoning + Scallion Greens & White Sesame",
-        "qty": "10g",
-        "unitRate": "\u20b9150 / kg",
-        "cost": 1.5
+        "ingredient": "Refined Oil (Frying Absorption & Flash Toss)",
+        "qty": "40ml",
+        "unitRate": "\u20b9140/L",
+        "cost": 5.6
       }
     ],
-    "prepSequence": [
-      "1. VELVET & MARINATE: Toss chicken batons in egg white, 2 tbsp cornflour, 1 tsp Light Soy, 1/4 tsp Madras Curry Powder, and 1/4 tsp black pepper. Rest 15 mins.",
-      "2. DOUBLE-CRISP FRY: Deep fry in 180\u00b0C oil for 2 mins until light golden. Rest 2 mins, then flash-fry 45 seconds on high heat for shatteringly crisp crust. Drain.",
-      "3. WOK TEMPERING: Heat wok over roaring flame. Swirl 15ml oil; flash-fry whole dry chillies, cashews, and minced garlic for 15 seconds until aromatic.",
-      "4. GLAZE REDUCTION: Add 2 tbsp Sriracha, 1 tbsp Red Chilli Sauce, 1 tbsp Tomato Sauce, 1 tsp Oyster Sauce, 1 tsp Honey, and 1/2 tsp Magic Seasoning. Simmer 15 seconds into a bubbling sticky glaze.",
-      "5. 20-SECOND FLASH TOSS: Drop hot crispy chicken into the bubbling glaze. Toss rapidly over intense flame for 20 seconds so every piece is lacquered with zero sogging.",
-      "6. PLATING: Dish out onto heated black slate, garnish with scallion greens and toasted white sesame seeds."
-    ]
+    "recipeSteps": [
+      "1. VELVET MARINATION: Cut 200g boneless chicken breast into 2.5-inch batons. Marinate with 1 egg white, 1 tbsp cornstarch, 1 tsp Light Soya, 1/2 tsp ginger-garlic paste, and 1/4 tsp Madras Curry Powder for 20 minutes.",
+      "2. FLASH DOUBLE FRY: Heat oil to 180\u00b0C. Deep fry chicken batons for 90 seconds until 80% cooked. Drain. Flash fry a second time at 200\u00b0C for 30 seconds for an ultra-crispy shell that stays crisp in sauce.",
+      "3. WOK TEMPERING: In a roaring hot wok, heat 1 tbsp oil. Add 5 whole dry red chillies (broken), 1 tbsp minced garlic, 1 tsp ginger, and 20g split roasted cashews. Stir-fry for 20 seconds until fragrant.",
+      "4. GLAZE REDUCTION: Add 2 tbsp Sriracha, 1 tbsp Red Chilli Sauce, 1 tbsp Tomato Sauce, 1 tsp Oyster Sauce, 1 tsp Honey, and 1/2 tsp Maggi Seasoning. Simmer 15 seconds into a bubbling sticky glaze.",
+      "5. FLASH TOSS: Kill the direct flame. Toss in the double-fried chicken batons and julienned bell peppers. Toss vigorously for 10 seconds to coat every baton with a mirror shine. Garnish with bias-cut scallion greens and toasted sesame seeds."
+    ],
+    "presentation": "Serve piled high on a dark oval sizzler plate, garnished with whole roasted cashews, bright red dry chillies, fresh scallion curls, and toasted white sesame seeds."
   },
   {
     "id": "special-rice",
     "category": "RICE",
     "dishName": "Indus Signature Burnt Chilli Garlic Chicken Fried Rice",
     "menuPrice": 280,
-    "portionSize": "420g Full Box / Bowl",
+    "portionSize": "380g Finished Rice (Full Portion)",
     "foodCost": 61.2,
     "foodCostPct": 21.86,
     "grossMargin": 218.8,
     "grossMarginPct": 78.14,
     "image": "images/indus_burnt_garlic_rice.jpg",
-    "flavorProfile": "Dehydrated overnight steamed rice grains flash-tossed with 3-stage infused burnt garlic (crunchy golden chips, soft saut\u00e9ed garlic, and garlic-infused oil), bird's eye chillies, velveted chicken, and scallion whites.",
-    "whySpecial": "Triple-stage garlic architecture guarantees incredible Wok Hei smokiness without any burnt bitterness. Indus Wok's #1 most re-ordered rice.",
-    "bom": [
+    "flavorProfile": "Smoky day-old Jasmine/Basmati rice tossed over high Wok Hei heat with 3-stage burnt garlic (crispy golden garlic chips, wok-seared soft garlic, and infused garlic oil), velveted chicken brunoise, scrambled egg ribbons, and cracked black pepper.",
+    "whySpecial": "Most restaurants simply throw in raw chopped garlic. Indus Signature Burnt Garlic Rice utilizes a 3-Stage Garlic infusion technique: golden crispy dehydrated chips on top, wok-caramelized soft garlic throughout the rice, and a wok-rim drizzle of Dark Soy and Maggi Seasoning for supreme smokiness.",
+    "ingredientsCost": [
       {
-        "ingredient": "Aged Long-Grain Steamed Rice (Chilled day-old)",
-        "qty": "220g (cooked)",
-        "unitRate": "\u20b950 / kg cooked",
-        "cost": 11.0
+        "ingredient": "Chilled Day-Old Parboiled Long Grain Rice",
+        "qty": "300g cooked",
+        "unitRate": "\u20b965/kg raw",
+        "cost": 16.5
       },
       {
-        "ingredient": "Velveted Boneless Chicken Breast Dices",
-        "qty": "90g",
-        "unitRate": "\u20b9240 / kg",
-        "cost": 21.6
+        "ingredient": "Chicken Breast (Velveted Micro-Brunoise, 80g raw)",
+        "qty": "80g",
+        "unitRate": "\u20b9280/kg",
+        "cost": 22.4
       },
       {
-        "ingredient": "Fresh Garlic (Minced saut\u00e9 + Crispy burnt chips)",
-        "qty": "35g",
-        "unitRate": "\u20b9200 / kg",
+        "ingredient": "Farm Fresh Egg (1 Large, scrambled ribbons)",
+        "qty": "1 unit",
+        "unitRate": "\u20b97/pc",
         "cost": 7.0
       },
       {
-        "ingredient": "Farm Fresh Egg (1 pc scrambled ribbon)",
-        "qty": "1 pc",
-        "unitRate": "\u20b96 / pc",
-        "cost": 6.0
+        "ingredient": "Fresh Garlic (3-Stage: Crispy chips, wok seared, oil infused)",
+        "qty": "35g",
+        "unitRate": "\u20b9160/kg",
+        "cost": 5.6
       },
       {
-        "ingredient": "Refined Sunflower Oil + Infused Garlic Oil",
-        "qty": "35ml",
-        "unitRate": "\u20b9150 / L",
-        "cost": 5.25
-      },
-      {
-        "ingredient": "Spring Onions (Whites & Greens separated)",
-        "qty": "25g",
-        "unitRate": "\u20b9140 / kg",
-        "cost": 3.5
-      },
-      {
-        "ingredient": "Seasoning Blend (Dark Soy, Light Soy, Magic Seasoning, Black Pepper)",
+        "ingredient": "Fresh Red & Green Bird's Eye Chillies (Crushed)",
         "qty": "10g",
-        "unitRate": "\u20b9450 / kg",
-        "cost": 4.5
+        "unitRate": "\u20b9120/kg",
+        "cost": 1.2
       },
       {
-        "ingredient": "Fresh Green Bird's Eye Chillies",
-        "qty": "10g",
-        "unitRate": "\u20b9150 / kg",
-        "cost": 1.5
+        "ingredient": "Vegetable Brunoise (Carrot, Cabbage, French Beans)",
+        "qty": "50g",
+        "unitRate": "\u20b960/kg",
+        "cost": 3.0
       },
       {
-        "ingredient": "Accompaniment (Indus Schezwan dip cup 30g)",
-        "qty": "1 cup",
-        "unitRate": "\u20b90.85 / cup",
-        "cost": 0.85
+        "ingredient": "Seasoning Blend (Dark Soy, Light Soy, Maggi Seasoning, Black Pepper)",
+        "qty": "20ml",
+        "unitRate": "Scratch",
+        "cost": 2.5
+      },
+      {
+        "ingredient": "Refined Oil & Sesame Oil Drizzle",
+        "qty": "25ml",
+        "unitRate": "Blended",
+        "cost": 3.0
       }
     ],
-    "prepSequence": [
-      "1. STAGE 1 (WOK HEI START): Heat carbon steel wok over jet flame until smoking blue. Swirl 20ml infused garlic oil.",
-      "2. STAGE 2 (PROTEIN & AROMATICS): Crack egg and drop velveted chicken; scramble 20 seconds. Add minced garlic, green chillies, and spring onion whites; saut\u00e9 15 seconds.",
-      "3. STAGE 3 (GRAIN TOASTING): Drop 220g cold day-old rice into the wok. Break clumps with the back of the wok ladle.",
-      "4. STAGE 4 (CARAMELIZATION): Drizzle 1 tbsp Dark Soya + 1 tsp Light Soya + 1/2 tsp Magic Seasoning + pinch Black Pepper along the inner wok rim.",
-      "5. STAGE 5 (WOK HEI TOSS): Toss continuously over 400\u00b0C extreme flame for 90 seconds so every individual grain dances and chars lightly.",
-      "6. PLATING: Fold in spring onion greens. Dish out and crown with golden crispy burnt garlic chips."
-    ]
+    "recipeSteps": [
+      "1. CRISPY GARLIC CHIPS: Fry 15g finely minced garlic in medium-hot oil until pale golden amber (do not burn). Drain on paper towel\u2014garlic will crisp up as it cools.",
+      "2. WOK SCRAMBLE: In a smoking hot wok, heat 1.5 tbsp oil. Pour in 1 beaten egg; swirl for 5 seconds to create airy scrambled ribbons. Push to the side.",
+      "3. SEAR AROMATICS: Add remaining 20g garlic, crushed red chillies, and velveted chicken cubes. Stir fry over intense 400\u00b0C flame for 30 seconds until garlic is deeply roasted amber.",
+      "4. STAGE 4 (CARAMELIZATION): Add vegetable brunoise and cold day-old rice. Toss aggressively for 45 seconds using circular wok tossing motions so individual grains separate and toast.",
+      "5. RIM SIZZLE: Drizzle 1 tbsp Dark Soya + 1 tsp Light Soya + 1/2 tsp Maggi Seasoning + pinch Black Pepper along the inner wok rim so it sizzles into steam before hitting rice.",
+      "6. FINISH: Toss in scallion greens and 1/2 tsp sesame oil. Transfer to serving bowl and crown generously with the crispy golden garlic chips prepared in Step 1."
+    ],
+    "presentation": "Mounded high in a warm stoneware bowl, crowned with a shimmering mountain of golden crispy garlic chips, fresh scallion confetti, and a side of Indus Signature Pickled Chilli Soy Dip."
   },
   {
     "id": "special-noodles",
     "category": "NOODLES",
     "dishName": "Indus Hong-Kong Street Style Hakka Noodles (Chicken & Egg)",
     "menuPrice": 260,
-    "portionSize": "400g Full Box / Plate",
+    "portionSize": "360g Finished Noodles (Full Portion)",
     "foodCost": 54.8,
     "foodCostPct": 21.08,
     "grossMargin": 205.2,
     "grossMarginPct": 78.92,
-    "image": "images/indus_hongkong_noodles.jpg",
-    "flavorProfile": "Springy wheat noodles seared over roaring flame with Dark Soy + Oyster Sauce + Hoisin glaze, 1.5mm julienned bell peppers, shredded cabbage, carrots, egg ribbons, velvet chicken, and toasted sesame aroma.",
-    "whySpecial": "High-flame noodle searing with Oyster & Hoisin sauce creates unmatched street-style depth with 78.9% gross margin.",
-    "bom": [
+    "image": "images/indus_hongkong_hakka_noodles.jpg",
+    "flavorProfile": "Al-dente parboiled egg noodles flash-seared against bare wok metal for smoky blistered edges, tossed with julienned rainbow cabbage, carrots, bell peppers, scallion batons, velveted chicken strips, and our signature Hong Kong glaze of Dark Soy, Oyster Sauce, and Hoisin.",
+    "whySpecial": "Standard Indian Hakka noodles are often boiled limp and drenched in oily red sauce. The Indus Hong Kong formula uses high-protein noodles dried after par-boiling, seared in an ultra-hot dry wok for 'singed noodle edges', and coated with a balanced Oyster-Hoisin-Soy lacquer.",
+    "ingredientsCost": [
       {
-        "ingredient": "Boiled & Chilled Wheat Hakka Noodles (80% al dente)",
-        "qty": "200g (cooked)",
-        "unitRate": "\u20b960 / kg cooked",
-        "cost": 12.0
+        "ingredient": "Parboiled & Air-Dried Hakka Wheat/Egg Noodles",
+        "qty": "260g cooked",
+        "unitRate": "\u20b955/kg raw",
+        "cost": 14.3
       },
       {
-        "ingredient": "Velveted Chicken Breast Strips",
+        "ingredient": "Chicken Breast (Velveted Julienne Strips, 80g raw)",
         "qty": "80g",
-        "unitRate": "\u20b9240 / kg",
-        "cost": 19.2
+        "unitRate": "\u20b9280/kg",
+        "cost": 22.4
       },
       {
-        "ingredient": "Farm Fresh Egg (1 pc scrambled ribbon)",
-        "qty": "1 pc",
-        "unitRate": "\u20b96 / pc",
-        "cost": 6.0
+        "ingredient": "Egg Scramble Ribbons (1 Egg)",
+        "qty": "1 unit",
+        "unitRate": "\u20b97/pc",
+        "cost": 7.0
       },
       {
-        "ingredient": "Julienned Fresh Veggies (1.5mm Cabbage, carrot, bell peppers)",
-        "qty": "80g",
-        "unitRate": "\u20b985 / kg",
-        "cost": 6.8
-      },
-      {
-        "ingredient": "Indus Hong Kong Master Glaze (Dark Soy + Oyster + Hoisin + Magic Seasoning)",
-        "qty": "20ml",
-        "unitRate": "\u20b9210 / L",
+        "ingredient": "Julienne Vegetables (Cabbage, Carrot, Capsicum, Onion)",
+        "qty": "70g",
+        "unitRate": "\u20b960/kg",
         "cost": 4.2
       },
       {
-        "ingredient": "Refined Oil + Toasted Sesame (Tahini/Sesame oil)",
+        "ingredient": "Indus Hong Kong Master Glaze (Dark Soy + Oyster + Hoisin + Maggi Seasoning)",
         "qty": "25ml",
-        "unitRate": "\u20b9176 / L",
-        "cost": 4.4
+        "unitRate": "Scratch",
+        "cost": 3.8
       },
       {
-        "ingredient": "Spring Onions & Ginger-Garlic Juliennes",
-        "qty": "15g",
-        "unitRate": "\u20b9146 / kg",
-        "cost": 2.2
+        "ingredient": "Garlic-Ginger Julienne & Scallions",
+        "qty": "20g",
+        "unitRate": "Market",
+        "cost": 1.1
+      },
+      {
+        "ingredient": "Refined Oil & White Synthetic Vinegar splash",
+        "qty": "20ml",
+        "unitRate": "\u20b9140/L",
+        "cost": 2.0
       }
     ],
-    "prepSequence": [
-      "1. WOK HEI CHAR: Heat seasoned carbon steel wok over high flame. Swirl 20ml oil.",
-      "2. SEAR PROTEIN: Crack egg and add chicken strips; flash sear 25 seconds.",
-      "3. QUICK VEG TOSS: Add ginger slivers, garlic, and 1.5mm julienned vegetables; stir fry 30 seconds (keep veggies crunchy).",
-      "4. ADD NOODLES: Add chilled boiled noodles. Toss with chopsticks / wok motion to separate strands.",
-      "5. RIM SIZZLE: Drizzle 1 tbsp Dark Soy + 1 tsp Oyster Sauce + 1/2 tsp Hoisin + 1/2 tsp Magic Seasoning + pinch Black Pepper along the wok edge.",
-      "6. FINISH: Toss over high heat for 60 seconds. Finish with sesame oil and spring onion greens. Twirl onto platter."
-    ]
+    "recipeSteps": [
+      "1. NOODLE PREP: Boil noodles al dente (90% done). Drain, rinse in cold water, toss with 1 tsp oil, and spread on flat trays to surface-dry for at least 30 minutes. Dry noodles absorb wok hei; wet noodles steam and break.",
+      "2. DRY WOK SEAR: Heat clean wok till smoking. Add 1 tbsp oil, drop noodles in, and let them sear undisturbed for 20 seconds to create blistered, smoky noodle strands. Remove.",
+      "3. FLASH SEAR PROTEIN: Add 1 tbsp oil to wok. Toss in egg, ginger-garlic julienne, white scallion batons, and velveted chicken strips. Stir-fry 30 seconds on high flame.",
+      "4. VEGETABLE CRUNCH: Add julienned carrots, cabbage, and capsicum. Flash toss 15 seconds so vegetables retain 100% crispness.",
+      "5. RIM SIZZLE: Return seared noodles to wok. Drizzle 1 tbsp Dark Soy + 1 tsp Oyster Sauce + 1/2 tsp Hoisin + 1/2 tsp Maggi Seasoning + pinch Black Pepper along the wok edge. Toss vigorously using dual chopsticks/spatula until evenly lacquered.",
+      "6. ACID SPLASH: Drizzle 1/2 tsp White Vinegar around the rim in the final 5 seconds. Toss with scallion greens and serve piping hot."
+    ],
+    "presentation": "Twirled vertically onto a rectangular ceramic noodle plate, garnished with fine julienne scallions and fresh cracked black pepper."
   },
   {
-    "id": "special-gravy",
+    "id": "special-ricegravy",
     "category": "RICE WITH GRAVY",
     "dishName": "Indus Royal Claypot / Pot Rice with Supreme Hot Garlic Gravy",
     "menuPrice": 430,
-    "portionSize": "650g Two-Tier Feast (300g Garlic Rice + 350g Supreme Gravy)",
+    "portionSize": "650g Combined (300g Fried Rice Base + 350g Supreme Gravy)",
     "foodCost": 102.4,
     "foodCostPct": 23.81,
     "grossMargin": 327.6,
     "grossMarginPct": 76.19,
-    "image": "images/indus_pot_rice_gravy.jpg",
-    "flavorProfile": "Two-tier master meal: fragrant wok-toasted garlic rice base layered with a rich, silky, sizzling dark hot-garlic gravy made with Sriracha, Red Chilli, Oyster Sauce, velvet chicken, button mushrooms, baby corn, broccoli florets, and bell peppers.",
-    "whySpecial": "High-ticket flagship item with unbeatable perceived value, generous exotic vegetables, and exceptional \u20b9327.60 gross profit contribution per order.",
-    "bom": [
+    "image": "images/indus_royal_claypot_rice.jpg",
+    "flavorProfile": "A sizzling dual-experience feast: crisp-bottomed wok-fried garlic rice served in a piping hot earthenware claypot, smothered tableside in a thick, glossy, velveted chicken and exotic vegetable Hot Garlic gravy with roasted whole garlic cloves, red chillies, and Oyster sauce glaze.",
+    "whySpecial": "High perceived value dish commanding \u20b9430 ticket price with 76.19% gross margin. The dramatic tableside sizzling aroma of hot garlic gravy poured over crackling claypot rice drives massive word-of-mouth dining orders.",
+    "ingredientsCost": [
       {
-        "ingredient": "Steamed Garlic Fried Rice Base",
-        "qty": "300g (cooked)",
-        "unitRate": "\u20b950 / kg cooked",
-        "cost": 15.0
+        "ingredient": "Fragrant Garlic Fried Rice Base (300g cooked)",
+        "qty": "300g",
+        "unitRate": "Scratch",
+        "cost": 21.0
       },
       {
-        "ingredient": "Velveted Boneless Chicken Breast Strips",
+        "ingredient": "Chicken Breast (Velveted Slices, 120g raw)",
         "qty": "120g",
-        "unitRate": "\u20b9240 / kg",
-        "cost": 28.8
+        "unitRate": "\u20b9280/kg",
+        "cost": 33.6
       },
       {
-        "ingredient": "Exotic & Fresh Vegetables (Broccoli, Mushroom, Baby corn, Bell peppers)",
+        "ingredient": "Exotic Vegetable Medley (Broccoli, Baby Corn, Mushrooms, Diamond Peppers)",
         "qty": "100g",
-        "unitRate": "\u20b9245 / kg",
-        "cost": 24.5
+        "unitRate": "\u20b9160/kg",
+        "cost": 16.0
       },
       {
-        "ingredient": "Indus Hot Garlic Mother Sauce (Sriracha + Red Chilli + Oyster + Broth)",
-        "qty": "250ml",
-        "unitRate": "\u20b958.40 / L",
-        "cost": 14.6
+        "ingredient": "Indus Supreme Hot Garlic Mother Sauce + Sriracha Glaze",
+        "qty": "80g",
+        "unitRate": "Scratch",
+        "cost": 12.5
       },
       {
-        "ingredient": "Cornstarch Liaison & Magic Seasoning",
-        "qty": "20g",
-        "unitRate": "\u20b9175 / kg",
+        "ingredient": "Whole Peeled Garlic Cloves & Ginger (Blistered)",
+        "qty": "30g",
+        "unitRate": "\u20b9160/kg",
+        "cost": 4.8
+      },
+      {
+        "ingredient": "Master Broth (Stock reduction)",
+        "qty": "200ml",
+        "unitRate": "Batch",
+        "cost": 6.0
+      },
+      {
+        "ingredient": "Cornstarch Liaison & Maggi Seasoning",
+        "qty": "25g",
+        "unitRate": "Standard",
         "cost": 3.5
       },
       {
-        "ingredient": "Garlic, Ginger & Bird's Eye Chilli Brunoise",
-        "qty": "25g",
-        "unitRate": "\u20b9168 / kg",
-        "cost": 4.2
-      },
-      {
-        "ingredient": "Refined Cooking Oil + Sesame finishing",
+        "ingredient": "Refined Oil & Toasted Sesame Oil",
         "qty": "30ml",
-        "unitRate": "\u20b9226 / L",
-        "cost": 6.8
-      },
-      {
-        "ingredient": "Spring Onion Greens & Fresh Garnish",
-        "qty": "15g",
-        "unitRate": "\u20b9166 / kg",
-        "cost": 2.5
-      },
-      {
-        "ingredient": "Heavy-Duty 2-Compartment Delivery Container",
-        "qty": "1 set",
-        "unitRate": "\u20b92.50 / set",
-        "cost": 2.5
+        "unitRate": "Blended",
+        "cost": 5.0
       }
     ],
-    "prepSequence": [
-      "1. TIER 1 (RICE BASE): Flash fry 300g chilled rice with 1 tbsp minced garlic, 1 tsp Light Soy, and pinch of Magic Seasoning in high flame wok for 90 seconds. Place in claypot or serving bowl.",
-      "2. TIER 2 (AROMATICS): Heat 15ml oil in wok. Saut\u00e9 minced garlic, ginger, and green chillies for 15 seconds.",
-      "3. SEAR & VEG: Add chicken strips and blanched 45\u00b0 bias baby corn, mushrooms, and broccoli. Stir fry 45 seconds.",
-      "4. BROTH & SAUCE: Pour in 2 tbsp Sriracha, 1 tbsp Red Chilli Sauce, 1 tsp Oyster Sauce, 1/2 tsp Magic Seasoning, and 200ml broth. Bring to a rolling boil.",
-      "5. CORNFLOUR LIAISON: Slowly stream in 1.5 tbsp cornflour slurry while whisking until a luxurious glossy glaze coats the spoon.",
-      "6. ASSEMBLY: Pour sizzling hot gravy over the bed of garlic rice. Crown with spring onion curls and toasted sesame."
-    ]
+    "recipeSteps": [
+      "1. TIER 1 (RICE BASE): Flash fry 300g chilled rice with 1 tbsp minced garlic, 1 tsp Light Soy, and pinch of Maggi Seasoning in high flame wok for 90 seconds. Place in claypot or serving bowl.",
+      "2. CLAYPOT PREHEAT: Heat the heavy earthen claypot over low gas flame with 1 tsp sesame oil so the bottom rice develops a prized golden crispy crust ('guoba').",
+      "3. TIER 2 (SUPREME GRAVY): In a clean wok, heat 1.5 tbsp oil. Saut\u00e9 whole peeled garlic cloves, crushed red chillies, and ginger until garlic is golden and blistered.",
+      "4. BROTH & SAUCE: Pour in 2 tbsp Sriracha, 1 tbsp Red Chilli Sauce, 1 tsp Oyster Sauce, 1/2 tsp Maggi Seasoning, and 200ml broth. Bring to a rolling boil.",
+      "5. PROTEIN & VEGGIES: Add velveted chicken slices, blanched broccoli florets, baby corn batons, and diamond-cut bell peppers. Simmer 1 minute.",
+      "6. LIAISON: Swirl in 2 tbsp cornstarch slurry (1 tbsp cornstarch + 2 tbsp cold water) while whisking vigorously until the gravy turns rich, glossy, and clingy.",
+      "7. SERVE & SIZZLE: Pour the bubbling hot garlic gravy directly over the crackling hot claypot rice base tableside. Garnish with scallion greens."
+    ],
+    "presentation": "Served in an authentic smoking earthenware pot with wooden base trivet, bubbling vigorously upon arrival with fresh cilantro and scallion curls."
   }
 ],
   recipes: [
@@ -1515,7 +1567,7 @@ window.INDUS_BIBLE = {
       "Ladle into soup bowl, top with fresh coriander."
     ],
     "plating": "Serve in deep porcelain bowl accompanied by a side cup of golden crispy fried noodles.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Always add vinegar at the very end of boiling; boiling vinegar for too long makes the soup taste bitter and dulls the aroma.",
     "costing": {
       "rawCost": 21.6,
       "sellingPrice": 120,
@@ -1593,7 +1645,7 @@ window.INDUS_BIBLE = {
       "Ladle into soup bowl, top with fresh coriander."
     ],
     "plating": "Serve in deep porcelain bowl accompanied by a side cup of golden crispy fried noodles.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Always add vinegar at the very end of boiling; boiling vinegar for too long makes the soup taste bitter and dulls the aroma.",
     "costing": {
       "rawCost": 36.8,
       "sellingPrice": 160,
@@ -1671,7 +1723,7 @@ window.INDUS_BIBLE = {
       "Ladle into soup bowl, top with fresh coriander."
     ],
     "plating": "Serve in deep porcelain bowl accompanied by a side cup of golden crispy fried noodles.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Always add vinegar at the very end of boiling; boiling vinegar for too long makes the soup taste bitter and dulls the aroma.",
     "costing": {
       "rawCost": 19.8,
       "sellingPrice": 110,
@@ -1749,7 +1801,7 @@ window.INDUS_BIBLE = {
       "Ladle into soup bowl, top with fresh coriander."
     ],
     "plating": "Serve in deep porcelain bowl accompanied by a side cup of golden crispy fried noodles.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Always add vinegar at the very end of boiling; boiling vinegar for too long makes the soup taste bitter and dulls the aroma.",
     "costing": {
       "rawCost": 34.5,
       "sellingPrice": 150,
@@ -1827,7 +1879,7 @@ window.INDUS_BIBLE = {
       "Ladle into soup bowl, top with fresh coriander."
     ],
     "plating": "Serve in deep porcelain bowl accompanied by a side cup of golden crispy fried noodles.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Always add vinegar at the very end of boiling; boiling vinegar for too long makes the soup taste bitter and dulls the aroma.",
     "costing": {
       "rawCost": 23.4,
       "sellingPrice": 130,
@@ -1905,7 +1957,7 @@ window.INDUS_BIBLE = {
       "Ladle into soup bowl, top with fresh coriander."
     ],
     "plating": "Serve in deep porcelain bowl accompanied by a side cup of golden crispy fried noodles.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Always add vinegar at the very end of boiling; boiling vinegar for too long makes the soup taste bitter and dulls the aroma.",
     "costing": {
       "rawCost": 34.5,
       "sellingPrice": 150,
@@ -1983,7 +2035,7 @@ window.INDUS_BIBLE = {
       "Ladle into soup bowl, top with fresh coriander."
     ],
     "plating": "Serve in deep porcelain bowl accompanied by a side cup of golden crispy fried noodles.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Always add vinegar at the very end of boiling; boiling vinegar for too long makes the soup taste bitter and dulls the aroma.",
     "costing": {
       "rawCost": 23.4,
       "sellingPrice": 130,
@@ -2061,7 +2113,7 @@ window.INDUS_BIBLE = {
       "Ladle into soup bowl, top with fresh coriander."
     ],
     "plating": "Serve in deep porcelain bowl accompanied by a side cup of golden crispy fried noodles.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Always add vinegar at the very end of boiling; boiling vinegar for too long makes the soup taste bitter and dulls the aroma.",
     "costing": {
       "rawCost": 36.8,
       "sellingPrice": 160,
@@ -2139,7 +2191,7 @@ window.INDUS_BIBLE = {
       "Ladle into soup bowl, top with fresh coriander."
     ],
     "plating": "Serve in deep porcelain bowl accompanied by a side cup of golden crispy fried noodles.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Always add vinegar at the very end of boiling; boiling vinegar for too long makes the soup taste bitter and dulls the aroma.",
     "costing": {
       "rawCost": 25.2,
       "sellingPrice": 140,
@@ -2217,7 +2269,7 @@ window.INDUS_BIBLE = {
       "Ladle into soup bowl, top with fresh coriander."
     ],
     "plating": "Serve in deep porcelain bowl accompanied by a side cup of golden crispy fried noodles.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Always add vinegar at the very end of boiling; boiling vinegar for too long makes the soup taste bitter and dulls the aroma.",
     "costing": {
       "rawCost": 41.4,
       "sellingPrice": 180,
@@ -2295,7 +2347,7 @@ window.INDUS_BIBLE = {
       "Ladle into soup bowl, top with fresh coriander."
     ],
     "plating": "Serve in deep porcelain bowl accompanied by a side cup of golden crispy fried noodles.",
-    "chefTip": "Chef Secret: Saut\u00e9 finely chopped coriander roots with ginger-garlic in stage 1 for authentic Tangra Chinatown aroma. Always add white vinegar at the very end of boiling.",
+    "chefTip": "Always add vinegar at the very end of boiling; boiling vinegar for too long makes the soup taste bitter and dulls the aroma.",
     "costing": {
       "rawCost": 21.6,
       "sellingPrice": 120,
@@ -2373,7 +2425,7 @@ window.INDUS_BIBLE = {
       "Ladle into soup bowl, top with fresh coriander."
     ],
     "plating": "Serve in deep porcelain bowl accompanied by a side cup of golden crispy fried noodles.",
-    "chefTip": "Chef Secret: Saut\u00e9 finely chopped coriander roots with ginger-garlic in stage 1 for authentic Tangra Chinatown aroma. Always add white vinegar at the very end of boiling.",
+    "chefTip": "Always add vinegar at the very end of boiling; boiling vinegar for too long makes the soup taste bitter and dulls the aroma.",
     "costing": {
       "rawCost": 34.5,
       "sellingPrice": 150,
@@ -2451,7 +2503,7 @@ window.INDUS_BIBLE = {
       "Ladle into soup bowl, top with fresh coriander."
     ],
     "plating": "Serve in deep porcelain bowl accompanied by a side cup of golden crispy fried noodles.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Always add vinegar at the very end of boiling; boiling vinegar for too long makes the soup taste bitter and dulls the aroma.",
     "costing": {
       "rawCost": 25.2,
       "sellingPrice": 140,
@@ -2529,7 +2581,7 @@ window.INDUS_BIBLE = {
       "Ladle into soup bowl, top with fresh coriander."
     ],
     "plating": "Serve in deep porcelain bowl accompanied by a side cup of golden crispy fried noodles.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Always add vinegar at the very end of boiling; boiling vinegar for too long makes the soup taste bitter and dulls the aroma.",
     "costing": {
       "rawCost": 39.1,
       "sellingPrice": 170,
@@ -2607,7 +2659,7 @@ window.INDUS_BIBLE = {
       "Ladle into soup bowl, top with fresh coriander."
     ],
     "plating": "Serve in deep porcelain bowl accompanied by a side cup of golden crispy fried noodles.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Always add vinegar at the very end of boiling; boiling vinegar for too long makes the soup taste bitter and dulls the aroma.",
     "costing": {
       "rawCost": 23.4,
       "sellingPrice": 130,
@@ -2685,7 +2737,7 @@ window.INDUS_BIBLE = {
       "Ladle into soup bowl, top with fresh coriander."
     ],
     "plating": "Serve in deep porcelain bowl accompanied by a side cup of golden crispy fried noodles.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Always add vinegar at the very end of boiling; boiling vinegar for too long makes the soup taste bitter and dulls the aroma.",
     "costing": {
       "rawCost": 39.1,
       "sellingPrice": 170,
@@ -2763,7 +2815,7 @@ window.INDUS_BIBLE = {
       "Ladle into soup bowl, top with fresh coriander."
     ],
     "plating": "Serve in deep porcelain bowl accompanied by a side cup of golden crispy fried noodles.",
-    "chefTip": "Chef Secret: Fry 2 tbsp Red/Yellow Curry Paste in oil for 2 minutes before adding broth to unlock the galangal, lemongrass, and chili oils.",
+    "chefTip": "Always add vinegar at the very end of boiling; boiling vinegar for too long makes the soup taste bitter and dulls the aroma.",
     "costing": {
       "rawCost": 27.0,
       "sellingPrice": 150,
@@ -2841,7 +2893,7 @@ window.INDUS_BIBLE = {
       "Ladle into soup bowl, top with fresh coriander."
     ],
     "plating": "Serve in deep porcelain bowl accompanied by a side cup of golden crispy fried noodles.",
-    "chefTip": "Chef Secret: Fry 2 tbsp Red/Yellow Curry Paste in oil for 2 minutes before adding broth to unlock the galangal, lemongrass, and chili oils.",
+    "chefTip": "Always add vinegar at the very end of boiling; boiling vinegar for too long makes the soup taste bitter and dulls the aroma.",
     "costing": {
       "rawCost": 48.3,
       "sellingPrice": 210,
@@ -2907,7 +2959,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Maintain extreme wok heat for signature smokiness.",
     "costing": {
       "rawCost": 80.5,
       "sellingPrice": 350,
@@ -2973,7 +3025,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Maintain extreme wok heat for signature smokiness.",
     "costing": {
       "rawCost": 82.8,
       "sellingPrice": 360,
@@ -3039,7 +3091,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Maintain extreme wok heat for signature smokiness.",
     "costing": {
       "rawCost": 87.4,
       "sellingPrice": 380,
@@ -3105,7 +3157,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Maintain extreme wok heat for signature smokiness.",
     "costing": {
       "rawCost": 103.5,
       "sellingPrice": 450,
@@ -3171,7 +3223,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Maintain extreme wok heat for signature smokiness.",
     "costing": {
       "rawCost": 126.5,
       "sellingPrice": 550,
@@ -3237,7 +3289,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Maintain extreme wok heat for signature smokiness.",
     "costing": {
       "rawCost": 87.4,
       "sellingPrice": 380,
@@ -3303,7 +3355,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Maintain extreme wok heat for signature smokiness.",
     "costing": {
       "rawCost": 96.6,
       "sellingPrice": 420,
@@ -3369,7 +3421,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Maintain extreme wok heat for signature smokiness.",
     "costing": {
       "rawCost": 87.4,
       "sellingPrice": 380,
@@ -3435,7 +3487,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Maintain extreme wok heat for signature smokiness.",
     "costing": {
       "rawCost": 92.0,
       "sellingPrice": 400,
@@ -3501,7 +3553,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Maintain extreme wok heat for signature smokiness.",
     "costing": {
       "rawCost": 96.6,
       "sellingPrice": 420,
@@ -3567,7 +3619,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Maintain extreme wok heat for signature smokiness.",
     "costing": {
       "rawCost": 133.4,
       "sellingPrice": 580,
@@ -3633,7 +3685,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Maintain extreme wok heat for signature smokiness.",
     "costing": {
       "rawCost": 80.5,
       "sellingPrice": 350,
@@ -3710,7 +3762,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
     "costing": {
       "rawCost": 50.6,
       "sellingPrice": 220,
@@ -3787,7 +3839,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
     "costing": {
       "rawCost": 57.5,
       "sellingPrice": 250,
@@ -3864,7 +3916,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
     "costing": {
       "rawCost": 64.4,
       "sellingPrice": 280,
@@ -3941,7 +3993,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
     "costing": {
       "rawCost": 66.6,
       "sellingPrice": 370,
@@ -4018,7 +4070,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
     "costing": {
       "rawCost": 94.6,
       "sellingPrice": 430,
@@ -4095,7 +4147,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
     "costing": {
       "rawCost": 89.7,
       "sellingPrice": 390,
@@ -4172,7 +4224,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
     "costing": {
       "rawCost": 63.0,
       "sellingPrice": 350,
@@ -4249,7 +4301,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
     "costing": {
       "rawCost": 88.0,
       "sellingPrice": 400,
@@ -4326,7 +4378,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
     "costing": {
       "rawCost": 82.8,
       "sellingPrice": 360,
@@ -4403,7 +4455,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Chef Secret: Combine 2 tbsp Plum Sauce with 2 tbsp Tomato Sauce and 1 tbsp White Vinegar for an authentic 5-star Cantonese glaze. Never let fried chicken simmer in sauce; toss for 20 seconds maximum.",
+    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
     "costing": {
       "rawCost": 66.6,
       "sellingPrice": 370,
@@ -4480,7 +4532,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Chef Secret: Combine 2 tbsp Plum Sauce with 2 tbsp Tomato Sauce and 1 tbsp White Vinegar for an authentic 5-star Cantonese glaze. Never let fried chicken simmer in sauce; toss for 20 seconds maximum.",
+    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
     "costing": {
       "rawCost": 94.6,
       "sellingPrice": 430,
@@ -4557,7 +4609,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Chef Secret: Combine 2 tbsp Plum Sauce with 2 tbsp Tomato Sauce and 1 tbsp White Vinegar for an authentic 5-star Cantonese glaze. Never let fried chicken simmer in sauce; toss for 20 seconds maximum.",
+    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
     "costing": {
       "rawCost": 89.7,
       "sellingPrice": 390,
@@ -4634,7 +4686,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Chef Secret: Add 1/4 tsp Madras Curry Powder into the chicken marinade and use 1 tsp Oyster Sauce in the glaze for that authentic Tangra Indo-Chinese dragon kick. Double fry chicken for maximum crunch.",
+    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
     "costing": {
       "rawCost": 85.1,
       "sellingPrice": 370,
@@ -4711,7 +4763,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Chef Secret: Add 1/4 tsp Madras Curry Powder into the chicken marinade and use 1 tsp Oyster Sauce in the glaze for that authentic Tangra Indo-Chinese dragon kick. Double fry chicken for maximum crunch.",
+    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
     "costing": {
       "rawCost": 101.2,
       "sellingPrice": 440,
@@ -4788,7 +4840,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Chef Secret: Add 1/4 tsp Madras Curry Powder into the chicken marinade and use 1 tsp Oyster Sauce in the glaze for that authentic Tangra Indo-Chinese dragon kick. Double fry chicken for maximum crunch.",
+    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
     "costing": {
       "rawCost": 92.0,
       "sellingPrice": 400,
@@ -4865,7 +4917,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
     "costing": {
       "rawCost": 46.8,
       "sellingPrice": 260,
@@ -4942,7 +4994,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
     "costing": {
       "rawCost": 81.4,
       "sellingPrice": 370,
@@ -5019,7 +5071,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
     "costing": {
       "rawCost": 75.9,
       "sellingPrice": 330,
@@ -5096,7 +5148,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Chef Secret: Coarsely crush black peppercorns (do not use fine powder) and bloom in hot oil with 1 tbsp Oyster Sauce and 1 tbsp Dark Soya for bold aromatic warmth.",
+    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
     "costing": {
       "rawCost": 70.2,
       "sellingPrice": 390,
@@ -5173,7 +5225,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Chef Secret: Coarsely crush black peppercorns (do not use fine powder) and bloom in hot oil with 1 tbsp Oyster Sauce and 1 tbsp Dark Soya for bold aromatic warmth.",
+    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
     "costing": {
       "rawCost": 94.6,
       "sellingPrice": 430,
@@ -5250,7 +5302,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Chef Secret: Coarsely crush black peppercorns (do not use fine powder) and bloom in hot oil with 1 tbsp Oyster Sauce and 1 tbsp Dark Soya for bold aromatic warmth.",
+    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
     "costing": {
       "rawCost": 92.0,
       "sellingPrice": 400,
@@ -5327,7 +5379,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Chef Secret: Whisk 2 tbsp Bottled Kung Pao Sauce with 1 tbsp Hoisin Sauce, 1/2 tsp Tahini (sesame paste), and 1 tsp Honey for an unbeatable rich glaze. Fold in cashews/peanuts at the end.",
+    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
     "costing": {
       "rawCost": 63.0,
       "sellingPrice": 350,
@@ -5404,7 +5456,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Chef Secret: Whisk 2 tbsp Bottled Kung Pao Sauce with 1 tbsp Hoisin Sauce, 1/2 tsp Tahini (sesame paste), and 1 tsp Honey for an unbeatable rich glaze. Fold in cashews/peanuts at the end.",
+    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
     "costing": {
       "rawCost": 88.0,
       "sellingPrice": 400,
@@ -5481,7 +5533,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Chef Secret: Whisk 2 tbsp Bottled Kung Pao Sauce with 1 tbsp Hoisin Sauce, 1/2 tsp Tahini (sesame paste), and 1 tsp Honey for an unbeatable rich glaze. Fold in cashews/peanuts at the end.",
+    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
     "costing": {
       "rawCost": 82.8,
       "sellingPrice": 360,
@@ -5558,7 +5610,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
     "costing": {
       "rawCost": 70.2,
       "sellingPrice": 390,
@@ -5635,7 +5687,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
     "costing": {
       "rawCost": 96.8,
       "sellingPrice": 440,
@@ -5712,7 +5764,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
     "costing": {
       "rawCost": 92.0,
       "sellingPrice": 400,
@@ -5789,7 +5841,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
     "costing": {
       "rawCost": 61.2,
       "sellingPrice": 340,
@@ -5866,7 +5918,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
     "costing": {
       "rawCost": 88.0,
       "sellingPrice": 400,
@@ -5943,7 +5995,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
     "costing": {
       "rawCost": 89.7,
       "sellingPrice": 390,
@@ -6020,7 +6072,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
     "costing": {
       "rawCost": 64.8,
       "sellingPrice": 360,
@@ -6097,7 +6149,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
     "costing": {
       "rawCost": 96.8,
       "sellingPrice": 440,
@@ -6174,7 +6226,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
     "costing": {
       "rawCost": 92.0,
       "sellingPrice": 400,
@@ -6251,7 +6303,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
     "costing": {
       "rawCost": 64.8,
       "sellingPrice": 360,
@@ -6328,7 +6380,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
     "costing": {
       "rawCost": 96.8,
       "sellingPrice": 440,
@@ -6405,7 +6457,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
     "costing": {
       "rawCost": 92.0,
       "sellingPrice": 400,
@@ -6482,7 +6534,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
     "costing": {
       "rawCost": 64.8,
       "sellingPrice": 360,
@@ -6559,7 +6611,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
     "costing": {
       "rawCost": 96.8,
       "sellingPrice": 440,
@@ -6636,7 +6688,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
     "costing": {
       "rawCost": 92.0,
       "sellingPrice": 400,
@@ -6713,7 +6765,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
     "costing": {
       "rawCost": 68.4,
       "sellingPrice": 380,
@@ -6790,7 +6842,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
     "costing": {
       "rawCost": 94.6,
       "sellingPrice": 430,
@@ -6867,7 +6919,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
     "costing": {
       "rawCost": 103.5,
       "sellingPrice": 450,
@@ -6944,7 +6996,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
     "costing": {
       "rawCost": 68.4,
       "sellingPrice": 380,
@@ -7021,7 +7073,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
     "costing": {
       "rawCost": 94.6,
       "sellingPrice": 430,
@@ -7098,7 +7150,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
     "costing": {
       "rawCost": 103.5,
       "sellingPrice": 450,
@@ -7175,7 +7227,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Chef Secret: Combine Bottled Teriyaki Sauce with 1 tsp Hoisin Sauce and 1 tsp Honey for a mirror-like lacquer glaze that clings to proteins.",
+    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
     "costing": {
       "rawCost": 68.4,
       "sellingPrice": 380,
@@ -7252,7 +7304,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Chef Secret: Combine Bottled Teriyaki Sauce with 1 tsp Hoisin Sauce and 1 tsp Honey for a mirror-like lacquer glaze that clings to proteins.",
+    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
     "costing": {
       "rawCost": 94.6,
       "sellingPrice": 430,
@@ -7329,7 +7381,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Chef Secret: Combine Bottled Teriyaki Sauce with 1 tsp Hoisin Sauce and 1 tsp Honey for a mirror-like lacquer glaze that clings to proteins.",
+    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
     "costing": {
       "rawCost": 96.6,
       "sellingPrice": 420,
@@ -7406,7 +7458,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
     "costing": {
       "rawCost": 70.2,
       "sellingPrice": 390,
@@ -7483,7 +7535,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
     "costing": {
       "rawCost": 96.8,
       "sellingPrice": 440,
@@ -7560,7 +7612,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
     "costing": {
       "rawCost": 105.8,
       "sellingPrice": 460,
@@ -7638,7 +7690,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 36.0,
       "sellingPrice": 200,
@@ -7716,7 +7768,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 61.6,
       "sellingPrice": 280,
@@ -7794,7 +7846,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 45.6,
       "sellingPrice": 240,
@@ -7872,7 +7924,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 59.8,
       "sellingPrice": 260,
@@ -7950,7 +8002,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 39.6,
       "sellingPrice": 220,
@@ -8028,7 +8080,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 66.0,
       "sellingPrice": 300,
@@ -8106,7 +8158,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 45.6,
       "sellingPrice": 240,
@@ -8184,7 +8236,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 64.4,
       "sellingPrice": 280,
@@ -8262,7 +8314,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 54.0,
       "sellingPrice": 300,
@@ -8340,7 +8392,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Use the 3-stage garlic protocol: Start garlic in cold oil to prevent scorching, drain when light blonde, and sprinkle crispy chips at the very end for crunch.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 79.2,
       "sellingPrice": 360,
@@ -8418,7 +8470,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 60.8,
       "sellingPrice": 320,
@@ -8496,7 +8548,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Use the 3-stage garlic protocol: Start garlic in cold oil to prevent scorching, drain when light blonde, and sprinkle crispy chips at the very end for crunch.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 82.8,
       "sellingPrice": 360,
@@ -8574,7 +8626,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Coarsely crush black peppercorns (do not use fine powder) and bloom in hot oil with 1 tbsp Oyster Sauce and 1 tbsp Dark Soya for bold aromatic warmth.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 45.0,
       "sellingPrice": 250,
@@ -8652,7 +8704,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Coarsely crush black peppercorns (do not use fine powder) and bloom in hot oil with 1 tbsp Oyster Sauce and 1 tbsp Dark Soya for bold aromatic warmth.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 66.0,
       "sellingPrice": 300,
@@ -8730,7 +8782,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Coarsely crush black peppercorns (do not use fine powder) and bloom in hot oil with 1 tbsp Oyster Sauce and 1 tbsp Dark Soya for bold aromatic warmth.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 49.4,
       "sellingPrice": 260,
@@ -8808,7 +8860,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Coarsely crush black peppercorns (do not use fine powder) and bloom in hot oil with 1 tbsp Oyster Sauce and 1 tbsp Dark Soya for bold aromatic warmth.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 64.4,
       "sellingPrice": 280,
@@ -8886,7 +8938,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 41.4,
       "sellingPrice": 230,
@@ -8964,7 +9016,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 66.0,
       "sellingPrice": 300,
@@ -9042,7 +9094,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 47.5,
       "sellingPrice": 250,
@@ -9120,7 +9172,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 62.1,
       "sellingPrice": 270,
@@ -9198,7 +9250,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Bloom 1 tsp Madras Curry Powder in medium-hot oil for 30 seconds before adding rice/noodles to release the essential curry aromatics without bitterness. Season with Light Soya and Magic Seasoning.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 43.2,
       "sellingPrice": 240,
@@ -9276,7 +9328,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Bloom 1 tsp Madras Curry Powder in medium-hot oil for 30 seconds before adding rice/noodles to release the essential curry aromatics without bitterness. Season with Light Soya and Magic Seasoning.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 66.0,
       "sellingPrice": 300,
@@ -9354,7 +9406,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Bloom 1 tsp Madras Curry Powder in medium-hot oil for 30 seconds before adding rice/noodles to release the essential curry aromatics without bitterness. Season with Light Soya and Magic Seasoning.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 49.4,
       "sellingPrice": 260,
@@ -9432,7 +9484,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Bloom 1 tsp Madras Curry Powder in medium-hot oil for 30 seconds before adding rice/noodles to release the essential curry aromatics without bitterness. Season with Light Soya and Magic Seasoning.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 64.4,
       "sellingPrice": 280,
@@ -9510,7 +9562,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 43.2,
       "sellingPrice": 240,
@@ -9588,7 +9640,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 66.0,
       "sellingPrice": 300,
@@ -9666,7 +9718,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 47.5,
       "sellingPrice": 250,
@@ -9744,7 +9796,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 64.4,
       "sellingPrice": 280,
@@ -9822,7 +9874,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Mix 2 tbsp Sriracha Sauce + 1 tbsp Hoisin Sauce + 1 tbsp Tomato Sauce + 1 tsp Honey + 1/2 tsp Tahini for a rich Korean street-style glaze.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 57.6,
       "sellingPrice": 320,
@@ -9900,7 +9952,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Mix 2 tbsp Sriracha Sauce + 1 tbsp Hoisin Sauce + 1 tbsp Tomato Sauce + 1 tsp Honey + 1/2 tsp Tahini for a rich Korean street-style glaze.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 83.6,
       "sellingPrice": 380,
@@ -9978,7 +10030,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Mix 2 tbsp Sriracha Sauce + 1 tbsp Hoisin Sauce + 1 tbsp Tomato Sauce + 1 tsp Honey + 1/2 tsp Tahini for a rich Korean street-style glaze.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 64.6,
       "sellingPrice": 340,
@@ -10056,7 +10108,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Mix 2 tbsp Sriracha Sauce + 1 tbsp Hoisin Sauce + 1 tbsp Tomato Sauce + 1 tsp Honey + 1/2 tsp Tahini for a rich Korean street-style glaze.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 82.8,
       "sellingPrice": 360,
@@ -10134,7 +10186,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 46.8,
       "sellingPrice": 260,
@@ -10212,7 +10264,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 66.0,
       "sellingPrice": 300,
@@ -10290,7 +10342,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 49.4,
       "sellingPrice": 260,
@@ -10368,7 +10420,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 64.4,
       "sellingPrice": 280,
@@ -10446,7 +10498,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 46.8,
       "sellingPrice": 260,
@@ -10524,7 +10576,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 66.0,
       "sellingPrice": 300,
@@ -10602,7 +10654,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 49.4,
       "sellingPrice": 260,
@@ -10680,7 +10732,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 64.4,
       "sellingPrice": 280,
@@ -10758,7 +10810,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 45.0,
       "sellingPrice": 250,
@@ -10836,7 +10888,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 68.2,
       "sellingPrice": 310,
@@ -10914,7 +10966,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 49.4,
       "sellingPrice": 260,
@@ -10992,7 +11044,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 64.4,
       "sellingPrice": 280,
@@ -11070,7 +11122,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 54.0,
       "sellingPrice": 300,
@@ -11148,7 +11200,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 79.2,
       "sellingPrice": 360,
@@ -11226,7 +11278,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 57.0,
       "sellingPrice": 300,
@@ -11304,7 +11356,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 78.2,
       "sellingPrice": 340,
@@ -11382,7 +11434,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 63.0,
       "sellingPrice": 350,
@@ -11460,7 +11512,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 88.0,
       "sellingPrice": 400,
@@ -11538,7 +11590,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 68.4,
       "sellingPrice": 360,
@@ -11616,7 +11668,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 89.7,
       "sellingPrice": 390,
@@ -11694,7 +11746,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Fry 2 tbsp Red/Yellow Curry Paste in oil for 2 minutes before adding broth to unlock the galangal, lemongrass, and chili oils.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 64.8,
       "sellingPrice": 360,
@@ -11772,7 +11824,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Fry 2 tbsp Red/Yellow Curry Paste in oil for 2 minutes before adding broth to unlock the galangal, lemongrass, and chili oils.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 90.2,
       "sellingPrice": 410,
@@ -11850,7 +11902,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Fry 2 tbsp Red/Yellow Curry Paste in oil for 2 minutes before adding broth to unlock the galangal, lemongrass, and chili oils.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 70.3,
       "sellingPrice": 370,
@@ -11928,7 +11980,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Fry 2 tbsp Red/Yellow Curry Paste in oil for 2 minutes before adding broth to unlock the galangal, lemongrass, and chili oils.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 92.0,
       "sellingPrice": 400,
@@ -12006,7 +12058,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 48.6,
       "sellingPrice": 270,
@@ -12084,7 +12136,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 70.4,
       "sellingPrice": 320,
@@ -12162,7 +12214,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 51.3,
       "sellingPrice": 270,
@@ -12240,7 +12292,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
     "costing": {
       "rawCost": 66.7,
       "sellingPrice": 290,
@@ -12324,7 +12376,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
     "costing": {
       "rawCost": 70.2,
       "sellingPrice": 390,
@@ -12408,7 +12460,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
     "costing": {
       "rawCost": 99.0,
       "sellingPrice": 450,
@@ -12492,7 +12544,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
     "costing": {
       "rawCost": 74.1,
       "sellingPrice": 390,
@@ -12576,7 +12628,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
     "costing": {
       "rawCost": 94.3,
       "sellingPrice": 410,
@@ -12660,7 +12712,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Supreme Hot Garlic Master Glaze (Sauce #04) (40ml (1.5 Ladles))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
     "costing": {
       "rawCost": 72.0,
       "sellingPrice": 400,
@@ -12744,7 +12796,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Supreme Hot Garlic Master Glaze (Sauce #04) (40ml (1.5 Ladles))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
     "costing": {
       "rawCost": 101.2,
       "sellingPrice": 460,
@@ -12828,7 +12880,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Supreme Hot Garlic Master Glaze (Sauce #04) (40ml (1.5 Ladles))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
     "costing": {
       "rawCost": 76.0,
       "sellingPrice": 400,
@@ -12912,7 +12964,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Supreme Hot Garlic Master Glaze (Sauce #04) (40ml (1.5 Ladles))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
     "costing": {
       "rawCost": 96.6,
       "sellingPrice": 420,
@@ -12996,7 +13048,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indo-Chinese Manchurian Mother Sauce Base (Sauce #03) (60ml (2 Ladles for Dry / 200ml for Gravy))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
     "costing": {
       "rawCost": 68.4,
       "sellingPrice": 380,
@@ -13080,7 +13132,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indo-Chinese Manchurian Mother Sauce Base (Sauce #03) (60ml (2 Ladles for Dry / 200ml for Gravy))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
     "costing": {
       "rawCost": 96.8,
       "sellingPrice": 440,
@@ -13164,7 +13216,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indo-Chinese Manchurian Mother Sauce Base (Sauce #03) (60ml (2 Ladles for Dry / 200ml for Gravy))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
     "costing": {
       "rawCost": 72.2,
       "sellingPrice": 380,
@@ -13248,7 +13300,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indo-Chinese Manchurian Mother Sauce Base (Sauce #03) (60ml (2 Ladles for Dry / 200ml for Gravy))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
     "costing": {
       "rawCost": 92.0,
       "sellingPrice": 400,
@@ -13332,7 +13384,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
     "costing": {
       "rawCost": 72.0,
       "sellingPrice": 400,
@@ -13416,7 +13468,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
     "costing": {
       "rawCost": 101.2,
       "sellingPrice": 460,
@@ -13500,7 +13552,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
     "costing": {
       "rawCost": 77.9,
       "sellingPrice": 410,
@@ -13584,7 +13636,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
     "costing": {
       "rawCost": 98.9,
       "sellingPrice": 430,
@@ -13668,7 +13720,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
     "costing": {
       "rawCost": 72.0,
       "sellingPrice": 400,
@@ -13752,7 +13804,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
     "costing": {
       "rawCost": 101.2,
       "sellingPrice": 460,
@@ -13836,7 +13888,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
     "costing": {
       "rawCost": 76.0,
       "sellingPrice": 400,
@@ -13920,7 +13972,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
     "costing": {
       "rawCost": 105.8,
       "sellingPrice": 460,
@@ -14004,7 +14056,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
     "costing": {
       "rawCost": 72.0,
       "sellingPrice": 400,
@@ -14088,7 +14140,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
     "costing": {
       "rawCost": 105.6,
       "sellingPrice": 480,
@@ -14172,7 +14224,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
     "costing": {
       "rawCost": 79.8,
       "sellingPrice": 420,
@@ -14256,7 +14308,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
     "costing": {
       "rawCost": 105.8,
       "sellingPrice": 460,
@@ -14340,7 +14392,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Signature Red Schezwan Mother Paste (Sauce #01) (45ml (1.5 Ladles))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Chef Secret: For Triple Schezwan, prepare the red gravy with 2 tbsp Schezwan Paste + 1 tbsp Tomato Sauce + 1/2 tsp Magic Seasoning and serve in a separate bowl with crispy fried noodles on top.",
+    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
     "costing": {
       "rawCost": 63.0,
       "sellingPrice": 350,
@@ -14424,7 +14476,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Signature Red Schezwan Mother Paste (Sauce #01) (45ml (1.5 Ladles))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Chef Secret: For Triple Schezwan, prepare the red gravy with 2 tbsp Schezwan Paste + 1 tbsp Tomato Sauce + 1/2 tsp Magic Seasoning and serve in a separate bowl with crispy fried noodles on top.",
+    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
     "costing": {
       "rawCost": 88.0,
       "sellingPrice": 400,
@@ -14508,7 +14560,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Signature Red Schezwan Mother Paste (Sauce #01) (45ml (1.5 Ladles))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Chef Secret: For Triple Schezwan, prepare the red gravy with 2 tbsp Schezwan Paste + 1 tbsp Tomato Sauce + 1/2 tsp Magic Seasoning and serve in a separate bowl with crispy fried noodles on top.",
+    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
     "costing": {
       "rawCost": 68.4,
       "sellingPrice": 360,
@@ -14592,7 +14644,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Signature Red Schezwan Mother Paste (Sauce #01) (45ml (1.5 Ladles))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Chef Secret: For Triple Schezwan, prepare the red gravy with 2 tbsp Schezwan Paste + 1 tbsp Tomato Sauce + 1/2 tsp Magic Seasoning and serve in a separate bowl with crispy fried noodles on top.",
+    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
     "costing": {
       "rawCost": 85.1,
       "sellingPrice": 370,
@@ -14676,7 +14728,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
     "costing": {
       "rawCost": 66.6,
       "sellingPrice": 370,
@@ -14760,7 +14812,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
     "costing": {
       "rawCost": 96.8,
       "sellingPrice": 440,
@@ -14844,7 +14896,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
     "costing": {
       "rawCost": 72.2,
       "sellingPrice": 380,
@@ -14928,7 +14980,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
     "costing": {
       "rawCost": 92.0,
       "sellingPrice": 400,
@@ -15012,7 +15064,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
     "costing": {
       "rawCost": 72.0,
       "sellingPrice": 400,
@@ -15096,7 +15148,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
     "costing": {
       "rawCost": 101.2,
       "sellingPrice": 460,
@@ -15180,7 +15232,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
     "costing": {
       "rawCost": 77.9,
       "sellingPrice": 410,
@@ -15264,7 +15316,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
     "costing": {
       "rawCost": 98.9,
       "sellingPrice": 430,
@@ -15348,7 +15400,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
     "costing": {
       "rawCost": 72.0,
       "sellingPrice": 400,
@@ -15432,7 +15484,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
     "costing": {
       "rawCost": 101.2,
       "sellingPrice": 460,
@@ -15516,7 +15568,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
     "costing": {
       "rawCost": 77.9,
       "sellingPrice": 410,
@@ -15600,7 +15652,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
     "costing": {
       "rawCost": 98.9,
       "sellingPrice": 430,
@@ -15672,7 +15724,7 @@ window.INDUS_BIBLE = {
       "Drizzle chili sesame oil and scatter scallions."
     ],
     "plating": "Serve in authentic heavy ceramic ramen bowl with wooden soup ladle and chopsticks.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Broth must be piping hot (90\u00b0C+) when poured into the bowl to warm the toppings instantly.",
     "costing": {
       "rawCost": 121.0,
       "sellingPrice": 550,
@@ -15744,7 +15796,7 @@ window.INDUS_BIBLE = {
       "Drizzle chili sesame oil and scatter scallions."
     ],
     "plating": "Serve in authentic heavy ceramic ramen bowl with wooden soup ladle and chopsticks.",
-    "chefTip": "Chef Secret: Whip Japanese Mayo with Sriracha, softened Cream Cheese, and a touch of Honey for a silky, rich spicy sushi drizzle.",
+    "chefTip": "Broth must be piping hot (90\u00b0C+) when poured into the bowl to warm the toppings instantly.",
     "costing": {
       "rawCost": 121.0,
       "sellingPrice": 550,
@@ -15816,7 +15868,7 @@ window.INDUS_BIBLE = {
       "Drizzle chili sesame oil and scatter scallions."
     ],
     "plating": "Serve in authentic heavy ceramic ramen bowl with wooden soup ladle and chopsticks.",
-    "chefTip": "Chef Secret: Combine Bottled Teriyaki Sauce with 1 tsp Hoisin Sauce and 1 tsp Honey for a mirror-like lacquer glaze that clings to proteins.",
+    "chefTip": "Broth must be piping hot (90\u00b0C+) when poured into the bowl to warm the toppings instantly.",
     "costing": {
       "rawCost": 103.5,
       "sellingPrice": 450,
@@ -15888,7 +15940,7 @@ window.INDUS_BIBLE = {
       "Drizzle chili sesame oil and scatter scallions."
     ],
     "plating": "Serve in authentic heavy ceramic ramen bowl with wooden soup ladle and chopsticks.",
-    "chefTip": "Chef Secret: Whip Japanese Mayo with Sriracha, softened Cream Cheese, and a touch of Honey for a silky, rich spicy sushi drizzle.",
+    "chefTip": "Broth must be piping hot (90\u00b0C+) when poured into the bowl to warm the toppings instantly.",
     "costing": {
       "rawCost": 90.0,
       "sellingPrice": 500,
@@ -15960,7 +16012,7 @@ window.INDUS_BIBLE = {
       "Drizzle chili sesame oil and scatter scallions."
     ],
     "plating": "Serve in authentic heavy ceramic ramen bowl with wooden soup ladle and chopsticks.",
-    "chefTip": "Chef Secret: Whip Japanese Mayo with Sriracha, softened Cream Cheese, and a touch of Honey for a silky, rich spicy sushi drizzle.",
+    "chefTip": "Broth must be piping hot (90\u00b0C+) when poured into the bowl to warm the toppings instantly.",
     "costing": {
       "rawCost": 90.0,
       "sellingPrice": 500,
@@ -16032,7 +16084,7 @@ window.INDUS_BIBLE = {
       "Drizzle chili sesame oil and scatter scallions."
     ],
     "plating": "Serve in authentic heavy ceramic ramen bowl with wooden soup ladle and chopsticks.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Broth must be piping hot (90\u00b0C+) when poured into the bowl to warm the toppings instantly.",
     "costing": {
       "rawCost": 99.0,
       "sellingPrice": 450,
@@ -16104,7 +16156,7 @@ window.INDUS_BIBLE = {
       "Drizzle chili sesame oil and scatter scallions."
     ],
     "plating": "Serve in authentic heavy ceramic ramen bowl with wooden soup ladle and chopsticks.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Broth must be piping hot (90\u00b0C+) when poured into the bowl to warm the toppings instantly.",
     "costing": {
       "rawCost": 81.0,
       "sellingPrice": 450,
@@ -16176,7 +16228,7 @@ window.INDUS_BIBLE = {
       "Drizzle chili sesame oil and scatter scallions."
     ],
     "plating": "Serve in authentic heavy ceramic ramen bowl with wooden soup ladle and chopsticks.",
-    "chefTip": "Chef Secret: Mix 2 tbsp Sriracha Sauce + 1 tbsp Hoisin Sauce + 1 tbsp Tomato Sauce + 1 tsp Honey + 1/2 tsp Tahini for a rich Korean street-style glaze.",
+    "chefTip": "Broth must be piping hot (90\u00b0C+) when poured into the bowl to warm the toppings instantly.",
     "costing": {
       "rawCost": 103.4,
       "sellingPrice": 470,
@@ -16248,7 +16300,7 @@ window.INDUS_BIBLE = {
       "Drizzle chili sesame oil and scatter scallions."
     ],
     "plating": "Serve in authentic heavy ceramic ramen bowl with wooden soup ladle and chopsticks.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Broth must be piping hot (90\u00b0C+) when poured into the bowl to warm the toppings instantly.",
     "costing": {
       "rawCost": 101.2,
       "sellingPrice": 460,
@@ -16320,7 +16372,7 @@ window.INDUS_BIBLE = {
       "Drizzle chili sesame oil and scatter scallions."
     ],
     "plating": "Serve in authentic heavy ceramic ramen bowl with wooden soup ladle and chopsticks.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Broth must be piping hot (90\u00b0C+) when poured into the bowl to warm the toppings instantly.",
     "costing": {
       "rawCost": 154.0,
       "sellingPrice": 550,
@@ -16392,7 +16444,7 @@ window.INDUS_BIBLE = {
       "Drizzle chili sesame oil and scatter scallions."
     ],
     "plating": "Serve in authentic heavy ceramic ramen bowl with wooden soup ladle and chopsticks.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Broth must be piping hot (90\u00b0C+) when poured into the bowl to warm the toppings instantly.",
     "costing": {
       "rawCost": 86.4,
       "sellingPrice": 480,
@@ -16464,7 +16516,7 @@ window.INDUS_BIBLE = {
       "Drizzle chili sesame oil and scatter scallions."
     ],
     "plating": "Serve in authentic heavy ceramic ramen bowl with wooden soup ladle and chopsticks.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Broth must be piping hot (90\u00b0C+) when poured into the bowl to warm the toppings instantly.",
     "costing": {
       "rawCost": 105.6,
       "sellingPrice": 480,
@@ -16530,7 +16582,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Maintain extreme wok heat for signature smokiness.",
     "costing": {
       "rawCost": 110.4,
       "sellingPrice": 480,
@@ -16596,7 +16648,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Chef Secret: For Triple Schezwan, prepare the red gravy with 2 tbsp Schezwan Paste + 1 tbsp Tomato Sauce + 1/2 tsp Magic Seasoning and serve in a separate bowl with crispy fried noodles on top.",
+    "chefTip": "Maintain extreme wok heat for signature smokiness.",
     "costing": {
       "rawCost": 119.6,
       "sellingPrice": 520,
@@ -16662,7 +16714,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Chef Secret: Coarsely crush black peppercorns (do not use fine powder) and bloom in hot oil with 1 tbsp Oyster Sauce and 1 tbsp Dark Soya for bold aromatic warmth.",
+    "chefTip": "Maintain extreme wok heat for signature smokiness.",
     "costing": {
       "rawCost": 92.0,
       "sellingPrice": 400,
@@ -16728,7 +16780,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Maintain extreme wok heat for signature smokiness.",
     "costing": {
       "rawCost": 126.5,
       "sellingPrice": 550,
@@ -16794,7 +16846,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Maintain extreme wok heat for signature smokiness.",
     "costing": {
       "rawCost": 138.0,
       "sellingPrice": 600,
@@ -16860,7 +16912,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Maintain extreme wok heat for signature smokiness.",
     "costing": {
       "rawCost": 90.0,
       "sellingPrice": 500,
@@ -16926,7 +16978,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Chef Secret: Blend Tahini with Tomato Sauce, Sriracha, garlic, and hot broth for a nutty, aromatic Himalayan Jhol dip.",
+    "chefTip": "Maintain extreme wok heat for signature smokiness.",
     "costing": {
       "rawCost": 32.2,
       "sellingPrice": 140,
@@ -16992,7 +17044,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Chef Secret: Blend Tahini with Tomato Sauce, Sriracha, garlic, and hot broth for a nutty, aromatic Himalayan Jhol dip.",
+    "chefTip": "Maintain extreme wok heat for signature smokiness.",
     "costing": {
       "rawCost": 43.7,
       "sellingPrice": 190,
@@ -17058,7 +17110,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Maintain extreme wok heat for signature smokiness.",
     "costing": {
       "rawCost": 3.6,
       "sellingPrice": 20,
@@ -17124,7 +17176,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Maintain extreme wok heat for signature smokiness.",
     "costing": {
       "rawCost": 8.1,
       "sellingPrice": 45,
@@ -17190,7 +17242,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Maintain extreme wok heat for signature smokiness.",
     "costing": {
       "rawCost": 1.8,
       "sellingPrice": 10,
@@ -17256,7 +17308,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Maintain extreme wok heat for signature smokiness.",
     "costing": {
       "rawCost": 3.6,
       "sellingPrice": 20,
@@ -17322,7 +17374,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Maintain extreme wok heat for signature smokiness.",
     "costing": {
       "rawCost": 3.6,
       "sellingPrice": 20,
@@ -17388,7 +17440,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Maintain extreme wok heat for signature smokiness.",
     "costing": {
       "rawCost": 1.8,
       "sellingPrice": 10,
@@ -17454,7 +17506,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Maintain extreme wok heat for signature smokiness.",
     "costing": {
       "rawCost": 8.1,
       "sellingPrice": 45,
@@ -17520,7 +17572,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Maintain extreme wok heat for signature smokiness.",
     "costing": {
       "rawCost": 3.6,
       "sellingPrice": 20,
@@ -17586,7 +17638,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Maintain extreme wok heat for signature smokiness.",
     "costing": {
       "rawCost": 3.6,
       "sellingPrice": 20,
@@ -17652,7 +17704,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Maintain extreme wok heat for signature smokiness.",
     "costing": {
       "rawCost": 3.6,
       "sellingPrice": 20,
@@ -17718,7 +17770,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Chef Secret: For Triple Schezwan, prepare the red gravy with 2 tbsp Schezwan Paste + 1 tbsp Tomato Sauce + 1/2 tsp Magic Seasoning and serve in a separate bowl with crispy fried noodles on top.",
+    "chefTip": "Maintain extreme wok heat for signature smokiness.",
     "costing": {
       "rawCost": 3.6,
       "sellingPrice": 20,
@@ -17784,7 +17836,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Maintain extreme wok heat for signature smokiness.",
     "costing": {
       "rawCost": 3.6,
       "sellingPrice": 20,
@@ -17850,7 +17902,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Maintain extreme wok heat for signature smokiness.",
     "costing": {
       "rawCost": 5.4,
       "sellingPrice": 30,
@@ -17916,7 +17968,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Maintain extreme wok heat for signature smokiness.",
     "costing": {
       "rawCost": 20.0,
       "sellingPrice": 70,
@@ -17982,7 +18034,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Maintain extreme wok heat for signature smokiness.",
     "costing": {
       "rawCost": 9.2,
       "sellingPrice": 40,
@@ -18048,7 +18100,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Maintain extreme wok heat for signature smokiness.",
     "costing": {
       "rawCost": 7.6,
       "sellingPrice": 40,
@@ -18114,7 +18166,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Maintain extreme wok heat for signature smokiness.",
     "costing": {
       "rawCost": 5.4,
       "sellingPrice": 30,
@@ -18192,7 +18244,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 36.0,
       "sellingPrice": 200,
@@ -18270,7 +18322,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 61.6,
       "sellingPrice": 280,
@@ -18348,7 +18400,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 45.6,
       "sellingPrice": 240,
@@ -18426,7 +18478,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 59.8,
       "sellingPrice": 260,
@@ -18504,7 +18556,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: For Triple Schezwan, prepare the red gravy with 2 tbsp Schezwan Paste + 1 tbsp Tomato Sauce + 1/2 tsp Magic Seasoning and serve in a separate bowl with crispy fried noodles on top.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 39.6,
       "sellingPrice": 220,
@@ -18582,7 +18634,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: For Triple Schezwan, prepare the red gravy with 2 tbsp Schezwan Paste + 1 tbsp Tomato Sauce + 1/2 tsp Magic Seasoning and serve in a separate bowl with crispy fried noodles on top.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 66.0,
       "sellingPrice": 300,
@@ -18660,7 +18712,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: For Triple Schezwan, prepare the red gravy with 2 tbsp Schezwan Paste + 1 tbsp Tomato Sauce + 1/2 tsp Magic Seasoning and serve in a separate bowl with crispy fried noodles on top.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 45.6,
       "sellingPrice": 240,
@@ -18738,7 +18790,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: For Triple Schezwan, prepare the red gravy with 2 tbsp Schezwan Paste + 1 tbsp Tomato Sauce + 1/2 tsp Magic Seasoning and serve in a separate bowl with crispy fried noodles on top.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 64.4,
       "sellingPrice": 280,
@@ -18816,7 +18868,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 54.0,
       "sellingPrice": 300,
@@ -18894,7 +18946,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 79.2,
       "sellingPrice": 360,
@@ -18972,7 +19024,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 60.8,
       "sellingPrice": 320,
@@ -19050,7 +19102,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 82.8,
       "sellingPrice": 360,
@@ -19128,7 +19180,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Coarsely crush black peppercorns (do not use fine powder) and bloom in hot oil with 1 tbsp Oyster Sauce and 1 tbsp Dark Soya for bold aromatic warmth.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 45.0,
       "sellingPrice": 250,
@@ -19206,7 +19258,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Coarsely crush black peppercorns (do not use fine powder) and bloom in hot oil with 1 tbsp Oyster Sauce and 1 tbsp Dark Soya for bold aromatic warmth.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 66.0,
       "sellingPrice": 300,
@@ -19284,7 +19336,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Coarsely crush black peppercorns (do not use fine powder) and bloom in hot oil with 1 tbsp Oyster Sauce and 1 tbsp Dark Soya for bold aromatic warmth.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 49.4,
       "sellingPrice": 260,
@@ -19362,7 +19414,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Coarsely crush black peppercorns (do not use fine powder) and bloom in hot oil with 1 tbsp Oyster Sauce and 1 tbsp Dark Soya for bold aromatic warmth.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 64.4,
       "sellingPrice": 280,
@@ -19440,7 +19492,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 41.4,
       "sellingPrice": 230,
@@ -19518,7 +19570,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 66.0,
       "sellingPrice": 300,
@@ -19596,7 +19648,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 47.5,
       "sellingPrice": 250,
@@ -19674,7 +19726,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 62.1,
       "sellingPrice": 270,
@@ -19752,7 +19804,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Bloom 1 tsp Madras Curry Powder in medium-hot oil for 30 seconds before adding rice/noodles to release the essential curry aromatics without bitterness. Season with Light Soya and Magic Seasoning.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 43.2,
       "sellingPrice": 240,
@@ -19830,7 +19882,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Bloom 1 tsp Madras Curry Powder in medium-hot oil for 30 seconds before adding rice/noodles to release the essential curry aromatics without bitterness. Season with Light Soya and Magic Seasoning.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 66.0,
       "sellingPrice": 300,
@@ -19908,7 +19960,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Bloom 1 tsp Madras Curry Powder in medium-hot oil for 30 seconds before adding rice/noodles to release the essential curry aromatics without bitterness. Season with Light Soya and Magic Seasoning.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 49.4,
       "sellingPrice": 260,
@@ -19986,7 +20038,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Bloom 1 tsp Madras Curry Powder in medium-hot oil for 30 seconds before adding rice/noodles to release the essential curry aromatics without bitterness. Season with Light Soya and Magic Seasoning.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 64.4,
       "sellingPrice": 280,
@@ -20064,7 +20116,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 43.2,
       "sellingPrice": 240,
@@ -20142,7 +20194,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 66.0,
       "sellingPrice": 300,
@@ -20220,7 +20272,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 47.5,
       "sellingPrice": 250,
@@ -20298,7 +20350,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 64.4,
       "sellingPrice": 280,
@@ -20376,7 +20428,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Mix 2 tbsp Sriracha Sauce + 1 tbsp Hoisin Sauce + 1 tbsp Tomato Sauce + 1 tsp Honey + 1/2 tsp Tahini for a rich Korean street-style glaze.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 57.6,
       "sellingPrice": 320,
@@ -20454,7 +20506,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Mix 2 tbsp Sriracha Sauce + 1 tbsp Hoisin Sauce + 1 tbsp Tomato Sauce + 1 tsp Honey + 1/2 tsp Tahini for a rich Korean street-style glaze.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 83.6,
       "sellingPrice": 380,
@@ -20532,7 +20584,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Mix 2 tbsp Sriracha Sauce + 1 tbsp Hoisin Sauce + 1 tbsp Tomato Sauce + 1 tsp Honey + 1/2 tsp Tahini for a rich Korean street-style glaze.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 64.6,
       "sellingPrice": 340,
@@ -20610,7 +20662,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Mix 2 tbsp Sriracha Sauce + 1 tbsp Hoisin Sauce + 1 tbsp Tomato Sauce + 1 tsp Honey + 1/2 tsp Tahini for a rich Korean street-style glaze.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 82.8,
       "sellingPrice": 360,
@@ -20688,7 +20740,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 46.8,
       "sellingPrice": 260,
@@ -20766,7 +20818,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 66.0,
       "sellingPrice": 300,
@@ -20844,7 +20896,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 49.4,
       "sellingPrice": 260,
@@ -20922,7 +20974,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 64.4,
       "sellingPrice": 280,
@@ -21000,7 +21052,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 46.8,
       "sellingPrice": 260,
@@ -21078,7 +21130,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 66.0,
       "sellingPrice": 300,
@@ -21156,7 +21208,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 49.4,
       "sellingPrice": 260,
@@ -21234,7 +21286,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 64.4,
       "sellingPrice": 280,
@@ -21312,7 +21364,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 45.0,
       "sellingPrice": 250,
@@ -21390,7 +21442,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 68.2,
       "sellingPrice": 310,
@@ -21468,7 +21520,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 49.4,
       "sellingPrice": 260,
@@ -21546,7 +21598,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 64.4,
       "sellingPrice": 280,
@@ -21624,7 +21676,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 54.0,
       "sellingPrice": 300,
@@ -21702,7 +21754,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 79.2,
       "sellingPrice": 360,
@@ -21780,7 +21832,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 57.0,
       "sellingPrice": 300,
@@ -21858,7 +21910,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 78.2,
       "sellingPrice": 340,
@@ -21936,7 +21988,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Mix 2 tbsp Sriracha Sauce + 1 tbsp Hoisin Sauce + 1 tbsp Tomato Sauce + 1 tsp Honey + 1/2 tsp Tahini for a rich Korean street-style glaze.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 63.0,
       "sellingPrice": 350,
@@ -22014,7 +22066,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Mix 2 tbsp Sriracha Sauce + 1 tbsp Hoisin Sauce + 1 tbsp Tomato Sauce + 1 tsp Honey + 1/2 tsp Tahini for a rich Korean street-style glaze.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 88.0,
       "sellingPrice": 400,
@@ -22092,7 +22144,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Mix 2 tbsp Sriracha Sauce + 1 tbsp Hoisin Sauce + 1 tbsp Tomato Sauce + 1 tsp Honey + 1/2 tsp Tahini for a rich Korean street-style glaze.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 68.4,
       "sellingPrice": 360,
@@ -22170,7 +22222,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Mix 2 tbsp Sriracha Sauce + 1 tbsp Hoisin Sauce + 1 tbsp Tomato Sauce + 1 tsp Honey + 1/2 tsp Tahini for a rich Korean street-style glaze.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 89.7,
       "sellingPrice": 390,
@@ -22248,7 +22300,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Fry 2 tbsp Red/Yellow Curry Paste in oil for 2 minutes before adding broth to unlock the galangal, lemongrass, and chili oils.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 64.8,
       "sellingPrice": 360,
@@ -22326,7 +22378,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Fry 2 tbsp Red/Yellow Curry Paste in oil for 2 minutes before adding broth to unlock the galangal, lemongrass, and chili oils.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 90.2,
       "sellingPrice": 410,
@@ -22404,7 +22456,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Fry 2 tbsp Red/Yellow Curry Paste in oil for 2 minutes before adding broth to unlock the galangal, lemongrass, and chili oils.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 70.3,
       "sellingPrice": 370,
@@ -22482,7 +22534,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Fry 2 tbsp Red/Yellow Curry Paste in oil for 2 minutes before adding broth to unlock the galangal, lemongrass, and chili oils.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 92.0,
       "sellingPrice": 400,
@@ -22560,7 +22612,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 48.6,
       "sellingPrice": 270,
@@ -22638,7 +22690,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 70.4,
       "sellingPrice": 320,
@@ -22716,7 +22768,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 51.3,
       "sellingPrice": 270,
@@ -22794,7 +22846,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
     "costing": {
       "rawCost": 66.7,
       "sellingPrice": 290,
@@ -22860,7 +22912,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Maintain extreme wok heat for signature smokiness.",
     "costing": {
       "rawCost": 3.6,
       "sellingPrice": 20,
@@ -22926,7 +22978,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Maintain extreme wok heat for signature smokiness.",
     "costing": {
       "rawCost": 59.8,
       "sellingPrice": 260,
@@ -22992,7 +23044,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Maintain extreme wok heat for signature smokiness.",
     "costing": {
       "rawCost": 5.4,
       "sellingPrice": 30,
@@ -23069,7 +23121,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
     "costing": {
       "rawCost": 57.6,
       "sellingPrice": 320,
@@ -23135,7 +23187,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
+    "chefTip": "Maintain extreme wok heat for signature smokiness.",
     "costing": {
       "rawCost": 9.5,
       "sellingPrice": 50,
@@ -23156,11 +23208,11 @@ window.INDUS_BIBLE = {
   },
   {
     "missing": "Schezwan Sauce / Mother Paste",
-    "substitute": "Mix 3 tbsp Red Chilli Sauce + 1.5 tbsp Sriracha + 1 tbsp Tomato Sauce + 1 tbsp Garlic Paste + 1 tsp Dark Soya + 1 tsp Vinegar + 1/2 tsp Magic Seasoning."
+    "substitute": "Mix 3 tbsp Red Chilli Sauce + 1.5 tbsp Sriracha + 1 tbsp Tomato Sauce + 1 tbsp Garlic Paste + 1 tsp Dark Soya + 1 tsp Vinegar + 1/2 tsp Maggi Seasoning."
   },
   {
     "missing": "Indus Dark Base (Seasoning Sauce)",
-    "substitute": "Mix 2 tbsp Dark Soya + 1 tbsp Light Soya + 1 tsp Oyster Sauce + 1 tsp Vinegar + 1/2 tsp Magic Seasoning + 1/2 tsp Honey."
+    "substitute": "Mix 2 tbsp Dark Soya + 1 tbsp Light Soya + 1 tsp Oyster Sauce + 1 tsp Vinegar + 1/2 tsp Maggi Seasoning + 1/2 tsp Honey."
   },
   {
     "missing": "Kung Pao Glaze",
@@ -23176,15 +23228,15 @@ window.INDUS_BIBLE = {
   },
   {
     "missing": "Singapore Curry Base",
-    "substitute": "Mix 1 tsp Madras Curry Powder + 2 tbsp Light Soya + 1 tbsp Red Chilli Sauce + 1 tsp Vinegar + 1/2 tsp Magic Seasoning."
+    "substitute": "Mix 1 tsp Madras Curry Powder + 2 tbsp Light Soya + 1 tbsp Red Chilli Sauce + 1 tsp Vinegar + 1/2 tsp Maggi Seasoning."
   },
   {
     "missing": "Thai Curry Base",
-    "substitute": "Mix 2 tbsp Red Curry Paste (or Yellow Curry Paste) + 2 tbsp Light Soya + 1 tsp Vinegar + 1/2 tsp Magic Seasoning + 1 cup Water."
+    "substitute": "Mix 2 tbsp Red Curry Paste (or Yellow Curry Paste) + 2 tbsp Light Soya + 1 tsp Vinegar + 1/2 tsp Maggi Seasoning + 1 cup Water."
   },
   {
     "missing": "Momo Chutney & Jhol Broth",
-    "substitute": "Mix 2 tbsp Tahini + 2 tbsp Tomato Sauce + 1 tbsp Sriracha Sauce + 1/2 tsp Garlic + 1/2 cup warm water + pinch Magic Seasoning."
+    "substitute": "Mix 2 tbsp Tahini + 2 tbsp Tomato Sauce + 1 tbsp Sriracha Sauce + 1/2 tsp Garlic + 1/2 cup warm water + pinch Maggi Seasoning."
   },
   {
     "missing": "Spicy Sushi Sauce / Creamy Drizzle",
@@ -23196,7 +23248,149 @@ window.INDUS_BIBLE = {
   },
   {
     "missing": "Chicken / Veg Broth Stock",
-    "substitute": "Dissolve 1 tsp Magic Seasoning in 1 Liter boiling water with 1 tbsp Dark Soya and 1 crushed Garlic clove."
+    "substitute": "Dissolve 1 tsp Maggi Seasoning in 1 Liter boiling water with 1 tbsp Dark Soya and 1 crushed Garlic clove."
   }
-]
+],
+  beginnerGuide: {
+  "welcomeMessage": "Welcome to the Indus Wok Kitchen! Cooking in a commercial wok might seem intimidating with roaring fires and rapid tossing, but it all comes down to a few simple rules. Here is everything over-explained in simple, everyday words so anyone can cook like a master chef on day one!",
+  "sixRules": [
+    {
+      "num": 1,
+      "title": "High Heat is Your Best Friend (Why Roaring Flames?)",
+      "desc": "A wok is made of thin carbon steel that conducts heat instantly. High heat sears the outside of chicken and vegetables in seconds, trapping juices inside so they stay tender and crunchy instead of turning soggy and limp. Never crowd the wok\u2014if cooking a double portion, cook in 2 quick batches!"
+    },
+    {
+      "num": 2,
+      "title": "The 100% Prep Rule (Mise en Place / 'Misa')",
+      "desc": "In wok cooking, dishes are cooked in under 90 seconds! If you light the stove before chopping your garlic or measuring your sauce, the wok will smoke and burn your food before you are ready. Always keep all chopped veggies, velveted meats, and sauces in small bowls right next to your wok before lighting the flame."
+    },
+    {
+      "num": 3,
+      "title": "Always Velvet Your Proteins (The Secret Silk Shield)",
+      "desc": "Ever wonder why restaurant chicken is so tender it practically melts in your mouth? That is 'velveting'! Coating raw chicken in cornstarch and egg white/water creates a microscopic shield. When it hits hot oil, the coat seals in all the moisture so the chicken stays super juicy instead of dry and rubbery."
+    },
+    {
+      "num": 4,
+      "title": "The Wok Rim Drizzle (Deglazing for Sizzle & Aroma)",
+      "desc": "Never dump dark soy sauce, vinegar, or glaze straight into the middle of your rice or noodles! Instead, circle your ladle along the scorching hot upper metal walls of the wok. The heat instantly vaporizes the liquid into a sizzling caramel mist that clings to every noodle strand without making the dish wet."
+    },
+    {
+      "num": 5,
+      "title": "The Spring Onion Split (White Roots vs. Green Tops)",
+      "desc": "Spring onions are two completely different ingredients in one! The white root has a pungent onion flavor and must be fried at the very start with garlic. The green leaves are fresh herbs\u2014if you cook them too long they turn brown and slimy. Always toss green scallions in during the last 5 seconds of cooking!"
+    },
+    {
+      "num": 6,
+      "title": "The Maggi Seasoning Umami Secret",
+      "desc": "Maggi Seasoning (liquid or powder) is the master savory booster. It contains concentrated hydrolyzed plant proteins that activate the 'umami' (deep savory) tastebuds on your tongue. Just 1/2 teaspoon adds that rich, addictive restaurant flavor that plain salt cannot produce."
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Velveting (The Silk Shield Technique)",
+      "pronunciation": "VEL-vet-ing",
+      "icon": "\ud83e\udd69",
+      "simple": "Coating raw meat or paneer in cornstarch, egg white (or water), and a splash of soy sauce before cooking.",
+      "why": "It creates a protective barrier around the meat so high heat doesn't dry it out. The meat stays juicy, tender, and silky smooth like restaurant food.",
+      "how": "For 250g sliced chicken: mix with 1 tbsp cornstarch, 1 egg white (or 2 tbsp water), 1 tsp soy sauce. Rest 15 mins. Flash-fry in warm oil for 45 seconds."
+    },
+    {
+      "term": "Wok Hei (The Smoky Breath of the Wok)",
+      "pronunciation": "WOK-HAY",
+      "icon": "\ud83d\udca8",
+      "simple": "The distinct smoky, charred aroma and flavor that makes restaurant stir-fries taste 10x better than home cooking.",
+      "why": "When you toss food in a smoking hot curved wok, tiny droplets of oil fly into the air and pass through the rising heat/flame, creating an aromatic smoky vapor.",
+      "how": "Use maximum flame, ensure the wok is smoking hot before adding oil, and use day-old chilled rice so individual grains toast rather than steam."
+    },
+    {
+      "term": "Maggi Seasoning (Liquid / Powder Umami Booster)",
+      "pronunciation": "MAG-gee SEE-zun-ing",
+      "icon": "\u2728",
+      "simple": "A famous savory flavor enhancer (available as dark liquid sauce or savory powder) packed with deep umami taste.",
+      "why": "It elevates the savory richness of soups, fried rice, noodles, and stir-fries, giving that authentic restaurant 'kick'.",
+      "how": "Add 1/2 to 1 teaspoon along with your soy sauces during the stir-fry stage."
+    },
+    {
+      "term": "Wok Rim Drizzle (Deglaze)",
+      "pronunciation": "WOK-RIM DRIZ-zul",
+      "icon": "\ud83c\udf0a",
+      "simple": "Pouring liquid seasoning (dark soy, light soy, vinegar) along the blazing hot inner rim of the wok.",
+      "why": "The 300\u00b0C metal walls caramelize the sugars in the sauce in 1 second, creating aromatic smoke and coating food evenly.",
+      "how": "Hold your ladle against the top inner edge of the wok and circle it once so sauce trickles down the hot sides."
+    },
+    {
+      "term": "Blooming Spices",
+      "pronunciation": "BLOOM-ing SPY-sez",
+      "icon": "\ud83c\udf3f",
+      "simple": "Gently frying dry spice powders (like Madras Curry Powder) in warm cooking oil for 20-30 seconds.",
+      "why": "Spice flavor molecules are oil-soluble. Warming them in oil unlocks their deep aroma; adding dry powder into water leaves a raw, chalky taste.",
+      "how": "Heat 1 tbsp oil on medium flame, add 1 tsp Madras curry powder, stir for 25 seconds until fragrant, then immediately add your aromatics/rice."
+    },
+    {
+      "term": "Cornstarch Slurry",
+      "pronunciation": "KORN-starch SLUR-ree",
+      "icon": "\ud83e\udd63",
+      "simple": "A smooth mix of cornstarch (ararot) and cold or room-temperature water.",
+      "why": "Dry cornstarch clumps into lumps in hot gravy. Pre-dissolving it in cold water allows it to blend evenly and turn thin liquid into thick, shiny gravy.",
+      "how": "Mix 1 tbsp cornstarch + 3 tbsp cold water. Stir with a spoon right before pouring into boiling liquid while whisking."
+    },
+    {
+      "term": "Mise en Place ('Misa')",
+      "pronunciation": "MEEZ-on-plahs",
+      "icon": "\ud83d\udd2a",
+      "simple": "Having every vegetable cut, meat marinated, sauce bottled, and garnish prepped in bowls before turning on the burner.",
+      "why": "Wok cooking happens in 90 seconds. There is zero time to chop garlic or search for vinegar once the wok is smoking hot.",
+      "how": "Place small prep bowls in order of use: Aromatics -> Meats -> Veggies -> Mother Sauces -> Garnishes."
+    },
+    {
+      "term": "Flash Frying (Pass-Through)",
+      "pronunciation": "FLASH FRY-ing",
+      "icon": "\ud83d\udd25",
+      "simple": "Dropping velveted chicken or coated paneer into hot oil for just 45 to 60 seconds, then immediately scooping it out.",
+      "why": "It instantly seals the outer coating and par-cooks the inside without losing moisture, ready to be tossed in sauce.",
+      "how": "Heat oil to 175\u00b0C (shimmering). Drop pieces individually so they don't stick. Scoop out after 45 seconds onto a strainer."
+    }
+  ],
+  "ladleGuide": [
+    {
+      "tool": "Standard Commercial Wok Ladle (1 Pao)",
+      "approx": "100ml - 120ml (approx 1/2 cup)",
+      "use": "Used for scooping broth into soups, gravies, and large liquid measures."
+    },
+    {
+      "tool": "Small Wok Ladle / Half Ladle",
+      "approx": "50ml - 60ml (approx 1/4 cup / 4 tbsp)",
+      "use": "The standard ladle dose for 1 single portion of Mother Sauce (Manchurian, Schezwan, Hot Garlic)."
+    },
+    {
+      "tool": "Chinese Ceramic / Metal Soup Spoon",
+      "approx": "15ml (1 Tablespoon / tbsp)",
+      "use": "Used for soy sauces, vinegar, chili pastes, and cooking oil."
+    },
+    {
+      "tool": "Chef Teaspoon",
+      "approx": "5ml (1 Teaspoon / tsp)",
+      "use": "Used for Maggi Seasoning, Black Pepper, Honey, and Sesame Oil."
+    },
+    {
+      "tool": "Pinch (3-Finger Pinch)",
+      "approx": "1g - 2g",
+      "use": "Used for salt, white pepper, and Maggi Seasoning powder finishing."
+    }
+  ],
+  "threeStepFlow": [
+    {
+      "step": "STAGE 1: HIGH-HEAT FLASH (0 to 30 Seconds)",
+      "action": "Get wok smoking hot. Add 2 tbsp oil. Toss in minced garlic, ginger, and white spring onions for 10 seconds. Add velveted chicken/paneer and toss 20 seconds."
+    },
+    {
+      "step": "STAGE 2: VEGETABLES & MAIN (30 to 60 Seconds)",
+      "action": "Add cut vegetables (julienne for noodles, brunoise for rice, diamond for gravies) and day-old rice or boiled noodles. Toss aggressively over maximum flame."
+    },
+    {
+      "step": "STAGE 3: MOTHER SAUCE RIM DRIZZLE & FINISH (60 to 90 Seconds)",
+      "action": "Drizzle 1 ladle of Mother Sauce + Maggi Seasoning along the hot wok perimeter. Toss 15 seconds. Turn off fire, toss in green spring onions, and plate immediately!"
+    }
+  ]
+}
 };

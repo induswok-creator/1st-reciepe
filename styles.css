@@ -2144,3 +2144,275 @@ body.kitchen-mode .pantry-info h5 {
   display: block;
   margin-top: 2px;
 }
+
+/* ==========================================================================
+   BEGINNER 101 MASTERCLASS & JARGON GLOSSARY STYLES
+   ========================================================================== */
+.golden-rules-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 16px;
+}
+
+.golden-rule-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border-line);
+  border-radius: var(--radius-md);
+  padding: 18px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  display: flex;
+  flex-direction: column;
+}
+
+.golden-rule-card:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-md);
+  border-color: var(--gold);
+}
+
+.golden-rule-header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 10px;
+}
+
+.golden-rule-num {
+  width: 32px;
+  height: 32px;
+  background: var(--red);
+  color: #fff;
+  font-weight: 800;
+  font-size: 16px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  box-shadow: 0 2px 6px rgba(185,19,39,0.3);
+}
+
+.golden-rule-header h4 {
+  margin: 0;
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--text-main);
+  line-height: 1.3;
+}
+
+.golden-rule-desc {
+  margin: 0;
+  font-size: 13.5px;
+  line-height: 1.6;
+  color: var(--text-muted);
+}
+
+/* Jargon Glossary Grid */
+.jargon-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+  gap: 18px;
+}
+
+.jargon-card {
+  background: #ffffff;
+  border: 1px solid var(--border-line);
+  border-radius: var(--radius-md);
+  padding: 20px;
+  box-shadow: var(--shadow-sm);
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  transition: all 0.2s ease;
+}
+
+.jargon-card:hover {
+  border-color: var(--red);
+  box-shadow: var(--shadow-md);
+}
+
+.jargon-card-top {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  border-bottom: 1px solid var(--border-light);
+  padding-bottom: 10px;
+}
+
+.jargon-icon {
+  font-size: 32px;
+  flex-shrink: 0;
+}
+
+.jargon-title {
+  margin: 0;
+  font-size: 16px;
+  font-weight: 800;
+  color: var(--charcoal);
+  line-height: 1.2;
+}
+
+.jargon-pronounce {
+  font-size: 12px;
+  color: var(--text-muted);
+  display: block;
+  margin-top: 2px;
+}
+
+.jargon-section {
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+.jargon-label {
+  font-weight: 700;
+  font-size: 12px;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin-bottom: 3px;
+}
+
+.jargon-section.simple-box {
+  background: var(--red-light);
+  border-left: 3px solid var(--red);
+  padding: 10px 12px;
+  border-radius: 4px;
+}
+
+.jargon-section.simple-box .jargon-label {
+  color: var(--red);
+}
+
+.jargon-section.simple-box .jargon-val {
+  font-weight: 600;
+  color: #5c0813;
+}
+
+.jargon-section.how-box {
+  background: #fdfbf7;
+  border: 1px dashed var(--gold);
+  padding: 10px 12px;
+  border-radius: 4px;
+}
+
+.jargon-section.how-box .jargon-label {
+  color: var(--gold);
+}
+
+.jargon-section.how-box .jargon-val {
+  color: #4a3c1a;
+}
+
+/* Ladle Chart */
+.ladle-chart-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 14px;
+}
+
+.ladle-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border-line);
+  border-radius: var(--radius-sm);
+  padding: 16px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+}
+
+.ladle-tool-name {
+  font-weight: 700;
+  font-size: 14px;
+  color: var(--charcoal);
+}
+
+.ladle-approx {
+  font-size: 16px;
+  font-weight: 800;
+  color: var(--red);
+  background: var(--red-light);
+  padding: 4px 10px;
+  border-radius: 20px;
+  display: inline-block;
+}
+
+.ladle-use {
+  font-size: 12px;
+  color: var(--text-muted);
+  line-height: 1.4;
+  margin-top: 4px;
+}
+
+/* Blueprint Timeline */
+.blueprint-timeline {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.blueprint-step-card {
+  display: flex;
+  gap: 16px;
+  background: var(--bg-card);
+  border: 1px solid var(--border-line);
+  border-radius: var(--radius-md);
+  padding: 18px;
+  align-items: flex-start;
+}
+
+.blueprint-step-badge {
+  background: linear-gradient(135deg, var(--charcoal) 0%, var(--slate-card) 100%);
+  color: #f7d58b;
+  font-weight: 800;
+  font-size: 12px;
+  padding: 6px 12px;
+  border-radius: 6px;
+  letter-spacing: 0.5px;
+  flex-shrink: 0;
+}
+
+.blueprint-step-content h4 {
+  margin: 0 0 6px 0;
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--text-main);
+}
+
+.blueprint-step-content p {
+  margin: 0;
+  font-size: 13.5px;
+  line-height: 1.5;
+  color: var(--text-muted);
+}
+
+/* Clickable Pantry styling */
+.clickable-pantry {
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.clickable-pantry:hover {
+  border-color: var(--gold);
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-sm);
+  background: #fffdfa;
+}
+
+.pantry-dialog {
+  max-width: 480px;
+  width: 90%;
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+}
+
+@media (max-width: 600px) {
+  .blueprint-step-card {
+    flex-direction: column;
+    gap: 8px;
+  }
+  .jargon-grid {
+    grid-template-columns: 1fr;
+  }
+}

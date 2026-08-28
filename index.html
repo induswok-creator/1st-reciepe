@@ -62,6 +62,9 @@
         <button class="tab-btn" data-tab="costing" onclick="switchTab('costing')">
           <span>💰</span> Costing & Profit Simulator <span class="badge-pill">Interactive</span>
         </button>
+                <button class="tab-btn" data-tab="beginner" onclick="switchTab('beginner')">
+          <span>🎓</span> Beginner's Wok 101 <span class="badge-pill">Simple Words</span>
+        </button>
         <button class="tab-btn" data-tab="emergency" onclick="switchTab('emergency')">
           <span>⚡</span> Emergency Missing Matrix <span class="badge-pill">Substitutes</span>
         </button>
@@ -183,7 +186,7 @@
         <div class="hero-card">
           <h2>🥣 Mother Sauces & Scratch Prep Bible (Customized for Your Kitchen)</h2>
           <p>
-            Standardized scratch formulas for 14 essential Asian & Indo-Chinese base sauces, <strong>formulated 100% using ONLY your exact 20 in-stock kitchen products</strong>: Dark Soya, Light Soya, Vinegar, Tomato Sauce, Red Chilli Sauce, Teriyaki, Oyster, Kung Pao, Black Pepper, Plum Sauce, Hoisin, Japanese Mayo, Sriracha, Cream Cheese, Red/Yellow Curry Paste, Tahini, Magic Seasoning, Honey, and Madras Curry Powder.
+            Standardized scratch formulas for 14 essential Asian & Indo-Chinese base sauces, <strong>formulated 100% using ONLY your exact 20 in-stock kitchen products</strong>: Dark Soya, Light Soya, Vinegar, Tomato Sauce, Red Chilli Sauce, Teriyaki, Oyster, Kung Pao, Black Pepper, Plum Sauce, Hoisin, Japanese Mayo, Sriracha, Cream Cheese, Red/Yellow Curry Paste, Tahini, Maggi Seasoning, Honey, and Madras Curry Powder.
           </p>
           <div style="margin-top: 10px; background: rgba(19, 138, 74, 0.12); border: 1px solid #138a4a; padding: 8px 12px; border-radius: 8px; font-size: 11.5px; color: #138a4a; font-weight: 700; display: inline-flex; align-items: center; gap: 6px;">
             <span>✅</span> 100% Guaranteed to work with your 20 kitchen products (No pineapple juice, no apple cider vinegar)
@@ -432,6 +435,95 @@
         </div>
       </section>
 
+      <!-- ===================================================================
+           TAB: BEGINNER 101 MASTERCLASS & SIMPLE GLOSSARY
+           =================================================================== -->
+      <section id="tab-beginner" class="tab-panel">
+        <div class="hero-card" style="background: linear-gradient(135deg, #2a1115 0%, #151821 100%); color: #fff; border: 1px solid rgba(199,154,58,0.3);">
+          <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 8px;">
+            <span style="font-size: 32px;">🎓</span>
+            <h2 style="color: #f7d58b; margin: 0;">Beginner's Wok 101 & Simple Terms Guide</h2>
+          </div>
+          <p style="color: #f1dfcf; font-size: 15px; line-height: 1.6; max-width: 900px;">
+            Welcome to the kitchen! Wok cooking moves fast with roaring fires and high-energy tossing, but it is actually very simple once you know the core principles. Here is every restaurant technique, secret wok method, kitchen tool, and pantry ingredient <strong>over-explained in simple, everyday words</strong> with zero jargon!
+          </p>
+        </div>
+
+        <!-- 6 Golden Rules of Wok Cooking -->
+        <div class="card" style="margin-bottom: 24px;">
+          <div class="card-header">
+            <div>
+              <h3 style="display: flex; align-items: center; gap: 8px;"><span>💡</span> The 6 Golden Rules of Wok Cooking (Simple Principles)</h3>
+              <p style="margin: 4px 0 0; font-size: 13px; color: var(--text-muted);">
+                Follow these 6 rules and your food will taste exactly like an award-winning Indo-Chinese restaurant every single time.
+              </p>
+            </div>
+            <span class="badge-accent">Must-Read Rules</span>
+          </div>
+          <div class="card-body">
+            <div class="golden-rules-grid" id="goldenRulesContainer">
+              <!-- Rendered via JS -->
+            </div>
+          </div>
+        </div>
+
+        <!-- Kitchen Jargon Translator / Interactive Glossary -->
+        <div class="card" style="margin-bottom: 24px;">
+          <div class="card-header" style="flex-wrap: wrap; gap: 12px;">
+            <div>
+              <h3 style="display: flex; align-items: center; gap: 8px;"><span>📖</span> Kitchen Jargon Translator (Over-Explained in Simple Words)</h3>
+              <p style="margin: 4px 0 0; font-size: 13px; color: var(--text-muted);">
+                Confused by restaurant terms like "Velveting", "Wok Hei", or "Maggi Seasoning"? Type below to search plain-English explanations!
+              </p>
+            </div>
+            <div style="min-width: 240px; flex: 1; max-width: 360px;">
+              <input type="text" id="jargonSearchInput" class="form-control" placeholder="🔍 Search (e.g. velvet, wok hei, maggi, slurry)..." oninput="filterJargonGlossary()">
+            </div>
+          </div>
+          <div class="card-body">
+            <div class="jargon-grid" id="jargonGlossaryContainer">
+              <!-- Rendered via JS -->
+            </div>
+          </div>
+        </div>
+
+        <!-- Ladle & Measurement Chart -->
+        <div class="card" style="margin-bottom: 24px;">
+          <div class="card-header">
+            <div>
+              <h3 style="display: flex; align-items: center; gap: 8px;"><span>🥄</span> Wok Ladle & Measurement Chart (No Guesswork)</h3>
+              <p style="margin: 4px 0 0; font-size: 13px; color: var(--text-muted);">
+                Commercial wok chefs never use measuring cups. They use curved metal ladles and soup spoons to measure at lightning speed!
+              </p>
+            </div>
+            <span class="badge-accent">Kitchen Standards</span>
+          </div>
+          <div class="card-body">
+            <div class="ladle-chart-grid" id="ladleChartContainer">
+              <!-- Rendered via JS -->
+            </div>
+          </div>
+        </div>
+
+        <!-- 3-Step Stir Fry Blueprint -->
+        <div class="card" style="margin-bottom: 24px;">
+          <div class="card-header">
+            <div>
+              <h3 style="display: flex; align-items: center; gap: 8px;"><span>⚡</span> The 3-Step 90-Second Stir-Fry Blueprint</h3>
+              <p style="margin: 4px 0 0; font-size: 13px; color: var(--text-muted);">
+                Almost every fried rice, noodle, and starter dish in this bible follows this exact 3-step sequence:
+              </p>
+            </div>
+            <span class="badge-accent">Master 90s Flow</span>
+          </div>
+          <div class="card-body">
+            <div class="blueprint-timeline" id="blueprintTimelineContainer">
+              <!-- Rendered via JS -->
+            </div>
+          </div>
+        </div>
+      </section>
+
     </div>
   </main>
 
@@ -452,6 +544,10 @@
     <button class="mob-nav-item" data-tab="recipes" onclick="switchTab('recipes')">
       <span class="icon">📖</span>
       <span>Recipes</span>
+    </button>
+        <button class="mob-nav-item" data-tab="beginner" onclick="switchTab('beginner')">
+      <span class="icon">🎓</span>
+      <span>Wok 101</span>
     </button>
     <button class="mob-nav-item" data-tab="costing" onclick="switchTab('costing')">
       <span class="icon">💰</span>
@@ -610,5 +706,25 @@
   <!-- Scripts -->
   <script src="bible-data.js"></script>
   <script src="app.js"></script>
+
+  <!-- Pantry Item Simple Explainer Modal -->
+  <div id="pantryModalOverlay" class="modal-overlay" onclick="handlePantryModalOutsideClick(event)" style="display:none; z-index: 10000;">
+    <div class="modal-dialog pantry-dialog" onclick="event.stopPropagation()">
+      <div class="modal-header">
+        <div class="modal-title-group" id="pantryModalTitleGroup">
+          <span class="pantry-modal-icon" id="pantryModalIcon" style="font-size: 36px;">✨</span>
+          <div>
+            <h3 id="pantryModalName" style="margin: 0; font-size: 20px; color: var(--text-main);">Maggi Seasoning</h3>
+            <span class="badge-accent" id="pantryModalCat">Seasonings & Umami</span>
+          </div>
+        </div>
+        <button class="btn-close-modal" onclick="closePantryModal()">✕</button>
+      </div>
+      <div class="modal-body" id="pantryModalBody" style="padding: 20px;">
+        <!-- Rendered dynamically -->
+      </div>
+    </div>
+  </div>
+
 </body>
 </html>
