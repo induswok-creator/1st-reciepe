@@ -13,6 +13,7 @@ let currentProteinFilter = 'all';
 document.addEventListener('DOMContentLoaded', () => {
   renderFlagshipSpecials();
   renderMotherSauces('all');
+  renderMasterCuts();
   renderMisaModules();
   renderEmergencySubs();
   renderRecipeCatalog();
@@ -231,13 +232,95 @@ function renderMotherSauces(filterCat) {
 }
 
 /* ==========================================================================
+   RENDER MASTER KNIFE CUTS & TECHNICAL DIAGRAMS
+   ========================================================================== */
+function filterMisaView(view) {
+  document.querySelectorAll('#misaFilterChips .sauce-chip').forEach(chip => chip.classList.remove('active'));
+  if (event && event.target) event.target.classList.add('active');
+
+  const cutsSection = document.getElementById('misaCutsSection');
+  const modulesSection = document.getElementById('misaModulesSection');
+
+  if (view === 'all') {
+    if (cutsSection) cutsSection.style.display = 'block';
+    if (modulesSection) modulesSection.style.display = 'block';
+    renderMisaModules('all');
+  } else if (view === 'cuts') {
+    if (cutsSection) cutsSection.style.display = 'block';
+    if (modulesSection) modulesSection.style.display = 'none';
+  } else {
+    if (cutsSection) cutsSection.style.display = 'none';
+    if (modulesSection) modulesSection.style.display = 'block';
+    renderMisaModules(view);
+  }
+}
+
+function renderMasterCuts() {
+  const container = document.getElementById('cutsMasterContainer');
+  if (!container || !window.INDUS_BIBLE || !window.INDUS_BIBLE.cuts) return;
+
+  const cuts = window.INDUS_BIBLE.cuts;
+
+  container.innerHTML = cuts.map(cut => `
+    <div class="cut-detail-card" id="${cut.id}">
+      <div class="cut-card-top-banner">
+        <div class="cut-title-row">
+          <div>
+            <h3>${cut.name}</h3>
+            <div class="cut-hindi-badge">${cut.hindiName}</div>
+          </div>
+          <span class="cut-dim-tag">${cut.dimension}</span>
+        </div>
+        <div class="cut-diagram-wrap">
+          ${cut.svgDiagram}
+        </div>
+      </div>
+
+      <div class="cut-card-body">
+        <div class="cut-info-block">
+          <h4><span>💡</span> What is it?</h4>
+          <p>${cut.whatIsIt}</p>
+        </div>
+
+        <div class="cut-info-block">
+          <h4><span>🥢</span> Why is it used at Indus Wok?</h4>
+          <p>${cut.whyUsed}</p>
+          <div style="font-size: 11.5px; color: var(--gold); font-weight: 700; margin-top: 6px;">
+            Target Dishes: ${cut.targetDishes}
+          </div>
+        </div>
+
+        <div class="cut-info-block">
+          <h4><span>🔪</span> Step-by-Step Cutting Sequence (Knife Angle: ${cut.knifeAngle})</h4>
+          <ol class="cut-steps-ol">
+            ${cut.steps.map(step => `<li>${step}</li>`).join('')}
+          </ol>
+        </div>
+
+        <div class="cut-pitfall-alert">
+          <strong>⚠️ Common Knife Mistakes & Pitfalls:</strong> ${cut.commonMistakes}
+        </div>
+      </div>
+    </div>
+  `).join('');
+}
+
+/* ==========================================================================
    RENDER MISE EN PLACE ("MISA") MANUAL
    ========================================================================== */
-function renderMisaModules() {
+function renderMisaModules(filterMod = 'all') {
   const container = document.getElementById('misaContainer');
   if (!container || !window.INDUS_BIBLE || !window.INDUS_BIBLE.misa) return;
 
-  const modules = window.INDUS_BIBLE.misa.modules;
+  let modules = window.INDUS_BIBLE.misa.modules;
+
+  if (filterMod === 'protein') {
+    modules = modules.filter(m => m.id === 'misa-2');
+  } else if (filterMod === 'carbs') {
+    modules = modules.filter(m => m.id === 'misa-3');
+  } else if (filterMod === 'station') {
+    modules = modules.filter(m => m.id === 'misa-4' || m.id === 'misa-5');
+  }
 
   container.innerHTML = modules.map(mod => `
     <div class="misa-module-card">

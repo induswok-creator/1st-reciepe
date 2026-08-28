@@ -207,14 +207,38 @@
            =================================================================== -->
       <section id="tab-misa" class="tab-panel">
         <div class="hero-card">
-          <h2>🔪 Mise en Place ("Misa") SOP & Station Setup</h2>
+          <h2>🔪 Mise en Place ("Misa") SOP & Precision Knife Cuts</h2>
           <p>
-            Precision vegetable cutting, protein velveting, carb dehydration, and 9-cup speed-rack layout to achieve authentic <em>Wok Hei</em> in &lt;3 minutes.
+            Standard operating procedures for precision vegetable cutting (Julienne, Diamond, Brunoise, Batons), protein velveting, carb dehydration, and 9-cup wok speed-rack layout.
           </p>
         </div>
 
-        <div class="misa-modules-grid" id="misaContainer">
-          <!-- Rendered dynamically by app.js -->
+        <div class="sauce-filter-chips" id="misaFilterChips">
+          <button class="sauce-chip active" onclick="filterMisaView('all')">All Misa Modules (6)</button>
+          <button class="sauce-chip" onclick="filterMisaView('cuts')">📐 Knife Cuts Visual Guide (5 Cuts)</button>
+          <button class="sauce-chip" onclick="filterMisaView('protein')">🍗 Protein Velveting SOP</button>
+          <button class="sauce-chip" onclick="filterMisaView('carbs')">🍚 Noodles & Day-Old Rice</button>
+          <button class="sauce-chip" onclick="filterMisaView('station')">🔥 Wok Station & Wok Hei</button>
+        </div>
+
+        <!-- Master Cuts Visual Guide Section -->
+        <div id="misaCutsSection" style="margin-bottom: 24px;">
+          <h3 style="font-size: 17px; font-weight: 800; color: var(--red); margin-bottom: 14px; display: flex; align-items: center; gap: 8px;">
+            <span>📐</span> Standardized Asian Knife Cuts & Technical Diagrams
+          </h3>
+          <div class="cuts-master-grid" id="cutsMasterContainer">
+            <!-- Injected dynamically by app.js -->
+          </div>
+        </div>
+
+        <!-- Other Misa Modules (Proteins, Carbs, Stations) -->
+        <div id="misaModulesSection">
+          <h3 style="font-size: 17px; font-weight: 800; color: var(--charcoal); margin-bottom: 14px; display: flex; align-items: center; gap: 8px;">
+            <span>⚙️</span> Operational Protocols & Station Guidelines
+          </h3>
+          <div class="misa-modules-grid" id="misaContainer">
+            <!-- Rendered dynamically by app.js -->
+          </div>
         </div>
       </section>
 

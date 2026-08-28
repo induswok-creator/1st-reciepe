@@ -3,9 +3,10 @@
    Includes:
    1. 14 Mother Sauces with Batching & Scratch Formulas
    2. 5 Mise en Place ("Misa") Operational Modules
-   3. 4 Indus Wok Special Flagship Dishes with In-Depth BOM Costing
-   4. 283 Full Menu Dish Recipes with End-Result Images & Cooking Specs
-   5. Emergency Substitutions Matrix
+   3. Detailed Master Cuts Guide with Technical Diagram SVGs
+   4. 4 Indus Wok Special Flagship Dishes with In-Depth BOM Costing
+   5. 283 Full Menu Dish Recipes with End-Result Images & Cooking Specs
+   6. Emergency Substitutions Matrix
    =========================================================================== */
 
 window.INDUS_BIBLE = {
@@ -986,6 +987,102 @@ window.INDUS_BIBLE = {
     }
   ]
 },
+  cuts: [
+  {
+    "id": "cut-julienne",
+    "name": "Fine Julienne Cut (Matchstick / Allumette)",
+    "hindiName": "\u0932\u092e\u094d\u092c\u093e \u092c\u093e\u0930\u0940\u0915 \u0915\u0924\u0930\u0928 (Matchstick)",
+    "targetDishes": "Veg & Chicken Hakka Noodles, Hong Kong Noodles, Spring Rolls, Noodle Soups",
+    "dimension": "1.5 mm \u00d7 1.5 mm \u00d7 50 mm (2 inches long)",
+    "knifeAngle": "90\u00b0 Parallel to Cutting Board",
+    "targetVeg": "Carrots, Cabbage, Green Capsicum, Red Bell Pepper",
+    "whatIsIt": "A classic precision knife cut where vegetables are sliced into uniform, matchstick-thin strips (1.5mm thick by 50mm long). In Asian wok cookery, Julienne is the most critical cut for all noodle dishes.",
+    "whyUsed": "Matches the exact thickness and flexibility of Hakka noodle strands. When tossed in a 400\u00b0C wok, julienned vegetables weave seamlessly into the noodles so the customer gets crunchy vegetables and noodles in every single forkful, rather than having vegetables sink to the bottom of the bowl.",
+    "steps": [
+      "1. SQUARING (Top & Tail): Cut off root ends and slice vegetable into 5cm (2-inch) cylindrical segments.",
+      "2. PLANKS (Sheets): Slice thin, uniform 1.5mm flat planks down the length of the cylinder.",
+      "3. STACKING: Stack 3 to 4 planks flat on top of each other.",
+      "4. MATCHSTICK SLICE: Using a sharp chef knife or Chinese cleaver with a smooth rocking motion, cut down into 1.5mm matchsticks."
+    ],
+    "commonMistakes": "Cutting too thick (>3mm): Thick sticks take longer to cook than noodles, resulting in raw hard carrots. Cutting too short (<3cm): Short shreds get lost in the noodles and turn into mush.",
+    "svgDiagram": "<svg viewBox=\"0 0 320 160\" class=\"cut-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\"><rect width=\"320\" height=\"160\" fill=\"#1b1e28\" rx=\"10\"/><rect x=\"25\" y=\"35\" width=\"80\" height=\"90\" fill=\"#d96b14\" opacity=\"0.3\" rx=\"4\" stroke=\"#d96b14\" stroke-width=\"2\"/><text x=\"65\" y=\"25\" fill=\"#e2e8f0\" font-size=\"11\" font-weight=\"700\" text-anchor=\"middle\">1.5mm Plank</text><line x1=\"25\" y1=\"55\" x2=\"105\" y2=\"55\" stroke=\"#fff\" stroke-dasharray=\"3,3\" opacity=\"0.6\"/><line x1=\"25\" y1=\"75\" x2=\"105\" y2=\"75\" stroke=\"#fff\" stroke-dasharray=\"3,3\" opacity=\"0.6\"/><line x1=\"25\" y1=\"95\" x2=\"105\" y2=\"95\" stroke=\"#fff\" stroke-dasharray=\"3,3\" opacity=\"0.6\"/><path d=\"M 120 80 L 145 80\" stroke=\"#c79a3a\" stroke-width=\"3\"/><g transform=\"translate(160, 30)\"><rect x=\"0\" y=\"10\" width=\"120\" height=\"5\" fill=\"#d96b14\" rx=\"1\"/><rect x=\"0\" y=\"25\" width=\"120\" height=\"5\" fill=\"#d96b14\" rx=\"1\"/><rect x=\"0\" y=\"40\" width=\"120\" height=\"5\" fill=\"#d96b14\" rx=\"1\"/><rect x=\"0\" y=\"55\" width=\"120\" height=\"5\" fill=\"#d96b14\" rx=\"1\"/><rect x=\"0\" y=\"70\" width=\"120\" height=\"5\" fill=\"#d96b14\" rx=\"1\"/><rect x=\"0\" y=\"85\" width=\"120\" height=\"5\" fill=\"#d96b14\" rx=\"1\"/><line x1=\"0\" y1=\"105\" x2=\"120\" y2=\"105\" stroke=\"#c79a3a\" stroke-width=\"1.5\"/><text x=\"60\" y=\"120\" fill=\"#c79a3a\" font-size=\"11\" font-weight=\"800\" text-anchor=\"middle\">50 mm (2 inches)</text><text x=\"125\" y=\"50\" fill=\"#22c55e\" font-size=\"10\" font-weight=\"800\">1.5mm</text></g></svg>"
+  },
+  {
+    "id": "cut-diamond",
+    "name": "Diamond Cut (Lozenge / Rhombus / Pai Cut)",
+    "hindiName": "\u0921\u093e\u092f\u092e\u0902\u0921 / \u0915\u093e\u091c\u0942 \u0915\u0924\u0932\u0940 \u0915\u091f (Diamond Lozenge)",
+    "targetDishes": "Chilli Chicken, Paneer Chilli, Manchurian Dry, Dragon Chicken, Kung Pao, Schezwan Dry",
+    "dimension": "25 mm \u00d7 25 mm Rhombus (45\u00b0 angle angles)",
+    "knifeAngle": "45\u00b0 Diagonal Bias Angle",
+    "targetVeg": "Green Bell Peppers, Red & Yellow Capsicum, Onions (Petals separated)",
+    "whatIsIt": "A geometric cut where bell peppers and onion petals are sliced at intersecting 45-degree angles to produce angular diamond-shaped lozenges (rhombuses).",
+    "whyUsed": "Crucial for Indo-Chinese starters! The angular corners cook rapidly while the thick center stays snappy and crunchy. The broad flat surface acts as a paddle that clings to thick Schezwan, Chilli, and Manchurian glaze reductions.",
+    "steps": [
+      "1. DESEEDING: Cut capsicum into 4 flat rectangular cheeks; discard inner white ribs and seeds.",
+      "2. DIAGONAL STRIPS: Hold knife at a 45\u00b0 angle and slice capsicum cheek into 2.5cm parallel strips.",
+      "3. CROSS-CUT AT 45\u00b0: Turn cutting angle 45\u00b0 in opposite direction and slice across at 2.5cm intervals to yield perfect diamond rhombuses.",
+      "4. ONION PETALS: Cut peeled onion into quarters, then pop out individual petal layers to match capsicum diamonds."
+    ],
+    "commonMistakes": "Square Dicing (90\u00b0 cuts): Square cuts cook unevenly and look like home curry instead of restaurant starters. Mismatched onion/capsicum sizes: Capsicum cooks slower than onion if not cut to the exact same dimension.",
+    "svgDiagram": "<svg viewBox=\"0 0 320 160\" class=\"cut-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\"><rect width=\"320\" height=\"160\" fill=\"#1b1e28\" rx=\"10\"/><path d=\"M 30 110 L 60 40 L 90 40 L 60 110 Z\" fill=\"#168a47\" opacity=\"0.4\" stroke=\"#168a47\" stroke-width=\"2\"/><text x=\"60\" y=\"25\" fill=\"#e2e8f0\" font-size=\"11\" font-weight=\"700\" text-anchor=\"middle\">45\u00b0 Bias Strip</text><path d=\"M 115 80 L 140 80\" stroke=\"#c79a3a\" stroke-width=\"3\"/><g transform=\"translate(160, 25)\"><polygon points=\"30,10 65,10 45,55 10,55\" fill=\"#168a47\" stroke=\"#22c55e\" stroke-width=\"2\"/><polygon points=\"75,10 110,10 90,55 55,55\" fill=\"#168a47\" stroke=\"#22c55e\" stroke-width=\"2\"/><polygon points=\"45,65 80,65 60,110 25,110\" fill=\"#168a47\" stroke=\"#22c55e\" stroke-width=\"2\"/><polygon points=\"90,65 125,65 105,110 70,110\" fill=\"#168a47\" stroke=\"#22c55e\" stroke-width=\"2\"/><text x=\"70\" y=\"125\" fill=\"#c79a3a\" font-size=\"11\" font-weight=\"800\" text-anchor=\"middle\">2.5 cm \u00d7 2.5 cm (45\u00b0 Rhombus)</text></g></svg>"
+  },
+  {
+    "id": "cut-brunoise",
+    "name": "Brunoise Cut (Micro-Dice / Fine Mince)",
+    "hindiName": "\u092c\u093e\u0930\u0940\u0915 \u0926\u093e\u0928\u093e \u0915\u091f (2mm Micro-Dice)",
+    "targetDishes": "Veg & Chicken Fried Rice, Manchow Soup, Hot & Sour Soup, Manchurian Gravy Base",
+    "dimension": "2.0 mm \u00d7 2.0 mm \u00d7 2.0 mm Tiny Uniform Cubes",
+    "knifeAngle": "90\u00b0 Strict Perpendicular",
+    "targetVeg": "Carrots, French Beans, Celery, Ginger Brunoise, Mountain Garlic, Fresh Red/Green Chillies",
+    "whatIsIt": "The smallest standardized cube cut in culinary arts, made by first cutting fine julienne and then dicing crosswise into 2mm miniature cubic beads.",
+    "whyUsed": "Essential for Fried Rice and Soups! Brunoise vegetables cook in hot wok oil in 10 to 15 seconds. They distribute evenly across hundreds of rice grains, infusing garlic-ginger aroma without overpowering individual bites.",
+    "steps": [
+      "1. FINE JULIENNE: Cut vegetable into micro-thin 2mm matchsticks.",
+      "2. BUNDLING: Gather matchsticks tightly together in a neat bundle under the guiding hand claw.",
+      "3. CROSSWISE DICE: Slice across the matchsticks at 2mm intervals with smooth, rhythmic knife strokes."
+    ],
+    "commonMistakes": "Using food processor/blender: Mashing vegetables in a blender releases cell water, making fried rice soggy. Brunoise MUST be knife-cut dry.",
+    "svgDiagram": "<svg viewBox=\"0 0 320 160\" class=\"cut-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\"><rect width=\"320\" height=\"160\" fill=\"#1b1e28\" rx=\"10\"/><g transform=\"translate(25, 40)\"><rect x=\"0\" y=\"0\" width=\"70\" height=\"4\" fill=\"#d96b14\"/><rect x=\"0\" y=\"8\" width=\"70\" height=\"4\" fill=\"#d96b14\"/><rect x=\"0\" y=\"16\" width=\"70\" height=\"4\" fill=\"#d96b14\"/><rect x=\"0\" y=\"24\" width=\"70\" height=\"4\" fill=\"#d96b14\"/><line x1=\"20\" y1=\"-10\" x2=\"20\" y2=\"40\" stroke=\"#fff\" stroke-dasharray=\"2,2\"/><line x1=\"35\" y1=\"-10\" x2=\"35\" y2=\"40\" stroke=\"#fff\" stroke-dasharray=\"2,2\"/><line x1=\"50\" y1=\"-10\" x2=\"50\" y2=\"40\" stroke=\"#fff\" stroke-dasharray=\"2,2\"/><text x=\"35\" y=\"60\" fill=\"#e2e8f0\" font-size=\"10\" font-weight=\"700\" text-anchor=\"middle\">Cross-cut 2mm</text></g><path d=\"M 120 75 L 145 75\" stroke=\"#c79a3a\" stroke-width=\"3\"/><g transform=\"translate(165, 30)\"><rect x=\"0\" y=\"0\" width=\"10\" height=\"10\" fill=\"#d96b14\" rx=\"1\" stroke=\"#f97316\" stroke-width=\"1\"/><rect x=\"18\" y=\"0\" width=\"10\" height=\"10\" fill=\"#d96b14\" rx=\"1\" stroke=\"#f97316\" stroke-width=\"1\"/><rect x=\"36\" y=\"0\" width=\"10\" height=\"10\" fill=\"#d96b14\" rx=\"1\" stroke=\"#f97316\" stroke-width=\"1\"/><rect x=\"54\" y=\"0\" width=\"10\" height=\"10\" fill=\"#d96b14\" rx=\"1\" stroke=\"#f97316\" stroke-width=\"1\"/><rect x=\"72\" y=\"0\" width=\"10\" height=\"10\" fill=\"#d96b14\" rx=\"1\" stroke=\"#f97316\" stroke-width=\"1\"/><rect x=\"90\" y=\"0\" width=\"10\" height=\"10\" fill=\"#d96b14\" rx=\"1\" stroke=\"#f97316\" stroke-width=\"1\"/><rect x=\"0\" y=\"18\" width=\"10\" height=\"10\" fill=\"#d96b14\" rx=\"1\" stroke=\"#f97316\" stroke-width=\"1\"/><rect x=\"18\" y=\"18\" width=\"10\" height=\"10\" fill=\"#d96b14\" rx=\"1\" stroke=\"#f97316\" stroke-width=\"1\"/><rect x=\"36\" y=\"18\" width=\"10\" height=\"10\" fill=\"#d96b14\" rx=\"1\" stroke=\"#f97316\" stroke-width=\"1\"/><rect x=\"54\" y=\"18\" width=\"10\" height=\"10\" fill=\"#d96b14\" rx=\"1\" stroke=\"#f97316\" stroke-width=\"1\"/><rect x=\"72\" y=\"18\" width=\"10\" height=\"10\" fill=\"#d96b14\" rx=\"1\" stroke=\"#f97316\" stroke-width=\"1\"/><rect x=\"90\" y=\"18\" width=\"10\" height=\"10\" fill=\"#d96b14\" rx=\"1\" stroke=\"#f97316\" stroke-width=\"1\"/><rect x=\"0\" y=\"36\" width=\"10\" height=\"10\" fill=\"#d96b14\" rx=\"1\" stroke=\"#f97316\" stroke-width=\"1\"/><rect x=\"18\" y=\"36\" width=\"10\" height=\"10\" fill=\"#d96b14\" rx=\"1\" stroke=\"#f97316\" stroke-width=\"1\"/><rect x=\"36\" y=\"36\" width=\"10\" height=\"10\" fill=\"#d96b14\" rx=\"1\" stroke=\"#f97316\" stroke-width=\"1\"/><rect x=\"54\" y=\"36\" width=\"10\" height=\"10\" fill=\"#d96b14\" rx=\"1\" stroke=\"#f97316\" stroke-width=\"1\"/><rect x=\"72\" y=\"36\" width=\"10\" height=\"10\" fill=\"#d96b14\" rx=\"1\" stroke=\"#f97316\" stroke-width=\"1\"/><rect x=\"90\" y=\"36\" width=\"10\" height=\"10\" fill=\"#d96b14\" rx=\"1\" stroke=\"#f97316\" stroke-width=\"1\"/><text x=\"50\" y=\"70\" fill=\"#c79a3a\" font-size=\"11\" font-weight=\"800\" text-anchor=\"middle\">2mm \u00d7 2mm Micro-Cubes</text></g></svg>"
+  },
+  {
+    "id": "cut-baton",
+    "name": "Batonnet & Bias Cut (Diagonal Slices / Batons)",
+    "hindiName": "\u0924\u093f\u0930\u091b\u093e \u091f\u0941\u0915\u0921\u093c\u093e \u0915\u091f (45\u00b0 Bias Batons)",
+    "targetDishes": "Pot Rice with Gravy, Claypot Rice, Sizzlers, Stir-Fry Exotic Veg, Dragon Chicken Batons",
+    "dimension": "10 mm \u00d7 10 mm \u00d7 40 mm (or 45\u00b0 Oval Slices)",
+    "knifeAngle": "45\u00b0 Sharp Diagonal Bias",
+    "targetVeg": "Baby Corn, Button Mushrooms (quartered), Broccoli Florets, Chicken Batons, Zucchini",
+    "whatIsIt": "Cutting vegetables and proteins into chunky 1cm thick by 4cm long batons or slicing cylindrical vegetables (like baby corn) at a steep 45-degree angle.",
+    "whyUsed": "Showcases premium exotic vegetables in Claypot and Pot Rice dishes. The large surface area retains intense crunch and absorbs rich hot garlic or black bean broth.",
+    "steps": [
+      "1. BABY CORN BIAS: Slice diagonally at 45\u00b0 into 4cm elongated oval pieces.",
+      "2. MUSHROOMS: Cut button mushrooms into clean vertical quarters through stem.",
+      "3. BROCCOLI: Trim florets to uniform 3cm heads with 1cm stem attached.",
+      "4. BLANCHING: Parboil in boiling salted water for 45 seconds, then shock in ice water."
+    ],
+    "commonMistakes": "Over-blanching: Boiling longer than 60 seconds turns broccoli yellow and soft. Raw addition: Adding raw broccoli directly into the wok without blanching leaves the core hard and uncooked.",
+    "svgDiagram": "<svg viewBox=\"0 0 320 160\" class=\"cut-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\"><rect width=\"320\" height=\"160\" fill=\"#1b1e28\" rx=\"10\"/><g transform=\"translate(25, 45)\"><rect x=\"0\" y=\"10\" width=\"80\" height=\"25\" fill=\"#facc15\" rx=\"4\" opacity=\"0.4\" stroke=\"#facc15\" stroke-width=\"2\"/><line x1=\"20\" y1=\"0\" x2=\"40\" y2=\"45\" stroke=\"#fff\" stroke-dasharray=\"3,3\"/><line x1=\"50\" y1=\"0\" x2=\"70\" y2=\"45\" stroke=\"#fff\" stroke-dasharray=\"3,3\"/><text x=\"40\" y=\"60\" fill=\"#e2e8f0\" font-size=\"10\" font-weight=\"700\" text-anchor=\"middle\">45\u00b0 Bias Angle</text></g><path d=\"M 125 70 L 150 70\" stroke=\"#c79a3a\" stroke-width=\"3\"/><g transform=\"translate(165, 30)\"><ellipse cx=\"40\" cy=\"25\" rx=\"30\" ry=\"14\" fill=\"#facc15\" stroke=\"#ca8a04\" stroke-width=\"2\" transform=\"rotate(-25 40 25)\"/><ellipse cx=\"90\" cy=\"55\" rx=\"30\" ry=\"14\" fill=\"#facc15\" stroke=\"#ca8a04\" stroke-width=\"2\" transform=\"rotate(-25 90 55)\"/><text x=\"65\" y=\"95\" fill=\"#c79a3a\" font-size=\"11\" font-weight=\"800\" text-anchor=\"middle\">1cm \u00d7 4cm Elongated Oval</text></g></svg>"
+  },
+  {
+    "id": "cut-scallion",
+    "name": "Spring Onion Separation (Whites vs. Greens Protocol)",
+    "hindiName": "\u0939\u0930\u093e \u092a\u094d\u092f\u093e\u091c \u0926\u094b-\u092d\u093e\u0917 \u0915\u091f (Whites vs Greens)",
+    "targetDishes": "Universal Rule across ALL 283 Indus Wok Recipes",
+    "dimension": "White Bulbs: 2mm Brunoise | Green Tops: 1mm Fine Rings & 5cm Ice Curls",
+    "knifeAngle": "Strict Separation into Two Prep Bowls",
+    "targetVeg": "Fresh Spring Onions / Scallions",
+    "whatIsIt": "A fundamental Asian culinary rule: Separating the white pungent bulb from the delicate green hollow leaves and treating them as two completely distinct ingredients.",
+    "whyUsed": "White bulbs contain allium sulfur sugars that caramelize into sweet, savory depth when saut\u00e9ed in hot oil (Stage 1). Green leaves are heat-sensitive and turn limp, brown, and bitter if cooked over high flame; they must ONLY be folded in the final 5 seconds off-flame for vibrant color and fresh aroma.",
+    "steps": [
+      "1. TRIM & WASH: Wash thoroughly to remove soil trapped inside tubes. Slice off root ends.",
+      "2. BISECTION: Cut the stalk exactly at the boundary where white turns to pale green.",
+      "3. WHITE PREP: Finely mince white bulbs (2mm). Place in Prep Bowl 1 (for Wok Saut\u00e9).",
+      "4. GREEN PREP: Slice green tops into paper-thin 1mm circular rings (or 5cm fine shreds plunged in ice water for curled garnishes). Place in Prep Bowl 2 (for Plating/Garnish)."
+    ],
+    "commonMistakes": "Mixing whites and greens in one bowl: Cooking green tops in oil browns them and ruins the dish aesthetics. Adding greens too early: Kills the fresh crunch.",
+    "svgDiagram": "<svg viewBox=\"0 0 320 160\" class=\"cut-diagram-svg\" xmlns=\"http://www.w3.org/2000/svg\"><rect width=\"320\" height=\"160\" fill=\"#1b1e28\" rx=\"10\"/><g transform=\"translate(30, 25)\"><rect x=\"0\" y=\"20\" width=\"70\" height=\"18\" fill=\"#ffffff\" stroke=\"#cbd5e1\" stroke-width=\"2\" rx=\"4\"/><rect x=\"70\" y=\"16\" width=\"160\" height=\"26\" fill=\"#168a47\" stroke=\"#22c55e\" stroke-width=\"2\" rx=\"4\"/><line x1=\"70\" y1=\"0\" x2=\"70\" y2=\"60\" stroke=\"#ef4444\" stroke-dasharray=\"4,4\" stroke-width=\"2\"/><text x=\"35\" y=\"60\" fill=\"#ffffff\" font-size=\"10\" font-weight=\"800\" text-anchor=\"middle\">WHITE BULB</text><text x=\"150\" y=\"60\" fill=\"#22c55e\" font-size=\"10\" font-weight=\"800\" text-anchor=\"middle\">GREEN TOPS</text></g><g transform=\"translate(30, 95)\"><rect x=\"0\" y=\"0\" width=\"115\" height=\"42\" fill=\"#242836\" rx=\"6\" stroke=\"#ef4444\" stroke-width=\"1.5\"/><text x=\"57\" y=\"18\" fill=\"#ef4444\" font-size=\"10\" font-weight=\"800\" text-anchor=\"middle\">STAGE 1: HOT WOK</text><text x=\"57\" y=\"32\" fill=\"#cbd5e1\" font-size=\"9.5\" text-anchor=\"middle\">Saut\u00e9 with ginger/garlic</text></g><g transform=\"translate(170, 95)\"><rect x=\"0\" y=\"0\" width=\"120\" height=\"42\" fill=\"#242836\" rx=\"6\" stroke=\"#22c55e\" stroke-width=\"1.5\"/><text x=\"60\" y=\"18\" fill=\"#22c55e\" font-size=\"10\" font-weight=\"800\" text-anchor=\"middle\">FINAL: 5-SEC FOLD</text><text x=\"60\" y=\"32\" fill=\"#cbd5e1\" font-size=\"9.5\" text-anchor=\"middle\">Fresh garnish & color</text></g></svg>"
+  }
+],
   specials: [
   {
     "id": "special-starter",
