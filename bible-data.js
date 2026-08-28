@@ -1,5 +1,6 @@
 /* ===========================================================================
    INDUS WOK RESTAURANT BIBLE & CULINARY OPS MANUAL - MASTER DATASET
+   Researched Award-Winning Master Chef Formulas
    Tailored 100% to Your Exact 20 Kitchen Products:
    [Dark Soya, Light Soya, Vinegar, Tomato Sauce, Red Chilli Sauce, Teriyaki,
     Oyster, Kung Pao, Black Pepper, Plum Sauce, Hoisin, Japanese Mayo, Sriracha,
@@ -1170,8 +1171,8 @@ window.INDUS_BIBLE = {
     "grossMargin": 264.5,
     "grossMarginPct": 75.79,
     "image": "images/indus_dragon_chicken.jpg",
-    "flavorProfile": "Crispy velveted chicken batons tossed in wok-charred whole red chillies, roasted whole cashews, burnt garlic, honey-chilli glaze, and dark soy umami.",
-    "whySpecial": "High-margin crowd favorite with explosive visual presentation, roasted nut crunch, and signature fire-cracker glaze.",
+    "flavorProfile": "Double-crisped velveted chicken batons tossed in wok-charred whole red chillies, golden roasted cashews, burnt garlic, Sriracha-Honey fire-cracker glaze, Oyster sauce umami, and a secret pinch of Madras Curry Powder.",
+    "whySpecial": "The legendary Indo-Chinese chef formulation: Madras Curry Powder + Sriracha + Honey + Oyster Sauce + Cashews creates an irresistible fire-cracker crunch.",
     "bom": [
       {
         "ingredient": "Boneless Chicken Breast (Cut into 1x5cm batons)",
@@ -1180,25 +1181,25 @@ window.INDUS_BIBLE = {
         "cost": 43.2
       },
       {
-        "ingredient": "Velveting Batter (Egg white + cornstarch + seasoning)",
+        "ingredient": "Velveting Batter (Egg white + cornstarch + pinch Madras Curry Powder)",
         "qty": "30g",
         "unitRate": "\u20b9150 / kg",
         "cost": 4.5
       },
       {
-        "ingredient": "Indus Dragon Chili Sauce Blend (Red chili + honey + soy)",
+        "ingredient": "Indus Dragon Glaze (Sriracha + Red Chilli + Honey + Oyster + Dark Soy)",
         "qty": "50ml",
         "unitRate": "\u20b9256 / L",
         "cost": 12.8
       },
       {
-        "ingredient": "Whole Roasted Cashews (Golden toasted)",
+        "ingredient": "Whole Roasted Cashews (Golden toasted in oil)",
         "qty": "20g",
         "unitRate": "\u20b9700 / kg",
         "cost": 14.0
       },
       {
-        "ingredient": "Whole Dried Red Chillies & Aromatics (Garlic, Ginger)",
+        "ingredient": "Whole Dried Red Chillies & Minced Garlic/Ginger",
         "qty": "25g",
         "unitRate": "\u20b9160 / kg",
         "cost": 4.0
@@ -1210,19 +1211,19 @@ window.INDUS_BIBLE = {
         "cost": 4.5
       },
       {
-        "ingredient": "Garnish (Spring onion greens, white sesame, lemon)",
+        "ingredient": "Magic Seasoning + Scallion Greens & White Sesame",
         "qty": "10g",
         "unitRate": "\u20b9150 / kg",
         "cost": 1.5
       }
     ],
     "prepSequence": [
-      "1. Velvet chicken batons in egg white and cornstarch marinade; flash fry at 180\u00b0C for 2.5 minutes until crisp. Drain.",
-      "2. In hot wok, heat 15ml oil. Flash-toast whole dried red chillies and roasted cashews for 10 seconds until fragrant.",
-      "3. Add minced garlic and ginger; saut\u00e9 15 seconds.",
-      "4. Add Indus Dragon Chili Sauce blend and splash of broth. Simmer for 15 seconds to create a bubbling sticky glaze.",
-      "5. Drop hot crispy chicken batons into glaze. Toss rapidly over high flame for 20 seconds to coat evenly without losing crispness.",
-      "6. Finish with spring onion greens and toasted sesame seeds. Plate on heated slate."
+      "1. VELVET & MARINATE: Toss chicken batons in egg white, 2 tbsp cornflour, 1 tsp Light Soy, 1/4 tsp Madras Curry Powder, and 1/4 tsp black pepper. Rest 15 mins.",
+      "2. DOUBLE-CRISP FRY: Deep fry in 180\u00b0C oil for 2 mins until light golden. Rest 2 mins, then flash-fry 45 seconds on high heat for shatteringly crisp crust. Drain.",
+      "3. WOK TEMPERING: Heat wok over roaring flame. Swirl 15ml oil; flash-fry whole dry chillies, cashews, and minced garlic for 15 seconds until aromatic.",
+      "4. GLAZE REDUCTION: Add 2 tbsp Sriracha, 1 tbsp Red Chilli Sauce, 1 tbsp Tomato Sauce, 1 tsp Oyster Sauce, 1 tsp Honey, and 1/2 tsp Magic Seasoning. Simmer 15 seconds into a bubbling sticky glaze.",
+      "5. 20-SECOND FLASH TOSS: Drop hot crispy chicken into the bubbling glaze. Toss rapidly over intense flame for 20 seconds so every piece is lacquered with zero sogging.",
+      "6. PLATING: Dish out onto heated black slate, garnish with scallion greens and toasted white sesame seeds."
     ]
   },
   {
@@ -1236,8 +1237,8 @@ window.INDUS_BIBLE = {
     "grossMargin": 218.8,
     "grossMarginPct": 78.14,
     "image": "images/indus_burnt_garlic_rice.jpg",
-    "flavorProfile": "Dehydrated overnight steamed rice grains flash-tossed with 3-stage infused burnt garlic (crispy chips, soft saut\u00e9ed, and cold-pressed garlic oil), bird's eye chillies, velveted chicken, and scallion whites.",
-    "whySpecial": "Unbeatable wok hei smokiness with triple garlic texture. Indus Wok's #1 most re-ordered rice dish across delivery and dine-in.",
+    "flavorProfile": "Dehydrated overnight steamed rice grains flash-tossed with 3-stage infused burnt garlic (crunchy golden chips, soft saut\u00e9ed garlic, and garlic-infused oil), bird's eye chillies, velveted chicken, and scallion whites.",
+    "whySpecial": "Triple-stage garlic architecture guarantees incredible Wok Hei smokiness without any burnt bitterness. Indus Wok's #1 most re-ordered rice.",
     "bom": [
       {
         "ingredient": "Aged Long-Grain Steamed Rice (Chilled day-old)",
@@ -1270,13 +1271,13 @@ window.INDUS_BIBLE = {
         "cost": 5.25
       },
       {
-        "ingredient": "Spring Onions (Whites & Greens)",
+        "ingredient": "Spring Onions (Whites & Greens separated)",
         "qty": "25g",
         "unitRate": "\u20b9140 / kg",
         "cost": 3.5
       },
       {
-        "ingredient": "Seasoning Blend (Dark soy, white pepper, aroma broth)",
+        "ingredient": "Seasoning Blend (Dark Soy, Light Soy, Magic Seasoning, Black Pepper)",
         "qty": "10g",
         "unitRate": "\u20b9450 / kg",
         "cost": 4.5
@@ -1295,13 +1296,12 @@ window.INDUS_BIBLE = {
       }
     ],
     "prepSequence": [
-      "1. Heat wok until blue smoke appears. Swirl 20ml garlic infusion oil.",
-      "2. Add egg and velveted chicken; scramble for 20 seconds.",
-      "3. Add minced garlic, green chillies, and spring onion whites; saut\u00e9 15 seconds.",
-      "4. Drop 220g cold day-old rice into the wok. Break any clumps with wok ladle.",
-      "5. Drizzle dark soy seasoning blend around the inner wok rim to caramelize.",
-      "6. Toss continuously over 400\u00b0C extreme flame for 90 seconds so every grain dances and absorbs Wok Hei.",
-      "7. Fold in spring onion greens. Dish out and crown with golden crispy burnt garlic chips."
+      "1. STAGE 1 (WOK HEI START): Heat carbon steel wok over jet flame until smoking blue. Swirl 20ml infused garlic oil.",
+      "2. STAGE 2 (PROTEIN & AROMATICS): Crack egg and drop velveted chicken; scramble 20 seconds. Add minced garlic, green chillies, and spring onion whites; saut\u00e9 15 seconds.",
+      "3. STAGE 3 (GRAIN TOASTING): Drop 220g cold day-old rice into the wok. Break clumps with the back of the wok ladle.",
+      "4. STAGE 4 (CARAMELIZATION): Drizzle 1 tbsp Dark Soya + 1 tsp Light Soya + 1/2 tsp Magic Seasoning + pinch Black Pepper along the inner wok rim.",
+      "5. STAGE 5 (WOK HEI TOSS): Toss continuously over 400\u00b0C extreme flame for 90 seconds so every individual grain dances and chars lightly.",
+      "6. PLATING: Fold in spring onion greens. Dish out and crown with golden crispy burnt garlic chips."
     ]
   },
   {
@@ -1315,8 +1315,8 @@ window.INDUS_BIBLE = {
     "grossMargin": 205.2,
     "grossMarginPct": 78.92,
     "image": "images/indus_hongkong_noodles.jpg",
-    "flavorProfile": "Springy wheat noodles seared over roaring flame with dark mushroom soy glaze, julienned tri-color bell peppers, shredded cabbage, carrots, egg ribbons, velvet chicken, and toasted sesame oil.",
-    "whySpecial": "Quintessential Pan-Asian street flavor with incredible noodle springiness and 78.9% gross profit margin.",
+    "flavorProfile": "Springy wheat noodles seared over roaring flame with Dark Soy + Oyster Sauce + Hoisin glaze, 1.5mm julienned bell peppers, shredded cabbage, carrots, egg ribbons, velvet chicken, and toasted sesame aroma.",
+    "whySpecial": "High-flame noodle searing with Oyster & Hoisin sauce creates unmatched street-style depth with 78.9% gross margin.",
     "bom": [
       {
         "ingredient": "Boiled & Chilled Wheat Hakka Noodles (80% al dente)",
@@ -1331,25 +1331,25 @@ window.INDUS_BIBLE = {
         "cost": 19.2
       },
       {
-        "ingredient": "Farm Fresh Egg (1 pc scrambled)",
+        "ingredient": "Farm Fresh Egg (1 pc scrambled ribbon)",
         "qty": "1 pc",
         "unitRate": "\u20b96 / pc",
         "cost": 6.0
       },
       {
-        "ingredient": "Julienned Fresh Veggies (Cabbage, carrot, bell peppers)",
+        "ingredient": "Julienned Fresh Veggies (1.5mm Cabbage, carrot, bell peppers)",
         "qty": "80g",
         "unitRate": "\u20b985 / kg",
         "cost": 6.8
       },
       {
-        "ingredient": "Indus Hong Kong Master Seasoning Sauce (Mushroom soy blend)",
+        "ingredient": "Indus Hong Kong Master Glaze (Dark Soy + Oyster + Hoisin + Magic Seasoning)",
         "qty": "20ml",
         "unitRate": "\u20b9210 / L",
         "cost": 4.2
       },
       {
-        "ingredient": "Refined Oil + Pure Toasted Sesame Oil",
+        "ingredient": "Refined Oil + Toasted Sesame (Tahini/Sesame oil)",
         "qty": "25ml",
         "unitRate": "\u20b9176 / L",
         "cost": 4.4
@@ -1362,12 +1362,12 @@ window.INDUS_BIBLE = {
       }
     ],
     "prepSequence": [
-      "1. Season wok with high flame. Swirl 20ml oil.",
-      "2. Crack egg and add chicken strips; flash sear 25 seconds.",
-      "3. Add ginger slivers, garlic, and julienned vegetables; stir fry 30 seconds (keep veggies crunchy).",
-      "4. Add chilled boiled noodles. Toss with chopsticks / wok motion to separate strands.",
-      "5. Drizzle Hong Kong seasoning sauce along the wok edge. Toss on high heat for 60 seconds.",
-      "6. Finish with pure toasted sesame oil and spring onion greens. Twirl onto platter."
+      "1. WOK HEI CHAR: Heat seasoned carbon steel wok over high flame. Swirl 20ml oil.",
+      "2. SEAR PROTEIN: Crack egg and add chicken strips; flash sear 25 seconds.",
+      "3. QUICK VEG TOSS: Add ginger slivers, garlic, and 1.5mm julienned vegetables; stir fry 30 seconds (keep veggies crunchy).",
+      "4. ADD NOODLES: Add chilled boiled noodles. Toss with chopsticks / wok motion to separate strands.",
+      "5. RIM SIZZLE: Drizzle 1 tbsp Dark Soy + 1 tsp Oyster Sauce + 1/2 tsp Hoisin + 1/2 tsp Magic Seasoning + pinch Black Pepper along the wok edge.",
+      "6. FINISH: Toss over high heat for 60 seconds. Finish with sesame oil and spring onion greens. Twirl onto platter."
     ]
   },
   {
@@ -1381,7 +1381,7 @@ window.INDUS_BIBLE = {
     "grossMargin": 327.6,
     "grossMarginPct": 76.19,
     "image": "images/indus_pot_rice_gravy.jpg",
-    "flavorProfile": "Two-tier master meal: fragrant wok-toasted garlic rice base layered with a rich, silky, sizzling dark hot-garlic gravy loaded with velvet chicken, button mushrooms, baby corn, broccoli florets, bell peppers, and scallions.",
+    "flavorProfile": "Two-tier master meal: fragrant wok-toasted garlic rice base layered with a rich, silky, sizzling dark hot-garlic gravy made with Sriracha, Red Chilli, Oyster Sauce, velvet chicken, button mushrooms, baby corn, broccoli florets, and bell peppers.",
     "whySpecial": "High-ticket flagship item with unbeatable perceived value, generous exotic vegetables, and exceptional \u20b9327.60 gross profit contribution per order.",
     "bom": [
       {
@@ -1403,13 +1403,13 @@ window.INDUS_BIBLE = {
         "cost": 24.5
       },
       {
-        "ingredient": "Indus Hot Garlic Mother Sauce + Rich Broth",
+        "ingredient": "Indus Hot Garlic Mother Sauce (Sriracha + Red Chilli + Oyster + Broth)",
         "qty": "250ml",
         "unitRate": "\u20b958.40 / L",
         "cost": 14.6
       },
       {
-        "ingredient": "Cornstarch Liaison & Seasoning",
+        "ingredient": "Cornstarch Liaison & Magic Seasoning",
         "qty": "20g",
         "unitRate": "\u20b9175 / kg",
         "cost": 3.5
@@ -1421,7 +1421,7 @@ window.INDUS_BIBLE = {
         "cost": 4.2
       },
       {
-        "ingredient": "Pure Sesame Oil + Cooking Oil",
+        "ingredient": "Refined Cooking Oil + Sesame finishing",
         "qty": "30ml",
         "unitRate": "\u20b9226 / L",
         "cost": 6.8
@@ -1433,20 +1433,19 @@ window.INDUS_BIBLE = {
         "cost": 2.5
       },
       {
-        "ingredient": "Heavy-Duty 2-Compartment Container (Delivery Packaging)",
+        "ingredient": "Heavy-Duty 2-Compartment Delivery Container",
         "qty": "1 set",
         "unitRate": "\u20b92.50 / set",
         "cost": 2.5
       }
     ],
     "prepSequence": [
-      "1. TIER 1 (Rice Base): Flash fry 300g chilled rice with garlic and light soy in high flame wok for 90 seconds. Place in claypot or serving bowl.",
-      "2. TIER 2 (Gravy): Heat 15ml oil in wok. Saut\u00e9 minced garlic, ginger, and green chillies for 15 seconds.",
-      "3. Add chicken strips and blanched exotic veggies (broccoli, baby corn, mushrooms, bell peppers). Stir fry 45 seconds.",
-      "4. Pour in 250ml Indus Hot Garlic sauce and concentrated broth. Bring to a rolling boil.",
-      "5. Slowly stream in cornstarch slurry while whisking until a luxurious glossy glaze coats the spoon.",
-      "6. Swirl in sesame oil and scallions.",
-      "7. Pour sizzling hot gravy over the bed of garlic rice. Garnish with fresh scallion curls and toasted sesame."
+      "1. TIER 1 (RICE BASE): Flash fry 300g chilled rice with 1 tbsp minced garlic, 1 tsp Light Soy, and pinch of Magic Seasoning in high flame wok for 90 seconds. Place in claypot or serving bowl.",
+      "2. TIER 2 (AROMATICS): Heat 15ml oil in wok. Saut\u00e9 minced garlic, ginger, and green chillies for 15 seconds.",
+      "3. SEAR & VEG: Add chicken strips and blanched 45\u00b0 bias baby corn, mushrooms, and broccoli. Stir fry 45 seconds.",
+      "4. BROTH & SAUCE: Pour in 2 tbsp Sriracha, 1 tbsp Red Chilli Sauce, 1 tsp Oyster Sauce, 1/2 tsp Magic Seasoning, and 200ml broth. Bring to a rolling boil.",
+      "5. CORNFLOUR LIAISON: Slowly stream in 1.5 tbsp cornflour slurry while whisking until a luxurious glossy glaze coats the spoon.",
+      "6. ASSEMBLY: Pour sizzling hot gravy over the bed of garlic rice. Crown with spring onion curls and toasted sesame."
     ]
   }
 ],
@@ -1481,13 +1480,13 @@ window.INDUS_BIBLE = {
         "cost": 2.5
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 8.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 4.0
       },
       {
@@ -1499,16 +1498,6 @@ window.INDUS_BIBLE = {
         "item": "Crispy Fried Noodles Topping",
         "qty": "25g",
         "cost": 3.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -1526,7 +1515,7 @@ window.INDUS_BIBLE = {
       "Ladle into soup bowl, top with fresh coriander."
     ],
     "plating": "Serve in deep porcelain bowl accompanied by a side cup of golden crispy fried noodles.",
-    "chefTip": "Always add vinegar at the very end of boiling; boiling vinegar for too long makes the soup taste bitter and dulls the aroma.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 21.6,
       "sellingPrice": 120,
@@ -1535,9 +1524,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 82.0
     },
     "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceName": "Indus Dark Base + Seasoned Broth Stock",
+    "primarySauceQty": "20ml Dark Base + 350ml Broth",
+    "primarySauceStage": "Stage 2 (Broth simmer)"
   },
   {
     "id": "mmszgir1xv4zn",
@@ -1569,13 +1558,13 @@ window.INDUS_BIBLE = {
         "cost": 2.5
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 8.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 4.0
       },
       {
@@ -1587,16 +1576,6 @@ window.INDUS_BIBLE = {
         "item": "Crispy Fried Noodles Topping",
         "qty": "25g",
         "cost": 3.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -1614,7 +1593,7 @@ window.INDUS_BIBLE = {
       "Ladle into soup bowl, top with fresh coriander."
     ],
     "plating": "Serve in deep porcelain bowl accompanied by a side cup of golden crispy fried noodles.",
-    "chefTip": "Always add vinegar at the very end of boiling; boiling vinegar for too long makes the soup taste bitter and dulls the aroma.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 36.8,
       "sellingPrice": 160,
@@ -1623,9 +1602,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 77.0
     },
     "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceName": "Indus Dark Base + Seasoned Broth Stock",
+    "primarySauceQty": "20ml Dark Base + 350ml Broth",
+    "primarySauceStage": "Stage 2 (Broth simmer)"
   },
   {
     "id": "mmszgir1xiixg",
@@ -1657,13 +1636,13 @@ window.INDUS_BIBLE = {
         "cost": 2.5
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Burnt Garlic & Scallion Oil Infusion (Sauce #05)",
+        "qty": "25ml Oil + 10g Crispy Chips",
         "cost": 8.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Burnt Garlic & Scallion Oil Infusion (Sauce #05)",
+        "qty": "25ml Oil + 10g Crispy Chips",
         "cost": 4.0
       },
       {
@@ -1675,16 +1654,6 @@ window.INDUS_BIBLE = {
         "item": "Crispy Fried Noodles Topping",
         "qty": "25g",
         "cost": 3.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -1702,7 +1671,7 @@ window.INDUS_BIBLE = {
       "Ladle into soup bowl, top with fresh coriander."
     ],
     "plating": "Serve in deep porcelain bowl accompanied by a side cup of golden crispy fried noodles.",
-    "chefTip": "Always add vinegar at the very end of boiling; boiling vinegar for too long makes the soup taste bitter and dulls the aroma.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 19.8,
       "sellingPrice": 110,
@@ -1710,10 +1679,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 90.2,
       "grossMarginPct": 82.0
     },
-    "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceId": "sauce-5",
+    "primarySauceName": "Burnt Garlic & Scallion Oil Infusion (Sauce #05)",
+    "primarySauceQty": "25ml Oil + 10g Crispy Chips",
+    "primarySauceStage": "Stage 1 (Wok start) & Final Garnish"
   },
   {
     "id": "mmszgir1xav9s",
@@ -1745,13 +1714,13 @@ window.INDUS_BIBLE = {
         "cost": 2.5
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Burnt Garlic & Scallion Oil Infusion (Sauce #05)",
+        "qty": "25ml Oil + 10g Crispy Chips",
         "cost": 8.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Burnt Garlic & Scallion Oil Infusion (Sauce #05)",
+        "qty": "25ml Oil + 10g Crispy Chips",
         "cost": 4.0
       },
       {
@@ -1763,16 +1732,6 @@ window.INDUS_BIBLE = {
         "item": "Crispy Fried Noodles Topping",
         "qty": "25g",
         "cost": 3.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -1790,7 +1749,7 @@ window.INDUS_BIBLE = {
       "Ladle into soup bowl, top with fresh coriander."
     ],
     "plating": "Serve in deep porcelain bowl accompanied by a side cup of golden crispy fried noodles.",
-    "chefTip": "Always add vinegar at the very end of boiling; boiling vinegar for too long makes the soup taste bitter and dulls the aroma.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 34.5,
       "sellingPrice": 150,
@@ -1798,10 +1757,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 115.5,
       "grossMarginPct": 77.0
     },
-    "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceId": "sauce-5",
+    "primarySauceName": "Burnt Garlic & Scallion Oil Infusion (Sauce #05)",
+    "primarySauceQty": "25ml Oil + 10g Crispy Chips",
+    "primarySauceStage": "Stage 1 (Wok start) & Final Garnish"
   },
   {
     "id": "mmszgir1xdw3j",
@@ -1833,13 +1792,13 @@ window.INDUS_BIBLE = {
         "cost": 2.5
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 8.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 4.0
       },
       {
@@ -1851,16 +1810,6 @@ window.INDUS_BIBLE = {
         "item": "Crispy Fried Noodles Topping",
         "qty": "25g",
         "cost": 3.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -1878,7 +1827,7 @@ window.INDUS_BIBLE = {
       "Ladle into soup bowl, top with fresh coriander."
     ],
     "plating": "Serve in deep porcelain bowl accompanied by a side cup of golden crispy fried noodles.",
-    "chefTip": "Always add vinegar at the very end of boiling; boiling vinegar for too long makes the soup taste bitter and dulls the aroma.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 23.4,
       "sellingPrice": 130,
@@ -1887,9 +1836,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 82.0
     },
     "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceName": "Indus Dark Base + Seasoned Broth Stock",
+    "primarySauceQty": "20ml Dark Base + 350ml Broth",
+    "primarySauceStage": "Stage 2 (Broth simmer)"
   },
   {
     "id": "mmszgir1xfows",
@@ -1921,13 +1870,13 @@ window.INDUS_BIBLE = {
         "cost": 2.5
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 8.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 4.0
       },
       {
@@ -1939,16 +1888,6 @@ window.INDUS_BIBLE = {
         "item": "Crispy Fried Noodles Topping",
         "qty": "25g",
         "cost": 3.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -1966,7 +1905,7 @@ window.INDUS_BIBLE = {
       "Ladle into soup bowl, top with fresh coriander."
     ],
     "plating": "Serve in deep porcelain bowl accompanied by a side cup of golden crispy fried noodles.",
-    "chefTip": "Always add vinegar at the very end of boiling; boiling vinegar for too long makes the soup taste bitter and dulls the aroma.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 34.5,
       "sellingPrice": 150,
@@ -1975,9 +1914,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 77.0
     },
     "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceName": "Indus Dark Base + Seasoned Broth Stock",
+    "primarySauceQty": "20ml Dark Base + 350ml Broth",
+    "primarySauceStage": "Stage 2 (Broth simmer)"
   },
   {
     "id": "mmszgir1xfn3l",
@@ -2009,13 +1948,13 @@ window.INDUS_BIBLE = {
         "cost": 2.5
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 8.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 4.0
       },
       {
@@ -2027,16 +1966,6 @@ window.INDUS_BIBLE = {
         "item": "Crispy Fried Noodles Topping",
         "qty": "25g",
         "cost": 3.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -2054,7 +1983,7 @@ window.INDUS_BIBLE = {
       "Ladle into soup bowl, top with fresh coriander."
     ],
     "plating": "Serve in deep porcelain bowl accompanied by a side cup of golden crispy fried noodles.",
-    "chefTip": "Always add vinegar at the very end of boiling; boiling vinegar for too long makes the soup taste bitter and dulls the aroma.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 23.4,
       "sellingPrice": 130,
@@ -2063,9 +1992,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 82.0
     },
     "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceName": "Indus Dark Base + Seasoned Broth Stock",
+    "primarySauceQty": "20ml Dark Base + 350ml Broth",
+    "primarySauceStage": "Stage 2 (Broth simmer)"
   },
   {
     "id": "mmszgir1xl53r",
@@ -2097,13 +2026,13 @@ window.INDUS_BIBLE = {
         "cost": 2.5
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 8.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 4.0
       },
       {
@@ -2115,16 +2044,6 @@ window.INDUS_BIBLE = {
         "item": "Crispy Fried Noodles Topping",
         "qty": "25g",
         "cost": 3.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -2142,7 +2061,7 @@ window.INDUS_BIBLE = {
       "Ladle into soup bowl, top with fresh coriander."
     ],
     "plating": "Serve in deep porcelain bowl accompanied by a side cup of golden crispy fried noodles.",
-    "chefTip": "Always add vinegar at the very end of boiling; boiling vinegar for too long makes the soup taste bitter and dulls the aroma.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 36.8,
       "sellingPrice": 160,
@@ -2151,9 +2070,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 77.0
     },
     "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceName": "Indus Dark Base + Seasoned Broth Stock",
+    "primarySauceQty": "20ml Dark Base + 350ml Broth",
+    "primarySauceStage": "Stage 2 (Broth simmer)"
   },
   {
     "id": "mmszgir1xp6ao",
@@ -2185,13 +2104,13 @@ window.INDUS_BIBLE = {
         "cost": 2.5
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 8.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 4.0
       },
       {
@@ -2203,16 +2122,6 @@ window.INDUS_BIBLE = {
         "item": "Crispy Fried Noodles Topping",
         "qty": "25g",
         "cost": 3.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -2230,7 +2139,7 @@ window.INDUS_BIBLE = {
       "Ladle into soup bowl, top with fresh coriander."
     ],
     "plating": "Serve in deep porcelain bowl accompanied by a side cup of golden crispy fried noodles.",
-    "chefTip": "Always add vinegar at the very end of boiling; boiling vinegar for too long makes the soup taste bitter and dulls the aroma.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 25.2,
       "sellingPrice": 140,
@@ -2239,9 +2148,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 82.0
     },
     "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceName": "Indus Dark Base + Seasoned Broth Stock",
+    "primarySauceQty": "20ml Dark Base + 350ml Broth",
+    "primarySauceStage": "Stage 2 (Broth simmer)"
   },
   {
     "id": "mmszgir1xfnmw",
@@ -2273,13 +2182,13 @@ window.INDUS_BIBLE = {
         "cost": 2.5
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 8.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 4.0
       },
       {
@@ -2291,16 +2200,6 @@ window.INDUS_BIBLE = {
         "item": "Crispy Fried Noodles Topping",
         "qty": "25g",
         "cost": 3.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -2318,7 +2217,7 @@ window.INDUS_BIBLE = {
       "Ladle into soup bowl, top with fresh coriander."
     ],
     "plating": "Serve in deep porcelain bowl accompanied by a side cup of golden crispy fried noodles.",
-    "chefTip": "Always add vinegar at the very end of boiling; boiling vinegar for too long makes the soup taste bitter and dulls the aroma.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 41.4,
       "sellingPrice": 180,
@@ -2327,9 +2226,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 77.0
     },
     "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceName": "Indus Dark Base + Seasoned Broth Stock",
+    "primarySauceQty": "20ml Dark Base + 350ml Broth",
+    "primarySauceStage": "Stage 2 (Broth simmer)"
   },
   {
     "id": "mmszgir1xbybu",
@@ -2361,13 +2260,13 @@ window.INDUS_BIBLE = {
         "cost": 2.5
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 8.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 4.0
       },
       {
@@ -2379,16 +2278,6 @@ window.INDUS_BIBLE = {
         "item": "Crispy Fried Noodles Topping",
         "qty": "25g",
         "cost": 3.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -2406,7 +2295,7 @@ window.INDUS_BIBLE = {
       "Ladle into soup bowl, top with fresh coriander."
     ],
     "plating": "Serve in deep porcelain bowl accompanied by a side cup of golden crispy fried noodles.",
-    "chefTip": "Always add vinegar at the very end of boiling; boiling vinegar for too long makes the soup taste bitter and dulls the aroma.",
+    "chefTip": "Chef Secret: Saut\u00e9 finely chopped coriander roots with ginger-garlic in stage 1 for authentic Tangra Chinatown aroma. Always add white vinegar at the very end of boiling.",
     "costing": {
       "rawCost": 21.6,
       "sellingPrice": 120,
@@ -2415,9 +2304,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 82.0
     },
     "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceName": "Indus Dark Base + Seasoned Broth Stock",
+    "primarySauceQty": "20ml Dark Base + 350ml Broth",
+    "primarySauceStage": "Stage 2 (Broth simmer)"
   },
   {
     "id": "mmszgir1xk00s",
@@ -2449,13 +2338,13 @@ window.INDUS_BIBLE = {
         "cost": 2.5
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 8.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 4.0
       },
       {
@@ -2467,16 +2356,6 @@ window.INDUS_BIBLE = {
         "item": "Crispy Fried Noodles Topping",
         "qty": "25g",
         "cost": 3.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -2494,7 +2373,7 @@ window.INDUS_BIBLE = {
       "Ladle into soup bowl, top with fresh coriander."
     ],
     "plating": "Serve in deep porcelain bowl accompanied by a side cup of golden crispy fried noodles.",
-    "chefTip": "Always add vinegar at the very end of boiling; boiling vinegar for too long makes the soup taste bitter and dulls the aroma.",
+    "chefTip": "Chef Secret: Saut\u00e9 finely chopped coriander roots with ginger-garlic in stage 1 for authentic Tangra Chinatown aroma. Always add white vinegar at the very end of boiling.",
     "costing": {
       "rawCost": 34.5,
       "sellingPrice": 150,
@@ -2503,9 +2382,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 77.0
     },
     "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceName": "Indus Dark Base + Seasoned Broth Stock",
+    "primarySauceQty": "20ml Dark Base + 350ml Broth",
+    "primarySauceStage": "Stage 2 (Broth simmer)"
   },
   {
     "id": "mmszgir1xjzoa",
@@ -2537,13 +2416,13 @@ window.INDUS_BIBLE = {
         "cost": 2.5
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 8.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 4.0
       },
       {
@@ -2555,16 +2434,6 @@ window.INDUS_BIBLE = {
         "item": "Crispy Fried Noodles Topping",
         "qty": "25g",
         "cost": 3.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -2582,7 +2451,7 @@ window.INDUS_BIBLE = {
       "Ladle into soup bowl, top with fresh coriander."
     ],
     "plating": "Serve in deep porcelain bowl accompanied by a side cup of golden crispy fried noodles.",
-    "chefTip": "Always add vinegar at the very end of boiling; boiling vinegar for too long makes the soup taste bitter and dulls the aroma.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 25.2,
       "sellingPrice": 140,
@@ -2591,9 +2460,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 82.0
     },
     "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceName": "Indus Dark Base + Seasoned Broth Stock",
+    "primarySauceQty": "20ml Dark Base + 350ml Broth",
+    "primarySauceStage": "Stage 2 (Broth simmer)"
   },
   {
     "id": "mmszgir1xx2av",
@@ -2625,13 +2494,13 @@ window.INDUS_BIBLE = {
         "cost": 2.5
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 8.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 4.0
       },
       {
@@ -2643,16 +2512,6 @@ window.INDUS_BIBLE = {
         "item": "Crispy Fried Noodles Topping",
         "qty": "25g",
         "cost": 3.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -2670,7 +2529,7 @@ window.INDUS_BIBLE = {
       "Ladle into soup bowl, top with fresh coriander."
     ],
     "plating": "Serve in deep porcelain bowl accompanied by a side cup of golden crispy fried noodles.",
-    "chefTip": "Always add vinegar at the very end of boiling; boiling vinegar for too long makes the soup taste bitter and dulls the aroma.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 39.1,
       "sellingPrice": 170,
@@ -2679,9 +2538,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 77.0
     },
     "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceName": "Indus Dark Base + Seasoned Broth Stock",
+    "primarySauceQty": "20ml Dark Base + 350ml Broth",
+    "primarySauceStage": "Stage 2 (Broth simmer)"
   },
   {
     "id": "mmszgir1x2sqf",
@@ -2713,13 +2572,13 @@ window.INDUS_BIBLE = {
         "cost": 2.5
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 8.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 4.0
       },
       {
@@ -2731,16 +2590,6 @@ window.INDUS_BIBLE = {
         "item": "Crispy Fried Noodles Topping",
         "qty": "25g",
         "cost": 3.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -2758,7 +2607,7 @@ window.INDUS_BIBLE = {
       "Ladle into soup bowl, top with fresh coriander."
     ],
     "plating": "Serve in deep porcelain bowl accompanied by a side cup of golden crispy fried noodles.",
-    "chefTip": "Always add vinegar at the very end of boiling; boiling vinegar for too long makes the soup taste bitter and dulls the aroma.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 23.4,
       "sellingPrice": 130,
@@ -2767,9 +2616,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 82.0
     },
     "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceName": "Indus Dark Base + Seasoned Broth Stock",
+    "primarySauceQty": "20ml Dark Base + 350ml Broth",
+    "primarySauceStage": "Stage 2 (Broth simmer)"
   },
   {
     "id": "mmszgir1xb39c",
@@ -2801,13 +2650,13 @@ window.INDUS_BIBLE = {
         "cost": 2.5
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 8.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
+        "qty": "20ml Dark Base + 350ml Broth",
         "cost": 4.0
       },
       {
@@ -2819,16 +2668,6 @@ window.INDUS_BIBLE = {
         "item": "Crispy Fried Noodles Topping",
         "qty": "25g",
         "cost": 3.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -2846,7 +2685,7 @@ window.INDUS_BIBLE = {
       "Ladle into soup bowl, top with fresh coriander."
     ],
     "plating": "Serve in deep porcelain bowl accompanied by a side cup of golden crispy fried noodles.",
-    "chefTip": "Always add vinegar at the very end of boiling; boiling vinegar for too long makes the soup taste bitter and dulls the aroma.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 39.1,
       "sellingPrice": 170,
@@ -2855,9 +2694,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 77.0
     },
     "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceName": "Indus Dark Base + Seasoned Broth Stock",
+    "primarySauceQty": "20ml Dark Base + 350ml Broth",
+    "primarySauceStage": "Stage 2 (Broth simmer)"
   },
   {
     "id": "mmszgir1xsnkj",
@@ -2889,12 +2728,12 @@ window.INDUS_BIBLE = {
         "cost": 2.5
       },
       {
-        "item": "\u2605 Thai Red & Yellow Curry Master Broth Base (Sauce #12)",
+        "item": "\u2605 Thai Curry Paste & Broth Master Base (Sauce #12)",
         "qty": "50g Paste / 250ml Broth",
         "cost": 8.0
       },
       {
-        "item": "\u2605 Thai Red & Yellow Curry Master Broth Base (Sauce #12)",
+        "item": "\u2605 Thai Curry Paste & Broth Master Base (Sauce #12)",
         "qty": "50g Paste / 250ml Broth",
         "cost": 4.0
       },
@@ -2907,16 +2746,6 @@ window.INDUS_BIBLE = {
         "item": "Crispy Fried Noodles Topping",
         "qty": "25g",
         "cost": 3.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -2934,7 +2763,7 @@ window.INDUS_BIBLE = {
       "Ladle into soup bowl, top with fresh coriander."
     ],
     "plating": "Serve in deep porcelain bowl accompanied by a side cup of golden crispy fried noodles.",
-    "chefTip": "Always add vinegar at the very end of boiling; boiling vinegar for too long makes the soup taste bitter and dulls the aroma.",
+    "chefTip": "Chef Secret: Fry 2 tbsp Red/Yellow Curry Paste in oil for 2 minutes before adding broth to unlock the galangal, lemongrass, and chili oils.",
     "costing": {
       "rawCost": 27.0,
       "sellingPrice": 150,
@@ -2943,7 +2772,7 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 82.0
     },
     "primarySauceId": "sauce-12",
-    "primarySauceName": "Thai Red & Yellow Curry Master Broth Base (Sauce #12)",
+    "primarySauceName": "Thai Curry Paste & Broth Master Base (Sauce #12)",
     "primarySauceQty": "50g Paste / 250ml Broth",
     "primarySauceStage": "Stage 2 (Simmer)"
   },
@@ -2977,12 +2806,12 @@ window.INDUS_BIBLE = {
         "cost": 2.5
       },
       {
-        "item": "\u2605 Thai Red & Yellow Curry Master Broth Base (Sauce #12)",
+        "item": "\u2605 Thai Curry Paste & Broth Master Base (Sauce #12)",
         "qty": "50g Paste / 250ml Broth",
         "cost": 8.0
       },
       {
-        "item": "\u2605 Thai Red & Yellow Curry Master Broth Base (Sauce #12)",
+        "item": "\u2605 Thai Curry Paste & Broth Master Base (Sauce #12)",
         "qty": "50g Paste / 250ml Broth",
         "cost": 4.0
       },
@@ -2995,16 +2824,6 @@ window.INDUS_BIBLE = {
         "item": "Crispy Fried Noodles Topping",
         "qty": "25g",
         "cost": 3.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -3022,7 +2841,7 @@ window.INDUS_BIBLE = {
       "Ladle into soup bowl, top with fresh coriander."
     ],
     "plating": "Serve in deep porcelain bowl accompanied by a side cup of golden crispy fried noodles.",
-    "chefTip": "Always add vinegar at the very end of boiling; boiling vinegar for too long makes the soup taste bitter and dulls the aroma.",
+    "chefTip": "Chef Secret: Fry 2 tbsp Red/Yellow Curry Paste in oil for 2 minutes before adding broth to unlock the galangal, lemongrass, and chili oils.",
     "costing": {
       "rawCost": 48.3,
       "sellingPrice": 210,
@@ -3031,7 +2850,7 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 77.0
     },
     "primarySauceId": "sauce-12",
-    "primarySauceName": "Thai Red & Yellow Curry Master Broth Base (Sauce #12)",
+    "primarySauceName": "Thai Curry Paste & Broth Master Base (Sauce #12)",
     "primarySauceQty": "50g Paste / 250ml Broth",
     "primarySauceStage": "Stage 2 (Simmer)"
   },
@@ -3061,7 +2880,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -3073,16 +2892,6 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -3098,7 +2907,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Maintain extreme wok heat for signature smokiness.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 80.5,
       "sellingPrice": 350,
@@ -3108,8 +2917,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1yi7c8",
@@ -3137,7 +2946,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -3149,16 +2958,6 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -3174,7 +2973,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Maintain extreme wok heat for signature smokiness.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 82.8,
       "sellingPrice": 360,
@@ -3184,8 +2983,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1ykcdr",
@@ -3213,7 +3012,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -3225,16 +3024,6 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -3250,7 +3039,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Maintain extreme wok heat for signature smokiness.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 87.4,
       "sellingPrice": 380,
@@ -3260,8 +3049,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1yvv6m",
@@ -3289,7 +3078,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -3301,16 +3090,6 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -3326,7 +3105,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Maintain extreme wok heat for signature smokiness.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 103.5,
       "sellingPrice": 450,
@@ -3336,8 +3115,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1yxvur",
@@ -3365,7 +3144,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -3377,16 +3156,6 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -3402,7 +3171,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Maintain extreme wok heat for signature smokiness.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 126.5,
       "sellingPrice": 550,
@@ -3412,8 +3181,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1y5kku",
@@ -3441,7 +3210,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -3453,16 +3222,6 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -3478,7 +3237,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Maintain extreme wok heat for signature smokiness.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 87.4,
       "sellingPrice": 380,
@@ -3488,8 +3247,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1y4kvu",
@@ -3517,7 +3276,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -3529,16 +3288,6 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -3554,7 +3303,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Maintain extreme wok heat for signature smokiness.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 96.6,
       "sellingPrice": 420,
@@ -3564,8 +3313,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1yo7jq",
@@ -3593,7 +3342,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -3605,16 +3354,6 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -3630,7 +3369,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Maintain extreme wok heat for signature smokiness.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 87.4,
       "sellingPrice": 380,
@@ -3640,8 +3379,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1yd4mc",
@@ -3669,7 +3408,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -3681,16 +3420,6 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -3706,7 +3435,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Maintain extreme wok heat for signature smokiness.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 92.0,
       "sellingPrice": 400,
@@ -3716,8 +3445,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1yttra",
@@ -3745,7 +3474,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -3757,16 +3486,6 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -3782,7 +3501,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Maintain extreme wok heat for signature smokiness.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 96.6,
       "sellingPrice": 420,
@@ -3792,8 +3511,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1yo1r9",
@@ -3821,7 +3540,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -3833,16 +3552,6 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -3858,7 +3567,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Maintain extreme wok heat for signature smokiness.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 133.4,
       "sellingPrice": 580,
@@ -3868,8 +3577,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1ykcbq",
@@ -3897,7 +3606,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -3909,16 +3618,6 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -3934,7 +3633,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Maintain extreme wok heat for signature smokiness.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 80.5,
       "sellingPrice": 350,
@@ -3944,8 +3643,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1y97d8",
@@ -3977,8 +3676,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+        "qty": "40ml Glaze",
         "cost": 9.0
       },
       {
@@ -3995,16 +3694,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -4021,7 +3710,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 50.6,
       "sellingPrice": 220,
@@ -4029,10 +3718,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 169.4,
       "grossMarginPct": 77.0
     },
-    "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceId": "sauce-4",
+    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+    "primarySauceQty": "40ml Glaze",
+    "primarySauceStage": "Stage 2 (Glaze)"
   },
   {
     "id": "mmszgir1yy3w1",
@@ -4065,7 +3754,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-        "qty": "45ml (1.5 Wok Ladles)",
+        "qty": "45ml (1.5 Ladles)",
         "cost": 9.0
       },
       {
@@ -4082,16 +3771,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -4108,7 +3787,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 57.5,
       "sellingPrice": 250,
@@ -4118,7 +3797,7 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-1",
     "primarySauceName": "Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-    "primarySauceQty": "45ml (1.5 Wok Ladles)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9 after aromatics)"
   },
   {
@@ -4152,7 +3831,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-        "qty": "40ml (1.5 Wok Ladles)",
+        "qty": "40ml (1.5 Ladles)",
         "cost": 9.0
       },
       {
@@ -4169,16 +3848,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -4195,7 +3864,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 64.4,
       "sellingPrice": 280,
@@ -4205,8 +3874,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-4",
     "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-    "primarySauceQty": "40ml (1.5 Wok Ladles)",
-    "primarySauceStage": "Stage 2 (Glaze Reduction)"
+    "primarySauceQty": "40ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Glaze reduction)"
   },
   {
     "id": "mmszgir1yh1gi",
@@ -4238,8 +3907,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Dark Base + Green Chilli Puree Blend (Sauce #02 & #11)",
+        "qty": "35ml Saut\u00e9 Glaze",
         "cost": 9.0
       },
       {
@@ -4256,16 +3925,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -4282,7 +3941,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 66.6,
       "sellingPrice": 370,
@@ -4291,9 +3950,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 82.0
     },
     "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceName": "Indus Dark Base + Green Chilli Puree Blend (Sauce #02 & #11)",
+    "primarySauceQty": "35ml Saut\u00e9 Glaze",
+    "primarySauceStage": "Stage 2 (Glaze)"
   },
   {
     "id": "mmszgir1y7ez2",
@@ -4325,8 +3984,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Dark Base + Green Chilli Puree Blend (Sauce #02 & #11)",
+        "qty": "35ml Saut\u00e9 Glaze",
         "cost": 9.0
       },
       {
@@ -4343,16 +4002,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -4369,7 +4018,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 94.6,
       "sellingPrice": 430,
@@ -4378,9 +4027,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 78.0
     },
     "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceName": "Indus Dark Base + Green Chilli Puree Blend (Sauce #02 & #11)",
+    "primarySauceQty": "35ml Saut\u00e9 Glaze",
+    "primarySauceStage": "Stage 2 (Glaze)"
   },
   {
     "id": "mmszgir1ysfhw",
@@ -4412,8 +4061,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Dark Base + Green Chilli Puree Blend (Sauce #02 & #11)",
+        "qty": "35ml Saut\u00e9 Glaze",
         "cost": 9.0
       },
       {
@@ -4430,16 +4079,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -4456,7 +4095,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 89.7,
       "sellingPrice": 390,
@@ -4465,9 +4104,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 77.0
     },
     "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceName": "Indus Dark Base + Green Chilli Puree Blend (Sauce #02 & #11)",
+    "primarySauceQty": "35ml Saut\u00e9 Glaze",
+    "primarySauceStage": "Stage 2 (Glaze)"
   },
   {
     "id": "mmszgir1ycv2h",
@@ -4499,8 +4138,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+        "qty": "40ml Glaze",
         "cost": 9.0
       },
       {
@@ -4517,16 +4156,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -4543,7 +4172,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 63.0,
       "sellingPrice": 350,
@@ -4551,10 +4180,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 287.0,
       "grossMarginPct": 82.0
     },
-    "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceId": "sauce-4",
+    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+    "primarySauceQty": "40ml Glaze",
+    "primarySauceStage": "Stage 2 (Glaze)"
   },
   {
     "id": "mmszgir1yufli",
@@ -4586,8 +4215,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+        "qty": "40ml Glaze",
         "cost": 9.0
       },
       {
@@ -4604,16 +4233,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -4630,7 +4249,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 88.0,
       "sellingPrice": 400,
@@ -4638,10 +4257,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 312.0,
       "grossMarginPct": 78.0
     },
-    "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceId": "sauce-4",
+    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+    "primarySauceQty": "40ml Glaze",
+    "primarySauceStage": "Stage 2 (Glaze)"
   },
   {
     "id": "mmszgir1yyo9y",
@@ -4673,8 +4292,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+        "qty": "40ml Glaze",
         "cost": 9.0
       },
       {
@@ -4691,16 +4310,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -4717,7 +4326,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 82.8,
       "sellingPrice": 360,
@@ -4725,10 +4334,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 277.2,
       "grossMarginPct": 77.0
     },
-    "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceId": "sauce-4",
+    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+    "primarySauceQty": "40ml Glaze",
+    "primarySauceStage": "Stage 2 (Glaze)"
   },
   {
     "id": "mmszgir1yc0cj",
@@ -4760,8 +4369,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Sweet & Sour Master Glaze (Plum & Tomato - Sauce #08)",
-        "qty": "50ml (1.5 Wok Ladles)",
+        "item": "\u2605 Sweet & Sour Master Glaze (Sauce #08)",
+        "qty": "50ml (1.5 Ladles)",
         "cost": 9.0
       },
       {
@@ -4778,16 +4387,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -4804,7 +4403,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
+    "chefTip": "Chef Secret: Combine 2 tbsp Plum Sauce with 2 tbsp Tomato Sauce and 1 tbsp White Vinegar for an authentic 5-star Cantonese glaze. Never let fried chicken simmer in sauce; toss for 20 seconds maximum.",
     "costing": {
       "rawCost": 66.6,
       "sellingPrice": 370,
@@ -4813,9 +4412,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 82.0
     },
     "primarySauceId": "sauce-8",
-    "primarySauceName": "Sweet & Sour Master Glaze (Plum & Tomato - Sauce #08)",
-    "primarySauceQty": "50ml (1.5 Wok Ladles)",
-    "primarySauceStage": "Stage 3 (High-Flame Toss)"
+    "primarySauceName": "Sweet & Sour Master Glaze (Sauce #08)",
+    "primarySauceQty": "50ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 3 (High-flame toss)"
   },
   {
     "id": "mmszgir1yry34",
@@ -4847,8 +4446,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Sweet & Sour Master Glaze (Plum & Tomato - Sauce #08)",
-        "qty": "50ml (1.5 Wok Ladles)",
+        "item": "\u2605 Sweet & Sour Master Glaze (Sauce #08)",
+        "qty": "50ml (1.5 Ladles)",
         "cost": 9.0
       },
       {
@@ -4865,16 +4464,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -4891,7 +4480,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
+    "chefTip": "Chef Secret: Combine 2 tbsp Plum Sauce with 2 tbsp Tomato Sauce and 1 tbsp White Vinegar for an authentic 5-star Cantonese glaze. Never let fried chicken simmer in sauce; toss for 20 seconds maximum.",
     "costing": {
       "rawCost": 94.6,
       "sellingPrice": 430,
@@ -4900,9 +4489,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 78.0
     },
     "primarySauceId": "sauce-8",
-    "primarySauceName": "Sweet & Sour Master Glaze (Plum & Tomato - Sauce #08)",
-    "primarySauceQty": "50ml (1.5 Wok Ladles)",
-    "primarySauceStage": "Stage 3 (High-Flame Toss)"
+    "primarySauceName": "Sweet & Sour Master Glaze (Sauce #08)",
+    "primarySauceQty": "50ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 3 (High-flame toss)"
   },
   {
     "id": "mmszgir1yc355",
@@ -4934,8 +4523,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Sweet & Sour Master Glaze (Plum & Tomato - Sauce #08)",
-        "qty": "50ml (1.5 Wok Ladles)",
+        "item": "\u2605 Sweet & Sour Master Glaze (Sauce #08)",
+        "qty": "50ml (1.5 Ladles)",
         "cost": 9.0
       },
       {
@@ -4952,16 +4541,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -4978,7 +4557,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
+    "chefTip": "Chef Secret: Combine 2 tbsp Plum Sauce with 2 tbsp Tomato Sauce and 1 tbsp White Vinegar for an authentic 5-star Cantonese glaze. Never let fried chicken simmer in sauce; toss for 20 seconds maximum.",
     "costing": {
       "rawCost": 89.7,
       "sellingPrice": 390,
@@ -4987,9 +4566,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 77.0
     },
     "primarySauceId": "sauce-8",
-    "primarySauceName": "Sweet & Sour Master Glaze (Plum & Tomato - Sauce #08)",
-    "primarySauceQty": "50ml (1.5 Wok Ladles)",
-    "primarySauceStage": "Stage 3 (High-Flame Toss)"
+    "primarySauceName": "Sweet & Sour Master Glaze (Sauce #08)",
+    "primarySauceQty": "50ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 3 (High-flame toss)"
   },
   {
     "id": "mmszgir1yma5m",
@@ -5022,7 +4601,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-        "qty": "40ml (1.5 Wok Ladles)",
+        "qty": "40ml (1.5 Ladles)",
         "cost": 9.0
       },
       {
@@ -5039,16 +4618,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -5065,7 +4634,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
+    "chefTip": "Chef Secret: Add 1/4 tsp Madras Curry Powder into the chicken marinade and use 1 tsp Oyster Sauce in the glaze for that authentic Tangra Indo-Chinese dragon kick. Double fry chicken for maximum crunch.",
     "costing": {
       "rawCost": 85.1,
       "sellingPrice": 370,
@@ -5075,8 +4644,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-4",
     "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-    "primarySauceQty": "40ml (1.5 Wok Ladles)",
-    "primarySauceStage": "Stage 2 (Glaze Reduction)"
+    "primarySauceQty": "40ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Glaze reduction)"
   },
   {
     "id": "mmszgir1ysfqq",
@@ -5109,7 +4678,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-        "qty": "40ml (1.5 Wok Ladles)",
+        "qty": "40ml (1.5 Ladles)",
         "cost": 9.0
       },
       {
@@ -5126,16 +4695,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -5152,7 +4711,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
+    "chefTip": "Chef Secret: Add 1/4 tsp Madras Curry Powder into the chicken marinade and use 1 tsp Oyster Sauce in the glaze for that authentic Tangra Indo-Chinese dragon kick. Double fry chicken for maximum crunch.",
     "costing": {
       "rawCost": 101.2,
       "sellingPrice": 440,
@@ -5162,8 +4721,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-4",
     "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-    "primarySauceQty": "40ml (1.5 Wok Ladles)",
-    "primarySauceStage": "Stage 2 (Glaze Reduction)"
+    "primarySauceQty": "40ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Glaze reduction)"
   },
   {
     "id": "mmszgir1ylmvv",
@@ -5196,7 +4755,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-        "qty": "40ml (1.5 Wok Ladles)",
+        "qty": "40ml (1.5 Ladles)",
         "cost": 9.0
       },
       {
@@ -5213,16 +4772,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -5239,7 +4788,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
+    "chefTip": "Chef Secret: Add 1/4 tsp Madras Curry Powder into the chicken marinade and use 1 tsp Oyster Sauce in the glaze for that authentic Tangra Indo-Chinese dragon kick. Double fry chicken for maximum crunch.",
     "costing": {
       "rawCost": 92.0,
       "sellingPrice": 400,
@@ -5249,8 +4798,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-4",
     "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-    "primarySauceQty": "40ml (1.5 Wok Ladles)",
-    "primarySauceStage": "Stage 2 (Glaze Reduction)"
+    "primarySauceQty": "40ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Glaze reduction)"
   },
   {
     "id": "mmszgir1ygbmc",
@@ -5283,7 +4832,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indo-Chinese Manchurian Mother Sauce Base (Sauce #03)",
-        "qty": "60ml Dry / 200ml Gravy",
+        "qty": "60ml (2 Ladles for Dry / 200ml for Gravy)",
         "cost": 9.0
       },
       {
@@ -5300,16 +4849,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -5326,7 +4865,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 46.8,
       "sellingPrice": 260,
@@ -5336,8 +4875,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-3",
     "primarySauceName": "Indo-Chinese Manchurian Mother Sauce Base (Sauce #03)",
-    "primarySauceQty": "60ml Dry / 200ml Gravy",
-    "primarySauceStage": "Stage 3 (Simmer Reduction)"
+    "primarySauceQty": "60ml (2 Ladles for Dry / 200ml for Gravy)",
+    "primarySauceStage": "Stage 3 (Simmer reduction)"
   },
   {
     "id": "mmszgir1ydgv3",
@@ -5370,7 +4909,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indo-Chinese Manchurian Mother Sauce Base (Sauce #03)",
-        "qty": "60ml Dry / 200ml Gravy",
+        "qty": "60ml (2 Ladles for Dry / 200ml for Gravy)",
         "cost": 9.0
       },
       {
@@ -5387,16 +4926,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -5413,7 +4942,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 81.4,
       "sellingPrice": 370,
@@ -5423,8 +4952,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-3",
     "primarySauceName": "Indo-Chinese Manchurian Mother Sauce Base (Sauce #03)",
-    "primarySauceQty": "60ml Dry / 200ml Gravy",
-    "primarySauceStage": "Stage 3 (Simmer Reduction)"
+    "primarySauceQty": "60ml (2 Ladles for Dry / 200ml for Gravy)",
+    "primarySauceStage": "Stage 3 (Simmer reduction)"
   },
   {
     "id": "mmszgir1yveig",
@@ -5457,7 +4986,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indo-Chinese Manchurian Mother Sauce Base (Sauce #03)",
-        "qty": "60ml Dry / 200ml Gravy",
+        "qty": "60ml (2 Ladles for Dry / 200ml for Gravy)",
         "cost": 9.0
       },
       {
@@ -5474,16 +5003,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -5500,7 +5019,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 75.9,
       "sellingPrice": 330,
@@ -5510,8 +5029,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-3",
     "primarySauceName": "Indo-Chinese Manchurian Mother Sauce Base (Sauce #03)",
-    "primarySauceQty": "60ml Dry / 200ml Gravy",
-    "primarySauceStage": "Stage 3 (Simmer Reduction)"
+    "primarySauceQty": "60ml (2 Ladles for Dry / 200ml for Gravy)",
+    "primarySauceStage": "Stage 3 (Simmer reduction)"
   },
   {
     "id": "mmszgir1ytdb6",
@@ -5543,8 +5062,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Black Pepper & Oyster Master Glaze (Sauce #07)",
-        "qty": "35ml (1 Wok Ladle)",
+        "item": "\u2605 Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+        "qty": "35ml (1 Ladle)",
         "cost": 9.0
       },
       {
@@ -5561,16 +5080,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -5587,7 +5096,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
+    "chefTip": "Chef Secret: Coarsely crush black peppercorns (do not use fine powder) and bloom in hot oil with 1 tbsp Oyster Sauce and 1 tbsp Dark Soya for bold aromatic warmth.",
     "costing": {
       "rawCost": 70.2,
       "sellingPrice": 390,
@@ -5596,9 +5105,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 82.0
     },
     "primarySauceId": "sauce-7",
-    "primarySauceName": "Black Pepper & Oyster Master Glaze (Sauce #07)",
-    "primarySauceQty": "35ml (1 Wok Ladle)",
-    "primarySauceStage": "Stage 2 (Aromatics Deglaze)"
+    "primarySauceName": "Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+    "primarySauceQty": "35ml (1 Ladle)",
+    "primarySauceStage": "Stage 2 (Aromatics deglaze)"
   },
   {
     "id": "mmszgir1yjkh1",
@@ -5630,8 +5139,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Black Pepper & Oyster Master Glaze (Sauce #07)",
-        "qty": "35ml (1 Wok Ladle)",
+        "item": "\u2605 Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+        "qty": "35ml (1 Ladle)",
         "cost": 9.0
       },
       {
@@ -5648,16 +5157,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -5674,7 +5173,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
+    "chefTip": "Chef Secret: Coarsely crush black peppercorns (do not use fine powder) and bloom in hot oil with 1 tbsp Oyster Sauce and 1 tbsp Dark Soya for bold aromatic warmth.",
     "costing": {
       "rawCost": 94.6,
       "sellingPrice": 430,
@@ -5683,9 +5182,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 78.0
     },
     "primarySauceId": "sauce-7",
-    "primarySauceName": "Black Pepper & Oyster Master Glaze (Sauce #07)",
-    "primarySauceQty": "35ml (1 Wok Ladle)",
-    "primarySauceStage": "Stage 2 (Aromatics Deglaze)"
+    "primarySauceName": "Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+    "primarySauceQty": "35ml (1 Ladle)",
+    "primarySauceStage": "Stage 2 (Aromatics deglaze)"
   },
   {
     "id": "mmszgir1ye852",
@@ -5717,8 +5216,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Black Pepper & Oyster Master Glaze (Sauce #07)",
-        "qty": "35ml (1 Wok Ladle)",
+        "item": "\u2605 Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+        "qty": "35ml (1 Ladle)",
         "cost": 9.0
       },
       {
@@ -5735,16 +5234,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -5761,7 +5250,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
+    "chefTip": "Chef Secret: Coarsely crush black peppercorns (do not use fine powder) and bloom in hot oil with 1 tbsp Oyster Sauce and 1 tbsp Dark Soya for bold aromatic warmth.",
     "costing": {
       "rawCost": 92.0,
       "sellingPrice": 400,
@@ -5770,9 +5259,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 77.0
     },
     "primarySauceId": "sauce-7",
-    "primarySauceName": "Black Pepper & Oyster Master Glaze (Sauce #07)",
-    "primarySauceQty": "35ml (1 Wok Ladle)",
-    "primarySauceStage": "Stage 2 (Aromatics Deglaze)"
+    "primarySauceName": "Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+    "primarySauceQty": "35ml (1 Ladle)",
+    "primarySauceStage": "Stage 2 (Aromatics deglaze)"
   },
   {
     "id": "mmszgir1y8qci",
@@ -5805,7 +5294,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Kung Pao Master Glaze (Sauce #06)",
-        "qty": "40ml (1.5 Wok Ladles)",
+        "qty": "40ml (1.5 Ladles)",
         "cost": 9.0
       },
       {
@@ -5822,16 +5311,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -5848,7 +5327,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
+    "chefTip": "Chef Secret: Whisk 2 tbsp Bottled Kung Pao Sauce with 1 tbsp Hoisin Sauce, 1/2 tsp Tahini (sesame paste), and 1 tsp Honey for an unbeatable rich glaze. Fold in cashews/peanuts at the end.",
     "costing": {
       "rawCost": 63.0,
       "sellingPrice": 350,
@@ -5858,8 +5337,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-6",
     "primarySauceName": "Indus Kung Pao Master Glaze (Sauce #06)",
-    "primarySauceQty": "40ml (1.5 Wok Ladles)",
-    "primarySauceStage": "Stage 2 (Flash Glaze)"
+    "primarySauceQty": "40ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Flash glaze)"
   },
   {
     "id": "mmszgir1yeqrf",
@@ -5892,7 +5371,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Kung Pao Master Glaze (Sauce #06)",
-        "qty": "40ml (1.5 Wok Ladles)",
+        "qty": "40ml (1.5 Ladles)",
         "cost": 9.0
       },
       {
@@ -5909,16 +5388,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -5935,7 +5404,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
+    "chefTip": "Chef Secret: Whisk 2 tbsp Bottled Kung Pao Sauce with 1 tbsp Hoisin Sauce, 1/2 tsp Tahini (sesame paste), and 1 tsp Honey for an unbeatable rich glaze. Fold in cashews/peanuts at the end.",
     "costing": {
       "rawCost": 88.0,
       "sellingPrice": 400,
@@ -5945,8 +5414,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-6",
     "primarySauceName": "Indus Kung Pao Master Glaze (Sauce #06)",
-    "primarySauceQty": "40ml (1.5 Wok Ladles)",
-    "primarySauceStage": "Stage 2 (Flash Glaze)"
+    "primarySauceQty": "40ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Flash glaze)"
   },
   {
     "id": "mmszgir1yka31",
@@ -5979,7 +5448,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Kung Pao Master Glaze (Sauce #06)",
-        "qty": "40ml (1.5 Wok Ladles)",
+        "qty": "40ml (1.5 Ladles)",
         "cost": 9.0
       },
       {
@@ -5996,16 +5465,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -6022,7 +5481,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
+    "chefTip": "Chef Secret: Whisk 2 tbsp Bottled Kung Pao Sauce with 1 tbsp Hoisin Sauce, 1/2 tsp Tahini (sesame paste), and 1 tsp Honey for an unbeatable rich glaze. Fold in cashews/peanuts at the end.",
     "costing": {
       "rawCost": 82.8,
       "sellingPrice": 360,
@@ -6032,8 +5491,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-6",
     "primarySauceName": "Indus Kung Pao Master Glaze (Sauce #06)",
-    "primarySauceQty": "40ml (1.5 Wok Ladles)",
-    "primarySauceStage": "Stage 2 (Flash Glaze)"
+    "primarySauceQty": "40ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Flash glaze)"
   },
   {
     "id": "mmszgir1ynkh6",
@@ -6065,8 +5524,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+        "qty": "40ml Glaze",
         "cost": 9.0
       },
       {
@@ -6083,16 +5542,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -6109,7 +5558,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 70.2,
       "sellingPrice": 390,
@@ -6117,10 +5566,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 319.8,
       "grossMarginPct": 82.0
     },
-    "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceId": "sauce-4",
+    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+    "primarySauceQty": "40ml Glaze",
+    "primarySauceStage": "Stage 2 (Glaze)"
   },
   {
     "id": "mmszgir1y2wvq",
@@ -6152,8 +5601,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+        "qty": "40ml Glaze",
         "cost": 9.0
       },
       {
@@ -6170,16 +5619,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -6196,7 +5635,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 96.8,
       "sellingPrice": 440,
@@ -6204,10 +5643,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 343.2,
       "grossMarginPct": 78.0
     },
-    "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceId": "sauce-4",
+    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+    "primarySauceQty": "40ml Glaze",
+    "primarySauceStage": "Stage 2 (Glaze)"
   },
   {
     "id": "mmszgir1ygl3j",
@@ -6239,8 +5678,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+        "qty": "40ml Glaze",
         "cost": 9.0
       },
       {
@@ -6257,16 +5696,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -6283,7 +5712,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 92.0,
       "sellingPrice": 400,
@@ -6291,10 +5720,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 308.0,
       "grossMarginPct": 77.0
     },
-    "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceId": "sauce-4",
+    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+    "primarySauceQty": "40ml Glaze",
+    "primarySauceStage": "Stage 2 (Glaze)"
   },
   {
     "id": "mmszgir1yy2wx",
@@ -6326,8 +5755,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+        "qty": "40ml Glaze",
         "cost": 9.0
       },
       {
@@ -6344,16 +5773,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -6370,7 +5789,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 61.2,
       "sellingPrice": 340,
@@ -6378,10 +5797,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 278.8,
       "grossMarginPct": 82.0
     },
-    "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceId": "sauce-4",
+    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+    "primarySauceQty": "40ml Glaze",
+    "primarySauceStage": "Stage 2 (Glaze)"
   },
   {
     "id": "mmszgir1y1ak3",
@@ -6413,8 +5832,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+        "qty": "40ml Glaze",
         "cost": 9.0
       },
       {
@@ -6431,16 +5850,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -6457,7 +5866,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 88.0,
       "sellingPrice": 400,
@@ -6465,10 +5874,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 312.0,
       "grossMarginPct": 78.0
     },
-    "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceId": "sauce-4",
+    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+    "primarySauceQty": "40ml Glaze",
+    "primarySauceStage": "Stage 2 (Glaze)"
   },
   {
     "id": "mmszgir1ynaer",
@@ -6500,8 +5909,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+        "qty": "40ml Glaze",
         "cost": 9.0
       },
       {
@@ -6518,16 +5927,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -6544,7 +5943,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 89.7,
       "sellingPrice": 390,
@@ -6552,10 +5951,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 300.3,
       "grossMarginPct": 77.0
     },
-    "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceId": "sauce-4",
+    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+    "primarySauceQty": "40ml Glaze",
+    "primarySauceStage": "Stage 2 (Glaze)"
   },
   {
     "id": "mmszgir1ywpm5",
@@ -6587,8 +5986,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+        "qty": "40ml Glaze",
         "cost": 9.0
       },
       {
@@ -6605,16 +6004,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -6631,7 +6020,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 64.8,
       "sellingPrice": 360,
@@ -6639,10 +6028,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 295.2,
       "grossMarginPct": 82.0
     },
-    "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceId": "sauce-4",
+    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+    "primarySauceQty": "40ml Glaze",
+    "primarySauceStage": "Stage 2 (Glaze)"
   },
   {
     "id": "mmszgir1yj0x0",
@@ -6674,8 +6063,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+        "qty": "40ml Glaze",
         "cost": 9.0
       },
       {
@@ -6692,16 +6081,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -6718,7 +6097,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 96.8,
       "sellingPrice": 440,
@@ -6726,10 +6105,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 343.2,
       "grossMarginPct": 78.0
     },
-    "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceId": "sauce-4",
+    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+    "primarySauceQty": "40ml Glaze",
+    "primarySauceStage": "Stage 2 (Glaze)"
   },
   {
     "id": "mmszgir1ywnu9",
@@ -6761,8 +6140,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+        "qty": "40ml Glaze",
         "cost": 9.0
       },
       {
@@ -6779,16 +6158,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -6805,7 +6174,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 92.0,
       "sellingPrice": 400,
@@ -6813,10 +6182,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 308.0,
       "grossMarginPct": 77.0
     },
-    "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceId": "sauce-4",
+    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+    "primarySauceQty": "40ml Glaze",
+    "primarySauceStage": "Stage 2 (Glaze)"
   },
   {
     "id": "mmszgir1y1gzz",
@@ -6848,8 +6217,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+        "qty": "40ml Glaze",
         "cost": 9.0
       },
       {
@@ -6866,16 +6235,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -6892,7 +6251,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 64.8,
       "sellingPrice": 360,
@@ -6900,10 +6259,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 295.2,
       "grossMarginPct": 82.0
     },
-    "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceId": "sauce-4",
+    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+    "primarySauceQty": "40ml Glaze",
+    "primarySauceStage": "Stage 2 (Glaze)"
   },
   {
     "id": "mmszgir1ypwxv",
@@ -6935,8 +6294,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+        "qty": "40ml Glaze",
         "cost": 9.0
       },
       {
@@ -6953,16 +6312,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -6979,7 +6328,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 96.8,
       "sellingPrice": 440,
@@ -6987,10 +6336,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 343.2,
       "grossMarginPct": 78.0
     },
-    "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceId": "sauce-4",
+    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+    "primarySauceQty": "40ml Glaze",
+    "primarySauceStage": "Stage 2 (Glaze)"
   },
   {
     "id": "mmszgir1yskxf",
@@ -7022,8 +6371,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+        "qty": "40ml Glaze",
         "cost": 9.0
       },
       {
@@ -7040,16 +6389,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -7066,7 +6405,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 92.0,
       "sellingPrice": 400,
@@ -7074,10 +6413,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 308.0,
       "grossMarginPct": 77.0
     },
-    "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceId": "sauce-4",
+    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+    "primarySauceQty": "40ml Glaze",
+    "primarySauceStage": "Stage 2 (Glaze)"
   },
   {
     "id": "mmszgir1ygk5e",
@@ -7109,8 +6448,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+        "qty": "40ml Glaze",
         "cost": 9.0
       },
       {
@@ -7127,16 +6466,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -7153,7 +6482,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 64.8,
       "sellingPrice": 360,
@@ -7161,10 +6490,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 295.2,
       "grossMarginPct": 82.0
     },
-    "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceId": "sauce-4",
+    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+    "primarySauceQty": "40ml Glaze",
+    "primarySauceStage": "Stage 2 (Glaze)"
   },
   {
     "id": "mmszgir1yqj7n",
@@ -7196,8 +6525,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+        "qty": "40ml Glaze",
         "cost": 9.0
       },
       {
@@ -7214,16 +6543,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -7240,7 +6559,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 96.8,
       "sellingPrice": 440,
@@ -7248,10 +6567,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 343.2,
       "grossMarginPct": 78.0
     },
-    "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceId": "sauce-4",
+    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+    "primarySauceQty": "40ml Glaze",
+    "primarySauceStage": "Stage 2 (Glaze)"
   },
   {
     "id": "mmszgir1yas1l",
@@ -7283,8 +6602,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+        "qty": "40ml Glaze",
         "cost": 9.0
       },
       {
@@ -7301,16 +6620,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -7327,7 +6636,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 92.0,
       "sellingPrice": 400,
@@ -7335,10 +6644,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 308.0,
       "grossMarginPct": 77.0
     },
-    "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceId": "sauce-4",
+    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+    "primarySauceQty": "40ml Glaze",
+    "primarySauceStage": "Stage 2 (Glaze)"
   },
   {
     "id": "mmszgir1yn9g6",
@@ -7370,8 +6679,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+        "qty": "40ml Glaze",
         "cost": 9.0
       },
       {
@@ -7388,16 +6697,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -7414,7 +6713,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 68.4,
       "sellingPrice": 380,
@@ -7422,10 +6721,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 311.6,
       "grossMarginPct": 82.0
     },
-    "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceId": "sauce-4",
+    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+    "primarySauceQty": "40ml Glaze",
+    "primarySauceStage": "Stage 2 (Glaze)"
   },
   {
     "id": "mmszgir1yolym",
@@ -7457,8 +6756,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+        "qty": "40ml Glaze",
         "cost": 9.0
       },
       {
@@ -7475,16 +6774,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -7501,7 +6790,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 94.6,
       "sellingPrice": 430,
@@ -7509,10 +6798,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 335.4,
       "grossMarginPct": 78.0
     },
-    "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceId": "sauce-4",
+    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+    "primarySauceQty": "40ml Glaze",
+    "primarySauceStage": "Stage 2 (Glaze)"
   },
   {
     "id": "mmszgir1y63jr",
@@ -7544,8 +6833,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+        "qty": "40ml Glaze",
         "cost": 9.0
       },
       {
@@ -7562,16 +6851,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -7588,7 +6867,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 103.5,
       "sellingPrice": 450,
@@ -7596,10 +6875,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 346.5,
       "grossMarginPct": 77.0
     },
-    "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceId": "sauce-4",
+    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
+    "primarySauceQty": "40ml Glaze",
+    "primarySauceStage": "Stage 2 (Glaze)"
   },
   {
     "id": "mmszgir1y52wk",
@@ -7632,7 +6911,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-        "qty": "40ml (1.5 Wok Ladles)",
+        "qty": "40ml (1.5 Ladles)",
         "cost": 9.0
       },
       {
@@ -7649,16 +6928,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -7675,7 +6944,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 68.4,
       "sellingPrice": 380,
@@ -7685,8 +6954,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-4",
     "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-    "primarySauceQty": "40ml (1.5 Wok Ladles)",
-    "primarySauceStage": "Stage 2 (Glaze Reduction)"
+    "primarySauceQty": "40ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Glaze reduction)"
   },
   {
     "id": "mmszgir1ywhu0",
@@ -7719,7 +6988,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-        "qty": "40ml (1.5 Wok Ladles)",
+        "qty": "40ml (1.5 Ladles)",
         "cost": 9.0
       },
       {
@@ -7736,16 +7005,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -7762,7 +7021,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 94.6,
       "sellingPrice": 430,
@@ -7772,8 +7031,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-4",
     "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-    "primarySauceQty": "40ml (1.5 Wok Ladles)",
-    "primarySauceStage": "Stage 2 (Glaze Reduction)"
+    "primarySauceQty": "40ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Glaze reduction)"
   },
   {
     "id": "mmszgir1y16rn",
@@ -7806,7 +7065,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-        "qty": "40ml (1.5 Wok Ladles)",
+        "qty": "40ml (1.5 Ladles)",
         "cost": 9.0
       },
       {
@@ -7823,16 +7082,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -7849,7 +7098,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 103.5,
       "sellingPrice": 450,
@@ -7859,8 +7108,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-4",
     "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-    "primarySauceQty": "40ml (1.5 Wok Ladles)",
-    "primarySauceStage": "Stage 2 (Glaze Reduction)"
+    "primarySauceQty": "40ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Glaze reduction)"
   },
   {
     "id": "mmszgir1ymo0j",
@@ -7892,8 +7141,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Teriyaki & Hoisin Master Glaze (Sauce #09)",
-        "qty": "40ml (1.5 Wok Ladles)",
+        "item": "\u2605 Japanese Teriyaki & Yakitori Glaze (Sauce #09)",
+        "qty": "40ml (1.5 Ladles)",
         "cost": 9.0
       },
       {
@@ -7910,16 +7159,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -7936,7 +7175,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
+    "chefTip": "Chef Secret: Combine Bottled Teriyaki Sauce with 1 tsp Hoisin Sauce and 1 tsp Honey for a mirror-like lacquer glaze that clings to proteins.",
     "costing": {
       "rawCost": 68.4,
       "sellingPrice": 380,
@@ -7945,9 +7184,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 82.0
     },
     "primarySauceId": "sauce-9",
-    "primarySauceName": "Teriyaki & Hoisin Master Glaze (Sauce #09)",
-    "primarySauceQty": "40ml (1.5 Wok Ladles)",
-    "primarySauceStage": "Stage 3 (Lacquer Glaze)"
+    "primarySauceName": "Japanese Teriyaki & Yakitori Glaze (Sauce #09)",
+    "primarySauceQty": "40ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 3 (Lacquer glaze)"
   },
   {
     "id": "mmszgir1ywngv",
@@ -7979,8 +7218,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Teriyaki & Hoisin Master Glaze (Sauce #09)",
-        "qty": "40ml (1.5 Wok Ladles)",
+        "item": "\u2605 Japanese Teriyaki & Yakitori Glaze (Sauce #09)",
+        "qty": "40ml (1.5 Ladles)",
         "cost": 9.0
       },
       {
@@ -7997,16 +7236,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -8023,7 +7252,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
+    "chefTip": "Chef Secret: Combine Bottled Teriyaki Sauce with 1 tsp Hoisin Sauce and 1 tsp Honey for a mirror-like lacquer glaze that clings to proteins.",
     "costing": {
       "rawCost": 94.6,
       "sellingPrice": 430,
@@ -8032,9 +7261,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 78.0
     },
     "primarySauceId": "sauce-9",
-    "primarySauceName": "Teriyaki & Hoisin Master Glaze (Sauce #09)",
-    "primarySauceQty": "40ml (1.5 Wok Ladles)",
-    "primarySauceStage": "Stage 3 (Lacquer Glaze)"
+    "primarySauceName": "Japanese Teriyaki & Yakitori Glaze (Sauce #09)",
+    "primarySauceQty": "40ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 3 (Lacquer glaze)"
   },
   {
     "id": "mmszgir1yre8e",
@@ -8066,8 +7295,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Teriyaki & Hoisin Master Glaze (Sauce #09)",
-        "qty": "40ml (1.5 Wok Ladles)",
+        "item": "\u2605 Japanese Teriyaki & Yakitori Glaze (Sauce #09)",
+        "qty": "40ml (1.5 Ladles)",
         "cost": 9.0
       },
       {
@@ -8084,16 +7313,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -8110,7 +7329,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
+    "chefTip": "Chef Secret: Combine Bottled Teriyaki Sauce with 1 tsp Hoisin Sauce and 1 tsp Honey for a mirror-like lacquer glaze that clings to proteins.",
     "costing": {
       "rawCost": 96.6,
       "sellingPrice": 420,
@@ -8119,9 +7338,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 77.0
     },
     "primarySauceId": "sauce-9",
-    "primarySauceName": "Teriyaki & Hoisin Master Glaze (Sauce #09)",
-    "primarySauceQty": "40ml (1.5 Wok Ladles)",
-    "primarySauceStage": "Stage 3 (Lacquer Glaze)"
+    "primarySauceName": "Japanese Teriyaki & Yakitori Glaze (Sauce #09)",
+    "primarySauceQty": "40ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 3 (Lacquer glaze)"
   },
   {
     "id": "mmszgir1yukfe",
@@ -8153,8 +7372,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+        "qty": "35ml (1 Ladle)",
         "cost": 9.0
       },
       {
@@ -8171,16 +7390,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -8197,7 +7406,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 70.2,
       "sellingPrice": 390,
@@ -8205,10 +7414,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 319.8,
       "grossMarginPct": 82.0
     },
-    "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceId": "sauce-7",
+    "primarySauceName": "Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+    "primarySauceQty": "35ml (1 Ladle)",
+    "primarySauceStage": "Stage 2 (Aromatics deglaze)"
   },
   {
     "id": "mmszgir1ygbsq",
@@ -8240,8 +7449,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+        "qty": "35ml (1 Ladle)",
         "cost": 9.0
       },
       {
@@ -8258,16 +7467,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -8284,7 +7483,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 96.8,
       "sellingPrice": 440,
@@ -8292,10 +7491,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 343.2,
       "grossMarginPct": 78.0
     },
-    "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceId": "sauce-7",
+    "primarySauceName": "Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+    "primarySauceQty": "35ml (1 Ladle)",
+    "primarySauceStage": "Stage 2 (Aromatics deglaze)"
   },
   {
     "id": "mmszgir1yspnf",
@@ -8327,8 +7526,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+        "qty": "35ml (1 Ladle)",
         "cost": 9.0
       },
       {
@@ -8345,16 +7544,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -8371,7 +7560,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 105.8,
       "sellingPrice": 460,
@@ -8379,10 +7568,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 354.2,
       "grossMarginPct": 77.0
     },
-    "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceId": "sauce-7",
+    "primarySauceName": "Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+    "primarySauceQty": "35ml (1 Ladle)",
+    "primarySauceStage": "Stage 2 (Aromatics deglaze)"
   },
   {
     "id": "mmszgir1yb5t6",
@@ -8420,7 +7609,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -8432,16 +7621,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -8459,7 +7638,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 36.0,
       "sellingPrice": 200,
@@ -8469,8 +7648,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1y6d7q",
@@ -8508,7 +7687,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -8520,16 +7699,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -8547,7 +7716,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 61.6,
       "sellingPrice": 280,
@@ -8557,8 +7726,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yan5n",
@@ -8596,7 +7765,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -8608,16 +7777,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -8635,7 +7794,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 45.6,
       "sellingPrice": 240,
@@ -8645,8 +7804,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yccgt",
@@ -8684,7 +7843,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -8696,16 +7855,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -8723,7 +7872,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 59.8,
       "sellingPrice": 260,
@@ -8733,8 +7882,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yzmi9",
@@ -8772,7 +7921,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-        "qty": "45ml (1.5 Wok Ladles)",
+        "qty": "45ml (1.5 Ladles)",
         "cost": 4.5
       },
       {
@@ -8784,16 +7933,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -8811,7 +7950,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 39.6,
       "sellingPrice": 220,
@@ -8821,7 +7960,7 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-1",
     "primarySauceName": "Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-    "primarySauceQty": "45ml (1.5 Wok Ladles)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9 after aromatics)"
   },
   {
@@ -8860,7 +7999,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-        "qty": "45ml (1.5 Wok Ladles)",
+        "qty": "45ml (1.5 Ladles)",
         "cost": 4.5
       },
       {
@@ -8872,16 +8011,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -8899,7 +8028,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 66.0,
       "sellingPrice": 300,
@@ -8909,7 +8038,7 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-1",
     "primarySauceName": "Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-    "primarySauceQty": "45ml (1.5 Wok Ladles)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9 after aromatics)"
   },
   {
@@ -8948,7 +8077,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-        "qty": "45ml (1.5 Wok Ladles)",
+        "qty": "45ml (1.5 Ladles)",
         "cost": 4.5
       },
       {
@@ -8960,16 +8089,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -8987,7 +8106,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 45.6,
       "sellingPrice": 240,
@@ -8997,7 +8116,7 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-1",
     "primarySauceName": "Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-    "primarySauceQty": "45ml (1.5 Wok Ladles)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9 after aromatics)"
   },
   {
@@ -9036,7 +8155,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-        "qty": "45ml (1.5 Wok Ladles)",
+        "qty": "45ml (1.5 Ladles)",
         "cost": 4.5
       },
       {
@@ -9048,16 +8167,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -9075,7 +8184,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 64.4,
       "sellingPrice": 280,
@@ -9085,7 +8194,7 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-1",
     "primarySauceName": "Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-    "primarySauceQty": "45ml (1.5 Wok Ladles)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9 after aromatics)"
   },
   {
@@ -9124,7 +8233,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -9136,16 +8245,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -9163,7 +8262,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 54.0,
       "sellingPrice": 300,
@@ -9173,8 +8272,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1y4fo7",
@@ -9212,7 +8311,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Burnt Garlic & Scallion Oil Infusion (Sauce #05)",
-        "qty": "25ml Oil + 10g Chips",
+        "qty": "25ml Oil + 10g Crispy Chips",
         "cost": 4.5
       },
       {
@@ -9224,16 +8323,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -9251,7 +8340,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Use the 3-stage garlic protocol: Start garlic in cold oil to prevent scorching, drain when light blonde, and sprinkle crispy chips at the very end for crunch.",
     "costing": {
       "rawCost": 79.2,
       "sellingPrice": 360,
@@ -9261,8 +8350,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-5",
     "primarySauceName": "Burnt Garlic & Scallion Oil Infusion (Sauce #05)",
-    "primarySauceQty": "25ml Oil + 10g Chips",
-    "primarySauceStage": "Stage 1 (Wok Start) & Final Garnish"
+    "primarySauceQty": "25ml Oil + 10g Crispy Chips",
+    "primarySauceStage": "Stage 1 (Wok start) & Final Garnish"
   },
   {
     "id": "mmszgir1y24mt",
@@ -9300,7 +8389,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -9312,16 +8401,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -9339,7 +8418,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 60.8,
       "sellingPrice": 320,
@@ -9349,8 +8428,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1ya3mt",
@@ -9388,7 +8467,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Burnt Garlic & Scallion Oil Infusion (Sauce #05)",
-        "qty": "25ml Oil + 10g Chips",
+        "qty": "25ml Oil + 10g Crispy Chips",
         "cost": 4.5
       },
       {
@@ -9400,16 +8479,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -9427,7 +8496,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Use the 3-stage garlic protocol: Start garlic in cold oil to prevent scorching, drain when light blonde, and sprinkle crispy chips at the very end for crunch.",
     "costing": {
       "rawCost": 82.8,
       "sellingPrice": 360,
@@ -9437,8 +8506,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-5",
     "primarySauceName": "Burnt Garlic & Scallion Oil Infusion (Sauce #05)",
-    "primarySauceQty": "25ml Oil + 10g Chips",
-    "primarySauceStage": "Stage 1 (Wok Start) & Final Garnish"
+    "primarySauceQty": "25ml Oil + 10g Crispy Chips",
+    "primarySauceStage": "Stage 1 (Wok start) & Final Garnish"
   },
   {
     "id": "mmszgir1y1s8y",
@@ -9475,8 +8544,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "\u2605 Black Pepper & Oyster Master Glaze (Sauce #07)",
-        "qty": "35ml (1 Wok Ladle)",
+        "item": "\u2605 Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+        "qty": "35ml (1 Ladle)",
         "cost": 4.5
       },
       {
@@ -9488,16 +8557,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -9515,7 +8574,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Coarsely crush black peppercorns (do not use fine powder) and bloom in hot oil with 1 tbsp Oyster Sauce and 1 tbsp Dark Soya for bold aromatic warmth.",
     "costing": {
       "rawCost": 45.0,
       "sellingPrice": 250,
@@ -9524,9 +8583,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 82.0
     },
     "primarySauceId": "sauce-7",
-    "primarySauceName": "Black Pepper & Oyster Master Glaze (Sauce #07)",
-    "primarySauceQty": "35ml (1 Wok Ladle)",
-    "primarySauceStage": "Stage 2 (Aromatics Deglaze)"
+    "primarySauceName": "Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+    "primarySauceQty": "35ml (1 Ladle)",
+    "primarySauceStage": "Stage 2 (Aromatics deglaze)"
   },
   {
     "id": "mmszgir1yloey",
@@ -9563,8 +8622,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "\u2605 Black Pepper & Oyster Master Glaze (Sauce #07)",
-        "qty": "35ml (1 Wok Ladle)",
+        "item": "\u2605 Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+        "qty": "35ml (1 Ladle)",
         "cost": 4.5
       },
       {
@@ -9576,16 +8635,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -9603,7 +8652,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Coarsely crush black peppercorns (do not use fine powder) and bloom in hot oil with 1 tbsp Oyster Sauce and 1 tbsp Dark Soya for bold aromatic warmth.",
     "costing": {
       "rawCost": 66.0,
       "sellingPrice": 300,
@@ -9612,9 +8661,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 78.0
     },
     "primarySauceId": "sauce-7",
-    "primarySauceName": "Black Pepper & Oyster Master Glaze (Sauce #07)",
-    "primarySauceQty": "35ml (1 Wok Ladle)",
-    "primarySauceStage": "Stage 2 (Aromatics Deglaze)"
+    "primarySauceName": "Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+    "primarySauceQty": "35ml (1 Ladle)",
+    "primarySauceStage": "Stage 2 (Aromatics deglaze)"
   },
   {
     "id": "mmszgir1yiki6",
@@ -9651,8 +8700,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "\u2605 Black Pepper & Oyster Master Glaze (Sauce #07)",
-        "qty": "35ml (1 Wok Ladle)",
+        "item": "\u2605 Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+        "qty": "35ml (1 Ladle)",
         "cost": 4.5
       },
       {
@@ -9664,16 +8713,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -9691,7 +8730,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Coarsely crush black peppercorns (do not use fine powder) and bloom in hot oil with 1 tbsp Oyster Sauce and 1 tbsp Dark Soya for bold aromatic warmth.",
     "costing": {
       "rawCost": 49.4,
       "sellingPrice": 260,
@@ -9700,9 +8739,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 81.0
     },
     "primarySauceId": "sauce-7",
-    "primarySauceName": "Black Pepper & Oyster Master Glaze (Sauce #07)",
-    "primarySauceQty": "35ml (1 Wok Ladle)",
-    "primarySauceStage": "Stage 2 (Aromatics Deglaze)"
+    "primarySauceName": "Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+    "primarySauceQty": "35ml (1 Ladle)",
+    "primarySauceStage": "Stage 2 (Aromatics deglaze)"
   },
   {
     "id": "mmszgir1ycjwu",
@@ -9739,8 +8778,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "\u2605 Black Pepper & Oyster Master Glaze (Sauce #07)",
-        "qty": "35ml (1 Wok Ladle)",
+        "item": "\u2605 Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+        "qty": "35ml (1 Ladle)",
         "cost": 4.5
       },
       {
@@ -9752,16 +8791,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -9779,7 +8808,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Coarsely crush black peppercorns (do not use fine powder) and bloom in hot oil with 1 tbsp Oyster Sauce and 1 tbsp Dark Soya for bold aromatic warmth.",
     "costing": {
       "rawCost": 64.4,
       "sellingPrice": 280,
@@ -9788,9 +8817,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 77.0
     },
     "primarySauceId": "sauce-7",
-    "primarySauceName": "Black Pepper & Oyster Master Glaze (Sauce #07)",
-    "primarySauceQty": "35ml (1 Wok Ladle)",
-    "primarySauceStage": "Stage 2 (Aromatics Deglaze)"
+    "primarySauceName": "Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+    "primarySauceQty": "35ml (1 Ladle)",
+    "primarySauceStage": "Stage 2 (Aromatics deglaze)"
   },
   {
     "id": "mmszgir1ypd2k",
@@ -9828,7 +8857,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -9840,16 +8869,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -9867,7 +8886,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 41.4,
       "sellingPrice": 230,
@@ -9877,8 +8896,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1y2s6d",
@@ -9916,7 +8935,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -9928,16 +8947,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -9955,7 +8964,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 66.0,
       "sellingPrice": 300,
@@ -9965,8 +8974,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1y3msr",
@@ -10004,7 +9013,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -10016,16 +9025,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -10043,7 +9042,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 47.5,
       "sellingPrice": 250,
@@ -10053,8 +9052,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yso17",
@@ -10092,7 +9091,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -10104,16 +9103,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -10131,7 +9120,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 62.1,
       "sellingPrice": 270,
@@ -10141,8 +9130,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yt2wl",
@@ -10179,8 +9168,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "\u2605 Singapore & Madras Curry Seasoning Sauce (Sauce #11)",
-        "qty": "30ml (1 Wok Ladle)",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -10192,16 +9181,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -10219,7 +9198,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Bloom 1 tsp Madras Curry Powder in medium-hot oil for 30 seconds before adding rice/noodles to release the essential curry aromatics without bitterness. Season with Light Soya and Magic Seasoning.",
     "costing": {
       "rawCost": 43.2,
       "sellingPrice": 240,
@@ -10227,10 +9206,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 196.8,
       "grossMarginPct": 82.0
     },
-    "primarySauceId": "sauce-11",
-    "primarySauceName": "Singapore & Madras Curry Seasoning Sauce (Sauce #11)",
-    "primarySauceQty": "30ml (1 Wok Ladle)",
-    "primarySauceStage": "Stage 2 (Aromatics Fry)"
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1ydtot",
@@ -10267,8 +9246,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "\u2605 Singapore & Madras Curry Seasoning Sauce (Sauce #11)",
-        "qty": "30ml (1 Wok Ladle)",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -10280,16 +9259,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -10307,7 +9276,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Bloom 1 tsp Madras Curry Powder in medium-hot oil for 30 seconds before adding rice/noodles to release the essential curry aromatics without bitterness. Season with Light Soya and Magic Seasoning.",
     "costing": {
       "rawCost": 66.0,
       "sellingPrice": 300,
@@ -10315,10 +9284,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 234.0,
       "grossMarginPct": 78.0
     },
-    "primarySauceId": "sauce-11",
-    "primarySauceName": "Singapore & Madras Curry Seasoning Sauce (Sauce #11)",
-    "primarySauceQty": "30ml (1 Wok Ladle)",
-    "primarySauceStage": "Stage 2 (Aromatics Fry)"
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yl8kg",
@@ -10355,8 +9324,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "\u2605 Singapore & Madras Curry Seasoning Sauce (Sauce #11)",
-        "qty": "30ml (1 Wok Ladle)",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -10368,16 +9337,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -10395,7 +9354,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Bloom 1 tsp Madras Curry Powder in medium-hot oil for 30 seconds before adding rice/noodles to release the essential curry aromatics without bitterness. Season with Light Soya and Magic Seasoning.",
     "costing": {
       "rawCost": 49.4,
       "sellingPrice": 260,
@@ -10403,10 +9362,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 210.6,
       "grossMarginPct": 81.0
     },
-    "primarySauceId": "sauce-11",
-    "primarySauceName": "Singapore & Madras Curry Seasoning Sauce (Sauce #11)",
-    "primarySauceQty": "30ml (1 Wok Ladle)",
-    "primarySauceStage": "Stage 2 (Aromatics Fry)"
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yl4g6",
@@ -10443,8 +9402,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "\u2605 Singapore & Madras Curry Seasoning Sauce (Sauce #11)",
-        "qty": "30ml (1 Wok Ladle)",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -10456,16 +9415,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -10483,7 +9432,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Bloom 1 tsp Madras Curry Powder in medium-hot oil for 30 seconds before adding rice/noodles to release the essential curry aromatics without bitterness. Season with Light Soya and Magic Seasoning.",
     "costing": {
       "rawCost": 64.4,
       "sellingPrice": 280,
@@ -10491,10 +9440,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 215.6,
       "grossMarginPct": 77.0
     },
-    "primarySauceId": "sauce-11",
-    "primarySauceName": "Singapore & Madras Curry Seasoning Sauce (Sauce #11)",
-    "primarySauceQty": "30ml (1 Wok Ladle)",
-    "primarySauceStage": "Stage 2 (Aromatics Fry)"
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1ym10z",
@@ -10532,7 +9481,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -10544,16 +9493,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -10571,7 +9510,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 43.2,
       "sellingPrice": 240,
@@ -10581,8 +9520,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1y00u1",
@@ -10620,7 +9559,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -10632,16 +9571,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -10659,7 +9588,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 66.0,
       "sellingPrice": 300,
@@ -10669,8 +9598,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1y8a4a",
@@ -10708,7 +9637,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -10720,16 +9649,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -10747,7 +9666,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 47.5,
       "sellingPrice": 250,
@@ -10757,8 +9676,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1y2yq2",
@@ -10796,7 +9715,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -10808,16 +9727,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -10835,7 +9744,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 64.4,
       "sellingPrice": 280,
@@ -10845,8 +9754,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1y5yat",
@@ -10883,8 +9792,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "\u2605 Korean Spicy Glaze (Sriracha & Hoisin - Sauce #10)",
-        "qty": "40ml (1.5 Wok Ladles)",
+        "item": "\u2605 Korean Gochujang Spicy Glaze (Sauce #10)",
+        "qty": "45ml (1.5 Ladles)",
         "cost": 4.5
       },
       {
@@ -10896,16 +9805,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -10923,7 +9822,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Mix 2 tbsp Sriracha Sauce + 1 tbsp Hoisin Sauce + 1 tbsp Tomato Sauce + 1 tsp Honey + 1/2 tsp Tahini for a rich Korean street-style glaze.",
     "costing": {
       "rawCost": 57.6,
       "sellingPrice": 320,
@@ -10932,8 +9831,8 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 82.0
     },
     "primarySauceId": "sauce-10",
-    "primarySauceName": "Korean Spicy Glaze (Sriracha & Hoisin - Sauce #10)",
-    "primarySauceQty": "40ml (1.5 Wok Ladles)",
+    "primarySauceName": "Korean Gochujang Spicy Glaze (Sauce #10)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9)"
   },
   {
@@ -10971,8 +9870,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "\u2605 Korean Spicy Glaze (Sriracha & Hoisin - Sauce #10)",
-        "qty": "40ml (1.5 Wok Ladles)",
+        "item": "\u2605 Korean Gochujang Spicy Glaze (Sauce #10)",
+        "qty": "45ml (1.5 Ladles)",
         "cost": 4.5
       },
       {
@@ -10984,16 +9883,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -11011,7 +9900,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Mix 2 tbsp Sriracha Sauce + 1 tbsp Hoisin Sauce + 1 tbsp Tomato Sauce + 1 tsp Honey + 1/2 tsp Tahini for a rich Korean street-style glaze.",
     "costing": {
       "rawCost": 83.6,
       "sellingPrice": 380,
@@ -11020,8 +9909,8 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 78.0
     },
     "primarySauceId": "sauce-10",
-    "primarySauceName": "Korean Spicy Glaze (Sriracha & Hoisin - Sauce #10)",
-    "primarySauceQty": "40ml (1.5 Wok Ladles)",
+    "primarySauceName": "Korean Gochujang Spicy Glaze (Sauce #10)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9)"
   },
   {
@@ -11059,8 +9948,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "\u2605 Korean Spicy Glaze (Sriracha & Hoisin - Sauce #10)",
-        "qty": "40ml (1.5 Wok Ladles)",
+        "item": "\u2605 Korean Gochujang Spicy Glaze (Sauce #10)",
+        "qty": "45ml (1.5 Ladles)",
         "cost": 4.5
       },
       {
@@ -11072,16 +9961,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -11099,7 +9978,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Mix 2 tbsp Sriracha Sauce + 1 tbsp Hoisin Sauce + 1 tbsp Tomato Sauce + 1 tsp Honey + 1/2 tsp Tahini for a rich Korean street-style glaze.",
     "costing": {
       "rawCost": 64.6,
       "sellingPrice": 340,
@@ -11108,8 +9987,8 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 81.0
     },
     "primarySauceId": "sauce-10",
-    "primarySauceName": "Korean Spicy Glaze (Sriracha & Hoisin - Sauce #10)",
-    "primarySauceQty": "40ml (1.5 Wok Ladles)",
+    "primarySauceName": "Korean Gochujang Spicy Glaze (Sauce #10)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9)"
   },
   {
@@ -11147,8 +10026,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "\u2605 Korean Spicy Glaze (Sriracha & Hoisin - Sauce #10)",
-        "qty": "40ml (1.5 Wok Ladles)",
+        "item": "\u2605 Korean Gochujang Spicy Glaze (Sauce #10)",
+        "qty": "45ml (1.5 Ladles)",
         "cost": 4.5
       },
       {
@@ -11160,16 +10039,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -11187,7 +10056,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Mix 2 tbsp Sriracha Sauce + 1 tbsp Hoisin Sauce + 1 tbsp Tomato Sauce + 1 tsp Honey + 1/2 tsp Tahini for a rich Korean street-style glaze.",
     "costing": {
       "rawCost": 82.8,
       "sellingPrice": 360,
@@ -11196,8 +10065,8 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 77.0
     },
     "primarySauceId": "sauce-10",
-    "primarySauceName": "Korean Spicy Glaze (Sriracha & Hoisin - Sauce #10)",
-    "primarySauceQty": "40ml (1.5 Wok Ladles)",
+    "primarySauceName": "Korean Gochujang Spicy Glaze (Sauce #10)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9)"
   },
   {
@@ -11235,8 +10104,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Classic Indo-Chinese Green Chilli Sauce (Sauce #11)",
+        "qty": "30ml (1 Ladle)",
         "cost": 4.5
       },
       {
@@ -11248,16 +10117,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -11275,7 +10134,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 46.8,
       "sellingPrice": 260,
@@ -11283,10 +10142,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 213.2,
       "grossMarginPct": 82.0
     },
-    "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceId": "sauce-11",
+    "primarySauceName": "Classic Indo-Chinese Green Chilli Sauce (Sauce #11)",
+    "primarySauceQty": "30ml (1 Ladle)",
+    "primarySauceStage": "Stage 2 (Wok rim sizzle)"
   },
   {
     "id": "mmszgir1yjw3r",
@@ -11323,8 +10182,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Classic Indo-Chinese Green Chilli Sauce (Sauce #11)",
+        "qty": "30ml (1 Ladle)",
         "cost": 4.5
       },
       {
@@ -11336,16 +10195,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -11363,7 +10212,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 66.0,
       "sellingPrice": 300,
@@ -11371,10 +10220,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 234.0,
       "grossMarginPct": 78.0
     },
-    "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceId": "sauce-11",
+    "primarySauceName": "Classic Indo-Chinese Green Chilli Sauce (Sauce #11)",
+    "primarySauceQty": "30ml (1 Ladle)",
+    "primarySauceStage": "Stage 2 (Wok rim sizzle)"
   },
   {
     "id": "mmszgir1yq86a",
@@ -11411,8 +10260,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Classic Indo-Chinese Green Chilli Sauce (Sauce #11)",
+        "qty": "30ml (1 Ladle)",
         "cost": 4.5
       },
       {
@@ -11424,16 +10273,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -11451,7 +10290,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 49.4,
       "sellingPrice": 260,
@@ -11459,10 +10298,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 210.6,
       "grossMarginPct": 81.0
     },
-    "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceId": "sauce-11",
+    "primarySauceName": "Classic Indo-Chinese Green Chilli Sauce (Sauce #11)",
+    "primarySauceQty": "30ml (1 Ladle)",
+    "primarySauceStage": "Stage 2 (Wok rim sizzle)"
   },
   {
     "id": "mmszgir1y5rof",
@@ -11499,8 +10338,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Classic Indo-Chinese Green Chilli Sauce (Sauce #11)",
+        "qty": "30ml (1 Ladle)",
         "cost": 4.5
       },
       {
@@ -11512,16 +10351,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -11539,7 +10368,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 64.4,
       "sellingPrice": 280,
@@ -11547,10 +10376,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 215.6,
       "grossMarginPct": 77.0
     },
-    "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceId": "sauce-11",
+    "primarySauceName": "Classic Indo-Chinese Green Chilli Sauce (Sauce #11)",
+    "primarySauceQty": "30ml (1 Ladle)",
+    "primarySauceStage": "Stage 2 (Wok rim sizzle)"
   },
   {
     "id": "mmszgir1y0hmz",
@@ -11588,7 +10417,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -11600,16 +10429,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -11627,7 +10446,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 46.8,
       "sellingPrice": 260,
@@ -11637,8 +10456,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1ynpnu",
@@ -11676,7 +10495,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -11688,16 +10507,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -11715,7 +10524,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 66.0,
       "sellingPrice": 300,
@@ -11725,8 +10534,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yubqe",
@@ -11764,7 +10573,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -11776,16 +10585,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -11803,7 +10602,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 49.4,
       "sellingPrice": 260,
@@ -11813,8 +10612,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yrojg",
@@ -11852,7 +10651,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -11864,16 +10663,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -11891,7 +10680,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 64.4,
       "sellingPrice": 280,
@@ -11901,8 +10690,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1y9xve",
@@ -11940,7 +10729,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -11952,16 +10741,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -11979,7 +10758,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 45.0,
       "sellingPrice": 250,
@@ -11989,8 +10768,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yar88",
@@ -12028,7 +10807,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -12040,16 +10819,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -12067,7 +10836,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 68.2,
       "sellingPrice": 310,
@@ -12077,8 +10846,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yfimq",
@@ -12116,7 +10885,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -12128,16 +10897,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -12155,7 +10914,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 49.4,
       "sellingPrice": 260,
@@ -12165,8 +10924,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1y63jz",
@@ -12204,7 +10963,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -12216,16 +10975,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -12243,7 +10992,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 64.4,
       "sellingPrice": 280,
@@ -12253,8 +11002,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1ya70v",
@@ -12292,7 +11041,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -12304,16 +11053,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -12331,7 +11070,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 54.0,
       "sellingPrice": 300,
@@ -12341,8 +11080,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yl4kz",
@@ -12380,7 +11119,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -12392,16 +11131,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -12419,7 +11148,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 79.2,
       "sellingPrice": 360,
@@ -12429,8 +11158,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yl1fo",
@@ -12468,7 +11197,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -12480,16 +11209,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -12507,7 +11226,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 57.0,
       "sellingPrice": 300,
@@ -12517,8 +11236,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1y629f",
@@ -12556,7 +11275,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -12568,16 +11287,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -12595,7 +11304,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 78.2,
       "sellingPrice": 340,
@@ -12605,8 +11314,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yli97",
@@ -12644,7 +11353,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -12656,16 +11365,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -12683,7 +11382,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 63.0,
       "sellingPrice": 350,
@@ -12693,8 +11392,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1ytmvp",
@@ -12732,7 +11431,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -12744,16 +11443,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -12771,7 +11460,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 88.0,
       "sellingPrice": 400,
@@ -12781,8 +11470,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yzqnb",
@@ -12820,7 +11509,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -12832,16 +11521,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -12859,7 +11538,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 68.4,
       "sellingPrice": 360,
@@ -12869,8 +11548,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yni7h",
@@ -12908,7 +11587,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -12920,16 +11599,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -12947,7 +11616,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 89.7,
       "sellingPrice": 390,
@@ -12957,8 +11626,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1ymhnd",
@@ -12995,7 +11664,7 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "\u2605 Thai Red & Yellow Curry Master Broth Base (Sauce #12)",
+        "item": "\u2605 Thai Curry Paste & Broth Master Base (Sauce #12)",
         "qty": "50g Paste / 250ml Broth",
         "cost": 4.5
       },
@@ -13008,16 +11677,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -13035,7 +11694,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Fry 2 tbsp Red/Yellow Curry Paste in oil for 2 minutes before adding broth to unlock the galangal, lemongrass, and chili oils.",
     "costing": {
       "rawCost": 64.8,
       "sellingPrice": 360,
@@ -13044,7 +11703,7 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 82.0
     },
     "primarySauceId": "sauce-12",
-    "primarySauceName": "Thai Red & Yellow Curry Master Broth Base (Sauce #12)",
+    "primarySauceName": "Thai Curry Paste & Broth Master Base (Sauce #12)",
     "primarySauceQty": "50g Paste / 250ml Broth",
     "primarySauceStage": "Stage 2 (Simmer)"
   },
@@ -13083,7 +11742,7 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "\u2605 Thai Red & Yellow Curry Master Broth Base (Sauce #12)",
+        "item": "\u2605 Thai Curry Paste & Broth Master Base (Sauce #12)",
         "qty": "50g Paste / 250ml Broth",
         "cost": 4.5
       },
@@ -13096,16 +11755,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -13123,7 +11772,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Fry 2 tbsp Red/Yellow Curry Paste in oil for 2 minutes before adding broth to unlock the galangal, lemongrass, and chili oils.",
     "costing": {
       "rawCost": 90.2,
       "sellingPrice": 410,
@@ -13132,7 +11781,7 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 78.0
     },
     "primarySauceId": "sauce-12",
-    "primarySauceName": "Thai Red & Yellow Curry Master Broth Base (Sauce #12)",
+    "primarySauceName": "Thai Curry Paste & Broth Master Base (Sauce #12)",
     "primarySauceQty": "50g Paste / 250ml Broth",
     "primarySauceStage": "Stage 2 (Simmer)"
   },
@@ -13171,7 +11820,7 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "\u2605 Thai Red & Yellow Curry Master Broth Base (Sauce #12)",
+        "item": "\u2605 Thai Curry Paste & Broth Master Base (Sauce #12)",
         "qty": "50g Paste / 250ml Broth",
         "cost": 4.5
       },
@@ -13184,16 +11833,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -13211,7 +11850,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Fry 2 tbsp Red/Yellow Curry Paste in oil for 2 minutes before adding broth to unlock the galangal, lemongrass, and chili oils.",
     "costing": {
       "rawCost": 70.3,
       "sellingPrice": 370,
@@ -13220,7 +11859,7 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 81.0
     },
     "primarySauceId": "sauce-12",
-    "primarySauceName": "Thai Red & Yellow Curry Master Broth Base (Sauce #12)",
+    "primarySauceName": "Thai Curry Paste & Broth Master Base (Sauce #12)",
     "primarySauceQty": "50g Paste / 250ml Broth",
     "primarySauceStage": "Stage 2 (Simmer)"
   },
@@ -13259,7 +11898,7 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "\u2605 Thai Red & Yellow Curry Master Broth Base (Sauce #12)",
+        "item": "\u2605 Thai Curry Paste & Broth Master Base (Sauce #12)",
         "qty": "50g Paste / 250ml Broth",
         "cost": 4.5
       },
@@ -13272,16 +11911,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -13299,7 +11928,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Fry 2 tbsp Red/Yellow Curry Paste in oil for 2 minutes before adding broth to unlock the galangal, lemongrass, and chili oils.",
     "costing": {
       "rawCost": 92.0,
       "sellingPrice": 400,
@@ -13308,7 +11937,7 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 77.0
     },
     "primarySauceId": "sauce-12",
-    "primarySauceName": "Thai Red & Yellow Curry Master Broth Base (Sauce #12)",
+    "primarySauceName": "Thai Curry Paste & Broth Master Base (Sauce #12)",
     "primarySauceQty": "50g Paste / 250ml Broth",
     "primarySauceStage": "Stage 2 (Simmer)"
   },
@@ -13348,7 +11977,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -13360,16 +11989,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -13387,7 +12006,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 48.6,
       "sellingPrice": 270,
@@ -13397,8 +12016,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1y7h6v",
@@ -13436,7 +12055,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -13448,16 +12067,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -13475,7 +12084,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 70.4,
       "sellingPrice": 320,
@@ -13485,8 +12094,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yl3ve",
@@ -13524,7 +12133,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -13536,16 +12145,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -13563,7 +12162,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 51.3,
       "sellingPrice": 270,
@@ -13573,8 +12172,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1ygjz1",
@@ -13612,7 +12211,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 4.5
       },
       {
@@ -13624,16 +12223,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -13651,7 +12240,7 @@ window.INDUS_BIBLE = {
       "Fold in spring onion greens and remove from flame."
     ],
     "plating": "Mound in a warm bowl with a clean dome or package in an insulated delivery container. Top with crispy garlic chips or roasted sesame.",
-    "chefTip": "Freshly cooked warm rice will turn into mush in the wok. Only use rice that has rested in the refrigerator for at least 6 hours.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 66.7,
       "sellingPrice": 290,
@@ -13661,8 +12250,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1ynt77",
@@ -13700,7 +12289,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -13717,16 +12306,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -13745,7 +12324,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 70.2,
       "sellingPrice": 390,
@@ -13755,8 +12334,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yzvw9",
@@ -13794,7 +12373,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -13811,16 +12390,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -13839,7 +12408,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 99.0,
       "sellingPrice": 450,
@@ -13849,8 +12418,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yerir",
@@ -13888,7 +12457,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -13905,16 +12474,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -13933,7 +12492,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 74.1,
       "sellingPrice": 390,
@@ -13943,8 +12502,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1ylo1d",
@@ -13982,7 +12541,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -13999,16 +12558,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -14027,7 +12576,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 94.3,
       "sellingPrice": 410,
@@ -14037,8 +12586,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yw4us",
@@ -14076,7 +12625,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-        "qty": "40ml (1.5 Wok Ladles)",
+        "qty": "40ml (1.5 Ladles)",
         "cost": 14.0
       },
       {
@@ -14093,16 +12642,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -14121,7 +12660,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Supreme Hot Garlic Master Glaze (Sauce #04) (40ml (1.5 Ladles))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 72.0,
       "sellingPrice": 400,
@@ -14131,8 +12670,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-4",
     "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-    "primarySauceQty": "40ml (1.5 Wok Ladles)",
-    "primarySauceStage": "Stage 2 (Glaze Reduction)"
+    "primarySauceQty": "40ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Glaze reduction)"
   },
   {
     "id": "mmszgir1y7uay",
@@ -14170,7 +12709,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-        "qty": "40ml (1.5 Wok Ladles)",
+        "qty": "40ml (1.5 Ladles)",
         "cost": 14.0
       },
       {
@@ -14187,16 +12726,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -14215,7 +12744,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Supreme Hot Garlic Master Glaze (Sauce #04) (40ml (1.5 Ladles))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 101.2,
       "sellingPrice": 460,
@@ -14225,8 +12754,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-4",
     "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-    "primarySauceQty": "40ml (1.5 Wok Ladles)",
-    "primarySauceStage": "Stage 2 (Glaze Reduction)"
+    "primarySauceQty": "40ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Glaze reduction)"
   },
   {
     "id": "mmszgir1yk7ir",
@@ -14264,7 +12793,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-        "qty": "40ml (1.5 Wok Ladles)",
+        "qty": "40ml (1.5 Ladles)",
         "cost": 14.0
       },
       {
@@ -14281,16 +12810,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -14309,7 +12828,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Supreme Hot Garlic Master Glaze (Sauce #04) (40ml (1.5 Ladles))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 76.0,
       "sellingPrice": 400,
@@ -14319,8 +12838,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-4",
     "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-    "primarySauceQty": "40ml (1.5 Wok Ladles)",
-    "primarySauceStage": "Stage 2 (Glaze Reduction)"
+    "primarySauceQty": "40ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Glaze reduction)"
   },
   {
     "id": "mmszgir1yyk3h",
@@ -14358,7 +12877,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-        "qty": "40ml (1.5 Wok Ladles)",
+        "qty": "40ml (1.5 Ladles)",
         "cost": 14.0
       },
       {
@@ -14375,16 +12894,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -14403,7 +12912,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Supreme Hot Garlic Master Glaze (Sauce #04) (40ml (1.5 Ladles))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 96.6,
       "sellingPrice": 420,
@@ -14413,8 +12922,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-4",
     "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-    "primarySauceQty": "40ml (1.5 Wok Ladles)",
-    "primarySauceStage": "Stage 2 (Glaze Reduction)"
+    "primarySauceQty": "40ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 2 (Glaze reduction)"
   },
   {
     "id": "mmszgir1yh46p",
@@ -14452,7 +12961,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indo-Chinese Manchurian Mother Sauce Base (Sauce #03)",
-        "qty": "60ml Dry / 200ml Gravy",
+        "qty": "60ml (2 Ladles for Dry / 200ml for Gravy)",
         "cost": 14.0
       },
       {
@@ -14469,16 +12978,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -14497,7 +12996,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indo-Chinese Manchurian Mother Sauce Base (Sauce #03) (60ml (2 Ladles for Dry / 200ml for Gravy))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 68.4,
       "sellingPrice": 380,
@@ -14507,8 +13006,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-3",
     "primarySauceName": "Indo-Chinese Manchurian Mother Sauce Base (Sauce #03)",
-    "primarySauceQty": "60ml Dry / 200ml Gravy",
-    "primarySauceStage": "Stage 3 (Simmer Reduction)"
+    "primarySauceQty": "60ml (2 Ladles for Dry / 200ml for Gravy)",
+    "primarySauceStage": "Stage 3 (Simmer reduction)"
   },
   {
     "id": "mmszgir1y4e7t",
@@ -14546,7 +13045,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indo-Chinese Manchurian Mother Sauce Base (Sauce #03)",
-        "qty": "60ml Dry / 200ml Gravy",
+        "qty": "60ml (2 Ladles for Dry / 200ml for Gravy)",
         "cost": 14.0
       },
       {
@@ -14563,16 +13062,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -14591,7 +13080,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indo-Chinese Manchurian Mother Sauce Base (Sauce #03) (60ml (2 Ladles for Dry / 200ml for Gravy))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 96.8,
       "sellingPrice": 440,
@@ -14601,8 +13090,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-3",
     "primarySauceName": "Indo-Chinese Manchurian Mother Sauce Base (Sauce #03)",
-    "primarySauceQty": "60ml Dry / 200ml Gravy",
-    "primarySauceStage": "Stage 3 (Simmer Reduction)"
+    "primarySauceQty": "60ml (2 Ladles for Dry / 200ml for Gravy)",
+    "primarySauceStage": "Stage 3 (Simmer reduction)"
   },
   {
     "id": "mmszgir1yxg8g",
@@ -14640,7 +13129,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indo-Chinese Manchurian Mother Sauce Base (Sauce #03)",
-        "qty": "60ml Dry / 200ml Gravy",
+        "qty": "60ml (2 Ladles for Dry / 200ml for Gravy)",
         "cost": 14.0
       },
       {
@@ -14657,16 +13146,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -14685,7 +13164,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indo-Chinese Manchurian Mother Sauce Base (Sauce #03) (60ml (2 Ladles for Dry / 200ml for Gravy))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 72.2,
       "sellingPrice": 380,
@@ -14695,8 +13174,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-3",
     "primarySauceName": "Indo-Chinese Manchurian Mother Sauce Base (Sauce #03)",
-    "primarySauceQty": "60ml Dry / 200ml Gravy",
-    "primarySauceStage": "Stage 3 (Simmer Reduction)"
+    "primarySauceQty": "60ml (2 Ladles for Dry / 200ml for Gravy)",
+    "primarySauceStage": "Stage 3 (Simmer reduction)"
   },
   {
     "id": "mmszgir1yxtsq",
@@ -14734,7 +13213,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indo-Chinese Manchurian Mother Sauce Base (Sauce #03)",
-        "qty": "60ml Dry / 200ml Gravy",
+        "qty": "60ml (2 Ladles for Dry / 200ml for Gravy)",
         "cost": 14.0
       },
       {
@@ -14751,16 +13230,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -14779,7 +13248,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indo-Chinese Manchurian Mother Sauce Base (Sauce #03) (60ml (2 Ladles for Dry / 200ml for Gravy))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 92.0,
       "sellingPrice": 400,
@@ -14789,8 +13258,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-3",
     "primarySauceName": "Indo-Chinese Manchurian Mother Sauce Base (Sauce #03)",
-    "primarySauceQty": "60ml Dry / 200ml Gravy",
-    "primarySauceStage": "Stage 3 (Simmer Reduction)"
+    "primarySauceQty": "60ml (2 Ladles for Dry / 200ml for Gravy)",
+    "primarySauceStage": "Stage 3 (Simmer reduction)"
   },
   {
     "id": "mmszgir1yykju",
@@ -14828,7 +13297,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -14845,16 +13314,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -14873,7 +13332,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 72.0,
       "sellingPrice": 400,
@@ -14883,8 +13342,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yxsfi",
@@ -14922,7 +13381,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -14939,16 +13398,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -14967,7 +13416,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 101.2,
       "sellingPrice": 460,
@@ -14977,8 +13426,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yj2ox",
@@ -15016,7 +13465,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -15033,16 +13482,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -15061,7 +13500,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 77.9,
       "sellingPrice": 410,
@@ -15071,8 +13510,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yqlt5",
@@ -15110,7 +13549,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -15127,16 +13566,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -15155,7 +13584,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 98.9,
       "sellingPrice": 430,
@@ -15165,8 +13594,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1y4wqs",
@@ -15204,7 +13633,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -15221,16 +13650,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -15249,7 +13668,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 72.0,
       "sellingPrice": 400,
@@ -15259,8 +13678,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yoc9u",
@@ -15298,7 +13717,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -15315,16 +13734,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -15343,7 +13752,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 101.2,
       "sellingPrice": 460,
@@ -15353,8 +13762,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1ygyb5",
@@ -15392,7 +13801,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -15409,16 +13818,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -15437,7 +13836,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 76.0,
       "sellingPrice": 400,
@@ -15447,8 +13846,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yxhec",
@@ -15486,7 +13885,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -15503,16 +13902,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -15531,7 +13920,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 105.8,
       "sellingPrice": 460,
@@ -15541,8 +13930,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yz6md",
@@ -15580,7 +13969,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -15597,16 +13986,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -15625,7 +14004,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 72.0,
       "sellingPrice": 400,
@@ -15635,8 +14014,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1y8ims",
@@ -15674,7 +14053,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -15691,16 +14070,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -15719,7 +14088,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 105.6,
       "sellingPrice": 480,
@@ -15729,8 +14098,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yhqee",
@@ -15768,7 +14137,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -15785,16 +14154,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -15813,7 +14172,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 79.8,
       "sellingPrice": 420,
@@ -15823,8 +14182,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1ywv8p",
@@ -15862,7 +14221,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -15879,16 +14238,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -15907,7 +14256,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 105.8,
       "sellingPrice": 460,
@@ -15917,8 +14266,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yyw3n",
@@ -15956,7 +14305,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-        "qty": "45ml (1.5 Wok Ladles)",
+        "qty": "45ml (1.5 Ladles)",
         "cost": 14.0
       },
       {
@@ -15973,16 +14322,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -16001,7 +14340,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Signature Red Schezwan Mother Paste (Sauce #01) (45ml (1.5 Ladles))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
+    "chefTip": "Chef Secret: For Triple Schezwan, prepare the red gravy with 2 tbsp Schezwan Paste + 1 tbsp Tomato Sauce + 1/2 tsp Magic Seasoning and serve in a separate bowl with crispy fried noodles on top.",
     "costing": {
       "rawCost": 63.0,
       "sellingPrice": 350,
@@ -16011,7 +14350,7 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-1",
     "primarySauceName": "Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-    "primarySauceQty": "45ml (1.5 Wok Ladles)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9 after aromatics)"
   },
   {
@@ -16050,7 +14389,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-        "qty": "45ml (1.5 Wok Ladles)",
+        "qty": "45ml (1.5 Ladles)",
         "cost": 14.0
       },
       {
@@ -16067,16 +14406,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -16095,7 +14424,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Signature Red Schezwan Mother Paste (Sauce #01) (45ml (1.5 Ladles))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
+    "chefTip": "Chef Secret: For Triple Schezwan, prepare the red gravy with 2 tbsp Schezwan Paste + 1 tbsp Tomato Sauce + 1/2 tsp Magic Seasoning and serve in a separate bowl with crispy fried noodles on top.",
     "costing": {
       "rawCost": 88.0,
       "sellingPrice": 400,
@@ -16105,7 +14434,7 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-1",
     "primarySauceName": "Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-    "primarySauceQty": "45ml (1.5 Wok Ladles)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9 after aromatics)"
   },
   {
@@ -16144,7 +14473,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-        "qty": "45ml (1.5 Wok Ladles)",
+        "qty": "45ml (1.5 Ladles)",
         "cost": 14.0
       },
       {
@@ -16161,16 +14490,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -16189,7 +14508,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Signature Red Schezwan Mother Paste (Sauce #01) (45ml (1.5 Ladles))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
+    "chefTip": "Chef Secret: For Triple Schezwan, prepare the red gravy with 2 tbsp Schezwan Paste + 1 tbsp Tomato Sauce + 1/2 tsp Magic Seasoning and serve in a separate bowl with crispy fried noodles on top.",
     "costing": {
       "rawCost": 68.4,
       "sellingPrice": 360,
@@ -16199,7 +14518,7 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-1",
     "primarySauceName": "Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-    "primarySauceQty": "45ml (1.5 Wok Ladles)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9 after aromatics)"
   },
   {
@@ -16238,7 +14557,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-        "qty": "45ml (1.5 Wok Ladles)",
+        "qty": "45ml (1.5 Ladles)",
         "cost": 14.0
       },
       {
@@ -16255,16 +14574,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -16283,7 +14592,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Signature Red Schezwan Mother Paste (Sauce #01) (45ml (1.5 Ladles))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
+    "chefTip": "Chef Secret: For Triple Schezwan, prepare the red gravy with 2 tbsp Schezwan Paste + 1 tbsp Tomato Sauce + 1/2 tsp Magic Seasoning and serve in a separate bowl with crispy fried noodles on top.",
     "costing": {
       "rawCost": 85.1,
       "sellingPrice": 370,
@@ -16293,7 +14602,7 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-1",
     "primarySauceName": "Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-    "primarySauceQty": "45ml (1.5 Wok Ladles)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9 after aromatics)"
   },
   {
@@ -16332,7 +14641,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -16349,16 +14658,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -16377,7 +14676,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 66.6,
       "sellingPrice": 370,
@@ -16387,8 +14686,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1ycd13",
@@ -16426,7 +14725,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -16443,16 +14742,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -16471,7 +14760,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 96.8,
       "sellingPrice": 440,
@@ -16481,8 +14770,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yu4wq",
@@ -16520,7 +14809,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -16537,16 +14826,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -16565,7 +14844,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 72.2,
       "sellingPrice": 380,
@@ -16575,8 +14854,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yh0c5",
@@ -16614,7 +14893,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -16631,16 +14910,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -16659,7 +14928,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 92.0,
       "sellingPrice": 400,
@@ -16669,8 +14938,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yjl6s",
@@ -16708,7 +14977,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -16725,16 +14994,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -16753,7 +15012,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 72.0,
       "sellingPrice": 400,
@@ -16763,8 +15022,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1youcu",
@@ -16802,7 +15061,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -16819,16 +15078,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -16847,7 +15096,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 101.2,
       "sellingPrice": 460,
@@ -16857,8 +15106,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1ytehc",
@@ -16896,7 +15145,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -16913,16 +15162,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -16941,7 +15180,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 77.9,
       "sellingPrice": 410,
@@ -16951,8 +15190,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yic8z",
@@ -16990,7 +15229,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -17007,16 +15246,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -17035,7 +15264,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 98.9,
       "sellingPrice": 430,
@@ -17045,8 +15274,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yuqtx",
@@ -17084,7 +15313,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -17101,16 +15330,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -17129,7 +15348,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 72.0,
       "sellingPrice": 400,
@@ -17139,8 +15358,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yyls6",
@@ -17178,7 +15397,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -17195,16 +15414,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -17223,7 +15432,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 101.2,
       "sellingPrice": 460,
@@ -17233,8 +15442,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1y78v4",
@@ -17272,7 +15481,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -17289,16 +15498,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -17317,7 +15516,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 77.9,
       "sellingPrice": 410,
@@ -17327,8 +15526,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yksuu",
@@ -17366,7 +15565,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 14.0
       },
       {
@@ -17383,16 +15582,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -17411,7 +15600,7 @@ window.INDUS_BIBLE = {
       "Carefully ladle the piping hot sizzling gravy over the mound of wok-toasted rice. [\u2192 USE: Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02) (25ml Squeeze (Rim sizzle))]"
     ],
     "plating": "Serve immediately in a deep heated Asian ceramic bowl or cast-iron claypot. Garnish with a ring of finely sliced scallion greens and toasted sesame.",
-    "chefTip": "Never pour cold slurry directly into hot broth without stirring; it causes clumps. Always swirl sesame oil at the very end off the flame to preserve volatile aromatics.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 98.9,
       "sellingPrice": 430,
@@ -17421,8 +15610,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yyo5v",
@@ -17465,18 +15654,8 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze",
         "cost": 5.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -17493,7 +15672,7 @@ window.INDUS_BIBLE = {
       "Drizzle chili sesame oil and scatter scallions."
     ],
     "plating": "Serve in authentic heavy ceramic ramen bowl with wooden soup ladle and chopsticks.",
-    "chefTip": "Broth must be piping hot (90\u00b0C+) when poured into the bowl to warm the toppings instantly.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 121.0,
       "sellingPrice": 550,
@@ -17503,8 +15682,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1yxqxm",
@@ -17546,19 +15725,9 @@ window.INDUS_BIBLE = {
         "cost": 10.0
       },
       {
-        "item": "\u2605 Spicy Japanese Mayo & Cream Cheese Drizzle (Sauce #14)",
-        "qty": "25ml Squeeze Drizzle",
+        "item": "\u2605 Japanese Seasoned Vinegar Tare & Teriyaki Drizzle",
+        "qty": "20ml Drizzle",
         "cost": 5.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -17575,7 +15744,7 @@ window.INDUS_BIBLE = {
       "Drizzle chili sesame oil and scatter scallions."
     ],
     "plating": "Serve in authentic heavy ceramic ramen bowl with wooden soup ladle and chopsticks.",
-    "chefTip": "Broth must be piping hot (90\u00b0C+) when poured into the bowl to warm the toppings instantly.",
+    "chefTip": "Chef Secret: Whip Japanese Mayo with Sriracha, softened Cream Cheese, and a touch of Honey for a silky, rich spicy sushi drizzle.",
     "costing": {
       "rawCost": 121.0,
       "sellingPrice": 550,
@@ -17583,10 +15752,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 429.0,
       "grossMarginPct": 78.0
     },
-    "primarySauceId": "sauce-14",
-    "primarySauceName": "Spicy Japanese Mayo & Cream Cheese Drizzle (Sauce #14)",
-    "primarySauceQty": "25ml Squeeze Drizzle",
-    "primarySauceStage": "Roll Filling & Top Stripe"
+    "primarySauceId": "sauce-9",
+    "primarySauceName": "Japanese Seasoned Vinegar Tare & Teriyaki Drizzle",
+    "primarySauceQty": "20ml Drizzle",
+    "primarySauceStage": "Sushi Glaze"
   },
   {
     "id": "mmszgir1ybvz0",
@@ -17628,19 +15797,9 @@ window.INDUS_BIBLE = {
         "cost": 10.0
       },
       {
-        "item": "\u2605 Teriyaki & Hoisin Master Glaze (Sauce #09)",
-        "qty": "40ml (1.5 Wok Ladles)",
+        "item": "\u2605 Japanese Teriyaki & Yakitori Glaze (Sauce #09)",
+        "qty": "40ml (1.5 Ladles)",
         "cost": 5.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -17657,7 +15816,7 @@ window.INDUS_BIBLE = {
       "Drizzle chili sesame oil and scatter scallions."
     ],
     "plating": "Serve in authentic heavy ceramic ramen bowl with wooden soup ladle and chopsticks.",
-    "chefTip": "Broth must be piping hot (90\u00b0C+) when poured into the bowl to warm the toppings instantly.",
+    "chefTip": "Chef Secret: Combine Bottled Teriyaki Sauce with 1 tsp Hoisin Sauce and 1 tsp Honey for a mirror-like lacquer glaze that clings to proteins.",
     "costing": {
       "rawCost": 103.5,
       "sellingPrice": 450,
@@ -17666,9 +15825,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 77.0
     },
     "primarySauceId": "sauce-9",
-    "primarySauceName": "Teriyaki & Hoisin Master Glaze (Sauce #09)",
-    "primarySauceQty": "40ml (1.5 Wok Ladles)",
-    "primarySauceStage": "Stage 3 (Lacquer Glaze)"
+    "primarySauceName": "Japanese Teriyaki & Yakitori Glaze (Sauce #09)",
+    "primarySauceQty": "40ml (1.5 Ladles)",
+    "primarySauceStage": "Stage 3 (Lacquer glaze)"
   },
   {
     "id": "mmszgir1yzdcn",
@@ -17710,19 +15869,9 @@ window.INDUS_BIBLE = {
         "cost": 10.0
       },
       {
-        "item": "\u2605 Spicy Japanese Mayo & Cream Cheese Drizzle (Sauce #14)",
-        "qty": "25ml Squeeze Drizzle",
+        "item": "\u2605 Japanese Seasoned Vinegar Tare & Teriyaki Drizzle",
+        "qty": "20ml Drizzle",
         "cost": 5.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -17739,7 +15888,7 @@ window.INDUS_BIBLE = {
       "Drizzle chili sesame oil and scatter scallions."
     ],
     "plating": "Serve in authentic heavy ceramic ramen bowl with wooden soup ladle and chopsticks.",
-    "chefTip": "Broth must be piping hot (90\u00b0C+) when poured into the bowl to warm the toppings instantly.",
+    "chefTip": "Chef Secret: Whip Japanese Mayo with Sriracha, softened Cream Cheese, and a touch of Honey for a silky, rich spicy sushi drizzle.",
     "costing": {
       "rawCost": 90.0,
       "sellingPrice": 500,
@@ -17747,10 +15896,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 410.0,
       "grossMarginPct": 82.0
     },
-    "primarySauceId": "sauce-14",
-    "primarySauceName": "Spicy Japanese Mayo & Cream Cheese Drizzle (Sauce #14)",
-    "primarySauceQty": "25ml Squeeze Drizzle",
-    "primarySauceStage": "Roll Filling & Top Stripe"
+    "primarySauceId": "sauce-9",
+    "primarySauceName": "Japanese Seasoned Vinegar Tare & Teriyaki Drizzle",
+    "primarySauceQty": "20ml Drizzle",
+    "primarySauceStage": "Sushi Glaze"
   },
   {
     "id": "mmszgir1y33ix",
@@ -17792,19 +15941,9 @@ window.INDUS_BIBLE = {
         "cost": 10.0
       },
       {
-        "item": "\u2605 Spicy Japanese Mayo & Cream Cheese Drizzle (Sauce #14)",
-        "qty": "25ml Squeeze Drizzle",
+        "item": "\u2605 Japanese Seasoned Vinegar Tare & Teriyaki Drizzle",
+        "qty": "20ml Drizzle",
         "cost": 5.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -17821,7 +15960,7 @@ window.INDUS_BIBLE = {
       "Drizzle chili sesame oil and scatter scallions."
     ],
     "plating": "Serve in authentic heavy ceramic ramen bowl with wooden soup ladle and chopsticks.",
-    "chefTip": "Broth must be piping hot (90\u00b0C+) when poured into the bowl to warm the toppings instantly.",
+    "chefTip": "Chef Secret: Whip Japanese Mayo with Sriracha, softened Cream Cheese, and a touch of Honey for a silky, rich spicy sushi drizzle.",
     "costing": {
       "rawCost": 90.0,
       "sellingPrice": 500,
@@ -17829,10 +15968,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 410.0,
       "grossMarginPct": 82.0
     },
-    "primarySauceId": "sauce-14",
-    "primarySauceName": "Spicy Japanese Mayo & Cream Cheese Drizzle (Sauce #14)",
-    "primarySauceQty": "25ml Squeeze Drizzle",
-    "primarySauceStage": "Roll Filling & Top Stripe"
+    "primarySauceId": "sauce-9",
+    "primarySauceName": "Japanese Seasoned Vinegar Tare & Teriyaki Drizzle",
+    "primarySauceQty": "20ml Drizzle",
+    "primarySauceStage": "Sushi Glaze"
   },
   {
     "id": "mmszgir1ygwmo",
@@ -17874,19 +16013,9 @@ window.INDUS_BIBLE = {
         "cost": 10.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Rich Miso/Shoyu Tare & Ramen Broth",
+        "qty": "300ml Piping Hot Broth",
         "cost": 5.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -17903,7 +16032,7 @@ window.INDUS_BIBLE = {
       "Drizzle chili sesame oil and scatter scallions."
     ],
     "plating": "Serve in authentic heavy ceramic ramen bowl with wooden soup ladle and chopsticks.",
-    "chefTip": "Broth must be piping hot (90\u00b0C+) when poured into the bowl to warm the toppings instantly.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 99.0,
       "sellingPrice": 450,
@@ -17911,10 +16040,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 351.0,
       "grossMarginPct": 78.0
     },
-    "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceId": "sauce-12",
+    "primarySauceName": "Indus Rich Miso/Shoyu Tare & Ramen Broth",
+    "primarySauceQty": "300ml Piping Hot Broth",
+    "primarySauceStage": "Bowl Assembly"
   },
   {
     "id": "mmszgir1y8pas",
@@ -17956,19 +16085,9 @@ window.INDUS_BIBLE = {
         "cost": 10.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Rich Miso/Shoyu Tare & Ramen Broth",
+        "qty": "300ml Piping Hot Broth",
         "cost": 5.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -17985,7 +16104,7 @@ window.INDUS_BIBLE = {
       "Drizzle chili sesame oil and scatter scallions."
     ],
     "plating": "Serve in authentic heavy ceramic ramen bowl with wooden soup ladle and chopsticks.",
-    "chefTip": "Broth must be piping hot (90\u00b0C+) when poured into the bowl to warm the toppings instantly.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 81.0,
       "sellingPrice": 450,
@@ -17993,10 +16112,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 369.0,
       "grossMarginPct": 82.0
     },
-    "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceId": "sauce-12",
+    "primarySauceName": "Indus Rich Miso/Shoyu Tare & Ramen Broth",
+    "primarySauceQty": "300ml Piping Hot Broth",
+    "primarySauceStage": "Bowl Assembly"
   },
   {
     "id": "mmszgir1ya3wb",
@@ -18038,19 +16157,9 @@ window.INDUS_BIBLE = {
         "cost": 10.0
       },
       {
-        "item": "\u2605 Korean Spicy Glaze (Sriracha & Hoisin - Sauce #10)",
-        "qty": "40ml (1.5 Wok Ladles)",
+        "item": "\u2605 Korean Gochujang Spicy Glaze (Sauce #10)",
+        "qty": "45ml (1.5 Ladles)",
         "cost": 5.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -18067,7 +16176,7 @@ window.INDUS_BIBLE = {
       "Drizzle chili sesame oil and scatter scallions."
     ],
     "plating": "Serve in authentic heavy ceramic ramen bowl with wooden soup ladle and chopsticks.",
-    "chefTip": "Broth must be piping hot (90\u00b0C+) when poured into the bowl to warm the toppings instantly.",
+    "chefTip": "Chef Secret: Mix 2 tbsp Sriracha Sauce + 1 tbsp Hoisin Sauce + 1 tbsp Tomato Sauce + 1 tsp Honey + 1/2 tsp Tahini for a rich Korean street-style glaze.",
     "costing": {
       "rawCost": 103.4,
       "sellingPrice": 470,
@@ -18076,8 +16185,8 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 78.0
     },
     "primarySauceId": "sauce-10",
-    "primarySauceName": "Korean Spicy Glaze (Sriracha & Hoisin - Sauce #10)",
-    "primarySauceQty": "40ml (1.5 Wok Ladles)",
+    "primarySauceName": "Korean Gochujang Spicy Glaze (Sauce #10)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9)"
   },
   {
@@ -18120,19 +16229,9 @@ window.INDUS_BIBLE = {
         "cost": 10.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Rich Miso/Shoyu Tare & Ramen Broth",
+        "qty": "300ml Piping Hot Broth",
         "cost": 5.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -18149,7 +16248,7 @@ window.INDUS_BIBLE = {
       "Drizzle chili sesame oil and scatter scallions."
     ],
     "plating": "Serve in authentic heavy ceramic ramen bowl with wooden soup ladle and chopsticks.",
-    "chefTip": "Broth must be piping hot (90\u00b0C+) when poured into the bowl to warm the toppings instantly.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 101.2,
       "sellingPrice": 460,
@@ -18157,10 +16256,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 358.8,
       "grossMarginPct": 78.0
     },
-    "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceId": "sauce-12",
+    "primarySauceName": "Indus Rich Miso/Shoyu Tare & Ramen Broth",
+    "primarySauceQty": "300ml Piping Hot Broth",
+    "primarySauceStage": "Bowl Assembly"
   },
   {
     "id": "mmszgir1ysayl",
@@ -18202,19 +16301,9 @@ window.INDUS_BIBLE = {
         "cost": 10.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Rich Miso/Shoyu Tare & Ramen Broth",
+        "qty": "300ml Piping Hot Broth",
         "cost": 5.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -18231,7 +16320,7 @@ window.INDUS_BIBLE = {
       "Drizzle chili sesame oil and scatter scallions."
     ],
     "plating": "Serve in authentic heavy ceramic ramen bowl with wooden soup ladle and chopsticks.",
-    "chefTip": "Broth must be piping hot (90\u00b0C+) when poured into the bowl to warm the toppings instantly.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 154.0,
       "sellingPrice": 550,
@@ -18239,10 +16328,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 396.0,
       "grossMarginPct": 72.0
     },
-    "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceId": "sauce-12",
+    "primarySauceName": "Indus Rich Miso/Shoyu Tare & Ramen Broth",
+    "primarySauceQty": "300ml Piping Hot Broth",
+    "primarySauceStage": "Bowl Assembly"
   },
   {
     "id": "mmszgir1ydep7",
@@ -18284,19 +16373,9 @@ window.INDUS_BIBLE = {
         "cost": 10.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Rich Miso/Shoyu Tare & Ramen Broth",
+        "qty": "300ml Piping Hot Broth",
         "cost": 5.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -18313,7 +16392,7 @@ window.INDUS_BIBLE = {
       "Drizzle chili sesame oil and scatter scallions."
     ],
     "plating": "Serve in authentic heavy ceramic ramen bowl with wooden soup ladle and chopsticks.",
-    "chefTip": "Broth must be piping hot (90\u00b0C+) when poured into the bowl to warm the toppings instantly.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 86.4,
       "sellingPrice": 480,
@@ -18321,10 +16400,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 393.6,
       "grossMarginPct": 82.0
     },
-    "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceId": "sauce-12",
+    "primarySauceName": "Indus Rich Miso/Shoyu Tare & Ramen Broth",
+    "primarySauceQty": "300ml Piping Hot Broth",
+    "primarySauceStage": "Bowl Assembly"
   },
   {
     "id": "mmszgir1ykyq7",
@@ -18366,19 +16445,9 @@ window.INDUS_BIBLE = {
         "cost": 10.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Rich Miso/Shoyu Tare & Ramen Broth",
+        "qty": "300ml Piping Hot Broth",
         "cost": 5.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -18395,7 +16464,7 @@ window.INDUS_BIBLE = {
       "Drizzle chili sesame oil and scatter scallions."
     ],
     "plating": "Serve in authentic heavy ceramic ramen bowl with wooden soup ladle and chopsticks.",
-    "chefTip": "Broth must be piping hot (90\u00b0C+) when poured into the bowl to warm the toppings instantly.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 105.6,
       "sellingPrice": 480,
@@ -18403,10 +16472,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 374.4,
       "grossMarginPct": 78.0
     },
-    "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceId": "sauce-12",
+    "primarySauceName": "Indus Rich Miso/Shoyu Tare & Ramen Broth",
+    "primarySauceQty": "300ml Piping Hot Broth",
+    "primarySauceStage": "Bowl Assembly"
   },
   {
     "id": "mmszgir1ysk7l",
@@ -18434,7 +16503,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -18446,16 +16515,6 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -18471,7 +16530,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Maintain extreme wok heat for signature smokiness.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 110.4,
       "sellingPrice": 480,
@@ -18481,8 +16540,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1yhwqm",
@@ -18510,7 +16569,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-        "qty": "45ml (1.5 Wok Ladles)",
+        "qty": "45ml (1.5 Ladles)",
         "cost": 6.0
       },
       {
@@ -18522,16 +16581,6 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -18547,7 +16596,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Maintain extreme wok heat for signature smokiness.",
+    "chefTip": "Chef Secret: For Triple Schezwan, prepare the red gravy with 2 tbsp Schezwan Paste + 1 tbsp Tomato Sauce + 1/2 tsp Magic Seasoning and serve in a separate bowl with crispy fried noodles on top.",
     "costing": {
       "rawCost": 119.6,
       "sellingPrice": 520,
@@ -18557,7 +16606,7 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-1",
     "primarySauceName": "Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-    "primarySauceQty": "45ml (1.5 Wok Ladles)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9 after aromatics)"
   },
   {
@@ -18585,8 +16634,8 @@ window.INDUS_BIBLE = {
         "cost": 8.0
       },
       {
-        "item": "\u2605 Black Pepper & Oyster Master Glaze (Sauce #07)",
-        "qty": "35ml (1 Wok Ladle)",
+        "item": "\u2605 Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+        "qty": "35ml (1 Ladle)",
         "cost": 6.0
       },
       {
@@ -18598,16 +16647,6 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -18623,7 +16662,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Maintain extreme wok heat for signature smokiness.",
+    "chefTip": "Chef Secret: Coarsely crush black peppercorns (do not use fine powder) and bloom in hot oil with 1 tbsp Oyster Sauce and 1 tbsp Dark Soya for bold aromatic warmth.",
     "costing": {
       "rawCost": 92.0,
       "sellingPrice": 400,
@@ -18632,9 +16671,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 77.0
     },
     "primarySauceId": "sauce-7",
-    "primarySauceName": "Black Pepper & Oyster Master Glaze (Sauce #07)",
-    "primarySauceQty": "35ml (1 Wok Ladle)",
-    "primarySauceStage": "Stage 2 (Aromatics Deglaze)"
+    "primarySauceName": "Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+    "primarySauceQty": "35ml (1 Ladle)",
+    "primarySauceStage": "Stage 2 (Aromatics deglaze)"
   },
   {
     "id": "mmszgir1yyapj",
@@ -18662,7 +16701,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -18674,16 +16713,6 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -18699,7 +16728,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Maintain extreme wok heat for signature smokiness.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 126.5,
       "sellingPrice": 550,
@@ -18709,8 +16738,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1yg355",
@@ -18738,7 +16767,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -18750,16 +16779,6 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -18775,7 +16794,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Maintain extreme wok heat for signature smokiness.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 138.0,
       "sellingPrice": 600,
@@ -18785,8 +16804,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1yyvfq",
@@ -18814,7 +16833,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -18826,16 +16845,6 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -18851,7 +16860,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Maintain extreme wok heat for signature smokiness.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 90.0,
       "sellingPrice": 500,
@@ -18861,8 +16870,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1ypjap",
@@ -18889,8 +16898,8 @@ window.INDUS_BIBLE = {
         "cost": 8.0
       },
       {
-        "item": "\u2605 Artisanal Momo Sesame Dip & Spicy Jhol Broth (Sauce #13)",
-        "qty": "150ml Warm Broth / 40ml Dip",
+        "item": "\u2605 Artisanal Momo Jhol Broth & Chutney (Sauce #13)",
+        "qty": "150ml Warm Broth / 40ml Chutney",
         "cost": 6.0
       },
       {
@@ -18902,16 +16911,6 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -18927,7 +16926,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Maintain extreme wok heat for signature smokiness.",
+    "chefTip": "Chef Secret: Blend Tahini with Tomato Sauce, Sriracha, garlic, and hot broth for a nutty, aromatic Himalayan Jhol dip.",
     "costing": {
       "rawCost": 32.2,
       "sellingPrice": 140,
@@ -18936,9 +16935,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 77.0
     },
     "primarySauceId": "sauce-13",
-    "primarySauceName": "Artisanal Momo Sesame Dip & Spicy Jhol Broth (Sauce #13)",
-    "primarySauceQty": "150ml Warm Broth / 40ml Dip",
-    "primarySauceStage": "Pour-Over / Side Cup"
+    "primarySauceName": "Artisanal Momo Jhol Broth & Chutney (Sauce #13)",
+    "primarySauceQty": "150ml Warm Broth / 40ml Chutney",
+    "primarySauceStage": "Accompaniment / Pour-over"
   },
   {
     "id": "mmszgir1yz0lp",
@@ -18965,8 +16964,8 @@ window.INDUS_BIBLE = {
         "cost": 8.0
       },
       {
-        "item": "\u2605 Artisanal Momo Sesame Dip & Spicy Jhol Broth (Sauce #13)",
-        "qty": "150ml Warm Broth / 40ml Dip",
+        "item": "\u2605 Artisanal Momo Jhol Broth & Chutney (Sauce #13)",
+        "qty": "150ml Warm Broth / 40ml Chutney",
         "cost": 6.0
       },
       {
@@ -18978,16 +16977,6 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -19003,7 +16992,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Maintain extreme wok heat for signature smokiness.",
+    "chefTip": "Chef Secret: Blend Tahini with Tomato Sauce, Sriracha, garlic, and hot broth for a nutty, aromatic Himalayan Jhol dip.",
     "costing": {
       "rawCost": 43.7,
       "sellingPrice": 190,
@@ -19012,9 +17001,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 77.0
     },
     "primarySauceId": "sauce-13",
-    "primarySauceName": "Artisanal Momo Sesame Dip & Spicy Jhol Broth (Sauce #13)",
-    "primarySauceQty": "150ml Warm Broth / 40ml Dip",
-    "primarySauceStage": "Pour-Over / Side Cup"
+    "primarySauceName": "Artisanal Momo Jhol Broth & Chutney (Sauce #13)",
+    "primarySauceQty": "150ml Warm Broth / 40ml Chutney",
+    "primarySauceStage": "Accompaniment / Pour-over"
   },
   {
     "id": "mmszgir1y42es",
@@ -19042,7 +17031,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -19054,16 +17043,6 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -19079,7 +17058,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Maintain extreme wok heat for signature smokiness.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 3.6,
       "sellingPrice": 20,
@@ -19089,8 +17068,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1yu47j",
@@ -19118,7 +17097,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -19130,16 +17109,6 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -19155,7 +17124,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Maintain extreme wok heat for signature smokiness.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 8.1,
       "sellingPrice": 45,
@@ -19165,8 +17134,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1ysvqb",
@@ -19194,7 +17163,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -19206,16 +17175,6 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -19231,7 +17190,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Maintain extreme wok heat for signature smokiness.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 1.8,
       "sellingPrice": 10,
@@ -19241,8 +17200,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1ykbew",
@@ -19270,7 +17229,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -19282,16 +17241,6 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -19307,7 +17256,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Maintain extreme wok heat for signature smokiness.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 3.6,
       "sellingPrice": 20,
@@ -19317,8 +17266,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1yb9dm",
@@ -19346,7 +17295,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -19358,16 +17307,6 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -19383,7 +17322,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Maintain extreme wok heat for signature smokiness.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 3.6,
       "sellingPrice": 20,
@@ -19393,8 +17332,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1yulip",
@@ -19422,7 +17361,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -19434,16 +17373,6 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -19459,7 +17388,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Maintain extreme wok heat for signature smokiness.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 1.8,
       "sellingPrice": 10,
@@ -19469,8 +17398,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1yigkd",
@@ -19498,7 +17427,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -19510,16 +17439,6 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -19535,7 +17454,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Maintain extreme wok heat for signature smokiness.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 8.1,
       "sellingPrice": 45,
@@ -19545,8 +17464,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1yu6zp",
@@ -19574,7 +17493,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -19586,16 +17505,6 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -19611,7 +17520,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Maintain extreme wok heat for signature smokiness.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 3.6,
       "sellingPrice": 20,
@@ -19621,8 +17530,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1ygcqt",
@@ -19650,7 +17559,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -19662,16 +17571,6 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -19687,7 +17586,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Maintain extreme wok heat for signature smokiness.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 3.6,
       "sellingPrice": 20,
@@ -19697,8 +17596,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1yjc1w",
@@ -19726,7 +17625,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -19738,16 +17637,6 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -19763,7 +17652,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Maintain extreme wok heat for signature smokiness.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 3.6,
       "sellingPrice": 20,
@@ -19773,8 +17662,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1ycvfr",
@@ -19802,7 +17691,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-        "qty": "45ml (1.5 Wok Ladles)",
+        "qty": "45ml (1.5 Ladles)",
         "cost": 6.0
       },
       {
@@ -19814,16 +17703,6 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -19839,7 +17718,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Maintain extreme wok heat for signature smokiness.",
+    "chefTip": "Chef Secret: For Triple Schezwan, prepare the red gravy with 2 tbsp Schezwan Paste + 1 tbsp Tomato Sauce + 1/2 tsp Magic Seasoning and serve in a separate bowl with crispy fried noodles on top.",
     "costing": {
       "rawCost": 3.6,
       "sellingPrice": 20,
@@ -19849,7 +17728,7 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-1",
     "primarySauceName": "Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-    "primarySauceQty": "45ml (1.5 Wok Ladles)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9 after aromatics)"
   },
   {
@@ -19878,7 +17757,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -19890,16 +17769,6 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -19915,7 +17784,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Maintain extreme wok heat for signature smokiness.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 3.6,
       "sellingPrice": 20,
@@ -19925,8 +17794,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1yvgo9",
@@ -19954,7 +17823,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -19966,16 +17835,6 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -19991,7 +17850,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Maintain extreme wok heat for signature smokiness.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 5.4,
       "sellingPrice": 30,
@@ -20001,8 +17860,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1ynoo3",
@@ -20030,7 +17889,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -20042,16 +17901,6 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -20067,7 +17916,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Maintain extreme wok heat for signature smokiness.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 20.0,
       "sellingPrice": 70,
@@ -20077,8 +17926,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1yhsph",
@@ -20106,7 +17955,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -20118,16 +17967,6 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -20143,7 +17982,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Maintain extreme wok heat for signature smokiness.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 9.2,
       "sellingPrice": 40,
@@ -20153,8 +17992,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1yno02",
@@ -20182,7 +18021,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -20194,16 +18033,6 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -20219,7 +18048,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Maintain extreme wok heat for signature smokiness.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 7.6,
       "sellingPrice": 40,
@@ -20229,8 +18058,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1ylpy2",
@@ -20258,7 +18087,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -20270,16 +18099,6 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -20295,7 +18114,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Maintain extreme wok heat for signature smokiness.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 5.4,
       "sellingPrice": 30,
@@ -20305,8 +18124,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1ygxbb",
@@ -20339,7 +18158,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -20356,16 +18175,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -20383,7 +18192,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 36.0,
       "sellingPrice": 200,
@@ -20393,8 +18202,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yxxhl",
@@ -20427,7 +18236,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -20444,16 +18253,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -20471,7 +18270,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 61.6,
       "sellingPrice": 280,
@@ -20481,8 +18280,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yf8bu",
@@ -20515,7 +18314,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -20532,16 +18331,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -20559,7 +18348,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 45.6,
       "sellingPrice": 240,
@@ -20569,8 +18358,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yw0ec",
@@ -20603,7 +18392,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -20620,16 +18409,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -20647,7 +18426,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 59.8,
       "sellingPrice": 260,
@@ -20657,8 +18436,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yjw3d",
@@ -20691,7 +18470,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-        "qty": "45ml (1.5 Wok Ladles)",
+        "qty": "45ml (1.5 Ladles)",
         "cost": 5.0
       },
       {
@@ -20708,16 +18487,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -20735,7 +18504,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: For Triple Schezwan, prepare the red gravy with 2 tbsp Schezwan Paste + 1 tbsp Tomato Sauce + 1/2 tsp Magic Seasoning and serve in a separate bowl with crispy fried noodles on top.",
     "costing": {
       "rawCost": 39.6,
       "sellingPrice": 220,
@@ -20745,7 +18514,7 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-1",
     "primarySauceName": "Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-    "primarySauceQty": "45ml (1.5 Wok Ladles)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9 after aromatics)"
   },
   {
@@ -20779,7 +18548,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-        "qty": "45ml (1.5 Wok Ladles)",
+        "qty": "45ml (1.5 Ladles)",
         "cost": 5.0
       },
       {
@@ -20796,16 +18565,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -20823,7 +18582,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: For Triple Schezwan, prepare the red gravy with 2 tbsp Schezwan Paste + 1 tbsp Tomato Sauce + 1/2 tsp Magic Seasoning and serve in a separate bowl with crispy fried noodles on top.",
     "costing": {
       "rawCost": 66.0,
       "sellingPrice": 300,
@@ -20833,7 +18592,7 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-1",
     "primarySauceName": "Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-    "primarySauceQty": "45ml (1.5 Wok Ladles)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9 after aromatics)"
   },
   {
@@ -20867,7 +18626,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-        "qty": "45ml (1.5 Wok Ladles)",
+        "qty": "45ml (1.5 Ladles)",
         "cost": 5.0
       },
       {
@@ -20884,16 +18643,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -20911,7 +18660,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: For Triple Schezwan, prepare the red gravy with 2 tbsp Schezwan Paste + 1 tbsp Tomato Sauce + 1/2 tsp Magic Seasoning and serve in a separate bowl with crispy fried noodles on top.",
     "costing": {
       "rawCost": 45.6,
       "sellingPrice": 240,
@@ -20921,7 +18670,7 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-1",
     "primarySauceName": "Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-    "primarySauceQty": "45ml (1.5 Wok Ladles)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9 after aromatics)"
   },
   {
@@ -20955,7 +18704,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-        "qty": "45ml (1.5 Wok Ladles)",
+        "qty": "45ml (1.5 Ladles)",
         "cost": 5.0
       },
       {
@@ -20972,16 +18721,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -20999,7 +18738,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: For Triple Schezwan, prepare the red gravy with 2 tbsp Schezwan Paste + 1 tbsp Tomato Sauce + 1/2 tsp Magic Seasoning and serve in a separate bowl with crispy fried noodles on top.",
     "costing": {
       "rawCost": 64.4,
       "sellingPrice": 280,
@@ -21009,7 +18748,7 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-1",
     "primarySauceName": "Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-    "primarySauceQty": "45ml (1.5 Wok Ladles)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9 after aromatics)"
   },
   {
@@ -21043,7 +18782,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -21060,16 +18799,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -21087,7 +18816,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 54.0,
       "sellingPrice": 300,
@@ -21097,8 +18826,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1ytej9",
@@ -21131,7 +18860,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -21148,16 +18877,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -21175,7 +18894,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 79.2,
       "sellingPrice": 360,
@@ -21185,8 +18904,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1ymeky",
@@ -21219,7 +18938,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -21236,16 +18955,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -21263,7 +18972,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 60.8,
       "sellingPrice": 320,
@@ -21273,8 +18982,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yvabt",
@@ -21307,7 +19016,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -21324,16 +19033,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -21351,7 +19050,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 82.8,
       "sellingPrice": 360,
@@ -21361,8 +19060,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1y3mf6",
@@ -21394,8 +19093,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "\u2605 Black Pepper & Oyster Master Glaze (Sauce #07)",
-        "qty": "35ml (1 Wok Ladle)",
+        "item": "\u2605 Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+        "qty": "35ml (1 Ladle)",
         "cost": 5.0
       },
       {
@@ -21412,16 +19111,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -21439,7 +19128,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Coarsely crush black peppercorns (do not use fine powder) and bloom in hot oil with 1 tbsp Oyster Sauce and 1 tbsp Dark Soya for bold aromatic warmth.",
     "costing": {
       "rawCost": 45.0,
       "sellingPrice": 250,
@@ -21448,9 +19137,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 82.0
     },
     "primarySauceId": "sauce-7",
-    "primarySauceName": "Black Pepper & Oyster Master Glaze (Sauce #07)",
-    "primarySauceQty": "35ml (1 Wok Ladle)",
-    "primarySauceStage": "Stage 2 (Aromatics Deglaze)"
+    "primarySauceName": "Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+    "primarySauceQty": "35ml (1 Ladle)",
+    "primarySauceStage": "Stage 2 (Aromatics deglaze)"
   },
   {
     "id": "mmszgir1yais4",
@@ -21482,8 +19171,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "\u2605 Black Pepper & Oyster Master Glaze (Sauce #07)",
-        "qty": "35ml (1 Wok Ladle)",
+        "item": "\u2605 Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+        "qty": "35ml (1 Ladle)",
         "cost": 5.0
       },
       {
@@ -21500,16 +19189,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -21527,7 +19206,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Coarsely crush black peppercorns (do not use fine powder) and bloom in hot oil with 1 tbsp Oyster Sauce and 1 tbsp Dark Soya for bold aromatic warmth.",
     "costing": {
       "rawCost": 66.0,
       "sellingPrice": 300,
@@ -21536,9 +19215,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 78.0
     },
     "primarySauceId": "sauce-7",
-    "primarySauceName": "Black Pepper & Oyster Master Glaze (Sauce #07)",
-    "primarySauceQty": "35ml (1 Wok Ladle)",
-    "primarySauceStage": "Stage 2 (Aromatics Deglaze)"
+    "primarySauceName": "Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+    "primarySauceQty": "35ml (1 Ladle)",
+    "primarySauceStage": "Stage 2 (Aromatics deglaze)"
   },
   {
     "id": "mmszgir1y8g1a",
@@ -21570,8 +19249,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "\u2605 Black Pepper & Oyster Master Glaze (Sauce #07)",
-        "qty": "35ml (1 Wok Ladle)",
+        "item": "\u2605 Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+        "qty": "35ml (1 Ladle)",
         "cost": 5.0
       },
       {
@@ -21588,16 +19267,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -21615,7 +19284,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Coarsely crush black peppercorns (do not use fine powder) and bloom in hot oil with 1 tbsp Oyster Sauce and 1 tbsp Dark Soya for bold aromatic warmth.",
     "costing": {
       "rawCost": 49.4,
       "sellingPrice": 260,
@@ -21624,9 +19293,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 81.0
     },
     "primarySauceId": "sauce-7",
-    "primarySauceName": "Black Pepper & Oyster Master Glaze (Sauce #07)",
-    "primarySauceQty": "35ml (1 Wok Ladle)",
-    "primarySauceStage": "Stage 2 (Aromatics Deglaze)"
+    "primarySauceName": "Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+    "primarySauceQty": "35ml (1 Ladle)",
+    "primarySauceStage": "Stage 2 (Aromatics deglaze)"
   },
   {
     "id": "mmszgir1y473j",
@@ -21658,8 +19327,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "\u2605 Black Pepper & Oyster Master Glaze (Sauce #07)",
-        "qty": "35ml (1 Wok Ladle)",
+        "item": "\u2605 Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+        "qty": "35ml (1 Ladle)",
         "cost": 5.0
       },
       {
@@ -21676,16 +19345,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -21703,7 +19362,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Coarsely crush black peppercorns (do not use fine powder) and bloom in hot oil with 1 tbsp Oyster Sauce and 1 tbsp Dark Soya for bold aromatic warmth.",
     "costing": {
       "rawCost": 64.4,
       "sellingPrice": 280,
@@ -21712,9 +19371,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 77.0
     },
     "primarySauceId": "sauce-7",
-    "primarySauceName": "Black Pepper & Oyster Master Glaze (Sauce #07)",
-    "primarySauceQty": "35ml (1 Wok Ladle)",
-    "primarySauceStage": "Stage 2 (Aromatics Deglaze)"
+    "primarySauceName": "Artisanal Black Bean & Garlic Sauce (Sauce #07)",
+    "primarySauceQty": "35ml (1 Ladle)",
+    "primarySauceStage": "Stage 2 (Aromatics deglaze)"
   },
   {
     "id": "mmszgir1y964b",
@@ -21747,7 +19406,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -21764,16 +19423,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -21791,7 +19440,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 41.4,
       "sellingPrice": 230,
@@ -21801,8 +19450,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yp9lo",
@@ -21835,7 +19484,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -21852,16 +19501,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -21879,7 +19518,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 66.0,
       "sellingPrice": 300,
@@ -21889,8 +19528,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yp5zn",
@@ -21923,7 +19562,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -21940,16 +19579,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -21967,7 +19596,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 47.5,
       "sellingPrice": 250,
@@ -21977,8 +19606,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1ye6hm",
@@ -22011,7 +19640,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -22028,16 +19657,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -22055,7 +19674,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 62.1,
       "sellingPrice": 270,
@@ -22065,8 +19684,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yc57n",
@@ -22098,8 +19717,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "\u2605 Singapore & Madras Curry Seasoning Sauce (Sauce #11)",
-        "qty": "30ml (1 Wok Ladle)",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -22116,16 +19735,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -22143,7 +19752,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Bloom 1 tsp Madras Curry Powder in medium-hot oil for 30 seconds before adding rice/noodles to release the essential curry aromatics without bitterness. Season with Light Soya and Magic Seasoning.",
     "costing": {
       "rawCost": 43.2,
       "sellingPrice": 240,
@@ -22151,10 +19760,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 196.8,
       "grossMarginPct": 82.0
     },
-    "primarySauceId": "sauce-11",
-    "primarySauceName": "Singapore & Madras Curry Seasoning Sauce (Sauce #11)",
-    "primarySauceQty": "30ml (1 Wok Ladle)",
-    "primarySauceStage": "Stage 2 (Aromatics Fry)"
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1ymkvz",
@@ -22186,8 +19795,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "\u2605 Singapore & Madras Curry Seasoning Sauce (Sauce #11)",
-        "qty": "30ml (1 Wok Ladle)",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -22204,16 +19813,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -22231,7 +19830,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Bloom 1 tsp Madras Curry Powder in medium-hot oil for 30 seconds before adding rice/noodles to release the essential curry aromatics without bitterness. Season with Light Soya and Magic Seasoning.",
     "costing": {
       "rawCost": 66.0,
       "sellingPrice": 300,
@@ -22239,10 +19838,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 234.0,
       "grossMarginPct": 78.0
     },
-    "primarySauceId": "sauce-11",
-    "primarySauceName": "Singapore & Madras Curry Seasoning Sauce (Sauce #11)",
-    "primarySauceQty": "30ml (1 Wok Ladle)",
-    "primarySauceStage": "Stage 2 (Aromatics Fry)"
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1ydxyw",
@@ -22274,8 +19873,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "\u2605 Singapore & Madras Curry Seasoning Sauce (Sauce #11)",
-        "qty": "30ml (1 Wok Ladle)",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -22292,16 +19891,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -22319,7 +19908,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Bloom 1 tsp Madras Curry Powder in medium-hot oil for 30 seconds before adding rice/noodles to release the essential curry aromatics without bitterness. Season with Light Soya and Magic Seasoning.",
     "costing": {
       "rawCost": 49.4,
       "sellingPrice": 260,
@@ -22327,10 +19916,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 210.6,
       "grossMarginPct": 81.0
     },
-    "primarySauceId": "sauce-11",
-    "primarySauceName": "Singapore & Madras Curry Seasoning Sauce (Sauce #11)",
-    "primarySauceQty": "30ml (1 Wok Ladle)",
-    "primarySauceStage": "Stage 2 (Aromatics Fry)"
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yrjg4",
@@ -22362,8 +19951,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "\u2605 Singapore & Madras Curry Seasoning Sauce (Sauce #11)",
-        "qty": "30ml (1 Wok Ladle)",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -22380,16 +19969,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -22407,7 +19986,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Bloom 1 tsp Madras Curry Powder in medium-hot oil for 30 seconds before adding rice/noodles to release the essential curry aromatics without bitterness. Season with Light Soya and Magic Seasoning.",
     "costing": {
       "rawCost": 64.4,
       "sellingPrice": 280,
@@ -22415,10 +19994,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 215.6,
       "grossMarginPct": 77.0
     },
-    "primarySauceId": "sauce-11",
-    "primarySauceName": "Singapore & Madras Curry Seasoning Sauce (Sauce #11)",
-    "primarySauceQty": "30ml (1 Wok Ladle)",
-    "primarySauceStage": "Stage 2 (Aromatics Fry)"
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yrffu",
@@ -22451,7 +20030,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -22468,16 +20047,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -22495,7 +20064,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 43.2,
       "sellingPrice": 240,
@@ -22505,8 +20074,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1ys20w",
@@ -22539,7 +20108,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -22556,16 +20125,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -22583,7 +20142,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 66.0,
       "sellingPrice": 300,
@@ -22593,8 +20152,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yns5c",
@@ -22627,7 +20186,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -22644,16 +20203,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -22671,7 +20220,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 47.5,
       "sellingPrice": 250,
@@ -22681,8 +20230,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1y416x",
@@ -22715,7 +20264,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -22732,16 +20281,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -22759,7 +20298,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 64.4,
       "sellingPrice": 280,
@@ -22769,8 +20308,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1ycige",
@@ -22802,8 +20341,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "\u2605 Korean Spicy Glaze (Sriracha & Hoisin - Sauce #10)",
-        "qty": "40ml (1.5 Wok Ladles)",
+        "item": "\u2605 Korean Gochujang Spicy Glaze (Sauce #10)",
+        "qty": "45ml (1.5 Ladles)",
         "cost": 5.0
       },
       {
@@ -22820,16 +20359,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -22847,7 +20376,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Mix 2 tbsp Sriracha Sauce + 1 tbsp Hoisin Sauce + 1 tbsp Tomato Sauce + 1 tsp Honey + 1/2 tsp Tahini for a rich Korean street-style glaze.",
     "costing": {
       "rawCost": 57.6,
       "sellingPrice": 320,
@@ -22856,8 +20385,8 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 82.0
     },
     "primarySauceId": "sauce-10",
-    "primarySauceName": "Korean Spicy Glaze (Sriracha & Hoisin - Sauce #10)",
-    "primarySauceQty": "40ml (1.5 Wok Ladles)",
+    "primarySauceName": "Korean Gochujang Spicy Glaze (Sauce #10)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9)"
   },
   {
@@ -22890,8 +20419,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "\u2605 Korean Spicy Glaze (Sriracha & Hoisin - Sauce #10)",
-        "qty": "40ml (1.5 Wok Ladles)",
+        "item": "\u2605 Korean Gochujang Spicy Glaze (Sauce #10)",
+        "qty": "45ml (1.5 Ladles)",
         "cost": 5.0
       },
       {
@@ -22908,16 +20437,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -22935,7 +20454,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Mix 2 tbsp Sriracha Sauce + 1 tbsp Hoisin Sauce + 1 tbsp Tomato Sauce + 1 tsp Honey + 1/2 tsp Tahini for a rich Korean street-style glaze.",
     "costing": {
       "rawCost": 83.6,
       "sellingPrice": 380,
@@ -22944,8 +20463,8 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 78.0
     },
     "primarySauceId": "sauce-10",
-    "primarySauceName": "Korean Spicy Glaze (Sriracha & Hoisin - Sauce #10)",
-    "primarySauceQty": "40ml (1.5 Wok Ladles)",
+    "primarySauceName": "Korean Gochujang Spicy Glaze (Sauce #10)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9)"
   },
   {
@@ -22978,8 +20497,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "\u2605 Korean Spicy Glaze (Sriracha & Hoisin - Sauce #10)",
-        "qty": "40ml (1.5 Wok Ladles)",
+        "item": "\u2605 Korean Gochujang Spicy Glaze (Sauce #10)",
+        "qty": "45ml (1.5 Ladles)",
         "cost": 5.0
       },
       {
@@ -22996,16 +20515,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -23023,7 +20532,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Mix 2 tbsp Sriracha Sauce + 1 tbsp Hoisin Sauce + 1 tbsp Tomato Sauce + 1 tsp Honey + 1/2 tsp Tahini for a rich Korean street-style glaze.",
     "costing": {
       "rawCost": 64.6,
       "sellingPrice": 340,
@@ -23032,8 +20541,8 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 81.0
     },
     "primarySauceId": "sauce-10",
-    "primarySauceName": "Korean Spicy Glaze (Sriracha & Hoisin - Sauce #10)",
-    "primarySauceQty": "40ml (1.5 Wok Ladles)",
+    "primarySauceName": "Korean Gochujang Spicy Glaze (Sauce #10)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9)"
   },
   {
@@ -23066,8 +20575,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "\u2605 Korean Spicy Glaze (Sriracha & Hoisin - Sauce #10)",
-        "qty": "40ml (1.5 Wok Ladles)",
+        "item": "\u2605 Korean Gochujang Spicy Glaze (Sauce #10)",
+        "qty": "45ml (1.5 Ladles)",
         "cost": 5.0
       },
       {
@@ -23084,16 +20593,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -23111,7 +20610,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Mix 2 tbsp Sriracha Sauce + 1 tbsp Hoisin Sauce + 1 tbsp Tomato Sauce + 1 tsp Honey + 1/2 tsp Tahini for a rich Korean street-style glaze.",
     "costing": {
       "rawCost": 82.8,
       "sellingPrice": 360,
@@ -23120,8 +20619,8 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 77.0
     },
     "primarySauceId": "sauce-10",
-    "primarySauceName": "Korean Spicy Glaze (Sriracha & Hoisin - Sauce #10)",
-    "primarySauceQty": "40ml (1.5 Wok Ladles)",
+    "primarySauceName": "Korean Gochujang Spicy Glaze (Sauce #10)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9)"
   },
   {
@@ -23154,8 +20653,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Classic Indo-Chinese Green Chilli Sauce (Sauce #11)",
+        "qty": "30ml (1 Ladle)",
         "cost": 5.0
       },
       {
@@ -23172,16 +20671,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -23199,7 +20688,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 46.8,
       "sellingPrice": 260,
@@ -23207,10 +20696,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 213.2,
       "grossMarginPct": 82.0
     },
-    "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceId": "sauce-11",
+    "primarySauceName": "Classic Indo-Chinese Green Chilli Sauce (Sauce #11)",
+    "primarySauceQty": "30ml (1 Ladle)",
+    "primarySauceStage": "Stage 2 (Wok rim sizzle)"
   },
   {
     "id": "mmszgir1y98ul",
@@ -23242,8 +20731,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Classic Indo-Chinese Green Chilli Sauce (Sauce #11)",
+        "qty": "30ml (1 Ladle)",
         "cost": 5.0
       },
       {
@@ -23260,16 +20749,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -23287,7 +20766,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 66.0,
       "sellingPrice": 300,
@@ -23295,10 +20774,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 234.0,
       "grossMarginPct": 78.0
     },
-    "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceId": "sauce-11",
+    "primarySauceName": "Classic Indo-Chinese Green Chilli Sauce (Sauce #11)",
+    "primarySauceQty": "30ml (1 Ladle)",
+    "primarySauceStage": "Stage 2 (Wok rim sizzle)"
   },
   {
     "id": "mmszgir1yhuif",
@@ -23330,8 +20809,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Classic Indo-Chinese Green Chilli Sauce (Sauce #11)",
+        "qty": "30ml (1 Ladle)",
         "cost": 5.0
       },
       {
@@ -23348,16 +20827,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -23375,7 +20844,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 49.4,
       "sellingPrice": 260,
@@ -23383,10 +20852,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 210.6,
       "grossMarginPct": 81.0
     },
-    "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceId": "sauce-11",
+    "primarySauceName": "Classic Indo-Chinese Green Chilli Sauce (Sauce #11)",
+    "primarySauceQty": "30ml (1 Ladle)",
+    "primarySauceStage": "Stage 2 (Wok rim sizzle)"
   },
   {
     "id": "mmszgir1y3wno",
@@ -23418,8 +20887,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Classic Indo-Chinese Green Chilli Sauce (Sauce #11)",
+        "qty": "30ml (1 Ladle)",
         "cost": 5.0
       },
       {
@@ -23436,16 +20905,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -23463,7 +20922,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 64.4,
       "sellingPrice": 280,
@@ -23471,10 +20930,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 215.6,
       "grossMarginPct": 77.0
     },
-    "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceId": "sauce-11",
+    "primarySauceName": "Classic Indo-Chinese Green Chilli Sauce (Sauce #11)",
+    "primarySauceQty": "30ml (1 Ladle)",
+    "primarySauceStage": "Stage 2 (Wok rim sizzle)"
   },
   {
     "id": "mmszgir1y6ske",
@@ -23507,7 +20966,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -23524,16 +20983,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -23551,7 +21000,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 46.8,
       "sellingPrice": 260,
@@ -23561,8 +21010,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yklp4",
@@ -23595,7 +21044,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -23612,16 +21061,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -23639,7 +21078,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 66.0,
       "sellingPrice": 300,
@@ -23649,8 +21088,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1ynetn",
@@ -23683,7 +21122,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -23700,16 +21139,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -23727,7 +21156,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 49.4,
       "sellingPrice": 260,
@@ -23737,8 +21166,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yc4zq",
@@ -23771,7 +21200,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -23788,16 +21217,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -23815,7 +21234,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 64.4,
       "sellingPrice": 280,
@@ -23825,8 +21244,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yna27",
@@ -23859,7 +21278,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -23876,16 +21295,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -23903,7 +21312,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 45.0,
       "sellingPrice": 250,
@@ -23913,8 +21322,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yvh4s",
@@ -23947,7 +21356,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -23964,16 +21373,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -23991,7 +21390,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 68.2,
       "sellingPrice": 310,
@@ -24001,8 +21400,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yzoxm",
@@ -24035,7 +21434,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -24052,16 +21451,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -24079,7 +21468,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 49.4,
       "sellingPrice": 260,
@@ -24089,8 +21478,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yqvq9",
@@ -24123,7 +21512,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -24140,16 +21529,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -24167,7 +21546,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 64.4,
       "sellingPrice": 280,
@@ -24177,8 +21556,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yjjmq",
@@ -24211,7 +21590,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -24228,16 +21607,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -24255,7 +21624,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 54.0,
       "sellingPrice": 300,
@@ -24265,8 +21634,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yeui2",
@@ -24299,7 +21668,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -24316,16 +21685,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -24343,7 +21702,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 79.2,
       "sellingPrice": 360,
@@ -24353,8 +21712,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yufj5",
@@ -24387,7 +21746,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -24404,16 +21763,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -24431,7 +21780,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 57.0,
       "sellingPrice": 300,
@@ -24441,8 +21790,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yw67g",
@@ -24475,7 +21824,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -24492,16 +21841,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -24519,7 +21858,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 78.2,
       "sellingPrice": 340,
@@ -24529,8 +21868,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1y82k1",
@@ -24562,8 +21901,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "\u2605 Korean Spicy Glaze (Sriracha & Hoisin - Sauce #10)",
-        "qty": "40ml (1.5 Wok Ladles)",
+        "item": "\u2605 Korean Gochujang Spicy Glaze (Sauce #10)",
+        "qty": "45ml (1.5 Ladles)",
         "cost": 5.0
       },
       {
@@ -24580,16 +21919,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -24607,7 +21936,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Mix 2 tbsp Sriracha Sauce + 1 tbsp Hoisin Sauce + 1 tbsp Tomato Sauce + 1 tsp Honey + 1/2 tsp Tahini for a rich Korean street-style glaze.",
     "costing": {
       "rawCost": 63.0,
       "sellingPrice": 350,
@@ -24616,8 +21945,8 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 82.0
     },
     "primarySauceId": "sauce-10",
-    "primarySauceName": "Korean Spicy Glaze (Sriracha & Hoisin - Sauce #10)",
-    "primarySauceQty": "40ml (1.5 Wok Ladles)",
+    "primarySauceName": "Korean Gochujang Spicy Glaze (Sauce #10)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9)"
   },
   {
@@ -24650,8 +21979,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "\u2605 Korean Spicy Glaze (Sriracha & Hoisin - Sauce #10)",
-        "qty": "40ml (1.5 Wok Ladles)",
+        "item": "\u2605 Korean Gochujang Spicy Glaze (Sauce #10)",
+        "qty": "45ml (1.5 Ladles)",
         "cost": 5.0
       },
       {
@@ -24668,16 +21997,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -24695,7 +22014,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Mix 2 tbsp Sriracha Sauce + 1 tbsp Hoisin Sauce + 1 tbsp Tomato Sauce + 1 tsp Honey + 1/2 tsp Tahini for a rich Korean street-style glaze.",
     "costing": {
       "rawCost": 88.0,
       "sellingPrice": 400,
@@ -24704,8 +22023,8 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 78.0
     },
     "primarySauceId": "sauce-10",
-    "primarySauceName": "Korean Spicy Glaze (Sriracha & Hoisin - Sauce #10)",
-    "primarySauceQty": "40ml (1.5 Wok Ladles)",
+    "primarySauceName": "Korean Gochujang Spicy Glaze (Sauce #10)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9)"
   },
   {
@@ -24738,8 +22057,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "\u2605 Korean Spicy Glaze (Sriracha & Hoisin - Sauce #10)",
-        "qty": "40ml (1.5 Wok Ladles)",
+        "item": "\u2605 Korean Gochujang Spicy Glaze (Sauce #10)",
+        "qty": "45ml (1.5 Ladles)",
         "cost": 5.0
       },
       {
@@ -24756,16 +22075,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -24783,7 +22092,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Mix 2 tbsp Sriracha Sauce + 1 tbsp Hoisin Sauce + 1 tbsp Tomato Sauce + 1 tsp Honey + 1/2 tsp Tahini for a rich Korean street-style glaze.",
     "costing": {
       "rawCost": 68.4,
       "sellingPrice": 360,
@@ -24792,8 +22101,8 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 81.0
     },
     "primarySauceId": "sauce-10",
-    "primarySauceName": "Korean Spicy Glaze (Sriracha & Hoisin - Sauce #10)",
-    "primarySauceQty": "40ml (1.5 Wok Ladles)",
+    "primarySauceName": "Korean Gochujang Spicy Glaze (Sauce #10)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9)"
   },
   {
@@ -24826,8 +22135,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "\u2605 Korean Spicy Glaze (Sriracha & Hoisin - Sauce #10)",
-        "qty": "40ml (1.5 Wok Ladles)",
+        "item": "\u2605 Korean Gochujang Spicy Glaze (Sauce #10)",
+        "qty": "45ml (1.5 Ladles)",
         "cost": 5.0
       },
       {
@@ -24844,16 +22153,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -24871,7 +22170,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Mix 2 tbsp Sriracha Sauce + 1 tbsp Hoisin Sauce + 1 tbsp Tomato Sauce + 1 tsp Honey + 1/2 tsp Tahini for a rich Korean street-style glaze.",
     "costing": {
       "rawCost": 89.7,
       "sellingPrice": 390,
@@ -24880,8 +22179,8 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 77.0
     },
     "primarySauceId": "sauce-10",
-    "primarySauceName": "Korean Spicy Glaze (Sriracha & Hoisin - Sauce #10)",
-    "primarySauceQty": "40ml (1.5 Wok Ladles)",
+    "primarySauceName": "Korean Gochujang Spicy Glaze (Sauce #10)",
+    "primarySauceQty": "45ml (1.5 Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9)"
   },
   {
@@ -24914,7 +22213,7 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "\u2605 Thai Red & Yellow Curry Master Broth Base (Sauce #12)",
+        "item": "\u2605 Thai Curry Paste & Broth Master Base (Sauce #12)",
         "qty": "50g Paste / 250ml Broth",
         "cost": 5.0
       },
@@ -24932,16 +22231,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -24959,7 +22248,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Fry 2 tbsp Red/Yellow Curry Paste in oil for 2 minutes before adding broth to unlock the galangal, lemongrass, and chili oils.",
     "costing": {
       "rawCost": 64.8,
       "sellingPrice": 360,
@@ -24968,7 +22257,7 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 82.0
     },
     "primarySauceId": "sauce-12",
-    "primarySauceName": "Thai Red & Yellow Curry Master Broth Base (Sauce #12)",
+    "primarySauceName": "Thai Curry Paste & Broth Master Base (Sauce #12)",
     "primarySauceQty": "50g Paste / 250ml Broth",
     "primarySauceStage": "Stage 2 (Simmer)"
   },
@@ -25002,7 +22291,7 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "\u2605 Thai Red & Yellow Curry Master Broth Base (Sauce #12)",
+        "item": "\u2605 Thai Curry Paste & Broth Master Base (Sauce #12)",
         "qty": "50g Paste / 250ml Broth",
         "cost": 5.0
       },
@@ -25020,16 +22309,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -25047,7 +22326,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Fry 2 tbsp Red/Yellow Curry Paste in oil for 2 minutes before adding broth to unlock the galangal, lemongrass, and chili oils.",
     "costing": {
       "rawCost": 90.2,
       "sellingPrice": 410,
@@ -25056,7 +22335,7 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 78.0
     },
     "primarySauceId": "sauce-12",
-    "primarySauceName": "Thai Red & Yellow Curry Master Broth Base (Sauce #12)",
+    "primarySauceName": "Thai Curry Paste & Broth Master Base (Sauce #12)",
     "primarySauceQty": "50g Paste / 250ml Broth",
     "primarySauceStage": "Stage 2 (Simmer)"
   },
@@ -25090,7 +22369,7 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "\u2605 Thai Red & Yellow Curry Master Broth Base (Sauce #12)",
+        "item": "\u2605 Thai Curry Paste & Broth Master Base (Sauce #12)",
         "qty": "50g Paste / 250ml Broth",
         "cost": 5.0
       },
@@ -25108,16 +22387,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -25135,7 +22404,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Fry 2 tbsp Red/Yellow Curry Paste in oil for 2 minutes before adding broth to unlock the galangal, lemongrass, and chili oils.",
     "costing": {
       "rawCost": 70.3,
       "sellingPrice": 370,
@@ -25144,7 +22413,7 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 81.0
     },
     "primarySauceId": "sauce-12",
-    "primarySauceName": "Thai Red & Yellow Curry Master Broth Base (Sauce #12)",
+    "primarySauceName": "Thai Curry Paste & Broth Master Base (Sauce #12)",
     "primarySauceQty": "50g Paste / 250ml Broth",
     "primarySauceStage": "Stage 2 (Simmer)"
   },
@@ -25178,7 +22447,7 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "\u2605 Thai Red & Yellow Curry Master Broth Base (Sauce #12)",
+        "item": "\u2605 Thai Curry Paste & Broth Master Base (Sauce #12)",
         "qty": "50g Paste / 250ml Broth",
         "cost": 5.0
       },
@@ -25196,16 +22465,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -25223,7 +22482,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Fry 2 tbsp Red/Yellow Curry Paste in oil for 2 minutes before adding broth to unlock the galangal, lemongrass, and chili oils.",
     "costing": {
       "rawCost": 92.0,
       "sellingPrice": 400,
@@ -25232,7 +22491,7 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 77.0
     },
     "primarySauceId": "sauce-12",
-    "primarySauceName": "Thai Red & Yellow Curry Master Broth Base (Sauce #12)",
+    "primarySauceName": "Thai Curry Paste & Broth Master Base (Sauce #12)",
     "primarySauceQty": "50g Paste / 250ml Broth",
     "primarySauceStage": "Stage 2 (Simmer)"
   },
@@ -25267,7 +22526,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -25284,16 +22543,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -25311,7 +22560,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 48.6,
       "sellingPrice": 270,
@@ -25321,8 +22570,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yz20a",
@@ -25355,7 +22604,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -25372,16 +22621,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -25399,7 +22638,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 70.4,
       "sellingPrice": 320,
@@ -25409,8 +22648,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yi1z7",
@@ -25443,7 +22682,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -25460,16 +22699,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -25487,7 +22716,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 51.3,
       "sellingPrice": 270,
@@ -25497,8 +22726,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1yaepw",
@@ -25531,7 +22760,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze (Rim sizzle)",
         "cost": 5.0
       },
       {
@@ -25548,16 +22777,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -25575,7 +22794,7 @@ window.INDUS_BIBLE = {
       "Finish with 5ml sesame oil and spring onion greens. Plate immediately."
     ],
     "plating": "Twirl into an elongated mountain in a branded Indus Wok takeout box or sleek rectangular plate. Garnish with crisp spring onion curls.",
-    "chefTip": "Do not overcrowd the wok with more than 2 portions at once; steam will build up and make the noodles soggy instead of dry and smoky.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 66.7,
       "sellingPrice": 290,
@@ -25585,8 +22804,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
+    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
   },
   {
     "id": "mmszgir1y73cy",
@@ -25614,7 +22833,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -25626,16 +22845,6 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -25651,7 +22860,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Maintain extreme wok heat for signature smokiness.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 3.6,
       "sellingPrice": 20,
@@ -25661,8 +22870,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1y0zjz",
@@ -25690,7 +22899,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -25702,16 +22911,6 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -25727,7 +22926,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Maintain extreme wok heat for signature smokiness.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 59.8,
       "sellingPrice": 260,
@@ -25737,8 +22936,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1ysyj7",
@@ -25766,7 +22965,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -25778,16 +22977,6 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -25803,7 +22992,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Maintain extreme wok heat for signature smokiness.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 5.4,
       "sellingPrice": 30,
@@ -25813,8 +23002,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   },
   {
     "id": "mmszgir1ya2up",
@@ -25846,8 +23035,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "item": "\u2605 Indus Dark Base + Green Chilli Puree Blend (Sauce #02 & #11)",
+        "qty": "35ml Saut\u00e9 Glaze",
         "cost": 9.0
       },
       {
@@ -25864,16 +23053,6 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -25890,7 +23069,7 @@ window.INDUS_BIBLE = {
       "Kill the flame, toss with chopped spring onion greens."
     ],
     "plating": "Transfer to a heated rectangular slate or platter. Garnish with toasted white sesame seeds and spring onion curls.",
-    "chefTip": "Never let the fried protein sit in the sauce simmering. The secret to restaurant-quality starters is a 20-second flash toss right before serving.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 57.6,
       "sellingPrice": 320,
@@ -25899,9 +23078,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 82.0
     },
     "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceName": "Indus Dark Base + Green Chilli Puree Blend (Sauce #02 & #11)",
+    "primarySauceQty": "35ml Saut\u00e9 Glaze",
+    "primarySauceStage": "Stage 2 (Glaze)"
   },
   {
     "id": "mmt6e4qgn68k9",
@@ -25929,7 +23108,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim Sizzle)",
+        "qty": "25ml Squeeze",
         "cost": 6.0
       },
       {
@@ -25941,16 +23120,6 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
-      },
-      {
-        "item": "Magic Seasoning Powder (Aroma)",
-        "qty": "3g (1/2 tsp)",
-        "cost": 1.0
-      },
-      {
-        "item": "Black Pepper / White Pepper",
-        "qty": "2g (pinch)",
-        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -25966,7 +23135,7 @@ window.INDUS_BIBLE = {
       "Garnish and serve piping hot."
     ],
     "plating": "Plated cleanly in Indus Wok branded tableware.",
-    "chefTip": "Maintain extreme wok heat for signature smokiness.",
+    "chefTip": "Chef Secret: Maintain extreme 400\u00b0C Wok Hei heat. Drizzle Dark Soya & Light Soya along the inner wok perimeter (not directly on food) to caramelize soy sugars instantly.",
     "costing": {
       "rawCost": 9.5,
       "sellingPrice": 50,
@@ -25976,8 +23145,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
-    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
+    "primarySauceQty": "25ml Squeeze",
+    "primarySauceStage": "Stage 3 (Rim sizzle)"
   }
 ],
   emergencySubs: [
