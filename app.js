@@ -12,6 +12,7 @@ let currentProteinFilter = 'all';
 // Initialize on DOM ready
 document.addEventListener('DOMContentLoaded', () => {
   renderFlagshipSpecials();
+  renderKitchenPantry();
   renderMotherSauces('all');
   renderMasterCuts();
   renderMisaModules();
@@ -30,6 +31,25 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   }
 });
+
+/* ==========================================================================
+   RENDER 20 EXACT KITCHEN INVENTORY ITEMS
+   ========================================================================== */
+function renderKitchenPantry() {
+  const container = document.getElementById('kitchenPantryGrid');
+  if (!container || !window.INDUS_BIBLE || !window.INDUS_BIBLE.pantry) return;
+
+  const items = window.INDUS_BIBLE.pantry;
+  container.innerHTML = items.map(item => `
+    <div class="pantry-card">
+      <div class="pantry-icon">${item.icon}</div>
+      <div class="pantry-info">
+        <h5>${item.name}</h5>
+        <span>${item.cat}</span>
+      </div>
+    </div>
+  `).join('');
+}
 
 // Tab Switcher (Synchronizes Desktop Tabs & Mobile Bottom Navigation)
 function switchTab(tabId) {

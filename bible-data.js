@@ -1,140 +1,259 @@
 /* ===========================================================================
    INDUS WOK RESTAURANT BIBLE & CULINARY OPS MANUAL - MASTER DATASET
-   100% Indian Commercial Kitchen Pantry Standardized
-   (No Pineapple Juice, No Apple Cider Vinegar, No Shaoxing, No Mirin)
+   Tailored 100% to Your Exact 20 Kitchen Products:
+   [Dark Soya, Light Soya, Vinegar, Tomato Sauce, Red Chilli Sauce, Teriyaki,
+    Oyster, Kung Pao, Black Pepper, Plum Sauce, Hoisin, Japanese Mayo, Sriracha,
+    Cream Cheese, Red Curry Paste, Yellow Curry Paste, Tahini, Magic Seasoning,
+    Honey, Madras Curry Powder]
    =========================================================================== */
 
 window.INDUS_BIBLE = {
+  pantry: [
+  {
+    "id": "p1",
+    "name": "Dark Soya Sauce",
+    "cat": "Soy & Umami",
+    "icon": "\ud83c\udf7e"
+  },
+  {
+    "id": "p2",
+    "name": "Light Soya Sauce",
+    "cat": "Soy & Umami",
+    "icon": "\ud83c\udf76"
+  },
+  {
+    "id": "p3",
+    "name": "Vinegar (White Synthetic)",
+    "cat": "Acids",
+    "icon": "\ud83e\uddea"
+  },
+  {
+    "id": "p4",
+    "name": "Tomato Sauce (Ketchup)",
+    "cat": "Bases",
+    "icon": "\ud83c\udf45"
+  },
+  {
+    "id": "p5",
+    "name": "Red Chilli Sauce",
+    "cat": "Chili Bases",
+    "icon": "\ud83c\udf36\ufe0f"
+  },
+  {
+    "id": "p6",
+    "name": "Teriyaki Sauce",
+    "cat": "Glazes",
+    "icon": "\ud83e\udd62"
+  },
+  {
+    "id": "p7",
+    "name": "Oyster Sauce",
+    "cat": "Savory Glazes",
+    "icon": "\ud83e\uddaa"
+  },
+  {
+    "id": "p8",
+    "name": "Kung Pao Sauce",
+    "cat": "Glazes",
+    "icon": "\ud83e\udd5c"
+  },
+  {
+    "id": "p9",
+    "name": "Black Pepper (Kaali Mirch)",
+    "cat": "Spices",
+    "icon": "\ud83e\uddc2"
+  },
+  {
+    "id": "p10",
+    "name": "Plum Sauce",
+    "cat": "Sweet & Fruity",
+    "icon": "\ud83c\udf51"
+  },
+  {
+    "id": "p11",
+    "name": "Hoisin Sauce",
+    "cat": "Sweet & Savory",
+    "icon": "\ud83c\udf6f"
+  },
+  {
+    "id": "p12",
+    "name": "Japanese Mayo (Kewpie style)",
+    "cat": "Emulsions",
+    "icon": "\ud83e\udd63"
+  },
+  {
+    "id": "p13",
+    "name": "Sriracha Sauce",
+    "cat": "Chili Bases",
+    "icon": "\ud83d\udd25"
+  },
+  {
+    "id": "p14",
+    "name": "Cream Cheese",
+    "cat": "Dairy & Sushi",
+    "icon": "\ud83e\uddc0"
+  },
+  {
+    "id": "p15",
+    "name": "Red Curry Paste",
+    "cat": "Curry Pastes",
+    "icon": "\ud83c\udf5b"
+  },
+  {
+    "id": "p16",
+    "name": "Yellow Curry Paste",
+    "cat": "Curry Pastes",
+    "icon": "\ud83e\udd58"
+  },
+  {
+    "id": "p17",
+    "name": "Tahini (Sesame Paste)",
+    "cat": "Nut & Seed Pastes",
+    "icon": "\ud83e\uded2"
+  },
+  {
+    "id": "p18",
+    "name": "Magic Seasoning (Aroma / Broth Powder)",
+    "cat": "Seasonings",
+    "icon": "\u2728"
+  },
+  {
+    "id": "p19",
+    "name": "Honey",
+    "cat": "Sweeteners",
+    "icon": "\ud83c\udf6f"
+  },
+  {
+    "id": "p20",
+    "name": "Madras Curry Powder",
+    "cat": "Spices",
+    "icon": "\ud83c\udf3f"
+  }
+],
   sauces: [
   {
     "id": "sauce-1",
     "name": "Indus Signature Red Schezwan Mother Paste",
     "category": "Fiery & Chili Bases",
-    "yield": "2.5 Liters (Master Kitchen Batch)",
-    "prepTime": "15 mins",
-    "cookTime": "35 mins",
-    "shelfLife": "21 Days Chilled (2\u00b0C - 4\u00b0C) | 60 Days Deep Freezer",
+    "yield": "2.5 Liters",
+    "prepTime": "10 mins",
+    "cookTime": "25 mins",
+    "shelfLife": "21 Days Chilled | 60 Days Frozen",
     "spiceLevel": "\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f (Fiery Umami Sizzle)",
-    "description": "Standard Indian commercial kitchen formula using ONLY basic ingredients (Kashmiri dry chillies, Guntur chillies, garlic, ginger, dark soy, white vinegar, tomato ketchup, sugar, oil, star anise). No exotic imported items.",
+    "description": "Standardized for your exact inventory: Red Chilli Sauce + Sriracha Sauce + Tomato Sauce + Vinegar + Dark Soya + Garlic + Ginger + Magic Seasoning + Oil.",
     "ingredients": [
       {
-        "item": "Kashmiri Dried Red Chillies (Boiled & blended coarse)",
+        "item": "Red Chilli Sauce (Bottled)",
+        "qty": "500ml"
+      },
+      {
+        "item": "Sriracha Sauce (Bottled)",
+        "qty": "250ml"
+      },
+      {
+        "item": "Tomato Sauce / Ketchup",
         "qty": "300g"
       },
       {
-        "item": "Spicy Guntur / Byadgi Dry Chillies (for heat)",
-        "qty": "150g"
-      },
-      {
-        "item": "Refined Sunflower / Soybean Cooking Oil",
-        "qty": "750ml"
-      },
-      {
-        "item": "Fresh Garlic (Lehsun - finely minced)",
+        "item": "Fresh Garlic (Finely minced)",
         "qty": "400g"
       },
       {
-        "item": "Fresh Ginger (Adrak - finely minced)",
-        "qty": "250g"
+        "item": "Fresh Ginger (Finely minced)",
+        "qty": "200g"
       },
       {
-        "item": "Star Anise Whole (Chakri Phool - for aroma)",
-        "qty": "5-6 pcs"
+        "item": "Refined Cooking Oil",
+        "qty": "600ml"
       },
       {
-        "item": "Dark Soy Sauce (Standard commercial)",
-        "qty": "120ml"
+        "item": "Dark Soya Sauce",
+        "qty": "100ml"
       },
       {
-        "item": "White Synthetic Vinegar (Regular Sirka)",
+        "item": "White Vinegar",
         "qty": "150ml"
       },
       {
-        "item": "Standard Tomato Ketchup (for color & body)",
-        "qty": "150g"
+        "item": "Magic Seasoning Powder",
+        "qty": "35g"
       },
       {
-        "item": "Regular Sugar (Chini)",
+        "item": "Honey or Sugar",
         "qty": "60g"
       },
       {
-        "item": "Cracked White / Black Pepper Powder",
+        "item": "Black Pepper Powder",
         "qty": "15g"
       },
       {
-        "item": "Rock Salt / Table Salt (Namak)",
-        "qty": "40g"
-      },
-      {
-        "item": "Toasted Sesame Oil (Til ka tel - finish)",
-        "qty": "40ml"
+        "item": "Salt",
+        "qty": "30g"
       }
     ],
     "method": [
-      "CHILI PREP: Boil Kashmiri & Guntur dry chillies in water for 10 minutes until soft. Drain water, grind in mixer to a thick, textured red paste (keep slight flecks, do not make baby food puree).",
-      "OIL TEMPERING: In a wok or kadai, heat 750ml refined oil over medium flame. Drop 5 whole Star Anise (Chakri Phool) for 2 minutes to infuse aroma, then discard star anise.",
-      "AROMATICS: Add minced garlic and ginger to the hot oil. Fry for 6-8 minutes until raw smell goes away and garlic turns light golden blonde.",
-      "SLOW COOK: Pour in the ground red chili paste. Lower flame to gentle simmer. Cook for 20 minutes, stirring every 2 minutes until bright red oil separates and floats cleanly on top.",
-      "SEASONING: Add tomato ketchup, dark soy sauce, regular white vinegar, sugar, white pepper, and salt. Cook for 5 more minutes until deep mahogany red.",
-      "FINISH: Turn off flame. Stir in sesame oil. Cool down and store in plastic container with 1cm oil layer on top."
+      "Heat 600ml oil in wok over medium flame.",
+      "Add minced garlic and ginger. Saut\u00e9 for 6 minutes until aromatic and light golden.",
+      "Pour in Red Chilli Sauce, Sriracha Sauce, and Tomato Sauce. Stir well.",
+      "Lower flame to gentle simmer and cook for 15 minutes until red oil separates and floats on top.",
+      "Add Dark Soya Sauce, White Vinegar, Magic Seasoning, Honey/Sugar, black pepper, and salt. Cook 5 more minutes.",
+      "Cool and store in airtight container with a 1cm layer of oil on top."
     ],
-    "emergencySub": "1-Minute Emergency Fix: Mix 4 tbsp commercial Red Chili Paste + 2 tbsp Tomato Ketchup + 1 tbsp Garlic Paste + 1 tbsp Dark Soy + 1 tbsp White Vinegar + 1 tsp Sugar + 2 tbsp Hot Oil.",
-    "qualityChecks": "Color: Deep crimson ruby red (never brown). Oil floating cleanly on top. Sharp garlicky chili aroma with zero burnt smell."
+    "emergencySub": "3 tbsp Red Chilli Sauce + 1.5 tbsp Sriracha + 1 tbsp Tomato Sauce + 1 tbsp Minced Garlic + 1 tsp Dark Soy + 1 tsp Vinegar + 1/2 tsp Magic Seasoning.",
+    "qualityChecks": "Ruby red glossy oil separation, sharp garlicky chili punch with deep umami."
   },
   {
     "id": "sauce-2",
     "name": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base)",
     "category": "Master Seasoning Liquids",
-    "yield": "3 Liters (Squeeze Bottle Stock)",
-    "prepTime": "10 mins",
-    "cookTime": "15 mins",
-    "shelfLife": "30 Days Ambient in Squeeze Bottles | 60 Days Chilled",
-    "spiceLevel": "\ud83c\udf36\ufe0f (Savory Umami Caramel)",
-    "description": "The secret speed sauce in squeeze bottles for Hakka Noodles, Fried Rice, and stir-fries. Uses standard Dark Soy, White Vinegar, and caramelized sugar syrup. Zero imported wine needed.",
+    "yield": "3 Liters",
+    "prepTime": "8 mins",
+    "cookTime": "12 mins",
+    "shelfLife": "30 Days Ambient in Squeeze Bottles",
+    "spiceLevel": "\ud83c\udf36\ufe0f (Savory Umami)",
+    "description": "Powers all Hakka Noodles and Fried Rice. Uses Dark Soya Sauce + Light Soya Sauce + Oyster Sauce + Vinegar + Magic Seasoning + Sugar/Honey.",
     "ingredients": [
       {
-        "item": "Dark Soy Sauce (Commercial)",
-        "qty": "1200ml"
+        "item": "Dark Soya Sauce",
+        "qty": "1000ml"
       },
       {
-        "item": "Regular Light / All-purpose Soy Sauce",
-        "qty": "600ml"
+        "item": "Light Soya Sauce",
+        "qty": "800ml"
       },
       {
-        "item": "Regular White Synthetic Vinegar (Sirka)",
+        "item": "Oyster Sauce",
+        "qty": "300ml"
+      },
+      {
+        "item": "White Vinegar",
         "qty": "200ml"
       },
       {
-        "item": "Regular White / Brown Sugar (Caramelized in pan)",
-        "qty": "250g"
+        "item": "Honey or Regular Sugar",
+        "qty": "200g"
       },
       {
-        "item": "Whole Star Anise (Chakri Phool)",
-        "qty": "4 pcs"
+        "item": "Magic Seasoning Powder",
+        "qty": "40g"
       },
       {
-        "item": "Cracked White / Black Pepper",
+        "item": "Black Pepper",
         "qty": "20g"
       },
       {
-        "item": "Veg Aroma / Broth Seasoning Powder / MSG (optional)",
-        "qty": "30g"
-      },
-      {
-        "item": "Clean Water",
-        "qty": "750ml"
+        "item": "Water",
+        "qty": "600ml"
       }
     ],
     "method": [
-      "In a dry pot, melt 250g sugar over medium flame until it turns into a golden-brown liquid caramel (do not burn).",
-      "Slowly and carefully pour 750ml warm water into the caramel (it will bubble and steam). Whisk until caramel dissolves completely.",
-      "Pour in dark soy sauce, light soy sauce, and regular white vinegar.",
-      "Add star anise, white pepper, and veg aroma seasoning.",
-      "Bring to a boil, reduce flame to low, and simmer for 10 minutes.",
-      "Strain out star anise. Cool completely and funnel into kitchen squeeze bottles labeled 'INDUS DARK BASE'."
+      "In a saucepan, combine water, Dark Soya Sauce, Light Soya Sauce, Oyster Sauce, and White Vinegar.",
+      "Add Honey/Sugar, Magic Seasoning, and Black Pepper.",
+      "Bring to a gentle boil over medium heat for 10 minutes to marry all flavors.",
+      "Cool completely and funnel into kitchen squeeze bottles labeled 'INDUS DARK BASE'."
     ],
-    "emergencySub": "Quick 10-Second Line Mix: 2 tbsp Dark Soy + 1 tsp White Vinegar + 1 tsp Sugar + 1/2 tsp White Pepper + 1 tbsp Water.",
-    "qualityChecks": "Deep dark glossy brown liquid, balanced savory-sweet profile with slight tang."
+    "emergencySub": "2 tbsp Dark Soya + 1 tbsp Light Soya + 1 tsp Oyster Sauce + 1 tsp Vinegar + 1/2 tsp Magic Seasoning + 1/2 tsp Sugar.",
+    "qualityChecks": "Rich dark brown liquid, deep savory umami with glossy body."
   },
   {
     "id": "sauce-3",
@@ -143,73 +262,71 @@ window.INDUS_BIBLE = {
     "yield": "4 Liters",
     "prepTime": "10 mins",
     "cookTime": "20 mins",
-    "shelfLife": "7 Days Chilled (2\u00b0C - 4\u00b0C)",
-    "spiceLevel": "\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f (Pungent Ginger-Garlic-Chili)",
-    "description": "Standard Indo-Chinese Manchurian base for Dry, Gravy, and Rice with Gravy dishes using standard Dark Soy, Green Chili Sauce, Ketchup, and White Vinegar.",
+    "shelfLife": "7 Days Chilled",
+    "spiceLevel": "\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f (Pungent Ginger-Garlic)",
+    "description": "Uses Minced Garlic, Ginger, Dark Soya Sauce, Red Chilli Sauce, Tomato Sauce, Vinegar, and Magic Seasoning.",
     "ingredients": [
       {
         "item": "Refined Cooking Oil",
         "qty": "250ml"
       },
       {
-        "item": "Fresh Garlic (Finely minced)",
+        "item": "Fresh Garlic (Minced)",
         "qty": "350g"
       },
       {
-        "item": "Fresh Ginger (Finely minced)",
+        "item": "Fresh Ginger (Minced)",
         "qty": "300g"
       },
       {
-        "item": "Fresh Green Chillies (Hari Mirch - chopped fine)",
-        "qty": "150g"
+        "item": "Fresh Green Chillies (Chopped)",
+        "qty": "120g"
       },
       {
-        "item": "Spring Onion Whites (Chopped)",
-        "qty": "150g"
-      },
-      {
-        "item": "Dark Soy Sauce",
+        "item": "Dark Soya Sauce",
         "qty": "350ml"
       },
       {
-        "item": "Commercial Green Chilli Sauce (Pouch/Bottle)",
+        "item": "Red Chilli Sauce",
         "qty": "200ml"
       },
       {
-        "item": "Standard Tomato Ketchup",
+        "item": "Tomato Sauce",
         "qty": "150ml"
       },
       {
-        "item": "White Synthetic Vinegar",
+        "item": "White Vinegar",
         "qty": "120ml"
       },
       {
-        "item": "Water / Seasoned Broth Stock",
+        "item": "Magic Seasoning Powder",
+        "qty": "40g"
+      },
+      {
+        "item": "Black Pepper",
+        "qty": "20g"
+      },
+      {
+        "item": "Water",
         "qty": "2500ml"
       },
       {
-        "item": "Black Pepper & White Pepper Powder",
-        "qty": "25g"
-      },
-      {
         "item": "Salt",
-        "qty": "35g"
+        "qty": "30g"
       },
       {
-        "item": "Cornstarch (Ararot - to thicken during wok service)",
-        "qty": "As needed per dish"
+        "item": "Cornstarch (to thicken during service)",
+        "qty": "As needed"
       }
     ],
     "method": [
-      "Heat oil in a large kadai / master wok over medium flame.",
-      "Add minced garlic, minced ginger, and chopped green chillies. Saut\u00e9 for 5 minutes until fragrant (do not over-brown).",
-      "Add spring onion whites and saut\u00e9 for 1 minute.",
-      "Pour in dark soy sauce, green chili sauce, tomato ketchup, and white vinegar. Stir for 2 minutes.",
-      "Add 2.5 Liters water with salt and pepper. Bring to a rolling boil for 8 minutes.",
-      "Cool down and refrigerate. During dinner service, ladle 60ml for Dry starters or 200ml for Gravy dishes and thicken with cornflour slurry in 30 seconds."
+      "Heat oil in wok, saut\u00e9 minced garlic, ginger, and green chillies for 5 minutes.",
+      "Add Dark Soya Sauce, Red Chilli Sauce, Tomato Sauce, and White Vinegar. Stir for 2 minutes.",
+      "Pour in 2.5L water with Magic Seasoning, Black Pepper, and Salt. Boil for 8 minutes.",
+      "Cool and chill. During service, ladle 60ml for Dry or 200ml for Gravy and thicken with cornflour slurry."
     ],
-    "emergencySub": "1 tbsp minced garlic + 1 tbsp ginger + 1 green chili + 1 tbsp dark soy + 1 tbsp green chili sauce + 1 tsp vinegar + 1 tsp ketchup + 1 cup water + 1 tbsp cornflour slurry.",
-    "qualityChecks": "Dark chocolate brown color, pungent fresh ginger-garlic kick, glossy sheen when thickened."
+    "emergencySub": "1 tbsp Minced Garlic + 1 tbsp Ginger + 1 tbsp Dark Soya + 1 tbsp Red Chilli Sauce + 1 tsp Tomato Sauce + 1 tsp Vinegar + 1/2 tsp Magic Seasoning + 1 cup Water + Cornflour.",
+    "qualityChecks": "Glossy chocolate brown color with pungent ginger-garlic kick."
   },
   {
     "id": "sauce-4",
@@ -220,57 +337,57 @@ window.INDUS_BIBLE = {
     "cookTime": "20 mins",
     "shelfLife": "14 Days Chilled",
     "spiceLevel": "\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f (Fiery Tangy Garlic)",
-    "description": "Powers Hot Garlic Wings, Dragon Chicken, and Hot Garlic Rice with Gravy using basic garlic, Kashmiri red chili paste, tomato ketchup, dark soy, and white vinegar.",
+    "description": "Uses Heavy Minced Garlic + Sriracha Sauce + Red Chilli Sauce + Tomato Sauce + Dark Soya + Vinegar + Honey + Magic Seasoning.",
     "ingredients": [
       {
         "item": "Refined Cooking Oil",
-        "qty": "350ml"
+        "qty": "300ml"
       },
       {
         "item": "Fresh Garlic (Lehsun - heavy minced)",
         "qty": "500g"
       },
       {
-        "item": "Boiled Kashmiri Red Chili Paste",
-        "qty": "400g"
+        "item": "Sriracha Sauce",
+        "qty": "350ml"
       },
       {
-        "item": "Standard Tomato Ketchup / Puree",
-        "qty": "300g"
+        "item": "Red Chilli Sauce",
+        "qty": "300ml"
       },
       {
-        "item": "Dark Soy Sauce",
+        "item": "Tomato Sauce / Ketchup",
+        "qty": "250g"
+      },
+      {
+        "item": "Dark Soya Sauce",
         "qty": "100ml"
       },
       {
-        "item": "White Synthetic Vinegar",
+        "item": "White Vinegar",
         "qty": "150ml"
       },
       {
-        "item": "Regular Sugar",
-        "qty": "70g"
+        "item": "Honey or Sugar",
+        "qty": "80g"
       },
       {
-        "item": "White / Black Pepper",
-        "qty": "15g"
-      },
-      {
-        "item": "Salt",
+        "item": "Magic Seasoning",
         "qty": "30g"
       },
       {
         "item": "Water",
-        "qty": "1000ml"
+        "qty": "800ml"
       }
     ],
     "method": [
-      "Heat oil in wok over medium heat. Add 500g minced garlic and saut\u00e9 for 5 minutes until soft and fragrant.",
-      "Add boiled red chili paste and tomato ketchup. Cook for 8 minutes until oil starts separating.",
-      "Pour in water, dark soy sauce, white vinegar, sugar, salt, and pepper. Simmer for 8 minutes.",
-      "Cool and store in bottles."
+      "Heat oil in wok, saut\u00e9 500g garlic for 5 minutes until pale golden.",
+      "Add Sriracha, Red Chilli Sauce, and Tomato Sauce. Cook 8 minutes.",
+      "Add Dark Soya, Vinegar, Honey, Magic Seasoning, and water. Simmer 8 minutes.",
+      "Cool and bottle."
     ],
-    "emergencySub": "2 tbsp Red Chili Paste + 1.5 tbsp Garlic Paste + 1.5 tbsp Tomato Ketchup + 1 tsp Soy + 1 tsp Vinegar + 1/2 tsp Sugar + 3 tbsp Water.",
-    "qualityChecks": "Bright scarlet-red color, explosive garlic aroma, sharp tangy heat."
+    "emergencySub": "2 tbsp Sriracha + 1.5 tbsp Red Chilli Sauce + 1.5 tbsp Tomato Sauce + 1.5 tbsp Minced Garlic + 1 tsp Soy + 1 tsp Vinegar + 1/2 tsp Honey.",
+    "qualityChecks": "Glossy crimson red sheen, powerful garlic aroma, sharp tangy chili heat."
   },
   {
     "id": "sauce-5",
@@ -281,14 +398,14 @@ window.INDUS_BIBLE = {
     "cookTime": "20 mins",
     "shelfLife": "30 Days Ambient",
     "spiceLevel": "Non-Spicy (Smoky Toasted Garlic)",
-    "description": "100% Indian pantry ingredients (Garlic + Refined Sunflower Oil + Spring Onion Whites + Til ka tel). Golden crunchy garlic chips and aromatic garlic oil.",
+    "description": "Uses Fresh Garlic + Refined Oil + Spring Onions + Tahini (for nutty sesame finish).",
     "ingredients": [
       {
-        "item": "Fresh Garlic (Finely minced uniform bits)",
+        "item": "Fresh Garlic (Finely minced 1.5mm uniform cubes)",
         "qty": "600g"
       },
       {
-        "item": "Refined Sunflower Cooking Oil",
+        "item": "Refined Sunflower / Soybean Oil",
         "qty": "1200ml"
       },
       {
@@ -296,8 +413,8 @@ window.INDUS_BIBLE = {
         "qty": "100g"
       },
       {
-        "item": "Til ka Tel / Sesame Oil (for finish)",
-        "qty": "80ml"
+        "item": "Tahini (Sesame Paste - whisked in oil for finish)",
+        "qty": "50g"
       },
       {
         "item": "Salt",
@@ -305,492 +422,505 @@ window.INDUS_BIBLE = {
       }
     ],
     "method": [
-      "Combine 1200ml cold oil and 600g minced garlic in a cold wok (never put garlic in hot oil).",
-      "Turn heat to medium-low. Stir continuously with whisk as oil heats up.",
-      "Fry for 15-18 minutes until garlic turns light golden blonde.",
-      "IMMEDIATELY pour oil through a steel strainer into a bowl (residual heat browns garlic to crunchy golden brown).",
-      "Spread garlic chips on paper, sprinkle salt. Whisk sesame oil into warm garlic oil. Bottle separately."
+      "Combine 1200ml cold oil and 600g minced garlic in a cold wok.",
+      "Turn heat to medium-low, stir continuously with whisk as oil heats up.",
+      "Fry 15-18 minutes until garlic turns light golden blonde.",
+      "Immediately strain oil through a wire sieve (residual heat turns garlic crunchy amber brown).",
+      "Whisk Tahini into warm garlic oil. Bottle oil and store chips separately in airtight bin."
     ],
-    "emergencySub": "Fry 3 tbsp minced garlic in 4 tbsp oil in small pan over low flame for 3 minutes until golden.",
-    "qualityChecks": "Crunchy golden chips with zero bitterness. Clear, aromatic toasted garlic oil."
+    "emergencySub": "Fry 3 tbsp minced garlic in 4 tbsp oil over low flame for 3 minutes until golden.",
+    "qualityChecks": "Crisp crunchy golden chips (zero bitterness), crystal clear nutty garlic oil."
   },
   {
     "id": "sauce-6",
-    "name": "Indus Kung Pao Master Glaze (Indian Kitchen Standard)",
+    "name": "Indus Kung Pao Master Glaze (Custom Pantry Standard)",
     "category": "Pan-Asian Sweet-Savory Bases",
     "yield": "2 Liters",
-    "prepTime": "10 mins",
-    "cookTime": "15 mins",
+    "prepTime": "8 mins",
+    "cookTime": "12 mins",
     "shelfLife": "14 Days Chilled",
-    "spiceLevel": "\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f (Sweet Tangy Nutty Heat)",
-    "description": "No expensive imported black vinegars. Made with Dark Soy, Regular White Vinegar, Red Chili Paste, crushed roasted peanuts, Tomato Ketchup, and Sugar.",
+    "spiceLevel": "\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f (Sweet Tangy Nutty Glaze)",
+    "description": "Uses your Bottled Kung Pao Sauce + Hoisin Sauce + Red Chilli Sauce + Light Soya + Vinegar + Honey + Tahini (Sesame).",
     "ingredients": [
       {
-        "item": "Dark Soy Sauce",
-        "qty": "300ml"
+        "item": "Kung Pao Sauce (Bottled)",
+        "qty": "600ml"
       },
       {
-        "item": "Regular White Synthetic Vinegar",
+        "item": "Hoisin Sauce",
         "qty": "200ml"
       },
       {
-        "item": "Standard Tomato Ketchup",
-        "qty": "250g"
+        "item": "Red Chilli Sauce",
+        "qty": "150ml"
       },
       {
-        "item": "Boiled Red Chili Paste",
-        "qty": "150g"
+        "item": "Light Soya Sauce",
+        "qty": "150ml"
       },
       {
-        "item": "Roasted Peanuts (Crushed fine / Smooth Peanut Butter)",
-        "qty": "120g"
+        "item": "White Vinegar",
+        "qty": "120ml"
       },
       {
-        "item": "Regular Sugar",
-        "qty": "180g"
+        "item": "Honey",
+        "qty": "100g"
       },
       {
-        "item": "Ginger-Garlic Paste",
-        "qty": "80g"
+        "item": "Tahini (Sesame Paste)",
+        "qty": "50g"
       },
       {
-        "item": "Black Pepper Powder",
-        "qty": "15g"
+        "item": "Magic Seasoning",
+        "qty": "20g"
       },
       {
         "item": "Water",
-        "qty": "800ml"
+        "qty": "600ml"
       }
     ],
     "method": [
-      "In a saucepan, whisk dark soy, white vinegar, tomato ketchup, red chili paste, crushed peanuts/peanut butter, sugar, and ginger-garlic paste with water.",
-      "Simmer over medium flame for 12 minutes until sugar melts and sauce thickens slightly.",
-      "Stir in black pepper. Cool and funnel into dispenser bottles."
+      "In a saucepan, whisk bottled Kung Pao Sauce, Hoisin Sauce, Red Chilli Sauce, Light Soya, Vinegar, Honey, Tahini, and Magic Seasoning with water.",
+      "Simmer over medium flame for 10 minutes until glossy and uniform.",
+      "Bottle in dispenser jugs."
     ],
-    "emergencySub": "2 tbsp Soy Sauce + 1 tbsp White Vinegar + 1 tbsp Tomato Ketchup + 1 tsp Peanut Butter / Crushed Roasted Peanuts + 1 tbsp Sugar + 2 tbsp Water.",
-    "qualityChecks": "Velvety reddish-brown glaze, nutty peanut aroma, balanced sweet-tangy-spicy kick."
+    "emergencySub": "3 tbsp Kung Pao Sauce + 1 tbsp Hoisin Sauce + 1 tsp Red Chilli Sauce + 1 tsp Vinegar + 1 tsp Honey + 2 tbsp Water.",
+    "qualityChecks": "Rich reddish-brown glaze, nutty sesame undertone, balanced sweet-tangy-spicy glaze."
   },
   {
     "id": "sauce-7",
-    "name": "Black Pepper & Garlic Sauce Base (Indian Kitchen Standard)",
-    "category": "Fermented Umami Bases",
+    "name": "Black Pepper & Oyster Master Glaze",
+    "category": "Savory Glazes",
     "yield": "1.5 Liters",
-    "prepTime": "10 mins",
-    "cookTime": "15 mins",
+    "prepTime": "8 mins",
+    "cookTime": "12 mins",
     "shelfLife": "21 Days Chilled",
-    "spiceLevel": "\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f (Pungent Black Pepper & Garlic)",
-    "description": "The Indian commercial restaurant replacement for hard-to-find canned black beans. Uses coarsely crushed black peppercorns, dark soy, minced garlic, ginger, and caramelized sugar.",
+    "spiceLevel": "\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f (Pungent Black Pepper & Savory Oyster)",
+    "description": "Uses your Black Pepper + Oyster Sauce + Dark Soya Sauce + Light Soya + Garlic + Vinegar + Honey + Magic Seasoning.",
     "ingredients": [
       {
-        "item": "Coarsely Crushed Black Peppercorns (Moti Pisi Kaali Mirch)",
+        "item": "Oyster Sauce",
+        "qty": "400ml"
+      },
+      {
+        "item": "Dark Soya Sauce",
+        "qty": "250ml"
+      },
+      {
+        "item": "Light Soya Sauce",
+        "qty": "200ml"
+      },
+      {
+        "item": "Black Pepper (Coarsely crushed)",
         "qty": "80g"
       },
       {
-        "item": "Dark Soy Sauce",
-        "qty": "350ml"
+        "item": "Fresh Garlic (Minced)",
+        "qty": "250g"
+      },
+      {
+        "item": "Refined Oil",
+        "qty": "150ml"
+      },
+      {
+        "item": "White Vinegar",
+        "qty": "60ml"
+      },
+      {
+        "item": "Honey or Sugar",
+        "qty": "80g"
+      },
+      {
+        "item": "Magic Seasoning",
+        "qty": "25g"
+      },
+      {
+        "item": "Water",
+        "qty": "500ml"
+      }
+    ],
+    "method": [
+      "Heat oil in wok, saut\u00e9 minced garlic for 3 minutes.",
+      "Add crushed black pepper, fry for 30 seconds to bloom.",
+      "Add Oyster Sauce, Dark Soya, Light Soya, White Vinegar, Honey, Magic Seasoning, and water.",
+      "Simmer 10 minutes into a rich, glossy black pepper glaze.",
+      "Cool and bottle."
+    ],
+    "emergencySub": "2 tbsp Oyster Sauce + 1 tbsp Dark Soya + 1 tsp Coarse Black Pepper + 1 tsp Garlic + 1/2 tsp Honey + 2 tbsp Water.",
+    "qualityChecks": "Mirror black gloss with coarse pepper flecks, deep umami punch."
+  },
+  {
+    "id": "sauce-8",
+    "name": "Sweet & Sour Master Glaze (Plum & Tomato Standard)",
+    "category": "Sweet & Tangy Bases",
+    "yield": "2.5 Liters",
+    "prepTime": "6 mins",
+    "cookTime": "10 mins",
+    "shelfLife": "30 Days Chilled",
+    "spiceLevel": "Non-Spicy (Fruity Sweet & Tangy)",
+    "description": "5-Star Asian restaurant Sweet & Sour using your Plum Sauce + Tomato Sauce + White Vinegar + Honey/Sugar + Red Chilli Sauce.",
+    "ingredients": [
+      {
+        "item": "Plum Sauce",
+        "qty": "500g"
+      },
+      {
+        "item": "Tomato Sauce / Ketchup",
+        "qty": "500g"
+      },
+      {
+        "item": "White Vinegar",
+        "qty": "250ml"
+      },
+      {
+        "item": "Honey or Sugar",
+        "qty": "250g"
+      },
+      {
+        "item": "Red Chilli Sauce",
+        "qty": "80ml"
+      },
+      {
+        "item": "Clean Water",
+        "qty": "800ml"
+      },
+      {
+        "item": "Salt",
+        "qty": "15g"
+      },
+      {
+        "item": "Cornstarch (diluted in 80ml water)",
+        "qty": "35g"
+      }
+    ],
+    "method": [
+      "Combine Plum Sauce, Tomato Sauce, White Vinegar, Honey/Sugar, Red Chilli Sauce, and water in a saucepan.",
+      "Stir over medium heat until sugar dissolves and sauce comes to a gentle simmer.",
+      "Slowly whisk in cornstarch slurry and simmer for 2 minutes until brilliant translucent ruby gloss forms.",
+      "Cool and store in dispenser jugs."
+    ],
+    "emergencySub": "2 tbsp Plum Sauce + 2 tbsp Tomato Sauce + 1.5 tbsp Vinegar + 1 tbsp Honey + 3 tbsp Water + 1/2 tsp Cornflour.",
+    "qualityChecks": "Translucent ruby gloss, exquisite fruity tang from plum sauce, silky mouthfeel."
+  },
+  {
+    "id": "sauce-9",
+    "name": "Teriyaki & Hoisin Master Glaze",
+    "category": "Glazes & Marinades",
+    "yield": "2 Liters",
+    "prepTime": "6 mins",
+    "cookTime": "10 mins",
+    "shelfLife": "30 Days Chilled",
+    "spiceLevel": "Non-Spicy (Sweet Savory Teriyaki Lacquer)",
+    "description": "Uses your Teriyaki Sauce + Hoisin Sauce + Light Soya + Dark Soya + Honey + Ginger.",
+    "ingredients": [
+      {
+        "item": "Teriyaki Sauce (Bottled)",
+        "qty": "700ml"
+      },
+      {
+        "item": "Hoisin Sauce",
+        "qty": "250ml"
+      },
+      {
+        "item": "Light Soya Sauce",
+        "qty": "250ml"
+      },
+      {
+        "item": "Dark Soya Sauce",
+        "qty": "150ml"
+      },
+      {
+        "item": "Honey",
+        "qty": "200g"
+      },
+      {
+        "item": "Fresh Ginger Juice / Minced Ginger",
+        "qty": "60ml"
+      },
+      {
+        "item": "White Vinegar",
+        "qty": "60ml"
+      },
+      {
+        "item": "Water",
+        "qty": "400ml"
+      },
+      {
+        "item": "Cornstarch (in 40ml water)",
+        "qty": "25g"
+      }
+    ],
+    "method": [
+      "Combine Teriyaki Sauce, Hoisin Sauce, Light Soy, Dark Soy, Honey, ginger juice, vinegar, and water in saucepan.",
+      "Simmer over medium flame for 8 minutes.",
+      "Whisk in cornstarch slurry and simmer 2 minutes until rich glossy lacquer forms.",
+      "Bottle and label."
+    ],
+    "emergencySub": "3 tbsp Teriyaki Sauce + 1 tbsp Hoisin Sauce + 1 tsp Light Soy + 1 tsp Honey + 2 tbsp Water.",
+    "qualityChecks": "Mirror lacquer sheen, clings to grilled chicken, sweet savory finish."
+  },
+  {
+    "id": "sauce-10",
+    "name": "Korean Spicy Glaze (Sriracha & Hoisin Standard)",
+    "category": "Pan-Asian Sweet-Savory Bases",
+    "yield": "2 Liters",
+    "prepTime": "6 mins",
+    "cookTime": "10 mins",
+    "shelfLife": "21 Days Chilled",
+    "spiceLevel": "\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f (Sweet Smokey Heat)",
+    "description": "Uses your Sriracha Sauce + Hoisin Sauce + Red Chilli Sauce + Tomato Sauce + Honey + Light Soy + Tahini.",
+    "ingredients": [
+      {
+        "item": "Sriracha Sauce",
+        "qty": "400ml"
+      },
+      {
+        "item": "Hoisin Sauce",
+        "qty": "250ml"
+      },
+      {
+        "item": "Red Chilli Sauce",
+        "qty": "250ml"
+      },
+      {
+        "item": "Tomato Sauce",
+        "qty": "200g"
+      },
+      {
+        "item": "Honey",
+        "qty": "150g"
+      },
+      {
+        "item": "Light Soya Sauce",
+        "qty": "150ml"
+      },
+      {
+        "item": "White Vinegar",
+        "qty": "80ml"
+      },
+      {
+        "item": "Tahini (Sesame Paste)",
+        "qty": "40g"
+      },
+      {
+        "item": "Garlic Paste",
+        "qty": "60g"
+      },
+      {
+        "item": "Water",
+        "qty": "400ml"
+      }
+    ],
+    "method": [
+      "Combine all ingredients in a saucepan and whisk until smooth.",
+      "Simmer over medium-low heat for 10 minutes until syrupy and glossy.",
+      "Cool and bottle."
+    ],
+    "emergencySub": "2 tbsp Sriracha + 1 tbsp Hoisin Sauce + 1 tbsp Red Chilli Sauce + 1 tsp Honey + 1 tsp Soy + 1/2 tsp Tahini.",
+    "qualityChecks": "Deep crimson glaze, sweet tangy garlic-chili heat."
+  },
+  {
+    "id": "sauce-11",
+    "name": "Singapore & Madras Curry Seasoning Sauce",
+    "category": "Pan-Asian Sweet-Savory Bases",
+    "yield": "1.5 Liters",
+    "prepTime": "8 mins",
+    "cookTime": "10 mins",
+    "shelfLife": "30 Days Chilled",
+    "spiceLevel": "\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f (Aromatic Spiced Curry)",
+    "description": "Powers Singapore Fried Rice and Singapore Noodles using your Madras Curry Powder + Light Soya + Red Chilli Sauce + Magic Seasoning + Vinegar.",
+    "ingredients": [
+      {
+        "item": "Madras Curry Powder",
+        "qty": "80g"
+      },
+      {
+        "item": "Light Soya Sauce",
+        "qty": "400ml"
+      },
+      {
+        "item": "Red Chilli Sauce",
+        "qty": "200ml"
+      },
+      {
+        "item": "White Vinegar",
+        "qty": "120ml"
+      },
+      {
+        "item": "Magic Seasoning Powder",
+        "qty": "35g"
+      },
+      {
+        "item": "Honey or Sugar",
+        "qty": "60g"
+      },
+      {
+        "item": "Refined Oil",
+        "qty": "100ml"
+      },
+      {
+        "item": "Water",
+        "qty": "600ml"
+      }
+    ],
+    "method": [
+      "Heat oil in saucepan, gently fry Madras Curry Powder for 60 seconds over low heat until fragrant.",
+      "Deglaze with Light Soya Sauce, Red Chilli Sauce, White Vinegar, water, Honey, and Magic Seasoning.",
+      "Simmer for 8 minutes to emulsify.",
+      "Cool and bottle for Singapore dishes."
+    ],
+    "emergencySub": "1 tsp Madras Curry Powder + 2 tbsp Light Soy + 1 tbsp Red Chilli Sauce + 1 tsp Vinegar + 1/2 tsp Magic Seasoning.",
+    "qualityChecks": "Vibrant golden-amber sauce with intoxicating Singapore curry aroma."
+  },
+  {
+    "id": "sauce-12",
+    "name": "Thai Red & Yellow Curry Master Broth Base",
+    "category": "Curry & Broth Bases",
+    "yield": "2 Liters",
+    "prepTime": "8 mins",
+    "cookTime": "15 mins",
+    "shelfLife": "14 Days Chilled",
+    "spiceLevel": "\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f (Aromatic Thai Spices)",
+    "description": "Powers Thai Soups, Thai Noodles, and Curry Ramen using your Red Curry Paste / Yellow Curry Paste + Light Soya + Magic Seasoning + Vinegar + Honey.",
+    "ingredients": [
+      {
+        "item": "Red Curry Paste (or Yellow Curry Paste)",
+        "qty": "300g"
       },
       {
         "item": "Refined Cooking Oil",
+        "qty": "100ml"
+      },
+      {
+        "item": "Light Soya Sauce",
+        "qty": "200ml"
+      },
+      {
+        "item": "White Vinegar",
+        "qty": "60ml"
+      },
+      {
+        "item": "Honey or Sugar",
+        "qty": "60g"
+      },
+      {
+        "item": "Magic Seasoning Powder",
+        "qty": "35g"
+      },
+      {
+        "item": "Water / Broth",
+        "qty": "1400ml"
+      }
+    ],
+    "method": [
+      "Heat oil in pot, fry Red/Yellow Curry Paste for 5 minutes until oil glitters with color.",
+      "Pour in water/broth, Light Soya Sauce, White Vinegar, Honey, and Magic Seasoning.",
+      "Simmer for 10 minutes into a rich, fragrant Thai base.",
+      "Portion and chill."
+    ],
+    "emergencySub": "2 tbsp Red/Yellow Curry Paste + 2 tbsp Light Soy + 1 tsp Vinegar + 1/2 tsp Magic Seasoning + 1 cup Water.",
+    "qualityChecks": "Heady aromatic Thai spice fragrance with golden-red shimmer."
+  },
+  {
+    "id": "sauce-13",
+    "name": "Artisanal Momo Sesame Dip & Spicy Jhol Broth",
+    "category": "Momo Dips & Broths",
+    "yield": "2 Liters",
+    "prepTime": "8 mins",
+    "cookTime": "10 mins",
+    "shelfLife": "7 Days Chilled",
+    "spiceLevel": "\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f (Nutty Sesame Chili Tang)",
+    "description": "Uses your Tahini (Sesame Paste) + Tomato Sauce + Sriracha Sauce + Garlic + White Vinegar + Magic Seasoning.",
+    "ingredients": [
+      {
+        "item": "Tahini (Sesame Paste)",
+        "qty": "250g"
+      },
+      {
+        "item": "Tomato Sauce",
+        "qty": "300g"
+      },
+      {
+        "item": "Sriracha Sauce",
         "qty": "200ml"
       },
       {
         "item": "Fresh Garlic (Minced)",
-        "qty": "300g"
-      },
-      {
-        "item": "Fresh Ginger (Minced)",
-        "qty": "150g"
-      },
-      {
-        "item": "White Synthetic Vinegar",
-        "qty": "80ml"
-      },
-      {
-        "item": "Regular Sugar",
         "qty": "80g"
       },
       {
-        "item": "Salt",
+        "item": "White Vinegar",
+        "qty": "80ml"
+      },
+      {
+        "item": "Magic Seasoning Powder",
         "qty": "25g"
       },
       {
-        "item": "Water",
-        "qty": "600ml"
-      }
-    ],
-    "method": [
-      "Heat oil in wok. Saut\u00e9 minced garlic and ginger for 3 minutes until aromatic.",
-      "Add coarsely crushed black pepper; fry for 30 seconds to release aromatic piperine oils.",
-      "Pour in dark soy sauce, white vinegar, sugar, salt, and water.",
-      "Simmer over medium flame for 10 minutes into a rich, dark peppery sauce.",
-      "Cool and store in glass jars."
-    ],
-    "emergencySub": "2 tbsp Dark Soy + 1 tsp Coarse Black Pepper + 1 tsp Minced Garlic + 1/2 tsp Sugar + 1 tsp Vinegar + 2 tbsp Water.",
-    "qualityChecks": "Glossy black sheen, prominent coarse pepper flakes, bold pungent heat."
-  },
-  {
-    "id": "sauce-8",
-    "name": "Sweet & Sour Master Glaze (100% Indian Kitchen Pantry)",
-    "category": "Sweet & Tangy Bases",
-    "yield": "2.5 Liters",
-    "prepTime": "8 mins",
-    "cookTime": "12 mins",
-    "shelfLife": "30 Days Chilled",
-    "spiceLevel": "Non-Spicy (Vibrant Sweet & Tangy)",
-    "description": "NO PINEAPPLE JUICE OR APPLE CIDER VINEGAR REQUIRED. The authentic Indian restaurant Sweet & Sour recipe using Standard Tomato Ketchup, Regular White Vinegar, Sugar, Water, and Cornflour.",
-    "ingredients": [
-      {
-        "item": "Standard Tomato Ketchup (Maggi / Kissan / Commercial)",
-        "qty": "800g"
+        "item": "Honey or Sugar",
+        "qty": "30g"
       },
       {
-        "item": "Regular White Synthetic Vinegar (Sirka)",
-        "qty": "300ml"
-      },
-      {
-        "item": "Regular White Sugar (Chini)",
-        "qty": "350g"
-      },
-      {
-        "item": "Red Chili Sauce (for slight kick & color)",
-        "qty": "100ml"
-      },
-      {
-        "item": "Clean Water",
+        "item": "Hot Water / Broth",
         "qty": "1000ml"
       },
       {
-        "item": "Rock Salt / Table Salt",
-        "qty": "20g"
-      },
-      {
-        "item": "Cornstarch (Ararot / Cornflour diluted in 100ml water)",
-        "qty": "40g"
-      }
-    ],
-    "method": [
-      "In a saucepan, combine water, tomato ketchup, regular white vinegar, sugar, red chili sauce, and salt.",
-      "Stir over medium heat until sugar dissolves completely and mixture comes to a gentle boil.",
-      "Slowly pour in the diluted cornflour slurry while whisking continuously.",
-      "Simmer for 2 minutes until brilliant ruby gloss and velvety glaze consistency.",
-      "Cool and store in dispenser jugs."
-    ],
-    "emergencySub": "4 tbsp Tomato Ketchup + 2 tbsp White Vinegar + 2 tbsp Sugar + 3 tbsp Water + 1/2 tsp Cornflour.",
-    "qualityChecks": "Translucent bright red gloss, perfect balance of punchy sweetness and clean vinegar tang."
-  },
-  {
-    "id": "sauce-9",
-    "name": "Japanese Teriyaki Glaze (Indian Kitchen Standard)",
-    "category": "Glazes & Marinades",
-    "yield": "2 Liters",
-    "prepTime": "8 mins",
-    "cookTime": "15 mins",
-    "shelfLife": "30 Days Chilled",
-    "spiceLevel": "Non-Spicy (Sweet Savory Soy Glaze)",
-    "description": "NO MIRIN OR SAKE NEEDED. Commercial Indian kitchen Teriyaki using Dark Soy, Regular Sugar/Jaggery syrup, White Vinegar, and fresh ginger juice.",
-    "ingredients": [
-      {
-        "item": "Dark Soy Sauce",
-        "qty": "400ml"
-      },
-      {
-        "item": "Regular Soy Sauce / Light Soy",
-        "qty": "500ml"
-      },
-      {
-        "item": "Regular Sugar / Brown Sugar / Jaggery syrup",
-        "qty": "400g"
-      },
-      {
-        "item": "Regular White Synthetic Vinegar",
-        "qty": "120ml"
-      },
-      {
-        "item": "Fresh Ginger Juice (Adrak ka ras)",
-        "qty": "60ml"
-      },
-      {
-        "item": "Fresh Garlic (Crushed cloves)",
-        "qty": "40g"
-      },
-      {
-        "item": "Water",
-        "qty": "600ml"
-      },
-      {
-        "item": "Cornflour (diluted in 50ml water)",
-        "qty": "30g"
-      }
-    ],
-    "method": [
-      "Combine soy sauces, water, sugar, white vinegar, ginger juice, and crushed garlic in a saucepan.",
-      "Bring to a boil, then simmer over low heat for 12 minutes.",
-      "Strain out garlic pieces. Whisk in cornflour slurry and simmer for 2 minutes until a glossy mirror lacquer forms.",
-      "Bottle and chill."
-    ],
-    "emergencySub": "3 tbsp Soy Sauce + 2 tbsp Sugar + 1 tsp White Vinegar + 1/2 tsp Ginger Paste + 1 tsp Cornflour.",
-    "qualityChecks": "Mirror-like dark brown gloss, clings smoothly to chicken and paneer."
-  },
-  {
-    "id": "sauce-10",
-    "name": "Korean Spicy Glaze (Indian Kitchen Hack)",
-    "category": "Pan-Asian Sweet-Savory Bases",
-    "yield": "2 Liters",
-    "prepTime": "10 mins",
-    "cookTime": "12 mins",
-    "shelfLife": "21 Days Chilled",
-    "spiceLevel": "\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f (Sweet Smokey Chili Glaze)",
-    "description": "NO IMPORTED GOCHUJANG NEEDED. Uses Boiled Kashmiri Red Chili Paste, Tomato Ketchup, Dark Soy, Honey/Sugar, Garlic, White Vinegar, and Sesame Seeds.",
-    "ingredients": [
-      {
-        "item": "Boiled Kashmiri Red Chili Paste (Fine pureed)",
-        "qty": "500g"
-      },
-      {
-        "item": "Standard Tomato Ketchup",
-        "qty": "300g"
-      },
-      {
-        "item": "Dark Soy Sauce",
-        "qty": "200ml"
-      },
-      {
-        "item": "Honey or Regular Sugar",
-        "qty": "200g"
-      },
-      {
-        "item": "Fresh Garlic (Fine minced / Paste)",
-        "qty": "150g"
-      },
-      {
-        "item": "White Synthetic Vinegar",
-        "qty": "100ml"
-      },
-      {
-        "item": "Toasted White Sesame Seeds (Safed Til)",
-        "qty": "40g"
-      },
-      {
-        "item": "Refined Oil + Sesame Oil",
-        "qty": "80ml"
-      },
-      {
-        "item": "Water",
-        "qty": "500ml"
-      }
-    ],
-    "method": [
-      "Heat oil in saucepan, saut\u00e9 garlic paste for 2 minutes.",
-      "Add red chili paste, tomato ketchup, dark soy, white vinegar, and honey/sugar with water.",
-      "Simmer for 10 minutes until syrupy and thick.",
-      "Fold in toasted sesame seeds and sesame oil. Bottle and chill."
-    ],
-    "emergencySub": "3 tbsp Red Chili Paste + 1.5 tbsp Tomato Ketchup + 1 tbsp Soy Sauce + 1.5 tbsp Sugar/Honey + 1 tsp Vinegar + 1 tsp Garlic Paste.",
-    "qualityChecks": "Rich deep crimson glaze with toasted sesame flecks, sticky sweet-spicy coating."
-  },
-  {
-    "id": "sauce-11",
-    "name": "Classic Indo-Chinese Green Chilli Sauce",
-    "category": "Fiery & Chili Bases",
-    "yield": "2 Liters",
-    "prepTime": "10 mins",
-    "cookTime": "12 mins",
-    "shelfLife": "30 Days Chilled",
-    "spiceLevel": "\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f (Electric Sharp Green Heat)",
-    "description": "100% Indian pantry ingredients (Fresh Indian Green Chillies + Garlic + White Vinegar + Salt).",
-    "ingredients": [
-      {
-        "item": "Fresh Indian Dark Green Chillies (Hari Mirch)",
-        "qty": "800g"
-      },
-      {
-        "item": "Fresh Garlic Cloves",
-        "qty": "200g"
-      },
-      {
-        "item": "Fresh Ginger",
-        "qty": "100g"
-      },
-      {
-        "item": "White Synthetic Vinegar",
-        "qty": "500ml"
-      },
-      {
-        "item": "Clean Water",
-        "qty": "300ml"
-      },
-      {
         "item": "Salt",
-        "qty": "40g"
-      },
-      {
-        "item": "Sugar",
-        "qty": "30g"
+        "qty": "15g"
       }
     ],
     "method": [
-      "Chop green chillies, garlic, and ginger. Boil in water and white vinegar for 8 minutes until soft.",
-      "Transfer to mixer with salt and sugar. Blend until silky smooth bright green sauce.",
-      "Simmer blended sauce in clean wok for 4 minutes. Cool and bottle."
+      "In a blender or bowl, whisk Tahini, Tomato Sauce, Sriracha Sauce, minced garlic, vinegar, honey, and Magic Seasoning.",
+      "Gradually stream in hot water while whisking into a smooth, creamy golden-orange broth.",
+      "Simmer for 5 minutes. Serve warm with steamed momos."
     ],
-    "emergencySub": "Blend 100g fresh green chillies + 4 garlic cloves + 50ml white vinegar + 1/2 tsp salt for 60 seconds.",
-    "qualityChecks": "Bright emerald green color with electric spicy punch."
-  },
-  {
-    "id": "sauce-12",
-    "name": "Thai Curry & Broth Base (Indian Kitchen Standard)",
-    "category": "Pan-Asian Sweet-Savory Bases",
-    "yield": "2 Liters",
-    "prepTime": "15 mins",
-    "cookTime": "20 mins",
-    "shelfLife": "14 Days Chilled",
-    "spiceLevel": "\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f (Citrus & Coconut Infusion)",
-    "description": "Standard Indian kitchen ingredients (Fresh Ginger + Green Chillies + Fresh Lemon Juice/Zest + Coriander Stems + Cumin + Coconut Milk Tetra-pack).",
-    "ingredients": [
-      {
-        "item": "Fresh Ginger (Adrak - sliced)",
-        "qty": "200g"
-      },
-      {
-        "item": "Fresh Green Chillies & Coriander Stems",
-        "qty": "150g"
-      },
-      {
-        "item": "Fresh Lemon Juice + Fresh Lemon Zest (Nimbu ka ras & chilka)",
-        "qty": "60ml"
-      },
-      {
-        "item": "Fresh Garlic & Onion",
-        "qty": "200g"
-      },
-      {
-        "item": "Jeera & Dhania Powder (Cumin & Coriander)",
-        "qty": "30g"
-      },
-      {
-        "item": "Commercial Coconut Milk / Cream (Tetra-pack)",
-        "qty": "500ml"
-      },
-      {
-        "item": "Refined Oil",
-        "qty": "80ml"
-      },
-      {
-        "item": "Salt & Sugar",
-        "qty": "25g"
-      }
-    ],
-    "method": [
-      "Blend ginger, green chillies, coriander stems, lemon zest, garlic, and onion into a paste.",
-      "Heat oil in pot, fry paste for 8 minutes until aromatic.",
-      "Add cumin-coriander powder and coconut milk. Simmer for 10 minutes.",
-      "Finish with fresh lemon juice and salt. Store in portions."
-    ],
-    "emergencySub": "1 tbsp Ginger Paste + 1 tbsp Lemon Juice + 1 chopped Green Chili + 4 tbsp Coconut Milk + pinch of Cumin & Salt.",
-    "qualityChecks": "Creamy golden citrus aroma with smooth coconut body."
-  },
-  {
-    "id": "sauce-13",
-    "name": "Artisanal Momo Jhol Broth & Chutney",
-    "category": "Momo Dips & Broths",
-    "yield": "2 Liters",
-    "prepTime": "12 mins",
-    "cookTime": "15 mins",
-    "shelfLife": "7 Days Chilled",
-    "spiceLevel": "\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f (Nutty Sesame Tomato Tang)",
-    "description": "100% Indian kitchen ingredients (Fresh Ripe Tomatoes + Roasted White Sesame Seeds + Garlic + Red Chillies + Lemon Juice).",
-    "ingredients": [
-      {
-        "item": "Fresh Ripe Red Tomatoes (Tamatar - roasted/boiled)",
-        "qty": "800g"
-      },
-      {
-        "item": "White Sesame Seeds (Safed Til - roasted golden)",
-        "qty": "200g"
-      },
-      {
-        "item": "Roasted Peanuts (Moongphali)",
-        "qty": "100g"
-      },
-      {
-        "item": "Fresh Garlic & Green/Red Chillies",
-        "qty": "100g"
-      },
-      {
-        "item": "Fresh Lemon Juice",
-        "qty": "50ml"
-      },
-      {
-        "item": "Refined Cooking Oil / Mustard Oil",
-        "qty": "60ml"
-      },
-      {
-        "item": "Water / Broth",
-        "qty": "800ml"
-      },
-      {
-        "item": "Salt",
-        "qty": "25g"
-      }
-    ],
-    "method": [
-      "Roast white sesame seeds and peanuts in a dry pan until golden.",
-      "Blend boiled tomatoes, roasted sesame, peanuts, garlic, chillies, and lemon juice into smooth puree.",
-      "Heat oil in pot, temper the puree, and pour in 800ml hot water/broth. Simmer for 8 minutes.",
-      "Serve piping hot with momos."
-    ],
-    "emergencySub": "Blend 2 boiled tomatoes + 2 tbsp roasted sesame + 2 garlic cloves + 1 red chili + 1/2 cup warm water + squeeze of lemon.",
-    "qualityChecks": "Warm golden-orange hue, nutty sesame mouthfeel, tangy spicy finish."
+    "emergencySub": "2 tbsp Tahini + 2 tbsp Tomato Sauce + 1 tbsp Sriracha + 1/2 tsp Garlic + 1/2 cup warm water.",
+    "qualityChecks": "Creamy golden-orange hue, nutty sesame mouthfeel with sharp chili-tomato tang."
   },
   {
     "id": "sauce-14",
-    "name": "Crispy Chilli Garlic Crunch Oil (Indian Kitchen Batch)",
-    "category": "Aromatic Finishing Oils",
-    "yield": "1.5 Liters",
-    "prepTime": "12 mins",
-    "cookTime": "15 mins",
-    "shelfLife": "45 Days Ambient",
-    "spiceLevel": "\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f (Crunchy Garlic-Peanut Crunch)",
-    "description": "Indian kitchen ingredients (Fried crisp garlic flakes + Fried onion flakes + Crushed roasted peanuts + Red chili flakes + Hot star anise oil).",
+    "name": "Spicy Japanese Mayo & Cream Cheese Drizzle (Sushi / Starters)",
+    "category": "Emulsions & Drizzles",
+    "yield": "1 Liter",
+    "prepTime": "5 mins",
+    "cookTime": "0 mins (Cold Whip)",
+    "shelfLife": "14 Days Chilled (2\u00b0C - 4\u00b0C)",
+    "spiceLevel": "\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f (Creamy Tangy Sizzle)",
+    "description": "Powers Spicy Sushi Rolls, Fried Starters, and Creamy Sizzlers using your Japanese Mayo + Sriracha + Cream Cheese + Honey.",
     "ingredients": [
       {
-        "item": "Crispy Fried Garlic Flakes",
-        "qty": "200g"
+        "item": "Japanese Mayo (Kewpie style)",
+        "qty": "500g"
       },
       {
-        "item": "Crispy Fried Onion / Biryani Birista Flakes",
-        "qty": "200g"
+        "item": "Sriracha Sauce",
+        "qty": "250ml"
       },
       {
-        "item": "Coarse Red Chili Flakes (Kuti hui Lal Mirch)",
+        "item": "Cream Cheese (Softened)",
         "qty": "150g"
       },
       {
-        "item": "Crushed Roasted Peanuts",
-        "qty": "100g"
-      },
-      {
-        "item": "Roasted White Sesame Seeds",
+        "item": "Honey",
         "qty": "50g"
       },
       {
-        "item": "Hot Refined Oil (Infused with 4 star anise)",
-        "qty": "800ml"
+        "item": "Light Soya Sauce",
+        "qty": "20ml"
       },
       {
-        "item": "Salt & Sugar",
-        "qty": "25g"
+        "item": "White Vinegar",
+        "qty": "15ml"
       }
     ],
     "method": [
-      "In a heatproof steel bowl, place chili flakes, sesame seeds, salt, and sugar.",
-      "Heat 800ml oil with star anise until hot (175\u00b0C), discard star anise.",
-      "Pour hot oil over chili flakes (it will sizzle and turn red).",
-      "Let cool for 15 minutes, then fold in fried garlic, fried onions, and crushed peanuts.",
-      "Store in airtight jar."
+      "In a food processor or with a wire whisk, whip softened Cream Cheese until smooth.",
+      "Fold in Japanese Mayo, Sriracha Sauce, Honey, Light Soya, and White Vinegar.",
+      "Whisk until a silky, pale coral-pink emulsion is formed.",
+      "Transfer to squeeze dispenser bottles with fine tips for sushi striping and starter drizzle."
     ],
-    "emergencySub": "Mix 3 tbsp chili flakes + 2 tbsp fried garlic + 2 tbsp fried onion + 1/2 cup warm oil + pinch of salt.",
-    "qualityChecks": "Audible crunch in every spoon with ruby red infused oil."
+    "emergencySub": "3 tbsp Japanese Mayo + 1 tbsp Sriracha + 1 tsp Honey + 1 tbsp softened Cream Cheese.",
+    "qualityChecks": "Smooth coral-pink sheen, velvety richness with a gentle lingering Sriracha kick."
   }
 ],
   misa: {
@@ -1351,13 +1481,13 @@ window.INDUS_BIBLE = {
         "cost": 2.5
       },
       {
-        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
-        "qty": "20ml Dark Base + 350ml Broth",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 8.0
       },
       {
-        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
-        "qty": "20ml Dark Base + 350ml Broth",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 4.0
       },
       {
@@ -1369,6 +1499,16 @@ window.INDUS_BIBLE = {
         "item": "Crispy Fried Noodles Topping",
         "qty": "25g",
         "cost": 3.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -1395,9 +1535,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 82.0
     },
     "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Base + Seasoned Broth Stock",
-    "primarySauceQty": "20ml Dark Base + 350ml Broth",
-    "primarySauceStage": "Stage 2 (Broth simmer)"
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1xv4zn",
@@ -1429,13 +1569,13 @@ window.INDUS_BIBLE = {
         "cost": 2.5
       },
       {
-        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
-        "qty": "20ml Dark Base + 350ml Broth",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 8.0
       },
       {
-        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
-        "qty": "20ml Dark Base + 350ml Broth",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 4.0
       },
       {
@@ -1447,6 +1587,16 @@ window.INDUS_BIBLE = {
         "item": "Crispy Fried Noodles Topping",
         "qty": "25g",
         "cost": 3.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -1473,9 +1623,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 77.0
     },
     "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Base + Seasoned Broth Stock",
-    "primarySauceQty": "20ml Dark Base + 350ml Broth",
-    "primarySauceStage": "Stage 2 (Broth simmer)"
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1xiixg",
@@ -1507,13 +1657,13 @@ window.INDUS_BIBLE = {
         "cost": 2.5
       },
       {
-        "item": "\u2605 Burnt Garlic & Scallion Oil Infusion (Sauce #05)",
-        "qty": "25ml Oil + 10g Crispy Chips",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 8.0
       },
       {
-        "item": "\u2605 Burnt Garlic & Scallion Oil Infusion (Sauce #05)",
-        "qty": "25ml Oil + 10g Crispy Chips",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 4.0
       },
       {
@@ -1525,6 +1675,16 @@ window.INDUS_BIBLE = {
         "item": "Crispy Fried Noodles Topping",
         "qty": "25g",
         "cost": 3.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -1550,10 +1710,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 90.2,
       "grossMarginPct": 82.0
     },
-    "primarySauceId": "sauce-5",
-    "primarySauceName": "Burnt Garlic & Scallion Oil Infusion (Sauce #05)",
-    "primarySauceQty": "25ml Oil + 10g Crispy Chips",
-    "primarySauceStage": "Stage 1 (Wok start) & Final Garnish"
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1xav9s",
@@ -1585,13 +1745,13 @@ window.INDUS_BIBLE = {
         "cost": 2.5
       },
       {
-        "item": "\u2605 Burnt Garlic & Scallion Oil Infusion (Sauce #05)",
-        "qty": "25ml Oil + 10g Crispy Chips",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 8.0
       },
       {
-        "item": "\u2605 Burnt Garlic & Scallion Oil Infusion (Sauce #05)",
-        "qty": "25ml Oil + 10g Crispy Chips",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 4.0
       },
       {
@@ -1603,6 +1763,16 @@ window.INDUS_BIBLE = {
         "item": "Crispy Fried Noodles Topping",
         "qty": "25g",
         "cost": 3.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -1628,10 +1798,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 115.5,
       "grossMarginPct": 77.0
     },
-    "primarySauceId": "sauce-5",
-    "primarySauceName": "Burnt Garlic & Scallion Oil Infusion (Sauce #05)",
-    "primarySauceQty": "25ml Oil + 10g Crispy Chips",
-    "primarySauceStage": "Stage 1 (Wok start) & Final Garnish"
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1xdw3j",
@@ -1663,13 +1833,13 @@ window.INDUS_BIBLE = {
         "cost": 2.5
       },
       {
-        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
-        "qty": "20ml Dark Base + 350ml Broth",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 8.0
       },
       {
-        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
-        "qty": "20ml Dark Base + 350ml Broth",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 4.0
       },
       {
@@ -1681,6 +1851,16 @@ window.INDUS_BIBLE = {
         "item": "Crispy Fried Noodles Topping",
         "qty": "25g",
         "cost": 3.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -1707,9 +1887,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 82.0
     },
     "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Base + Seasoned Broth Stock",
-    "primarySauceQty": "20ml Dark Base + 350ml Broth",
-    "primarySauceStage": "Stage 2 (Broth simmer)"
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1xfows",
@@ -1741,13 +1921,13 @@ window.INDUS_BIBLE = {
         "cost": 2.5
       },
       {
-        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
-        "qty": "20ml Dark Base + 350ml Broth",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 8.0
       },
       {
-        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
-        "qty": "20ml Dark Base + 350ml Broth",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 4.0
       },
       {
@@ -1759,6 +1939,16 @@ window.INDUS_BIBLE = {
         "item": "Crispy Fried Noodles Topping",
         "qty": "25g",
         "cost": 3.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -1785,9 +1975,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 77.0
     },
     "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Base + Seasoned Broth Stock",
-    "primarySauceQty": "20ml Dark Base + 350ml Broth",
-    "primarySauceStage": "Stage 2 (Broth simmer)"
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1xfn3l",
@@ -1819,13 +2009,13 @@ window.INDUS_BIBLE = {
         "cost": 2.5
       },
       {
-        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
-        "qty": "20ml Dark Base + 350ml Broth",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 8.0
       },
       {
-        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
-        "qty": "20ml Dark Base + 350ml Broth",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 4.0
       },
       {
@@ -1837,6 +2027,16 @@ window.INDUS_BIBLE = {
         "item": "Crispy Fried Noodles Topping",
         "qty": "25g",
         "cost": 3.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -1863,9 +2063,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 82.0
     },
     "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Base + Seasoned Broth Stock",
-    "primarySauceQty": "20ml Dark Base + 350ml Broth",
-    "primarySauceStage": "Stage 2 (Broth simmer)"
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1xl53r",
@@ -1897,13 +2097,13 @@ window.INDUS_BIBLE = {
         "cost": 2.5
       },
       {
-        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
-        "qty": "20ml Dark Base + 350ml Broth",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 8.0
       },
       {
-        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
-        "qty": "20ml Dark Base + 350ml Broth",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 4.0
       },
       {
@@ -1915,6 +2115,16 @@ window.INDUS_BIBLE = {
         "item": "Crispy Fried Noodles Topping",
         "qty": "25g",
         "cost": 3.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -1941,9 +2151,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 77.0
     },
     "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Base + Seasoned Broth Stock",
-    "primarySauceQty": "20ml Dark Base + 350ml Broth",
-    "primarySauceStage": "Stage 2 (Broth simmer)"
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1xp6ao",
@@ -1975,13 +2185,13 @@ window.INDUS_BIBLE = {
         "cost": 2.5
       },
       {
-        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
-        "qty": "20ml Dark Base + 350ml Broth",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 8.0
       },
       {
-        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
-        "qty": "20ml Dark Base + 350ml Broth",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 4.0
       },
       {
@@ -1993,6 +2203,16 @@ window.INDUS_BIBLE = {
         "item": "Crispy Fried Noodles Topping",
         "qty": "25g",
         "cost": 3.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -2019,9 +2239,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 82.0
     },
     "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Base + Seasoned Broth Stock",
-    "primarySauceQty": "20ml Dark Base + 350ml Broth",
-    "primarySauceStage": "Stage 2 (Broth simmer)"
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1xfnmw",
@@ -2053,13 +2273,13 @@ window.INDUS_BIBLE = {
         "cost": 2.5
       },
       {
-        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
-        "qty": "20ml Dark Base + 350ml Broth",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 8.0
       },
       {
-        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
-        "qty": "20ml Dark Base + 350ml Broth",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 4.0
       },
       {
@@ -2071,6 +2291,16 @@ window.INDUS_BIBLE = {
         "item": "Crispy Fried Noodles Topping",
         "qty": "25g",
         "cost": 3.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -2097,9 +2327,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 77.0
     },
     "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Base + Seasoned Broth Stock",
-    "primarySauceQty": "20ml Dark Base + 350ml Broth",
-    "primarySauceStage": "Stage 2 (Broth simmer)"
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1xbybu",
@@ -2131,13 +2361,13 @@ window.INDUS_BIBLE = {
         "cost": 2.5
       },
       {
-        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
-        "qty": "20ml Dark Base + 350ml Broth",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 8.0
       },
       {
-        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
-        "qty": "20ml Dark Base + 350ml Broth",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 4.0
       },
       {
@@ -2149,6 +2379,16 @@ window.INDUS_BIBLE = {
         "item": "Crispy Fried Noodles Topping",
         "qty": "25g",
         "cost": 3.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -2175,9 +2415,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 82.0
     },
     "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Base + Seasoned Broth Stock",
-    "primarySauceQty": "20ml Dark Base + 350ml Broth",
-    "primarySauceStage": "Stage 2 (Broth simmer)"
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1xk00s",
@@ -2209,13 +2449,13 @@ window.INDUS_BIBLE = {
         "cost": 2.5
       },
       {
-        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
-        "qty": "20ml Dark Base + 350ml Broth",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 8.0
       },
       {
-        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
-        "qty": "20ml Dark Base + 350ml Broth",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 4.0
       },
       {
@@ -2227,6 +2467,16 @@ window.INDUS_BIBLE = {
         "item": "Crispy Fried Noodles Topping",
         "qty": "25g",
         "cost": 3.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -2253,9 +2503,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 77.0
     },
     "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Base + Seasoned Broth Stock",
-    "primarySauceQty": "20ml Dark Base + 350ml Broth",
-    "primarySauceStage": "Stage 2 (Broth simmer)"
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1xjzoa",
@@ -2287,13 +2537,13 @@ window.INDUS_BIBLE = {
         "cost": 2.5
       },
       {
-        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
-        "qty": "20ml Dark Base + 350ml Broth",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 8.0
       },
       {
-        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
-        "qty": "20ml Dark Base + 350ml Broth",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 4.0
       },
       {
@@ -2305,6 +2555,16 @@ window.INDUS_BIBLE = {
         "item": "Crispy Fried Noodles Topping",
         "qty": "25g",
         "cost": 3.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -2331,9 +2591,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 82.0
     },
     "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Base + Seasoned Broth Stock",
-    "primarySauceQty": "20ml Dark Base + 350ml Broth",
-    "primarySauceStage": "Stage 2 (Broth simmer)"
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1xx2av",
@@ -2365,13 +2625,13 @@ window.INDUS_BIBLE = {
         "cost": 2.5
       },
       {
-        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
-        "qty": "20ml Dark Base + 350ml Broth",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 8.0
       },
       {
-        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
-        "qty": "20ml Dark Base + 350ml Broth",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 4.0
       },
       {
@@ -2383,6 +2643,16 @@ window.INDUS_BIBLE = {
         "item": "Crispy Fried Noodles Topping",
         "qty": "25g",
         "cost": 3.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -2409,9 +2679,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 77.0
     },
     "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Base + Seasoned Broth Stock",
-    "primarySauceQty": "20ml Dark Base + 350ml Broth",
-    "primarySauceStage": "Stage 2 (Broth simmer)"
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1x2sqf",
@@ -2443,13 +2713,13 @@ window.INDUS_BIBLE = {
         "cost": 2.5
       },
       {
-        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
-        "qty": "20ml Dark Base + 350ml Broth",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 8.0
       },
       {
-        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
-        "qty": "20ml Dark Base + 350ml Broth",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 4.0
       },
       {
@@ -2461,6 +2731,16 @@ window.INDUS_BIBLE = {
         "item": "Crispy Fried Noodles Topping",
         "qty": "25g",
         "cost": 3.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -2487,9 +2767,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 82.0
     },
     "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Base + Seasoned Broth Stock",
-    "primarySauceQty": "20ml Dark Base + 350ml Broth",
-    "primarySauceStage": "Stage 2 (Broth simmer)"
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1xb39c",
@@ -2521,13 +2801,13 @@ window.INDUS_BIBLE = {
         "cost": 2.5
       },
       {
-        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
-        "qty": "20ml Dark Base + 350ml Broth",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 8.0
       },
       {
-        "item": "\u2605 Indus Dark Base + Seasoned Broth Stock",
-        "qty": "20ml Dark Base + 350ml Broth",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 4.0
       },
       {
@@ -2539,6 +2819,16 @@ window.INDUS_BIBLE = {
         "item": "Crispy Fried Noodles Topping",
         "qty": "25g",
         "cost": 3.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -2565,9 +2855,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 77.0
     },
     "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Base + Seasoned Broth Stock",
-    "primarySauceQty": "20ml Dark Base + 350ml Broth",
-    "primarySauceStage": "Stage 2 (Broth simmer)"
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1xsnkj",
@@ -2599,12 +2889,12 @@ window.INDUS_BIBLE = {
         "cost": 2.5
       },
       {
-        "item": "\u2605 Thai Curry Paste & Broth Master Base (Sauce #12)",
+        "item": "\u2605 Thai Red & Yellow Curry Master Broth Base (Sauce #12)",
         "qty": "50g Paste / 250ml Broth",
         "cost": 8.0
       },
       {
-        "item": "\u2605 Thai Curry Paste & Broth Master Base (Sauce #12)",
+        "item": "\u2605 Thai Red & Yellow Curry Master Broth Base (Sauce #12)",
         "qty": "50g Paste / 250ml Broth",
         "cost": 4.0
       },
@@ -2617,6 +2907,16 @@ window.INDUS_BIBLE = {
         "item": "Crispy Fried Noodles Topping",
         "qty": "25g",
         "cost": 3.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -2643,7 +2943,7 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 82.0
     },
     "primarySauceId": "sauce-12",
-    "primarySauceName": "Thai Curry Paste & Broth Master Base (Sauce #12)",
+    "primarySauceName": "Thai Red & Yellow Curry Master Broth Base (Sauce #12)",
     "primarySauceQty": "50g Paste / 250ml Broth",
     "primarySauceStage": "Stage 2 (Simmer)"
   },
@@ -2677,12 +2977,12 @@ window.INDUS_BIBLE = {
         "cost": 2.5
       },
       {
-        "item": "\u2605 Thai Curry Paste & Broth Master Base (Sauce #12)",
+        "item": "\u2605 Thai Red & Yellow Curry Master Broth Base (Sauce #12)",
         "qty": "50g Paste / 250ml Broth",
         "cost": 8.0
       },
       {
-        "item": "\u2605 Thai Curry Paste & Broth Master Base (Sauce #12)",
+        "item": "\u2605 Thai Red & Yellow Curry Master Broth Base (Sauce #12)",
         "qty": "50g Paste / 250ml Broth",
         "cost": 4.0
       },
@@ -2695,6 +2995,16 @@ window.INDUS_BIBLE = {
         "item": "Crispy Fried Noodles Topping",
         "qty": "25g",
         "cost": 3.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -2721,7 +3031,7 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 77.0
     },
     "primarySauceId": "sauce-12",
-    "primarySauceName": "Thai Curry Paste & Broth Master Base (Sauce #12)",
+    "primarySauceName": "Thai Red & Yellow Curry Master Broth Base (Sauce #12)",
     "primarySauceQty": "50g Paste / 250ml Broth",
     "primarySauceStage": "Stage 2 (Simmer)"
   },
@@ -2751,7 +3061,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 6.0
       },
       {
@@ -2763,6 +3073,16 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -2788,8 +3108,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze",
-    "primarySauceStage": "Stage 3 (Rim sizzle)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yi7c8",
@@ -2817,7 +3137,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 6.0
       },
       {
@@ -2829,6 +3149,16 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -2854,8 +3184,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze",
-    "primarySauceStage": "Stage 3 (Rim sizzle)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1ykcdr",
@@ -2883,7 +3213,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 6.0
       },
       {
@@ -2895,6 +3225,16 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -2920,8 +3260,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze",
-    "primarySauceStage": "Stage 3 (Rim sizzle)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yvv6m",
@@ -2949,7 +3289,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 6.0
       },
       {
@@ -2961,6 +3301,16 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -2986,8 +3336,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze",
-    "primarySauceStage": "Stage 3 (Rim sizzle)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yxvur",
@@ -3015,7 +3365,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 6.0
       },
       {
@@ -3027,6 +3377,16 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -3052,8 +3412,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze",
-    "primarySauceStage": "Stage 3 (Rim sizzle)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1y5kku",
@@ -3081,7 +3441,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 6.0
       },
       {
@@ -3093,6 +3453,16 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -3118,8 +3488,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze",
-    "primarySauceStage": "Stage 3 (Rim sizzle)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1y4kvu",
@@ -3147,7 +3517,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 6.0
       },
       {
@@ -3159,6 +3529,16 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -3184,8 +3564,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze",
-    "primarySauceStage": "Stage 3 (Rim sizzle)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yo7jq",
@@ -3213,7 +3593,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 6.0
       },
       {
@@ -3225,6 +3605,16 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -3250,8 +3640,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze",
-    "primarySauceStage": "Stage 3 (Rim sizzle)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yd4mc",
@@ -3279,7 +3669,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 6.0
       },
       {
@@ -3291,6 +3681,16 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -3316,8 +3716,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze",
-    "primarySauceStage": "Stage 3 (Rim sizzle)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yttra",
@@ -3345,7 +3745,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 6.0
       },
       {
@@ -3357,6 +3757,16 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -3382,8 +3792,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze",
-    "primarySauceStage": "Stage 3 (Rim sizzle)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yo1r9",
@@ -3411,7 +3821,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 6.0
       },
       {
@@ -3423,6 +3833,16 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -3448,8 +3868,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze",
-    "primarySauceStage": "Stage 3 (Rim sizzle)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1ykcbq",
@@ -3477,7 +3897,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 6.0
       },
       {
@@ -3489,6 +3909,16 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -3514,8 +3944,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze",
-    "primarySauceStage": "Stage 3 (Rim sizzle)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1y97d8",
@@ -3547,8 +3977,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-        "qty": "40ml Glaze",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 9.0
       },
       {
@@ -3565,6 +3995,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -3589,10 +4029,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 169.4,
       "grossMarginPct": 77.0
     },
-    "primarySauceId": "sauce-4",
-    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-    "primarySauceQty": "40ml Glaze",
-    "primarySauceStage": "Stage 2 (Glaze)"
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yy3w1",
@@ -3625,7 +4065,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-        "qty": "45ml (1.5 Ladles)",
+        "qty": "45ml (1.5 Wok Ladles)",
         "cost": 9.0
       },
       {
@@ -3642,6 +4082,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -3668,7 +4118,7 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-1",
     "primarySauceName": "Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceQty": "45ml (1.5 Wok Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9 after aromatics)"
   },
   {
@@ -3702,7 +4152,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-        "qty": "40ml (1.5 Ladles)",
+        "qty": "40ml (1.5 Wok Ladles)",
         "cost": 9.0
       },
       {
@@ -3719,6 +4169,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -3745,8 +4205,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-4",
     "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-    "primarySauceQty": "40ml (1.5 Ladles)",
-    "primarySauceStage": "Stage 2 (Glaze reduction)"
+    "primarySauceQty": "40ml (1.5 Wok Ladles)",
+    "primarySauceStage": "Stage 2 (Glaze Reduction)"
   },
   {
     "id": "mmszgir1yh1gi",
@@ -3778,8 +4238,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Indus Dark Base + Green Chilli Puree Blend (Sauce #02 & #11)",
-        "qty": "35ml Saut\u00e9 Glaze",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 9.0
       },
       {
@@ -3796,6 +4256,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -3821,9 +4291,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 82.0
     },
     "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Base + Green Chilli Puree Blend (Sauce #02 & #11)",
-    "primarySauceQty": "35ml Saut\u00e9 Glaze",
-    "primarySauceStage": "Stage 2 (Glaze)"
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1y7ez2",
@@ -3855,8 +4325,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Indus Dark Base + Green Chilli Puree Blend (Sauce #02 & #11)",
-        "qty": "35ml Saut\u00e9 Glaze",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 9.0
       },
       {
@@ -3873,6 +4343,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -3898,9 +4378,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 78.0
     },
     "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Base + Green Chilli Puree Blend (Sauce #02 & #11)",
-    "primarySauceQty": "35ml Saut\u00e9 Glaze",
-    "primarySauceStage": "Stage 2 (Glaze)"
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1ysfhw",
@@ -3932,8 +4412,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Indus Dark Base + Green Chilli Puree Blend (Sauce #02 & #11)",
-        "qty": "35ml Saut\u00e9 Glaze",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 9.0
       },
       {
@@ -3950,6 +4430,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -3975,9 +4465,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 77.0
     },
     "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Base + Green Chilli Puree Blend (Sauce #02 & #11)",
-    "primarySauceQty": "35ml Saut\u00e9 Glaze",
-    "primarySauceStage": "Stage 2 (Glaze)"
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1ycv2h",
@@ -4009,8 +4499,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-        "qty": "40ml Glaze",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 9.0
       },
       {
@@ -4027,6 +4517,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -4051,10 +4551,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 287.0,
       "grossMarginPct": 82.0
     },
-    "primarySauceId": "sauce-4",
-    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-    "primarySauceQty": "40ml Glaze",
-    "primarySauceStage": "Stage 2 (Glaze)"
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yufli",
@@ -4086,8 +4586,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-        "qty": "40ml Glaze",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 9.0
       },
       {
@@ -4104,6 +4604,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -4128,10 +4638,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 312.0,
       "grossMarginPct": 78.0
     },
-    "primarySauceId": "sauce-4",
-    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-    "primarySauceQty": "40ml Glaze",
-    "primarySauceStage": "Stage 2 (Glaze)"
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yyo9y",
@@ -4163,8 +4673,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-        "qty": "40ml Glaze",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 9.0
       },
       {
@@ -4181,6 +4691,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -4205,10 +4725,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 277.2,
       "grossMarginPct": 77.0
     },
-    "primarySauceId": "sauce-4",
-    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-    "primarySauceQty": "40ml Glaze",
-    "primarySauceStage": "Stage 2 (Glaze)"
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yc0cj",
@@ -4240,8 +4760,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Sweet & Sour Master Glaze (Sauce #08)",
-        "qty": "50ml (1.5 Ladles)",
+        "item": "\u2605 Sweet & Sour Master Glaze (Plum & Tomato - Sauce #08)",
+        "qty": "50ml (1.5 Wok Ladles)",
         "cost": 9.0
       },
       {
@@ -4258,6 +4778,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -4283,9 +4813,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 82.0
     },
     "primarySauceId": "sauce-8",
-    "primarySauceName": "Sweet & Sour Master Glaze (Sauce #08)",
-    "primarySauceQty": "50ml (1.5 Ladles)",
-    "primarySauceStage": "Stage 3 (High-flame toss)"
+    "primarySauceName": "Sweet & Sour Master Glaze (Plum & Tomato - Sauce #08)",
+    "primarySauceQty": "50ml (1.5 Wok Ladles)",
+    "primarySauceStage": "Stage 3 (High-Flame Toss)"
   },
   {
     "id": "mmszgir1yry34",
@@ -4317,8 +4847,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Sweet & Sour Master Glaze (Sauce #08)",
-        "qty": "50ml (1.5 Ladles)",
+        "item": "\u2605 Sweet & Sour Master Glaze (Plum & Tomato - Sauce #08)",
+        "qty": "50ml (1.5 Wok Ladles)",
         "cost": 9.0
       },
       {
@@ -4335,6 +4865,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -4360,9 +4900,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 78.0
     },
     "primarySauceId": "sauce-8",
-    "primarySauceName": "Sweet & Sour Master Glaze (Sauce #08)",
-    "primarySauceQty": "50ml (1.5 Ladles)",
-    "primarySauceStage": "Stage 3 (High-flame toss)"
+    "primarySauceName": "Sweet & Sour Master Glaze (Plum & Tomato - Sauce #08)",
+    "primarySauceQty": "50ml (1.5 Wok Ladles)",
+    "primarySauceStage": "Stage 3 (High-Flame Toss)"
   },
   {
     "id": "mmszgir1yc355",
@@ -4394,8 +4934,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Sweet & Sour Master Glaze (Sauce #08)",
-        "qty": "50ml (1.5 Ladles)",
+        "item": "\u2605 Sweet & Sour Master Glaze (Plum & Tomato - Sauce #08)",
+        "qty": "50ml (1.5 Wok Ladles)",
         "cost": 9.0
       },
       {
@@ -4412,6 +4952,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -4437,9 +4987,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 77.0
     },
     "primarySauceId": "sauce-8",
-    "primarySauceName": "Sweet & Sour Master Glaze (Sauce #08)",
-    "primarySauceQty": "50ml (1.5 Ladles)",
-    "primarySauceStage": "Stage 3 (High-flame toss)"
+    "primarySauceName": "Sweet & Sour Master Glaze (Plum & Tomato - Sauce #08)",
+    "primarySauceQty": "50ml (1.5 Wok Ladles)",
+    "primarySauceStage": "Stage 3 (High-Flame Toss)"
   },
   {
     "id": "mmszgir1yma5m",
@@ -4472,7 +5022,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-        "qty": "40ml (1.5 Ladles)",
+        "qty": "40ml (1.5 Wok Ladles)",
         "cost": 9.0
       },
       {
@@ -4489,6 +5039,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -4515,8 +5075,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-4",
     "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-    "primarySauceQty": "40ml (1.5 Ladles)",
-    "primarySauceStage": "Stage 2 (Glaze reduction)"
+    "primarySauceQty": "40ml (1.5 Wok Ladles)",
+    "primarySauceStage": "Stage 2 (Glaze Reduction)"
   },
   {
     "id": "mmszgir1ysfqq",
@@ -4549,7 +5109,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-        "qty": "40ml (1.5 Ladles)",
+        "qty": "40ml (1.5 Wok Ladles)",
         "cost": 9.0
       },
       {
@@ -4566,6 +5126,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -4592,8 +5162,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-4",
     "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-    "primarySauceQty": "40ml (1.5 Ladles)",
-    "primarySauceStage": "Stage 2 (Glaze reduction)"
+    "primarySauceQty": "40ml (1.5 Wok Ladles)",
+    "primarySauceStage": "Stage 2 (Glaze Reduction)"
   },
   {
     "id": "mmszgir1ylmvv",
@@ -4626,7 +5196,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-        "qty": "40ml (1.5 Ladles)",
+        "qty": "40ml (1.5 Wok Ladles)",
         "cost": 9.0
       },
       {
@@ -4643,6 +5213,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -4669,8 +5249,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-4",
     "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-    "primarySauceQty": "40ml (1.5 Ladles)",
-    "primarySauceStage": "Stage 2 (Glaze reduction)"
+    "primarySauceQty": "40ml (1.5 Wok Ladles)",
+    "primarySauceStage": "Stage 2 (Glaze Reduction)"
   },
   {
     "id": "mmszgir1ygbmc",
@@ -4703,7 +5283,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indo-Chinese Manchurian Mother Sauce Base (Sauce #03)",
-        "qty": "60ml (2 Ladles for Dry / 200ml for Gravy)",
+        "qty": "60ml Dry / 200ml Gravy",
         "cost": 9.0
       },
       {
@@ -4720,6 +5300,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -4746,8 +5336,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-3",
     "primarySauceName": "Indo-Chinese Manchurian Mother Sauce Base (Sauce #03)",
-    "primarySauceQty": "60ml (2 Ladles for Dry / 200ml for Gravy)",
-    "primarySauceStage": "Stage 3 (Simmer reduction)"
+    "primarySauceQty": "60ml Dry / 200ml Gravy",
+    "primarySauceStage": "Stage 3 (Simmer Reduction)"
   },
   {
     "id": "mmszgir1ydgv3",
@@ -4780,7 +5370,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indo-Chinese Manchurian Mother Sauce Base (Sauce #03)",
-        "qty": "60ml (2 Ladles for Dry / 200ml for Gravy)",
+        "qty": "60ml Dry / 200ml Gravy",
         "cost": 9.0
       },
       {
@@ -4797,6 +5387,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -4823,8 +5423,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-3",
     "primarySauceName": "Indo-Chinese Manchurian Mother Sauce Base (Sauce #03)",
-    "primarySauceQty": "60ml (2 Ladles for Dry / 200ml for Gravy)",
-    "primarySauceStage": "Stage 3 (Simmer reduction)"
+    "primarySauceQty": "60ml Dry / 200ml Gravy",
+    "primarySauceStage": "Stage 3 (Simmer Reduction)"
   },
   {
     "id": "mmszgir1yveig",
@@ -4857,7 +5457,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indo-Chinese Manchurian Mother Sauce Base (Sauce #03)",
-        "qty": "60ml (2 Ladles for Dry / 200ml for Gravy)",
+        "qty": "60ml Dry / 200ml Gravy",
         "cost": 9.0
       },
       {
@@ -4874,6 +5474,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -4900,8 +5510,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-3",
     "primarySauceName": "Indo-Chinese Manchurian Mother Sauce Base (Sauce #03)",
-    "primarySauceQty": "60ml (2 Ladles for Dry / 200ml for Gravy)",
-    "primarySauceStage": "Stage 3 (Simmer reduction)"
+    "primarySauceQty": "60ml Dry / 200ml Gravy",
+    "primarySauceStage": "Stage 3 (Simmer Reduction)"
   },
   {
     "id": "mmszgir1ytdb6",
@@ -4933,8 +5543,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Artisanal Black Bean & Garlic Sauce (Sauce #07)",
-        "qty": "35ml (1 Ladle)",
+        "item": "\u2605 Black Pepper & Oyster Master Glaze (Sauce #07)",
+        "qty": "35ml (1 Wok Ladle)",
         "cost": 9.0
       },
       {
@@ -4951,6 +5561,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -4976,9 +5596,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 82.0
     },
     "primarySauceId": "sauce-7",
-    "primarySauceName": "Artisanal Black Bean & Garlic Sauce (Sauce #07)",
-    "primarySauceQty": "35ml (1 Ladle)",
-    "primarySauceStage": "Stage 2 (Aromatics deglaze)"
+    "primarySauceName": "Black Pepper & Oyster Master Glaze (Sauce #07)",
+    "primarySauceQty": "35ml (1 Wok Ladle)",
+    "primarySauceStage": "Stage 2 (Aromatics Deglaze)"
   },
   {
     "id": "mmszgir1yjkh1",
@@ -5010,8 +5630,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Artisanal Black Bean & Garlic Sauce (Sauce #07)",
-        "qty": "35ml (1 Ladle)",
+        "item": "\u2605 Black Pepper & Oyster Master Glaze (Sauce #07)",
+        "qty": "35ml (1 Wok Ladle)",
         "cost": 9.0
       },
       {
@@ -5028,6 +5648,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -5053,9 +5683,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 78.0
     },
     "primarySauceId": "sauce-7",
-    "primarySauceName": "Artisanal Black Bean & Garlic Sauce (Sauce #07)",
-    "primarySauceQty": "35ml (1 Ladle)",
-    "primarySauceStage": "Stage 2 (Aromatics deglaze)"
+    "primarySauceName": "Black Pepper & Oyster Master Glaze (Sauce #07)",
+    "primarySauceQty": "35ml (1 Wok Ladle)",
+    "primarySauceStage": "Stage 2 (Aromatics Deglaze)"
   },
   {
     "id": "mmszgir1ye852",
@@ -5087,8 +5717,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Artisanal Black Bean & Garlic Sauce (Sauce #07)",
-        "qty": "35ml (1 Ladle)",
+        "item": "\u2605 Black Pepper & Oyster Master Glaze (Sauce #07)",
+        "qty": "35ml (1 Wok Ladle)",
         "cost": 9.0
       },
       {
@@ -5105,6 +5735,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -5130,9 +5770,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 77.0
     },
     "primarySauceId": "sauce-7",
-    "primarySauceName": "Artisanal Black Bean & Garlic Sauce (Sauce #07)",
-    "primarySauceQty": "35ml (1 Ladle)",
-    "primarySauceStage": "Stage 2 (Aromatics deglaze)"
+    "primarySauceName": "Black Pepper & Oyster Master Glaze (Sauce #07)",
+    "primarySauceQty": "35ml (1 Wok Ladle)",
+    "primarySauceStage": "Stage 2 (Aromatics Deglaze)"
   },
   {
     "id": "mmszgir1y8qci",
@@ -5165,7 +5805,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Kung Pao Master Glaze (Sauce #06)",
-        "qty": "40ml (1.5 Ladles)",
+        "qty": "40ml (1.5 Wok Ladles)",
         "cost": 9.0
       },
       {
@@ -5182,6 +5822,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -5208,8 +5858,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-6",
     "primarySauceName": "Indus Kung Pao Master Glaze (Sauce #06)",
-    "primarySauceQty": "40ml (1.5 Ladles)",
-    "primarySauceStage": "Stage 2 (Flash glaze)"
+    "primarySauceQty": "40ml (1.5 Wok Ladles)",
+    "primarySauceStage": "Stage 2 (Flash Glaze)"
   },
   {
     "id": "mmszgir1yeqrf",
@@ -5242,7 +5892,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Kung Pao Master Glaze (Sauce #06)",
-        "qty": "40ml (1.5 Ladles)",
+        "qty": "40ml (1.5 Wok Ladles)",
         "cost": 9.0
       },
       {
@@ -5259,6 +5909,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -5285,8 +5945,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-6",
     "primarySauceName": "Indus Kung Pao Master Glaze (Sauce #06)",
-    "primarySauceQty": "40ml (1.5 Ladles)",
-    "primarySauceStage": "Stage 2 (Flash glaze)"
+    "primarySauceQty": "40ml (1.5 Wok Ladles)",
+    "primarySauceStage": "Stage 2 (Flash Glaze)"
   },
   {
     "id": "mmszgir1yka31",
@@ -5319,7 +5979,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Kung Pao Master Glaze (Sauce #06)",
-        "qty": "40ml (1.5 Ladles)",
+        "qty": "40ml (1.5 Wok Ladles)",
         "cost": 9.0
       },
       {
@@ -5336,6 +5996,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -5362,8 +6032,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-6",
     "primarySauceName": "Indus Kung Pao Master Glaze (Sauce #06)",
-    "primarySauceQty": "40ml (1.5 Ladles)",
-    "primarySauceStage": "Stage 2 (Flash glaze)"
+    "primarySauceQty": "40ml (1.5 Wok Ladles)",
+    "primarySauceStage": "Stage 2 (Flash Glaze)"
   },
   {
     "id": "mmszgir1ynkh6",
@@ -5395,8 +6065,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-        "qty": "40ml Glaze",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 9.0
       },
       {
@@ -5413,6 +6083,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -5437,10 +6117,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 319.8,
       "grossMarginPct": 82.0
     },
-    "primarySauceId": "sauce-4",
-    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-    "primarySauceQty": "40ml Glaze",
-    "primarySauceStage": "Stage 2 (Glaze)"
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1y2wvq",
@@ -5472,8 +6152,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-        "qty": "40ml Glaze",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 9.0
       },
       {
@@ -5490,6 +6170,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -5514,10 +6204,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 343.2,
       "grossMarginPct": 78.0
     },
-    "primarySauceId": "sauce-4",
-    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-    "primarySauceQty": "40ml Glaze",
-    "primarySauceStage": "Stage 2 (Glaze)"
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1ygl3j",
@@ -5549,8 +6239,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-        "qty": "40ml Glaze",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 9.0
       },
       {
@@ -5567,6 +6257,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -5591,10 +6291,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 308.0,
       "grossMarginPct": 77.0
     },
-    "primarySauceId": "sauce-4",
-    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-    "primarySauceQty": "40ml Glaze",
-    "primarySauceStage": "Stage 2 (Glaze)"
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yy2wx",
@@ -5626,8 +6326,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-        "qty": "40ml Glaze",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 9.0
       },
       {
@@ -5644,6 +6344,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -5668,10 +6378,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 278.8,
       "grossMarginPct": 82.0
     },
-    "primarySauceId": "sauce-4",
-    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-    "primarySauceQty": "40ml Glaze",
-    "primarySauceStage": "Stage 2 (Glaze)"
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1y1ak3",
@@ -5703,8 +6413,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-        "qty": "40ml Glaze",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 9.0
       },
       {
@@ -5721,6 +6431,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -5745,10 +6465,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 312.0,
       "grossMarginPct": 78.0
     },
-    "primarySauceId": "sauce-4",
-    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-    "primarySauceQty": "40ml Glaze",
-    "primarySauceStage": "Stage 2 (Glaze)"
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1ynaer",
@@ -5780,8 +6500,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-        "qty": "40ml Glaze",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 9.0
       },
       {
@@ -5798,6 +6518,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -5822,10 +6552,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 300.3,
       "grossMarginPct": 77.0
     },
-    "primarySauceId": "sauce-4",
-    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-    "primarySauceQty": "40ml Glaze",
-    "primarySauceStage": "Stage 2 (Glaze)"
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1ywpm5",
@@ -5857,8 +6587,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-        "qty": "40ml Glaze",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 9.0
       },
       {
@@ -5875,6 +6605,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -5899,10 +6639,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 295.2,
       "grossMarginPct": 82.0
     },
-    "primarySauceId": "sauce-4",
-    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-    "primarySauceQty": "40ml Glaze",
-    "primarySauceStage": "Stage 2 (Glaze)"
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yj0x0",
@@ -5934,8 +6674,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-        "qty": "40ml Glaze",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 9.0
       },
       {
@@ -5952,6 +6692,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -5976,10 +6726,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 343.2,
       "grossMarginPct": 78.0
     },
-    "primarySauceId": "sauce-4",
-    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-    "primarySauceQty": "40ml Glaze",
-    "primarySauceStage": "Stage 2 (Glaze)"
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1ywnu9",
@@ -6011,8 +6761,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-        "qty": "40ml Glaze",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 9.0
       },
       {
@@ -6029,6 +6779,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -6053,10 +6813,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 308.0,
       "grossMarginPct": 77.0
     },
-    "primarySauceId": "sauce-4",
-    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-    "primarySauceQty": "40ml Glaze",
-    "primarySauceStage": "Stage 2 (Glaze)"
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1y1gzz",
@@ -6088,8 +6848,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-        "qty": "40ml Glaze",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 9.0
       },
       {
@@ -6106,6 +6866,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -6130,10 +6900,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 295.2,
       "grossMarginPct": 82.0
     },
-    "primarySauceId": "sauce-4",
-    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-    "primarySauceQty": "40ml Glaze",
-    "primarySauceStage": "Stage 2 (Glaze)"
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1ypwxv",
@@ -6165,8 +6935,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-        "qty": "40ml Glaze",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 9.0
       },
       {
@@ -6183,6 +6953,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -6207,10 +6987,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 343.2,
       "grossMarginPct": 78.0
     },
-    "primarySauceId": "sauce-4",
-    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-    "primarySauceQty": "40ml Glaze",
-    "primarySauceStage": "Stage 2 (Glaze)"
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yskxf",
@@ -6242,8 +7022,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-        "qty": "40ml Glaze",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 9.0
       },
       {
@@ -6260,6 +7040,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -6284,10 +7074,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 308.0,
       "grossMarginPct": 77.0
     },
-    "primarySauceId": "sauce-4",
-    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-    "primarySauceQty": "40ml Glaze",
-    "primarySauceStage": "Stage 2 (Glaze)"
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1ygk5e",
@@ -6319,8 +7109,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-        "qty": "40ml Glaze",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 9.0
       },
       {
@@ -6337,6 +7127,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -6361,10 +7161,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 295.2,
       "grossMarginPct": 82.0
     },
-    "primarySauceId": "sauce-4",
-    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-    "primarySauceQty": "40ml Glaze",
-    "primarySauceStage": "Stage 2 (Glaze)"
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yqj7n",
@@ -6396,8 +7196,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-        "qty": "40ml Glaze",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 9.0
       },
       {
@@ -6414,6 +7214,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -6438,10 +7248,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 343.2,
       "grossMarginPct": 78.0
     },
-    "primarySauceId": "sauce-4",
-    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-    "primarySauceQty": "40ml Glaze",
-    "primarySauceStage": "Stage 2 (Glaze)"
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yas1l",
@@ -6473,8 +7283,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-        "qty": "40ml Glaze",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 9.0
       },
       {
@@ -6491,6 +7301,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -6515,10 +7335,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 308.0,
       "grossMarginPct": 77.0
     },
-    "primarySauceId": "sauce-4",
-    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-    "primarySauceQty": "40ml Glaze",
-    "primarySauceStage": "Stage 2 (Glaze)"
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yn9g6",
@@ -6550,8 +7370,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-        "qty": "40ml Glaze",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 9.0
       },
       {
@@ -6568,6 +7388,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -6592,10 +7422,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 311.6,
       "grossMarginPct": 82.0
     },
-    "primarySauceId": "sauce-4",
-    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-    "primarySauceQty": "40ml Glaze",
-    "primarySauceStage": "Stage 2 (Glaze)"
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yolym",
@@ -6627,8 +7457,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-        "qty": "40ml Glaze",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 9.0
       },
       {
@@ -6645,6 +7475,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -6669,10 +7509,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 335.4,
       "grossMarginPct": 78.0
     },
-    "primarySauceId": "sauce-4",
-    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-    "primarySauceQty": "40ml Glaze",
-    "primarySauceStage": "Stage 2 (Glaze)"
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1y63jr",
@@ -6704,8 +7544,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-        "qty": "40ml Glaze",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 9.0
       },
       {
@@ -6722,6 +7562,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -6746,10 +7596,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 346.5,
       "grossMarginPct": 77.0
     },
-    "primarySauceId": "sauce-4",
-    "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-    "primarySauceQty": "40ml Glaze",
-    "primarySauceStage": "Stage 2 (Glaze)"
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1y52wk",
@@ -6782,7 +7632,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-        "qty": "40ml (1.5 Ladles)",
+        "qty": "40ml (1.5 Wok Ladles)",
         "cost": 9.0
       },
       {
@@ -6799,6 +7649,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -6825,8 +7685,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-4",
     "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-    "primarySauceQty": "40ml (1.5 Ladles)",
-    "primarySauceStage": "Stage 2 (Glaze reduction)"
+    "primarySauceQty": "40ml (1.5 Wok Ladles)",
+    "primarySauceStage": "Stage 2 (Glaze Reduction)"
   },
   {
     "id": "mmszgir1ywhu0",
@@ -6859,7 +7719,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-        "qty": "40ml (1.5 Ladles)",
+        "qty": "40ml (1.5 Wok Ladles)",
         "cost": 9.0
       },
       {
@@ -6876,6 +7736,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -6902,8 +7772,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-4",
     "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-    "primarySauceQty": "40ml (1.5 Ladles)",
-    "primarySauceStage": "Stage 2 (Glaze reduction)"
+    "primarySauceQty": "40ml (1.5 Wok Ladles)",
+    "primarySauceStage": "Stage 2 (Glaze Reduction)"
   },
   {
     "id": "mmszgir1y16rn",
@@ -6936,7 +7806,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-        "qty": "40ml (1.5 Ladles)",
+        "qty": "40ml (1.5 Wok Ladles)",
         "cost": 9.0
       },
       {
@@ -6953,6 +7823,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -6979,8 +7859,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-4",
     "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-    "primarySauceQty": "40ml (1.5 Ladles)",
-    "primarySauceStage": "Stage 2 (Glaze reduction)"
+    "primarySauceQty": "40ml (1.5 Wok Ladles)",
+    "primarySauceStage": "Stage 2 (Glaze Reduction)"
   },
   {
     "id": "mmszgir1ymo0j",
@@ -7012,8 +7892,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Japanese Teriyaki & Yakitori Glaze (Sauce #09)",
-        "qty": "40ml (1.5 Ladles)",
+        "item": "\u2605 Teriyaki & Hoisin Master Glaze (Sauce #09)",
+        "qty": "40ml (1.5 Wok Ladles)",
         "cost": 9.0
       },
       {
@@ -7030,6 +7910,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -7055,9 +7945,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 82.0
     },
     "primarySauceId": "sauce-9",
-    "primarySauceName": "Japanese Teriyaki & Yakitori Glaze (Sauce #09)",
-    "primarySauceQty": "40ml (1.5 Ladles)",
-    "primarySauceStage": "Stage 3 (Lacquer glaze)"
+    "primarySauceName": "Teriyaki & Hoisin Master Glaze (Sauce #09)",
+    "primarySauceQty": "40ml (1.5 Wok Ladles)",
+    "primarySauceStage": "Stage 3 (Lacquer Glaze)"
   },
   {
     "id": "mmszgir1ywngv",
@@ -7089,8 +7979,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Japanese Teriyaki & Yakitori Glaze (Sauce #09)",
-        "qty": "40ml (1.5 Ladles)",
+        "item": "\u2605 Teriyaki & Hoisin Master Glaze (Sauce #09)",
+        "qty": "40ml (1.5 Wok Ladles)",
         "cost": 9.0
       },
       {
@@ -7107,6 +7997,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -7132,9 +8032,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 78.0
     },
     "primarySauceId": "sauce-9",
-    "primarySauceName": "Japanese Teriyaki & Yakitori Glaze (Sauce #09)",
-    "primarySauceQty": "40ml (1.5 Ladles)",
-    "primarySauceStage": "Stage 3 (Lacquer glaze)"
+    "primarySauceName": "Teriyaki & Hoisin Master Glaze (Sauce #09)",
+    "primarySauceQty": "40ml (1.5 Wok Ladles)",
+    "primarySauceStage": "Stage 3 (Lacquer Glaze)"
   },
   {
     "id": "mmszgir1yre8e",
@@ -7166,8 +8066,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Japanese Teriyaki & Yakitori Glaze (Sauce #09)",
-        "qty": "40ml (1.5 Ladles)",
+        "item": "\u2605 Teriyaki & Hoisin Master Glaze (Sauce #09)",
+        "qty": "40ml (1.5 Wok Ladles)",
         "cost": 9.0
       },
       {
@@ -7184,6 +8084,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -7209,9 +8119,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 77.0
     },
     "primarySauceId": "sauce-9",
-    "primarySauceName": "Japanese Teriyaki & Yakitori Glaze (Sauce #09)",
-    "primarySauceQty": "40ml (1.5 Ladles)",
-    "primarySauceStage": "Stage 3 (Lacquer glaze)"
+    "primarySauceName": "Teriyaki & Hoisin Master Glaze (Sauce #09)",
+    "primarySauceQty": "40ml (1.5 Wok Ladles)",
+    "primarySauceStage": "Stage 3 (Lacquer Glaze)"
   },
   {
     "id": "mmszgir1yukfe",
@@ -7243,8 +8153,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Artisanal Black Bean & Garlic Sauce (Sauce #07)",
-        "qty": "35ml (1 Ladle)",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 9.0
       },
       {
@@ -7261,6 +8171,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -7285,10 +8205,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 319.8,
       "grossMarginPct": 82.0
     },
-    "primarySauceId": "sauce-7",
-    "primarySauceName": "Artisanal Black Bean & Garlic Sauce (Sauce #07)",
-    "primarySauceQty": "35ml (1 Ladle)",
-    "primarySauceStage": "Stage 2 (Aromatics deglaze)"
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1ygbsq",
@@ -7320,8 +8240,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Artisanal Black Bean & Garlic Sauce (Sauce #07)",
-        "qty": "35ml (1 Ladle)",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 9.0
       },
       {
@@ -7338,6 +8258,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -7362,10 +8292,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 343.2,
       "grossMarginPct": 78.0
     },
-    "primarySauceId": "sauce-7",
-    "primarySauceName": "Artisanal Black Bean & Garlic Sauce (Sauce #07)",
-    "primarySauceQty": "35ml (1 Ladle)",
-    "primarySauceStage": "Stage 2 (Aromatics deglaze)"
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yspnf",
@@ -7397,8 +8327,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Artisanal Black Bean & Garlic Sauce (Sauce #07)",
-        "qty": "35ml (1 Ladle)",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 9.0
       },
       {
@@ -7415,6 +8345,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -7439,10 +8379,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 354.2,
       "grossMarginPct": 77.0
     },
-    "primarySauceId": "sauce-7",
-    "primarySauceName": "Artisanal Black Bean & Garlic Sauce (Sauce #07)",
-    "primarySauceQty": "35ml (1 Ladle)",
-    "primarySauceStage": "Stage 2 (Aromatics deglaze)"
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yb5t6",
@@ -7480,7 +8420,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 4.5
       },
       {
@@ -7492,6 +8432,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -7519,8 +8469,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1y6d7q",
@@ -7558,7 +8508,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 4.5
       },
       {
@@ -7570,6 +8520,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -7597,8 +8557,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yan5n",
@@ -7636,7 +8596,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 4.5
       },
       {
@@ -7648,6 +8608,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -7675,8 +8645,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yccgt",
@@ -7714,7 +8684,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 4.5
       },
       {
@@ -7726,6 +8696,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -7753,8 +8733,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yzmi9",
@@ -7792,7 +8772,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-        "qty": "45ml (1.5 Ladles)",
+        "qty": "45ml (1.5 Wok Ladles)",
         "cost": 4.5
       },
       {
@@ -7804,6 +8784,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -7831,7 +8821,7 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-1",
     "primarySauceName": "Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceQty": "45ml (1.5 Wok Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9 after aromatics)"
   },
   {
@@ -7870,7 +8860,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-        "qty": "45ml (1.5 Ladles)",
+        "qty": "45ml (1.5 Wok Ladles)",
         "cost": 4.5
       },
       {
@@ -7882,6 +8872,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -7909,7 +8909,7 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-1",
     "primarySauceName": "Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceQty": "45ml (1.5 Wok Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9 after aromatics)"
   },
   {
@@ -7948,7 +8948,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-        "qty": "45ml (1.5 Ladles)",
+        "qty": "45ml (1.5 Wok Ladles)",
         "cost": 4.5
       },
       {
@@ -7960,6 +8960,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -7987,7 +8997,7 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-1",
     "primarySauceName": "Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceQty": "45ml (1.5 Wok Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9 after aromatics)"
   },
   {
@@ -8026,7 +9036,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-        "qty": "45ml (1.5 Ladles)",
+        "qty": "45ml (1.5 Wok Ladles)",
         "cost": 4.5
       },
       {
@@ -8038,6 +9048,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -8065,7 +9085,7 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-1",
     "primarySauceName": "Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceQty": "45ml (1.5 Wok Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9 after aromatics)"
   },
   {
@@ -8104,7 +9124,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 4.5
       },
       {
@@ -8116,6 +9136,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -8143,8 +9173,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1y4fo7",
@@ -8182,7 +9212,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Burnt Garlic & Scallion Oil Infusion (Sauce #05)",
-        "qty": "25ml Oil + 10g Crispy Chips",
+        "qty": "25ml Oil + 10g Chips",
         "cost": 4.5
       },
       {
@@ -8194,6 +9224,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -8221,8 +9261,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-5",
     "primarySauceName": "Burnt Garlic & Scallion Oil Infusion (Sauce #05)",
-    "primarySauceQty": "25ml Oil + 10g Crispy Chips",
-    "primarySauceStage": "Stage 1 (Wok start) & Final Garnish"
+    "primarySauceQty": "25ml Oil + 10g Chips",
+    "primarySauceStage": "Stage 1 (Wok Start) & Final Garnish"
   },
   {
     "id": "mmszgir1y24mt",
@@ -8260,7 +9300,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 4.5
       },
       {
@@ -8272,6 +9312,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -8299,8 +9349,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1ya3mt",
@@ -8338,7 +9388,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Burnt Garlic & Scallion Oil Infusion (Sauce #05)",
-        "qty": "25ml Oil + 10g Crispy Chips",
+        "qty": "25ml Oil + 10g Chips",
         "cost": 4.5
       },
       {
@@ -8350,6 +9400,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -8377,8 +9437,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-5",
     "primarySauceName": "Burnt Garlic & Scallion Oil Infusion (Sauce #05)",
-    "primarySauceQty": "25ml Oil + 10g Crispy Chips",
-    "primarySauceStage": "Stage 1 (Wok start) & Final Garnish"
+    "primarySauceQty": "25ml Oil + 10g Chips",
+    "primarySauceStage": "Stage 1 (Wok Start) & Final Garnish"
   },
   {
     "id": "mmszgir1y1s8y",
@@ -8415,8 +9475,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "\u2605 Artisanal Black Bean & Garlic Sauce (Sauce #07)",
-        "qty": "35ml (1 Ladle)",
+        "item": "\u2605 Black Pepper & Oyster Master Glaze (Sauce #07)",
+        "qty": "35ml (1 Wok Ladle)",
         "cost": 4.5
       },
       {
@@ -8428,6 +9488,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -8454,9 +9524,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 82.0
     },
     "primarySauceId": "sauce-7",
-    "primarySauceName": "Artisanal Black Bean & Garlic Sauce (Sauce #07)",
-    "primarySauceQty": "35ml (1 Ladle)",
-    "primarySauceStage": "Stage 2 (Aromatics deglaze)"
+    "primarySauceName": "Black Pepper & Oyster Master Glaze (Sauce #07)",
+    "primarySauceQty": "35ml (1 Wok Ladle)",
+    "primarySauceStage": "Stage 2 (Aromatics Deglaze)"
   },
   {
     "id": "mmszgir1yloey",
@@ -8493,8 +9563,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "\u2605 Artisanal Black Bean & Garlic Sauce (Sauce #07)",
-        "qty": "35ml (1 Ladle)",
+        "item": "\u2605 Black Pepper & Oyster Master Glaze (Sauce #07)",
+        "qty": "35ml (1 Wok Ladle)",
         "cost": 4.5
       },
       {
@@ -8506,6 +9576,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -8532,9 +9612,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 78.0
     },
     "primarySauceId": "sauce-7",
-    "primarySauceName": "Artisanal Black Bean & Garlic Sauce (Sauce #07)",
-    "primarySauceQty": "35ml (1 Ladle)",
-    "primarySauceStage": "Stage 2 (Aromatics deglaze)"
+    "primarySauceName": "Black Pepper & Oyster Master Glaze (Sauce #07)",
+    "primarySauceQty": "35ml (1 Wok Ladle)",
+    "primarySauceStage": "Stage 2 (Aromatics Deglaze)"
   },
   {
     "id": "mmszgir1yiki6",
@@ -8571,8 +9651,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "\u2605 Artisanal Black Bean & Garlic Sauce (Sauce #07)",
-        "qty": "35ml (1 Ladle)",
+        "item": "\u2605 Black Pepper & Oyster Master Glaze (Sauce #07)",
+        "qty": "35ml (1 Wok Ladle)",
         "cost": 4.5
       },
       {
@@ -8584,6 +9664,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -8610,9 +9700,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 81.0
     },
     "primarySauceId": "sauce-7",
-    "primarySauceName": "Artisanal Black Bean & Garlic Sauce (Sauce #07)",
-    "primarySauceQty": "35ml (1 Ladle)",
-    "primarySauceStage": "Stage 2 (Aromatics deglaze)"
+    "primarySauceName": "Black Pepper & Oyster Master Glaze (Sauce #07)",
+    "primarySauceQty": "35ml (1 Wok Ladle)",
+    "primarySauceStage": "Stage 2 (Aromatics Deglaze)"
   },
   {
     "id": "mmszgir1ycjwu",
@@ -8649,8 +9739,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "\u2605 Artisanal Black Bean & Garlic Sauce (Sauce #07)",
-        "qty": "35ml (1 Ladle)",
+        "item": "\u2605 Black Pepper & Oyster Master Glaze (Sauce #07)",
+        "qty": "35ml (1 Wok Ladle)",
         "cost": 4.5
       },
       {
@@ -8662,6 +9752,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -8688,9 +9788,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 77.0
     },
     "primarySauceId": "sauce-7",
-    "primarySauceName": "Artisanal Black Bean & Garlic Sauce (Sauce #07)",
-    "primarySauceQty": "35ml (1 Ladle)",
-    "primarySauceStage": "Stage 2 (Aromatics deglaze)"
+    "primarySauceName": "Black Pepper & Oyster Master Glaze (Sauce #07)",
+    "primarySauceQty": "35ml (1 Wok Ladle)",
+    "primarySauceStage": "Stage 2 (Aromatics Deglaze)"
   },
   {
     "id": "mmszgir1ypd2k",
@@ -8728,7 +9828,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 4.5
       },
       {
@@ -8740,6 +9840,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -8767,8 +9877,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1y2s6d",
@@ -8806,7 +9916,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 4.5
       },
       {
@@ -8818,6 +9928,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -8845,8 +9965,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1y3msr",
@@ -8884,7 +10004,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 4.5
       },
       {
@@ -8896,6 +10016,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -8923,8 +10053,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yso17",
@@ -8962,7 +10092,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 4.5
       },
       {
@@ -8974,6 +10104,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -9001,8 +10141,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yt2wl",
@@ -9039,8 +10179,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "item": "\u2605 Singapore & Madras Curry Seasoning Sauce (Sauce #11)",
+        "qty": "30ml (1 Wok Ladle)",
         "cost": 4.5
       },
       {
@@ -9052,6 +10192,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -9077,10 +10227,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 196.8,
       "grossMarginPct": 82.0
     },
-    "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceId": "sauce-11",
+    "primarySauceName": "Singapore & Madras Curry Seasoning Sauce (Sauce #11)",
+    "primarySauceQty": "30ml (1 Wok Ladle)",
+    "primarySauceStage": "Stage 2 (Aromatics Fry)"
   },
   {
     "id": "mmszgir1ydtot",
@@ -9117,8 +10267,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "item": "\u2605 Singapore & Madras Curry Seasoning Sauce (Sauce #11)",
+        "qty": "30ml (1 Wok Ladle)",
         "cost": 4.5
       },
       {
@@ -9130,6 +10280,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -9155,10 +10315,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 234.0,
       "grossMarginPct": 78.0
     },
-    "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceId": "sauce-11",
+    "primarySauceName": "Singapore & Madras Curry Seasoning Sauce (Sauce #11)",
+    "primarySauceQty": "30ml (1 Wok Ladle)",
+    "primarySauceStage": "Stage 2 (Aromatics Fry)"
   },
   {
     "id": "mmszgir1yl8kg",
@@ -9195,8 +10355,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "item": "\u2605 Singapore & Madras Curry Seasoning Sauce (Sauce #11)",
+        "qty": "30ml (1 Wok Ladle)",
         "cost": 4.5
       },
       {
@@ -9208,6 +10368,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -9233,10 +10403,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 210.6,
       "grossMarginPct": 81.0
     },
-    "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceId": "sauce-11",
+    "primarySauceName": "Singapore & Madras Curry Seasoning Sauce (Sauce #11)",
+    "primarySauceQty": "30ml (1 Wok Ladle)",
+    "primarySauceStage": "Stage 2 (Aromatics Fry)"
   },
   {
     "id": "mmszgir1yl4g6",
@@ -9273,8 +10443,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "item": "\u2605 Singapore & Madras Curry Seasoning Sauce (Sauce #11)",
+        "qty": "30ml (1 Wok Ladle)",
         "cost": 4.5
       },
       {
@@ -9286,6 +10456,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -9311,10 +10491,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 215.6,
       "grossMarginPct": 77.0
     },
-    "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceId": "sauce-11",
+    "primarySauceName": "Singapore & Madras Curry Seasoning Sauce (Sauce #11)",
+    "primarySauceQty": "30ml (1 Wok Ladle)",
+    "primarySauceStage": "Stage 2 (Aromatics Fry)"
   },
   {
     "id": "mmszgir1ym10z",
@@ -9352,7 +10532,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 4.5
       },
       {
@@ -9364,6 +10544,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -9391,8 +10581,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1y00u1",
@@ -9430,7 +10620,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 4.5
       },
       {
@@ -9442,6 +10632,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -9469,8 +10669,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1y8a4a",
@@ -9508,7 +10708,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 4.5
       },
       {
@@ -9520,6 +10720,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -9547,8 +10757,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1y2yq2",
@@ -9586,7 +10796,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 4.5
       },
       {
@@ -9598,6 +10808,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -9625,8 +10845,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1y5yat",
@@ -9663,8 +10883,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "\u2605 Korean Gochujang Spicy Glaze (Sauce #10)",
-        "qty": "45ml (1.5 Ladles)",
+        "item": "\u2605 Korean Spicy Glaze (Sriracha & Hoisin - Sauce #10)",
+        "qty": "40ml (1.5 Wok Ladles)",
         "cost": 4.5
       },
       {
@@ -9676,6 +10896,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -9702,8 +10932,8 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 82.0
     },
     "primarySauceId": "sauce-10",
-    "primarySauceName": "Korean Gochujang Spicy Glaze (Sauce #10)",
-    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceName": "Korean Spicy Glaze (Sriracha & Hoisin - Sauce #10)",
+    "primarySauceQty": "40ml (1.5 Wok Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9)"
   },
   {
@@ -9741,8 +10971,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "\u2605 Korean Gochujang Spicy Glaze (Sauce #10)",
-        "qty": "45ml (1.5 Ladles)",
+        "item": "\u2605 Korean Spicy Glaze (Sriracha & Hoisin - Sauce #10)",
+        "qty": "40ml (1.5 Wok Ladles)",
         "cost": 4.5
       },
       {
@@ -9754,6 +10984,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -9780,8 +11020,8 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 78.0
     },
     "primarySauceId": "sauce-10",
-    "primarySauceName": "Korean Gochujang Spicy Glaze (Sauce #10)",
-    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceName": "Korean Spicy Glaze (Sriracha & Hoisin - Sauce #10)",
+    "primarySauceQty": "40ml (1.5 Wok Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9)"
   },
   {
@@ -9819,8 +11059,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "\u2605 Korean Gochujang Spicy Glaze (Sauce #10)",
-        "qty": "45ml (1.5 Ladles)",
+        "item": "\u2605 Korean Spicy Glaze (Sriracha & Hoisin - Sauce #10)",
+        "qty": "40ml (1.5 Wok Ladles)",
         "cost": 4.5
       },
       {
@@ -9832,6 +11072,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -9858,8 +11108,8 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 81.0
     },
     "primarySauceId": "sauce-10",
-    "primarySauceName": "Korean Gochujang Spicy Glaze (Sauce #10)",
-    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceName": "Korean Spicy Glaze (Sriracha & Hoisin - Sauce #10)",
+    "primarySauceQty": "40ml (1.5 Wok Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9)"
   },
   {
@@ -9897,8 +11147,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "\u2605 Korean Gochujang Spicy Glaze (Sauce #10)",
-        "qty": "45ml (1.5 Ladles)",
+        "item": "\u2605 Korean Spicy Glaze (Sriracha & Hoisin - Sauce #10)",
+        "qty": "40ml (1.5 Wok Ladles)",
         "cost": 4.5
       },
       {
@@ -9910,6 +11160,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -9936,8 +11196,8 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 77.0
     },
     "primarySauceId": "sauce-10",
-    "primarySauceName": "Korean Gochujang Spicy Glaze (Sauce #10)",
-    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceName": "Korean Spicy Glaze (Sriracha & Hoisin - Sauce #10)",
+    "primarySauceQty": "40ml (1.5 Wok Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9)"
   },
   {
@@ -9975,8 +11235,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "\u2605 Classic Indo-Chinese Green Chilli Sauce (Sauce #11)",
-        "qty": "30ml (1 Ladle)",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 4.5
       },
       {
@@ -9988,6 +11248,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -10013,10 +11283,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 213.2,
       "grossMarginPct": 82.0
     },
-    "primarySauceId": "sauce-11",
-    "primarySauceName": "Classic Indo-Chinese Green Chilli Sauce (Sauce #11)",
-    "primarySauceQty": "30ml (1 Ladle)",
-    "primarySauceStage": "Stage 2 (Wok rim sizzle)"
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yjw3r",
@@ -10053,8 +11323,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "\u2605 Classic Indo-Chinese Green Chilli Sauce (Sauce #11)",
-        "qty": "30ml (1 Ladle)",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 4.5
       },
       {
@@ -10066,6 +11336,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -10091,10 +11371,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 234.0,
       "grossMarginPct": 78.0
     },
-    "primarySauceId": "sauce-11",
-    "primarySauceName": "Classic Indo-Chinese Green Chilli Sauce (Sauce #11)",
-    "primarySauceQty": "30ml (1 Ladle)",
-    "primarySauceStage": "Stage 2 (Wok rim sizzle)"
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yq86a",
@@ -10131,8 +11411,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "\u2605 Classic Indo-Chinese Green Chilli Sauce (Sauce #11)",
-        "qty": "30ml (1 Ladle)",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 4.5
       },
       {
@@ -10144,6 +11424,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -10169,10 +11459,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 210.6,
       "grossMarginPct": 81.0
     },
-    "primarySauceId": "sauce-11",
-    "primarySauceName": "Classic Indo-Chinese Green Chilli Sauce (Sauce #11)",
-    "primarySauceQty": "30ml (1 Ladle)",
-    "primarySauceStage": "Stage 2 (Wok rim sizzle)"
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1y5rof",
@@ -10209,8 +11499,8 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "\u2605 Classic Indo-Chinese Green Chilli Sauce (Sauce #11)",
-        "qty": "30ml (1 Ladle)",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 4.5
       },
       {
@@ -10222,6 +11512,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -10247,10 +11547,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 215.6,
       "grossMarginPct": 77.0
     },
-    "primarySauceId": "sauce-11",
-    "primarySauceName": "Classic Indo-Chinese Green Chilli Sauce (Sauce #11)",
-    "primarySauceQty": "30ml (1 Ladle)",
-    "primarySauceStage": "Stage 2 (Wok rim sizzle)"
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1y0hmz",
@@ -10288,7 +11588,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 4.5
       },
       {
@@ -10300,6 +11600,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -10327,8 +11637,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1ynpnu",
@@ -10366,7 +11676,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 4.5
       },
       {
@@ -10378,6 +11688,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -10405,8 +11725,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yubqe",
@@ -10444,7 +11764,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 4.5
       },
       {
@@ -10456,6 +11776,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -10483,8 +11813,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yrojg",
@@ -10522,7 +11852,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 4.5
       },
       {
@@ -10534,6 +11864,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -10561,8 +11901,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1y9xve",
@@ -10600,7 +11940,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 4.5
       },
       {
@@ -10612,6 +11952,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -10639,8 +11989,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yar88",
@@ -10678,7 +12028,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 4.5
       },
       {
@@ -10690,6 +12040,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -10717,8 +12077,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yfimq",
@@ -10756,7 +12116,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 4.5
       },
       {
@@ -10768,6 +12128,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -10795,8 +12165,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1y63jz",
@@ -10834,7 +12204,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 4.5
       },
       {
@@ -10846,6 +12216,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -10873,8 +12253,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1ya70v",
@@ -10912,7 +12292,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 4.5
       },
       {
@@ -10924,6 +12304,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -10951,8 +12341,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yl4kz",
@@ -10990,7 +12380,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 4.5
       },
       {
@@ -11002,6 +12392,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -11029,8 +12429,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yl1fo",
@@ -11068,7 +12468,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 4.5
       },
       {
@@ -11080,6 +12480,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -11107,8 +12517,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1y629f",
@@ -11146,7 +12556,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 4.5
       },
       {
@@ -11158,6 +12568,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -11185,8 +12605,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yli97",
@@ -11224,7 +12644,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 4.5
       },
       {
@@ -11236,6 +12656,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -11263,8 +12693,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1ytmvp",
@@ -11302,7 +12732,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 4.5
       },
       {
@@ -11314,6 +12744,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -11341,8 +12781,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yzqnb",
@@ -11380,7 +12820,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 4.5
       },
       {
@@ -11392,6 +12832,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -11419,8 +12869,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yni7h",
@@ -11458,7 +12908,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 4.5
       },
       {
@@ -11470,6 +12920,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -11497,8 +12957,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1ymhnd",
@@ -11535,7 +12995,7 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "\u2605 Thai Curry Paste & Broth Master Base (Sauce #12)",
+        "item": "\u2605 Thai Red & Yellow Curry Master Broth Base (Sauce #12)",
         "qty": "50g Paste / 250ml Broth",
         "cost": 4.5
       },
@@ -11548,6 +13008,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -11574,7 +13044,7 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 82.0
     },
     "primarySauceId": "sauce-12",
-    "primarySauceName": "Thai Curry Paste & Broth Master Base (Sauce #12)",
+    "primarySauceName": "Thai Red & Yellow Curry Master Broth Base (Sauce #12)",
     "primarySauceQty": "50g Paste / 250ml Broth",
     "primarySauceStage": "Stage 2 (Simmer)"
   },
@@ -11613,7 +13083,7 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "\u2605 Thai Curry Paste & Broth Master Base (Sauce #12)",
+        "item": "\u2605 Thai Red & Yellow Curry Master Broth Base (Sauce #12)",
         "qty": "50g Paste / 250ml Broth",
         "cost": 4.5
       },
@@ -11626,6 +13096,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -11652,7 +13132,7 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 78.0
     },
     "primarySauceId": "sauce-12",
-    "primarySauceName": "Thai Curry Paste & Broth Master Base (Sauce #12)",
+    "primarySauceName": "Thai Red & Yellow Curry Master Broth Base (Sauce #12)",
     "primarySauceQty": "50g Paste / 250ml Broth",
     "primarySauceStage": "Stage 2 (Simmer)"
   },
@@ -11691,7 +13171,7 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "\u2605 Thai Curry Paste & Broth Master Base (Sauce #12)",
+        "item": "\u2605 Thai Red & Yellow Curry Master Broth Base (Sauce #12)",
         "qty": "50g Paste / 250ml Broth",
         "cost": 4.5
       },
@@ -11704,6 +13184,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -11730,7 +13220,7 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 81.0
     },
     "primarySauceId": "sauce-12",
-    "primarySauceName": "Thai Curry Paste & Broth Master Base (Sauce #12)",
+    "primarySauceName": "Thai Red & Yellow Curry Master Broth Base (Sauce #12)",
     "primarySauceQty": "50g Paste / 250ml Broth",
     "primarySauceStage": "Stage 2 (Simmer)"
   },
@@ -11769,7 +13259,7 @@ window.INDUS_BIBLE = {
         "cost": 4.0
       },
       {
-        "item": "\u2605 Thai Curry Paste & Broth Master Base (Sauce #12)",
+        "item": "\u2605 Thai Red & Yellow Curry Master Broth Base (Sauce #12)",
         "qty": "50g Paste / 250ml Broth",
         "cost": 4.5
       },
@@ -11782,6 +13272,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -11808,7 +13308,7 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 77.0
     },
     "primarySauceId": "sauce-12",
-    "primarySauceName": "Thai Curry Paste & Broth Master Base (Sauce #12)",
+    "primarySauceName": "Thai Red & Yellow Curry Master Broth Base (Sauce #12)",
     "primarySauceQty": "50g Paste / 250ml Broth",
     "primarySauceStage": "Stage 2 (Simmer)"
   },
@@ -11848,7 +13348,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 4.5
       },
       {
@@ -11860,6 +13360,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -11887,8 +13397,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1y7h6v",
@@ -11926,7 +13436,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 4.5
       },
       {
@@ -11938,6 +13448,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -11965,8 +13485,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yl3ve",
@@ -12004,7 +13524,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 4.5
       },
       {
@@ -12016,6 +13536,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -12043,8 +13573,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1ygjz1",
@@ -12082,7 +13612,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 4.5
       },
       {
@@ -12094,6 +13624,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -12121,8 +13661,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1ynt77",
@@ -12160,7 +13700,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 14.0
       },
       {
@@ -12177,6 +13717,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -12205,8 +13755,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yzvw9",
@@ -12244,7 +13794,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 14.0
       },
       {
@@ -12261,6 +13811,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -12289,8 +13849,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yerir",
@@ -12328,7 +13888,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 14.0
       },
       {
@@ -12345,6 +13905,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -12373,8 +13943,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1ylo1d",
@@ -12412,7 +13982,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 14.0
       },
       {
@@ -12429,6 +13999,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -12457,8 +14037,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yw4us",
@@ -12496,7 +14076,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-        "qty": "40ml (1.5 Ladles)",
+        "qty": "40ml (1.5 Wok Ladles)",
         "cost": 14.0
       },
       {
@@ -12513,6 +14093,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -12541,8 +14131,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-4",
     "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-    "primarySauceQty": "40ml (1.5 Ladles)",
-    "primarySauceStage": "Stage 2 (Glaze reduction)"
+    "primarySauceQty": "40ml (1.5 Wok Ladles)",
+    "primarySauceStage": "Stage 2 (Glaze Reduction)"
   },
   {
     "id": "mmszgir1y7uay",
@@ -12580,7 +14170,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-        "qty": "40ml (1.5 Ladles)",
+        "qty": "40ml (1.5 Wok Ladles)",
         "cost": 14.0
       },
       {
@@ -12597,6 +14187,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -12625,8 +14225,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-4",
     "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-    "primarySauceQty": "40ml (1.5 Ladles)",
-    "primarySauceStage": "Stage 2 (Glaze reduction)"
+    "primarySauceQty": "40ml (1.5 Wok Ladles)",
+    "primarySauceStage": "Stage 2 (Glaze Reduction)"
   },
   {
     "id": "mmszgir1yk7ir",
@@ -12664,7 +14264,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-        "qty": "40ml (1.5 Ladles)",
+        "qty": "40ml (1.5 Wok Ladles)",
         "cost": 14.0
       },
       {
@@ -12681,6 +14281,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -12709,8 +14319,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-4",
     "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-    "primarySauceQty": "40ml (1.5 Ladles)",
-    "primarySauceStage": "Stage 2 (Glaze reduction)"
+    "primarySauceQty": "40ml (1.5 Wok Ladles)",
+    "primarySauceStage": "Stage 2 (Glaze Reduction)"
   },
   {
     "id": "mmszgir1yyk3h",
@@ -12748,7 +14358,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-        "qty": "40ml (1.5 Ladles)",
+        "qty": "40ml (1.5 Wok Ladles)",
         "cost": 14.0
       },
       {
@@ -12765,6 +14375,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -12793,8 +14413,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-4",
     "primarySauceName": "Indus Supreme Hot Garlic Master Glaze (Sauce #04)",
-    "primarySauceQty": "40ml (1.5 Ladles)",
-    "primarySauceStage": "Stage 2 (Glaze reduction)"
+    "primarySauceQty": "40ml (1.5 Wok Ladles)",
+    "primarySauceStage": "Stage 2 (Glaze Reduction)"
   },
   {
     "id": "mmszgir1yh46p",
@@ -12832,7 +14452,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indo-Chinese Manchurian Mother Sauce Base (Sauce #03)",
-        "qty": "60ml (2 Ladles for Dry / 200ml for Gravy)",
+        "qty": "60ml Dry / 200ml Gravy",
         "cost": 14.0
       },
       {
@@ -12849,6 +14469,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -12877,8 +14507,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-3",
     "primarySauceName": "Indo-Chinese Manchurian Mother Sauce Base (Sauce #03)",
-    "primarySauceQty": "60ml (2 Ladles for Dry / 200ml for Gravy)",
-    "primarySauceStage": "Stage 3 (Simmer reduction)"
+    "primarySauceQty": "60ml Dry / 200ml Gravy",
+    "primarySauceStage": "Stage 3 (Simmer Reduction)"
   },
   {
     "id": "mmszgir1y4e7t",
@@ -12916,7 +14546,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indo-Chinese Manchurian Mother Sauce Base (Sauce #03)",
-        "qty": "60ml (2 Ladles for Dry / 200ml for Gravy)",
+        "qty": "60ml Dry / 200ml Gravy",
         "cost": 14.0
       },
       {
@@ -12933,6 +14563,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -12961,8 +14601,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-3",
     "primarySauceName": "Indo-Chinese Manchurian Mother Sauce Base (Sauce #03)",
-    "primarySauceQty": "60ml (2 Ladles for Dry / 200ml for Gravy)",
-    "primarySauceStage": "Stage 3 (Simmer reduction)"
+    "primarySauceQty": "60ml Dry / 200ml Gravy",
+    "primarySauceStage": "Stage 3 (Simmer Reduction)"
   },
   {
     "id": "mmszgir1yxg8g",
@@ -13000,7 +14640,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indo-Chinese Manchurian Mother Sauce Base (Sauce #03)",
-        "qty": "60ml (2 Ladles for Dry / 200ml for Gravy)",
+        "qty": "60ml Dry / 200ml Gravy",
         "cost": 14.0
       },
       {
@@ -13017,6 +14657,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -13045,8 +14695,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-3",
     "primarySauceName": "Indo-Chinese Manchurian Mother Sauce Base (Sauce #03)",
-    "primarySauceQty": "60ml (2 Ladles for Dry / 200ml for Gravy)",
-    "primarySauceStage": "Stage 3 (Simmer reduction)"
+    "primarySauceQty": "60ml Dry / 200ml Gravy",
+    "primarySauceStage": "Stage 3 (Simmer Reduction)"
   },
   {
     "id": "mmszgir1yxtsq",
@@ -13084,7 +14734,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indo-Chinese Manchurian Mother Sauce Base (Sauce #03)",
-        "qty": "60ml (2 Ladles for Dry / 200ml for Gravy)",
+        "qty": "60ml Dry / 200ml Gravy",
         "cost": 14.0
       },
       {
@@ -13101,6 +14751,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -13129,8 +14789,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-3",
     "primarySauceName": "Indo-Chinese Manchurian Mother Sauce Base (Sauce #03)",
-    "primarySauceQty": "60ml (2 Ladles for Dry / 200ml for Gravy)",
-    "primarySauceStage": "Stage 3 (Simmer reduction)"
+    "primarySauceQty": "60ml Dry / 200ml Gravy",
+    "primarySauceStage": "Stage 3 (Simmer Reduction)"
   },
   {
     "id": "mmszgir1yykju",
@@ -13168,7 +14828,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 14.0
       },
       {
@@ -13185,6 +14845,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -13213,8 +14883,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yxsfi",
@@ -13252,7 +14922,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 14.0
       },
       {
@@ -13269,6 +14939,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -13297,8 +14977,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yj2ox",
@@ -13336,7 +15016,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 14.0
       },
       {
@@ -13353,6 +15033,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -13381,8 +15071,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yqlt5",
@@ -13420,7 +15110,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 14.0
       },
       {
@@ -13437,6 +15127,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -13465,8 +15165,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1y4wqs",
@@ -13504,7 +15204,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 14.0
       },
       {
@@ -13521,6 +15221,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -13549,8 +15259,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yoc9u",
@@ -13588,7 +15298,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 14.0
       },
       {
@@ -13605,6 +15315,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -13633,8 +15353,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1ygyb5",
@@ -13672,7 +15392,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 14.0
       },
       {
@@ -13689,6 +15409,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -13717,8 +15447,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yxhec",
@@ -13756,7 +15486,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 14.0
       },
       {
@@ -13773,6 +15503,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -13801,8 +15541,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yz6md",
@@ -13840,7 +15580,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 14.0
       },
       {
@@ -13857,6 +15597,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -13885,8 +15635,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1y8ims",
@@ -13924,7 +15674,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 14.0
       },
       {
@@ -13941,6 +15691,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -13969,8 +15729,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yhqee",
@@ -14008,7 +15768,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 14.0
       },
       {
@@ -14025,6 +15785,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -14053,8 +15823,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1ywv8p",
@@ -14092,7 +15862,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 14.0
       },
       {
@@ -14109,6 +15879,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -14137,8 +15917,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yyw3n",
@@ -14176,7 +15956,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-        "qty": "45ml (1.5 Ladles)",
+        "qty": "45ml (1.5 Wok Ladles)",
         "cost": 14.0
       },
       {
@@ -14193,6 +15973,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -14221,7 +16011,7 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-1",
     "primarySauceName": "Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceQty": "45ml (1.5 Wok Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9 after aromatics)"
   },
   {
@@ -14260,7 +16050,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-        "qty": "45ml (1.5 Ladles)",
+        "qty": "45ml (1.5 Wok Ladles)",
         "cost": 14.0
       },
       {
@@ -14277,6 +16067,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -14305,7 +16105,7 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-1",
     "primarySauceName": "Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceQty": "45ml (1.5 Wok Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9 after aromatics)"
   },
   {
@@ -14344,7 +16144,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-        "qty": "45ml (1.5 Ladles)",
+        "qty": "45ml (1.5 Wok Ladles)",
         "cost": 14.0
       },
       {
@@ -14361,6 +16161,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -14389,7 +16199,7 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-1",
     "primarySauceName": "Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceQty": "45ml (1.5 Wok Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9 after aromatics)"
   },
   {
@@ -14428,7 +16238,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-        "qty": "45ml (1.5 Ladles)",
+        "qty": "45ml (1.5 Wok Ladles)",
         "cost": 14.0
       },
       {
@@ -14445,6 +16255,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -14473,7 +16293,7 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-1",
     "primarySauceName": "Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceQty": "45ml (1.5 Wok Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9 after aromatics)"
   },
   {
@@ -14512,7 +16332,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 14.0
       },
       {
@@ -14529,6 +16349,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -14557,8 +16387,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1ycd13",
@@ -14596,7 +16426,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 14.0
       },
       {
@@ -14613,6 +16443,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -14641,8 +16481,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yu4wq",
@@ -14680,7 +16520,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 14.0
       },
       {
@@ -14697,6 +16537,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -14725,8 +16575,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yh0c5",
@@ -14764,7 +16614,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 14.0
       },
       {
@@ -14781,6 +16631,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -14809,8 +16669,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yjl6s",
@@ -14848,7 +16708,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 14.0
       },
       {
@@ -14865,6 +16725,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -14893,8 +16763,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1youcu",
@@ -14932,7 +16802,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 14.0
       },
       {
@@ -14949,6 +16819,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -14977,8 +16857,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1ytehc",
@@ -15016,7 +16896,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 14.0
       },
       {
@@ -15033,6 +16913,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -15061,8 +16951,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yic8z",
@@ -15100,7 +16990,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 14.0
       },
       {
@@ -15117,6 +17007,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -15145,8 +17045,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yuqtx",
@@ -15184,7 +17084,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 14.0
       },
       {
@@ -15201,6 +17101,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -15229,8 +17139,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yyls6",
@@ -15268,7 +17178,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 14.0
       },
       {
@@ -15285,6 +17195,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -15313,8 +17233,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1y78v4",
@@ -15352,7 +17272,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 14.0
       },
       {
@@ -15369,6 +17289,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -15397,8 +17327,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yksuu",
@@ -15436,7 +17366,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 14.0
       },
       {
@@ -15453,6 +17383,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Whites & Greens (Separated)",
         "qty": "20g",
         "cost": 2.5
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -15481,8 +17421,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yyo5v",
@@ -15525,8 +17465,18 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 5.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -15553,8 +17503,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze",
-    "primarySauceStage": "Stage 3 (Rim sizzle)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yxqxm",
@@ -15596,9 +17546,19 @@ window.INDUS_BIBLE = {
         "cost": 10.0
       },
       {
-        "item": "\u2605 Japanese Seasoned Vinegar Tare & Teriyaki Drizzle",
-        "qty": "20ml Drizzle",
+        "item": "\u2605 Spicy Japanese Mayo & Cream Cheese Drizzle (Sauce #14)",
+        "qty": "25ml Squeeze Drizzle",
         "cost": 5.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -15623,10 +17583,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 429.0,
       "grossMarginPct": 78.0
     },
-    "primarySauceId": "sauce-9",
-    "primarySauceName": "Japanese Seasoned Vinegar Tare & Teriyaki Drizzle",
-    "primarySauceQty": "20ml Drizzle",
-    "primarySauceStage": "Sushi Glaze"
+    "primarySauceId": "sauce-14",
+    "primarySauceName": "Spicy Japanese Mayo & Cream Cheese Drizzle (Sauce #14)",
+    "primarySauceQty": "25ml Squeeze Drizzle",
+    "primarySauceStage": "Roll Filling & Top Stripe"
   },
   {
     "id": "mmszgir1ybvz0",
@@ -15668,9 +17628,19 @@ window.INDUS_BIBLE = {
         "cost": 10.0
       },
       {
-        "item": "\u2605 Japanese Teriyaki & Yakitori Glaze (Sauce #09)",
-        "qty": "40ml (1.5 Ladles)",
+        "item": "\u2605 Teriyaki & Hoisin Master Glaze (Sauce #09)",
+        "qty": "40ml (1.5 Wok Ladles)",
         "cost": 5.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -15696,9 +17666,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 77.0
     },
     "primarySauceId": "sauce-9",
-    "primarySauceName": "Japanese Teriyaki & Yakitori Glaze (Sauce #09)",
-    "primarySauceQty": "40ml (1.5 Ladles)",
-    "primarySauceStage": "Stage 3 (Lacquer glaze)"
+    "primarySauceName": "Teriyaki & Hoisin Master Glaze (Sauce #09)",
+    "primarySauceQty": "40ml (1.5 Wok Ladles)",
+    "primarySauceStage": "Stage 3 (Lacquer Glaze)"
   },
   {
     "id": "mmszgir1yzdcn",
@@ -15740,9 +17710,19 @@ window.INDUS_BIBLE = {
         "cost": 10.0
       },
       {
-        "item": "\u2605 Japanese Seasoned Vinegar Tare & Teriyaki Drizzle",
-        "qty": "20ml Drizzle",
+        "item": "\u2605 Spicy Japanese Mayo & Cream Cheese Drizzle (Sauce #14)",
+        "qty": "25ml Squeeze Drizzle",
         "cost": 5.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -15767,10 +17747,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 410.0,
       "grossMarginPct": 82.0
     },
-    "primarySauceId": "sauce-9",
-    "primarySauceName": "Japanese Seasoned Vinegar Tare & Teriyaki Drizzle",
-    "primarySauceQty": "20ml Drizzle",
-    "primarySauceStage": "Sushi Glaze"
+    "primarySauceId": "sauce-14",
+    "primarySauceName": "Spicy Japanese Mayo & Cream Cheese Drizzle (Sauce #14)",
+    "primarySauceQty": "25ml Squeeze Drizzle",
+    "primarySauceStage": "Roll Filling & Top Stripe"
   },
   {
     "id": "mmszgir1y33ix",
@@ -15812,9 +17792,19 @@ window.INDUS_BIBLE = {
         "cost": 10.0
       },
       {
-        "item": "\u2605 Japanese Seasoned Vinegar Tare & Teriyaki Drizzle",
-        "qty": "20ml Drizzle",
+        "item": "\u2605 Spicy Japanese Mayo & Cream Cheese Drizzle (Sauce #14)",
+        "qty": "25ml Squeeze Drizzle",
         "cost": 5.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -15839,10 +17829,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 410.0,
       "grossMarginPct": 82.0
     },
-    "primarySauceId": "sauce-9",
-    "primarySauceName": "Japanese Seasoned Vinegar Tare & Teriyaki Drizzle",
-    "primarySauceQty": "20ml Drizzle",
-    "primarySauceStage": "Sushi Glaze"
+    "primarySauceId": "sauce-14",
+    "primarySauceName": "Spicy Japanese Mayo & Cream Cheese Drizzle (Sauce #14)",
+    "primarySauceQty": "25ml Squeeze Drizzle",
+    "primarySauceStage": "Roll Filling & Top Stripe"
   },
   {
     "id": "mmszgir1ygwmo",
@@ -15884,9 +17874,19 @@ window.INDUS_BIBLE = {
         "cost": 10.0
       },
       {
-        "item": "\u2605 Indus Rich Miso/Shoyu Tare & Ramen Broth",
-        "qty": "300ml Piping Hot Broth",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 5.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -15911,10 +17911,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 351.0,
       "grossMarginPct": 78.0
     },
-    "primarySauceId": "sauce-12",
-    "primarySauceName": "Indus Rich Miso/Shoyu Tare & Ramen Broth",
-    "primarySauceQty": "300ml Piping Hot Broth",
-    "primarySauceStage": "Bowl Assembly"
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1y8pas",
@@ -15956,9 +17956,19 @@ window.INDUS_BIBLE = {
         "cost": 10.0
       },
       {
-        "item": "\u2605 Indus Rich Miso/Shoyu Tare & Ramen Broth",
-        "qty": "300ml Piping Hot Broth",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 5.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -15983,10 +17993,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 369.0,
       "grossMarginPct": 82.0
     },
-    "primarySauceId": "sauce-12",
-    "primarySauceName": "Indus Rich Miso/Shoyu Tare & Ramen Broth",
-    "primarySauceQty": "300ml Piping Hot Broth",
-    "primarySauceStage": "Bowl Assembly"
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1ya3wb",
@@ -16028,9 +18038,19 @@ window.INDUS_BIBLE = {
         "cost": 10.0
       },
       {
-        "item": "\u2605 Korean Gochujang Spicy Glaze (Sauce #10)",
-        "qty": "45ml (1.5 Ladles)",
+        "item": "\u2605 Korean Spicy Glaze (Sriracha & Hoisin - Sauce #10)",
+        "qty": "40ml (1.5 Wok Ladles)",
         "cost": 5.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -16056,8 +18076,8 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 78.0
     },
     "primarySauceId": "sauce-10",
-    "primarySauceName": "Korean Gochujang Spicy Glaze (Sauce #10)",
-    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceName": "Korean Spicy Glaze (Sriracha & Hoisin - Sauce #10)",
+    "primarySauceQty": "40ml (1.5 Wok Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9)"
   },
   {
@@ -16100,9 +18120,19 @@ window.INDUS_BIBLE = {
         "cost": 10.0
       },
       {
-        "item": "\u2605 Indus Rich Miso/Shoyu Tare & Ramen Broth",
-        "qty": "300ml Piping Hot Broth",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 5.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -16127,10 +18157,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 358.8,
       "grossMarginPct": 78.0
     },
-    "primarySauceId": "sauce-12",
-    "primarySauceName": "Indus Rich Miso/Shoyu Tare & Ramen Broth",
-    "primarySauceQty": "300ml Piping Hot Broth",
-    "primarySauceStage": "Bowl Assembly"
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1ysayl",
@@ -16172,9 +18202,19 @@ window.INDUS_BIBLE = {
         "cost": 10.0
       },
       {
-        "item": "\u2605 Indus Rich Miso/Shoyu Tare & Ramen Broth",
-        "qty": "300ml Piping Hot Broth",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 5.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -16199,10 +18239,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 396.0,
       "grossMarginPct": 72.0
     },
-    "primarySauceId": "sauce-12",
-    "primarySauceName": "Indus Rich Miso/Shoyu Tare & Ramen Broth",
-    "primarySauceQty": "300ml Piping Hot Broth",
-    "primarySauceStage": "Bowl Assembly"
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1ydep7",
@@ -16244,9 +18284,19 @@ window.INDUS_BIBLE = {
         "cost": 10.0
       },
       {
-        "item": "\u2605 Indus Rich Miso/Shoyu Tare & Ramen Broth",
-        "qty": "300ml Piping Hot Broth",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 5.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -16271,10 +18321,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 393.6,
       "grossMarginPct": 82.0
     },
-    "primarySauceId": "sauce-12",
-    "primarySauceName": "Indus Rich Miso/Shoyu Tare & Ramen Broth",
-    "primarySauceQty": "300ml Piping Hot Broth",
-    "primarySauceStage": "Bowl Assembly"
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1ykyq7",
@@ -16316,9 +18366,19 @@ window.INDUS_BIBLE = {
         "cost": 10.0
       },
       {
-        "item": "\u2605 Indus Rich Miso/Shoyu Tare & Ramen Broth",
-        "qty": "300ml Piping Hot Broth",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 5.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -16343,10 +18403,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 374.4,
       "grossMarginPct": 78.0
     },
-    "primarySauceId": "sauce-12",
-    "primarySauceName": "Indus Rich Miso/Shoyu Tare & Ramen Broth",
-    "primarySauceQty": "300ml Piping Hot Broth",
-    "primarySauceStage": "Bowl Assembly"
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1ysk7l",
@@ -16374,7 +18434,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 6.0
       },
       {
@@ -16386,6 +18446,16 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -16411,8 +18481,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze",
-    "primarySauceStage": "Stage 3 (Rim sizzle)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yhwqm",
@@ -16440,7 +18510,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-        "qty": "45ml (1.5 Ladles)",
+        "qty": "45ml (1.5 Wok Ladles)",
         "cost": 6.0
       },
       {
@@ -16452,6 +18522,16 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -16477,7 +18557,7 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-1",
     "primarySauceName": "Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceQty": "45ml (1.5 Wok Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9 after aromatics)"
   },
   {
@@ -16505,8 +18585,8 @@ window.INDUS_BIBLE = {
         "cost": 8.0
       },
       {
-        "item": "\u2605 Artisanal Black Bean & Garlic Sauce (Sauce #07)",
-        "qty": "35ml (1 Ladle)",
+        "item": "\u2605 Black Pepper & Oyster Master Glaze (Sauce #07)",
+        "qty": "35ml (1 Wok Ladle)",
         "cost": 6.0
       },
       {
@@ -16518,6 +18598,16 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -16542,9 +18632,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 77.0
     },
     "primarySauceId": "sauce-7",
-    "primarySauceName": "Artisanal Black Bean & Garlic Sauce (Sauce #07)",
-    "primarySauceQty": "35ml (1 Ladle)",
-    "primarySauceStage": "Stage 2 (Aromatics deglaze)"
+    "primarySauceName": "Black Pepper & Oyster Master Glaze (Sauce #07)",
+    "primarySauceQty": "35ml (1 Wok Ladle)",
+    "primarySauceStage": "Stage 2 (Aromatics Deglaze)"
   },
   {
     "id": "mmszgir1yyapj",
@@ -16572,7 +18662,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 6.0
       },
       {
@@ -16584,6 +18674,16 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -16609,8 +18709,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze",
-    "primarySauceStage": "Stage 3 (Rim sizzle)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yg355",
@@ -16638,7 +18738,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 6.0
       },
       {
@@ -16650,6 +18750,16 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -16675,8 +18785,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze",
-    "primarySauceStage": "Stage 3 (Rim sizzle)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yyvfq",
@@ -16704,7 +18814,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 6.0
       },
       {
@@ -16716,6 +18826,16 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -16741,8 +18861,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze",
-    "primarySauceStage": "Stage 3 (Rim sizzle)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1ypjap",
@@ -16769,8 +18889,8 @@ window.INDUS_BIBLE = {
         "cost": 8.0
       },
       {
-        "item": "\u2605 Artisanal Momo Jhol Broth & Chutney (Sauce #13)",
-        "qty": "150ml Warm Broth / 40ml Chutney",
+        "item": "\u2605 Artisanal Momo Sesame Dip & Spicy Jhol Broth (Sauce #13)",
+        "qty": "150ml Warm Broth / 40ml Dip",
         "cost": 6.0
       },
       {
@@ -16782,6 +18902,16 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -16806,9 +18936,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 77.0
     },
     "primarySauceId": "sauce-13",
-    "primarySauceName": "Artisanal Momo Jhol Broth & Chutney (Sauce #13)",
-    "primarySauceQty": "150ml Warm Broth / 40ml Chutney",
-    "primarySauceStage": "Accompaniment / Pour-over"
+    "primarySauceName": "Artisanal Momo Sesame Dip & Spicy Jhol Broth (Sauce #13)",
+    "primarySauceQty": "150ml Warm Broth / 40ml Dip",
+    "primarySauceStage": "Pour-Over / Side Cup"
   },
   {
     "id": "mmszgir1yz0lp",
@@ -16835,8 +18965,8 @@ window.INDUS_BIBLE = {
         "cost": 8.0
       },
       {
-        "item": "\u2605 Artisanal Momo Jhol Broth & Chutney (Sauce #13)",
-        "qty": "150ml Warm Broth / 40ml Chutney",
+        "item": "\u2605 Artisanal Momo Sesame Dip & Spicy Jhol Broth (Sauce #13)",
+        "qty": "150ml Warm Broth / 40ml Dip",
         "cost": 6.0
       },
       {
@@ -16848,6 +18978,16 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -16872,9 +19012,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 77.0
     },
     "primarySauceId": "sauce-13",
-    "primarySauceName": "Artisanal Momo Jhol Broth & Chutney (Sauce #13)",
-    "primarySauceQty": "150ml Warm Broth / 40ml Chutney",
-    "primarySauceStage": "Accompaniment / Pour-over"
+    "primarySauceName": "Artisanal Momo Sesame Dip & Spicy Jhol Broth (Sauce #13)",
+    "primarySauceQty": "150ml Warm Broth / 40ml Dip",
+    "primarySauceStage": "Pour-Over / Side Cup"
   },
   {
     "id": "mmszgir1y42es",
@@ -16902,7 +19042,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 6.0
       },
       {
@@ -16914,6 +19054,16 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -16939,8 +19089,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze",
-    "primarySauceStage": "Stage 3 (Rim sizzle)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yu47j",
@@ -16968,7 +19118,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 6.0
       },
       {
@@ -16980,6 +19130,16 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -17005,8 +19165,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze",
-    "primarySauceStage": "Stage 3 (Rim sizzle)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1ysvqb",
@@ -17034,7 +19194,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 6.0
       },
       {
@@ -17046,6 +19206,16 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -17071,8 +19241,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze",
-    "primarySauceStage": "Stage 3 (Rim sizzle)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1ykbew",
@@ -17100,7 +19270,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 6.0
       },
       {
@@ -17112,6 +19282,16 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -17137,8 +19317,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze",
-    "primarySauceStage": "Stage 3 (Rim sizzle)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yb9dm",
@@ -17166,7 +19346,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 6.0
       },
       {
@@ -17178,6 +19358,16 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -17203,8 +19393,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze",
-    "primarySauceStage": "Stage 3 (Rim sizzle)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yulip",
@@ -17232,7 +19422,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 6.0
       },
       {
@@ -17244,6 +19434,16 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -17269,8 +19469,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze",
-    "primarySauceStage": "Stage 3 (Rim sizzle)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yigkd",
@@ -17298,7 +19498,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 6.0
       },
       {
@@ -17310,6 +19510,16 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -17335,8 +19545,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze",
-    "primarySauceStage": "Stage 3 (Rim sizzle)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yu6zp",
@@ -17364,7 +19574,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 6.0
       },
       {
@@ -17376,6 +19586,16 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -17401,8 +19621,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze",
-    "primarySauceStage": "Stage 3 (Rim sizzle)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1ygcqt",
@@ -17430,7 +19650,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 6.0
       },
       {
@@ -17442,6 +19662,16 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -17467,8 +19697,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze",
-    "primarySauceStage": "Stage 3 (Rim sizzle)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yjc1w",
@@ -17496,7 +19726,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 6.0
       },
       {
@@ -17508,6 +19738,16 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -17533,8 +19773,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze",
-    "primarySauceStage": "Stage 3 (Rim sizzle)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1ycvfr",
@@ -17562,7 +19802,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-        "qty": "45ml (1.5 Ladles)",
+        "qty": "45ml (1.5 Wok Ladles)",
         "cost": 6.0
       },
       {
@@ -17574,6 +19814,16 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -17599,7 +19849,7 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-1",
     "primarySauceName": "Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceQty": "45ml (1.5 Wok Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9 after aromatics)"
   },
   {
@@ -17628,7 +19878,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 6.0
       },
       {
@@ -17640,6 +19890,16 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -17665,8 +19925,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze",
-    "primarySauceStage": "Stage 3 (Rim sizzle)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yvgo9",
@@ -17694,7 +19954,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 6.0
       },
       {
@@ -17706,6 +19966,16 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -17731,8 +20001,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze",
-    "primarySauceStage": "Stage 3 (Rim sizzle)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1ynoo3",
@@ -17760,7 +20030,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 6.0
       },
       {
@@ -17772,6 +20042,16 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -17797,8 +20077,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze",
-    "primarySauceStage": "Stage 3 (Rim sizzle)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yhsph",
@@ -17826,7 +20106,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 6.0
       },
       {
@@ -17838,6 +20118,16 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -17863,8 +20153,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze",
-    "primarySauceStage": "Stage 3 (Rim sizzle)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yno02",
@@ -17892,7 +20182,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 6.0
       },
       {
@@ -17904,6 +20194,16 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -17929,8 +20229,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze",
-    "primarySauceStage": "Stage 3 (Rim sizzle)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1ylpy2",
@@ -17958,7 +20258,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 6.0
       },
       {
@@ -17970,6 +20270,16 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -17995,8 +20305,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze",
-    "primarySauceStage": "Stage 3 (Rim sizzle)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1ygxbb",
@@ -18029,7 +20339,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 5.0
       },
       {
@@ -18046,6 +20356,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -18073,8 +20393,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yxxhl",
@@ -18107,7 +20427,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 5.0
       },
       {
@@ -18124,6 +20444,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -18151,8 +20481,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yf8bu",
@@ -18185,7 +20515,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 5.0
       },
       {
@@ -18202,6 +20532,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -18229,8 +20569,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yw0ec",
@@ -18263,7 +20603,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 5.0
       },
       {
@@ -18280,6 +20620,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -18307,8 +20657,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yjw3d",
@@ -18341,7 +20691,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-        "qty": "45ml (1.5 Ladles)",
+        "qty": "45ml (1.5 Wok Ladles)",
         "cost": 5.0
       },
       {
@@ -18358,6 +20708,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -18385,7 +20745,7 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-1",
     "primarySauceName": "Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceQty": "45ml (1.5 Wok Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9 after aromatics)"
   },
   {
@@ -18419,7 +20779,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-        "qty": "45ml (1.5 Ladles)",
+        "qty": "45ml (1.5 Wok Ladles)",
         "cost": 5.0
       },
       {
@@ -18436,6 +20796,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -18463,7 +20833,7 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-1",
     "primarySauceName": "Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceQty": "45ml (1.5 Wok Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9 after aromatics)"
   },
   {
@@ -18497,7 +20867,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-        "qty": "45ml (1.5 Ladles)",
+        "qty": "45ml (1.5 Wok Ladles)",
         "cost": 5.0
       },
       {
@@ -18514,6 +20884,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -18541,7 +20921,7 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-1",
     "primarySauceName": "Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceQty": "45ml (1.5 Wok Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9 after aromatics)"
   },
   {
@@ -18575,7 +20955,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-        "qty": "45ml (1.5 Ladles)",
+        "qty": "45ml (1.5 Wok Ladles)",
         "cost": 5.0
       },
       {
@@ -18592,6 +20972,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -18619,7 +21009,7 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-1",
     "primarySauceName": "Indus Signature Red Schezwan Mother Paste (Sauce #01)",
-    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceQty": "45ml (1.5 Wok Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9 after aromatics)"
   },
   {
@@ -18653,7 +21043,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 5.0
       },
       {
@@ -18670,6 +21060,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -18697,8 +21097,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1ytej9",
@@ -18731,7 +21131,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 5.0
       },
       {
@@ -18748,6 +21148,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -18775,8 +21185,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1ymeky",
@@ -18809,7 +21219,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 5.0
       },
       {
@@ -18826,6 +21236,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -18853,8 +21273,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yvabt",
@@ -18887,7 +21307,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 5.0
       },
       {
@@ -18904,6 +21324,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -18931,8 +21361,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1y3mf6",
@@ -18964,8 +21394,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "\u2605 Artisanal Black Bean & Garlic Sauce (Sauce #07)",
-        "qty": "35ml (1 Ladle)",
+        "item": "\u2605 Black Pepper & Oyster Master Glaze (Sauce #07)",
+        "qty": "35ml (1 Wok Ladle)",
         "cost": 5.0
       },
       {
@@ -18982,6 +21412,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -19008,9 +21448,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 82.0
     },
     "primarySauceId": "sauce-7",
-    "primarySauceName": "Artisanal Black Bean & Garlic Sauce (Sauce #07)",
-    "primarySauceQty": "35ml (1 Ladle)",
-    "primarySauceStage": "Stage 2 (Aromatics deglaze)"
+    "primarySauceName": "Black Pepper & Oyster Master Glaze (Sauce #07)",
+    "primarySauceQty": "35ml (1 Wok Ladle)",
+    "primarySauceStage": "Stage 2 (Aromatics Deglaze)"
   },
   {
     "id": "mmszgir1yais4",
@@ -19042,8 +21482,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "\u2605 Artisanal Black Bean & Garlic Sauce (Sauce #07)",
-        "qty": "35ml (1 Ladle)",
+        "item": "\u2605 Black Pepper & Oyster Master Glaze (Sauce #07)",
+        "qty": "35ml (1 Wok Ladle)",
         "cost": 5.0
       },
       {
@@ -19060,6 +21500,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -19086,9 +21536,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 78.0
     },
     "primarySauceId": "sauce-7",
-    "primarySauceName": "Artisanal Black Bean & Garlic Sauce (Sauce #07)",
-    "primarySauceQty": "35ml (1 Ladle)",
-    "primarySauceStage": "Stage 2 (Aromatics deglaze)"
+    "primarySauceName": "Black Pepper & Oyster Master Glaze (Sauce #07)",
+    "primarySauceQty": "35ml (1 Wok Ladle)",
+    "primarySauceStage": "Stage 2 (Aromatics Deglaze)"
   },
   {
     "id": "mmszgir1y8g1a",
@@ -19120,8 +21570,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "\u2605 Artisanal Black Bean & Garlic Sauce (Sauce #07)",
-        "qty": "35ml (1 Ladle)",
+        "item": "\u2605 Black Pepper & Oyster Master Glaze (Sauce #07)",
+        "qty": "35ml (1 Wok Ladle)",
         "cost": 5.0
       },
       {
@@ -19138,6 +21588,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -19164,9 +21624,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 81.0
     },
     "primarySauceId": "sauce-7",
-    "primarySauceName": "Artisanal Black Bean & Garlic Sauce (Sauce #07)",
-    "primarySauceQty": "35ml (1 Ladle)",
-    "primarySauceStage": "Stage 2 (Aromatics deglaze)"
+    "primarySauceName": "Black Pepper & Oyster Master Glaze (Sauce #07)",
+    "primarySauceQty": "35ml (1 Wok Ladle)",
+    "primarySauceStage": "Stage 2 (Aromatics Deglaze)"
   },
   {
     "id": "mmszgir1y473j",
@@ -19198,8 +21658,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "\u2605 Artisanal Black Bean & Garlic Sauce (Sauce #07)",
-        "qty": "35ml (1 Ladle)",
+        "item": "\u2605 Black Pepper & Oyster Master Glaze (Sauce #07)",
+        "qty": "35ml (1 Wok Ladle)",
         "cost": 5.0
       },
       {
@@ -19216,6 +21676,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -19242,9 +21712,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 77.0
     },
     "primarySauceId": "sauce-7",
-    "primarySauceName": "Artisanal Black Bean & Garlic Sauce (Sauce #07)",
-    "primarySauceQty": "35ml (1 Ladle)",
-    "primarySauceStage": "Stage 2 (Aromatics deglaze)"
+    "primarySauceName": "Black Pepper & Oyster Master Glaze (Sauce #07)",
+    "primarySauceQty": "35ml (1 Wok Ladle)",
+    "primarySauceStage": "Stage 2 (Aromatics Deglaze)"
   },
   {
     "id": "mmszgir1y964b",
@@ -19277,7 +21747,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 5.0
       },
       {
@@ -19294,6 +21764,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -19321,8 +21801,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yp9lo",
@@ -19355,7 +21835,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 5.0
       },
       {
@@ -19372,6 +21852,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -19399,8 +21889,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yp5zn",
@@ -19433,7 +21923,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 5.0
       },
       {
@@ -19450,6 +21940,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -19477,8 +21977,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1ye6hm",
@@ -19511,7 +22011,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 5.0
       },
       {
@@ -19528,6 +22028,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -19555,8 +22065,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yc57n",
@@ -19588,8 +22098,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "item": "\u2605 Singapore & Madras Curry Seasoning Sauce (Sauce #11)",
+        "qty": "30ml (1 Wok Ladle)",
         "cost": 5.0
       },
       {
@@ -19606,6 +22116,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -19631,10 +22151,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 196.8,
       "grossMarginPct": 82.0
     },
-    "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceId": "sauce-11",
+    "primarySauceName": "Singapore & Madras Curry Seasoning Sauce (Sauce #11)",
+    "primarySauceQty": "30ml (1 Wok Ladle)",
+    "primarySauceStage": "Stage 2 (Aromatics Fry)"
   },
   {
     "id": "mmszgir1ymkvz",
@@ -19666,8 +22186,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "item": "\u2605 Singapore & Madras Curry Seasoning Sauce (Sauce #11)",
+        "qty": "30ml (1 Wok Ladle)",
         "cost": 5.0
       },
       {
@@ -19684,6 +22204,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -19709,10 +22239,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 234.0,
       "grossMarginPct": 78.0
     },
-    "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceId": "sauce-11",
+    "primarySauceName": "Singapore & Madras Curry Seasoning Sauce (Sauce #11)",
+    "primarySauceQty": "30ml (1 Wok Ladle)",
+    "primarySauceStage": "Stage 2 (Aromatics Fry)"
   },
   {
     "id": "mmszgir1ydxyw",
@@ -19744,8 +22274,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "item": "\u2605 Singapore & Madras Curry Seasoning Sauce (Sauce #11)",
+        "qty": "30ml (1 Wok Ladle)",
         "cost": 5.0
       },
       {
@@ -19762,6 +22292,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -19787,10 +22327,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 210.6,
       "grossMarginPct": 81.0
     },
-    "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceId": "sauce-11",
+    "primarySauceName": "Singapore & Madras Curry Seasoning Sauce (Sauce #11)",
+    "primarySauceQty": "30ml (1 Wok Ladle)",
+    "primarySauceStage": "Stage 2 (Aromatics Fry)"
   },
   {
     "id": "mmszgir1yrjg4",
@@ -19822,8 +22362,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "item": "\u2605 Singapore & Madras Curry Seasoning Sauce (Sauce #11)",
+        "qty": "30ml (1 Wok Ladle)",
         "cost": 5.0
       },
       {
@@ -19840,6 +22380,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -19865,10 +22415,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 215.6,
       "grossMarginPct": 77.0
     },
-    "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceId": "sauce-11",
+    "primarySauceName": "Singapore & Madras Curry Seasoning Sauce (Sauce #11)",
+    "primarySauceQty": "30ml (1 Wok Ladle)",
+    "primarySauceStage": "Stage 2 (Aromatics Fry)"
   },
   {
     "id": "mmszgir1yrffu",
@@ -19901,7 +22451,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 5.0
       },
       {
@@ -19918,6 +22468,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -19945,8 +22505,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1ys20w",
@@ -19979,7 +22539,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 5.0
       },
       {
@@ -19996,6 +22556,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -20023,8 +22593,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yns5c",
@@ -20057,7 +22627,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 5.0
       },
       {
@@ -20074,6 +22644,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -20101,8 +22681,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1y416x",
@@ -20135,7 +22715,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 5.0
       },
       {
@@ -20152,6 +22732,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -20179,8 +22769,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1ycige",
@@ -20212,8 +22802,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "\u2605 Korean Gochujang Spicy Glaze (Sauce #10)",
-        "qty": "45ml (1.5 Ladles)",
+        "item": "\u2605 Korean Spicy Glaze (Sriracha & Hoisin - Sauce #10)",
+        "qty": "40ml (1.5 Wok Ladles)",
         "cost": 5.0
       },
       {
@@ -20230,6 +22820,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -20256,8 +22856,8 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 82.0
     },
     "primarySauceId": "sauce-10",
-    "primarySauceName": "Korean Gochujang Spicy Glaze (Sauce #10)",
-    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceName": "Korean Spicy Glaze (Sriracha & Hoisin - Sauce #10)",
+    "primarySauceQty": "40ml (1.5 Wok Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9)"
   },
   {
@@ -20290,8 +22890,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "\u2605 Korean Gochujang Spicy Glaze (Sauce #10)",
-        "qty": "45ml (1.5 Ladles)",
+        "item": "\u2605 Korean Spicy Glaze (Sriracha & Hoisin - Sauce #10)",
+        "qty": "40ml (1.5 Wok Ladles)",
         "cost": 5.0
       },
       {
@@ -20308,6 +22908,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -20334,8 +22944,8 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 78.0
     },
     "primarySauceId": "sauce-10",
-    "primarySauceName": "Korean Gochujang Spicy Glaze (Sauce #10)",
-    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceName": "Korean Spicy Glaze (Sriracha & Hoisin - Sauce #10)",
+    "primarySauceQty": "40ml (1.5 Wok Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9)"
   },
   {
@@ -20368,8 +22978,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "\u2605 Korean Gochujang Spicy Glaze (Sauce #10)",
-        "qty": "45ml (1.5 Ladles)",
+        "item": "\u2605 Korean Spicy Glaze (Sriracha & Hoisin - Sauce #10)",
+        "qty": "40ml (1.5 Wok Ladles)",
         "cost": 5.0
       },
       {
@@ -20386,6 +22996,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -20412,8 +23032,8 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 81.0
     },
     "primarySauceId": "sauce-10",
-    "primarySauceName": "Korean Gochujang Spicy Glaze (Sauce #10)",
-    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceName": "Korean Spicy Glaze (Sriracha & Hoisin - Sauce #10)",
+    "primarySauceQty": "40ml (1.5 Wok Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9)"
   },
   {
@@ -20446,8 +23066,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "\u2605 Korean Gochujang Spicy Glaze (Sauce #10)",
-        "qty": "45ml (1.5 Ladles)",
+        "item": "\u2605 Korean Spicy Glaze (Sriracha & Hoisin - Sauce #10)",
+        "qty": "40ml (1.5 Wok Ladles)",
         "cost": 5.0
       },
       {
@@ -20464,6 +23084,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -20490,8 +23120,8 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 77.0
     },
     "primarySauceId": "sauce-10",
-    "primarySauceName": "Korean Gochujang Spicy Glaze (Sauce #10)",
-    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceName": "Korean Spicy Glaze (Sriracha & Hoisin - Sauce #10)",
+    "primarySauceQty": "40ml (1.5 Wok Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9)"
   },
   {
@@ -20524,8 +23154,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "\u2605 Classic Indo-Chinese Green Chilli Sauce (Sauce #11)",
-        "qty": "30ml (1 Ladle)",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 5.0
       },
       {
@@ -20542,6 +23172,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -20567,10 +23207,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 213.2,
       "grossMarginPct": 82.0
     },
-    "primarySauceId": "sauce-11",
-    "primarySauceName": "Classic Indo-Chinese Green Chilli Sauce (Sauce #11)",
-    "primarySauceQty": "30ml (1 Ladle)",
-    "primarySauceStage": "Stage 2 (Wok rim sizzle)"
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1y98ul",
@@ -20602,8 +23242,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "\u2605 Classic Indo-Chinese Green Chilli Sauce (Sauce #11)",
-        "qty": "30ml (1 Ladle)",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 5.0
       },
       {
@@ -20620,6 +23260,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -20645,10 +23295,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 234.0,
       "grossMarginPct": 78.0
     },
-    "primarySauceId": "sauce-11",
-    "primarySauceName": "Classic Indo-Chinese Green Chilli Sauce (Sauce #11)",
-    "primarySauceQty": "30ml (1 Ladle)",
-    "primarySauceStage": "Stage 2 (Wok rim sizzle)"
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yhuif",
@@ -20680,8 +23330,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "\u2605 Classic Indo-Chinese Green Chilli Sauce (Sauce #11)",
-        "qty": "30ml (1 Ladle)",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 5.0
       },
       {
@@ -20698,6 +23348,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -20723,10 +23383,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 210.6,
       "grossMarginPct": 81.0
     },
-    "primarySauceId": "sauce-11",
-    "primarySauceName": "Classic Indo-Chinese Green Chilli Sauce (Sauce #11)",
-    "primarySauceQty": "30ml (1 Ladle)",
-    "primarySauceStage": "Stage 2 (Wok rim sizzle)"
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1y3wno",
@@ -20758,8 +23418,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "\u2605 Classic Indo-Chinese Green Chilli Sauce (Sauce #11)",
-        "qty": "30ml (1 Ladle)",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 5.0
       },
       {
@@ -20776,6 +23436,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -20801,10 +23471,10 @@ window.INDUS_BIBLE = {
       "grossMargin": 215.6,
       "grossMarginPct": 77.0
     },
-    "primarySauceId": "sauce-11",
-    "primarySauceName": "Classic Indo-Chinese Green Chilli Sauce (Sauce #11)",
-    "primarySauceQty": "30ml (1 Ladle)",
-    "primarySauceStage": "Stage 2 (Wok rim sizzle)"
+    "primarySauceId": "sauce-2",
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1y6ske",
@@ -20837,7 +23507,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 5.0
       },
       {
@@ -20854,6 +23524,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -20881,8 +23561,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yklp4",
@@ -20915,7 +23595,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 5.0
       },
       {
@@ -20932,6 +23612,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -20959,8 +23649,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1ynetn",
@@ -20993,7 +23683,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 5.0
       },
       {
@@ -21010,6 +23700,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -21037,8 +23737,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yc4zq",
@@ -21071,7 +23771,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 5.0
       },
       {
@@ -21088,6 +23788,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -21115,8 +23825,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yna27",
@@ -21149,7 +23859,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 5.0
       },
       {
@@ -21166,6 +23876,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -21193,8 +23913,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yvh4s",
@@ -21227,7 +23947,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 5.0
       },
       {
@@ -21244,6 +23964,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -21271,8 +24001,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yzoxm",
@@ -21305,7 +24035,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 5.0
       },
       {
@@ -21322,6 +24052,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -21349,8 +24089,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yqvq9",
@@ -21383,7 +24123,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 5.0
       },
       {
@@ -21400,6 +24140,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -21427,8 +24177,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yjjmq",
@@ -21461,7 +24211,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 5.0
       },
       {
@@ -21478,6 +24228,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -21505,8 +24265,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yeui2",
@@ -21539,7 +24299,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 5.0
       },
       {
@@ -21556,6 +24316,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -21583,8 +24353,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yufj5",
@@ -21617,7 +24387,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 5.0
       },
       {
@@ -21634,6 +24404,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -21661,8 +24441,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yw67g",
@@ -21695,7 +24475,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 5.0
       },
       {
@@ -21712,6 +24492,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -21739,8 +24529,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1y82k1",
@@ -21772,8 +24562,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "\u2605 Korean Gochujang Spicy Glaze (Sauce #10)",
-        "qty": "45ml (1.5 Ladles)",
+        "item": "\u2605 Korean Spicy Glaze (Sriracha & Hoisin - Sauce #10)",
+        "qty": "40ml (1.5 Wok Ladles)",
         "cost": 5.0
       },
       {
@@ -21790,6 +24580,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -21816,8 +24616,8 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 82.0
     },
     "primarySauceId": "sauce-10",
-    "primarySauceName": "Korean Gochujang Spicy Glaze (Sauce #10)",
-    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceName": "Korean Spicy Glaze (Sriracha & Hoisin - Sauce #10)",
+    "primarySauceQty": "40ml (1.5 Wok Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9)"
   },
   {
@@ -21850,8 +24650,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "\u2605 Korean Gochujang Spicy Glaze (Sauce #10)",
-        "qty": "45ml (1.5 Ladles)",
+        "item": "\u2605 Korean Spicy Glaze (Sriracha & Hoisin - Sauce #10)",
+        "qty": "40ml (1.5 Wok Ladles)",
         "cost": 5.0
       },
       {
@@ -21868,6 +24668,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -21894,8 +24704,8 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 78.0
     },
     "primarySauceId": "sauce-10",
-    "primarySauceName": "Korean Gochujang Spicy Glaze (Sauce #10)",
-    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceName": "Korean Spicy Glaze (Sriracha & Hoisin - Sauce #10)",
+    "primarySauceQty": "40ml (1.5 Wok Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9)"
   },
   {
@@ -21928,8 +24738,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "\u2605 Korean Gochujang Spicy Glaze (Sauce #10)",
-        "qty": "45ml (1.5 Ladles)",
+        "item": "\u2605 Korean Spicy Glaze (Sriracha & Hoisin - Sauce #10)",
+        "qty": "40ml (1.5 Wok Ladles)",
         "cost": 5.0
       },
       {
@@ -21946,6 +24756,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -21972,8 +24792,8 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 81.0
     },
     "primarySauceId": "sauce-10",
-    "primarySauceName": "Korean Gochujang Spicy Glaze (Sauce #10)",
-    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceName": "Korean Spicy Glaze (Sriracha & Hoisin - Sauce #10)",
+    "primarySauceQty": "40ml (1.5 Wok Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9)"
   },
   {
@@ -22006,8 +24826,8 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "\u2605 Korean Gochujang Spicy Glaze (Sauce #10)",
-        "qty": "45ml (1.5 Ladles)",
+        "item": "\u2605 Korean Spicy Glaze (Sriracha & Hoisin - Sauce #10)",
+        "qty": "40ml (1.5 Wok Ladles)",
         "cost": 5.0
       },
       {
@@ -22024,6 +24844,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -22050,8 +24880,8 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 77.0
     },
     "primarySauceId": "sauce-10",
-    "primarySauceName": "Korean Gochujang Spicy Glaze (Sauce #10)",
-    "primarySauceQty": "45ml (1.5 Ladles)",
+    "primarySauceName": "Korean Spicy Glaze (Sriracha & Hoisin - Sauce #10)",
+    "primarySauceQty": "40ml (1.5 Wok Ladles)",
     "primarySauceStage": "Stage 2 (Saut\u00e9)"
   },
   {
@@ -22084,7 +24914,7 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "\u2605 Thai Curry Paste & Broth Master Base (Sauce #12)",
+        "item": "\u2605 Thai Red & Yellow Curry Master Broth Base (Sauce #12)",
         "qty": "50g Paste / 250ml Broth",
         "cost": 5.0
       },
@@ -22102,6 +24932,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -22128,7 +24968,7 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 82.0
     },
     "primarySauceId": "sauce-12",
-    "primarySauceName": "Thai Curry Paste & Broth Master Base (Sauce #12)",
+    "primarySauceName": "Thai Red & Yellow Curry Master Broth Base (Sauce #12)",
     "primarySauceQty": "50g Paste / 250ml Broth",
     "primarySauceStage": "Stage 2 (Simmer)"
   },
@@ -22162,7 +25002,7 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "\u2605 Thai Curry Paste & Broth Master Base (Sauce #12)",
+        "item": "\u2605 Thai Red & Yellow Curry Master Broth Base (Sauce #12)",
         "qty": "50g Paste / 250ml Broth",
         "cost": 5.0
       },
@@ -22180,6 +25020,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -22206,7 +25056,7 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 78.0
     },
     "primarySauceId": "sauce-12",
-    "primarySauceName": "Thai Curry Paste & Broth Master Base (Sauce #12)",
+    "primarySauceName": "Thai Red & Yellow Curry Master Broth Base (Sauce #12)",
     "primarySauceQty": "50g Paste / 250ml Broth",
     "primarySauceStage": "Stage 2 (Simmer)"
   },
@@ -22240,7 +25090,7 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "\u2605 Thai Curry Paste & Broth Master Base (Sauce #12)",
+        "item": "\u2605 Thai Red & Yellow Curry Master Broth Base (Sauce #12)",
         "qty": "50g Paste / 250ml Broth",
         "cost": 5.0
       },
@@ -22258,6 +25108,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -22284,7 +25144,7 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 81.0
     },
     "primarySauceId": "sauce-12",
-    "primarySauceName": "Thai Curry Paste & Broth Master Base (Sauce #12)",
+    "primarySauceName": "Thai Red & Yellow Curry Master Broth Base (Sauce #12)",
     "primarySauceQty": "50g Paste / 250ml Broth",
     "primarySauceStage": "Stage 2 (Simmer)"
   },
@@ -22318,7 +25178,7 @@ window.INDUS_BIBLE = {
         "cost": 7.0
       },
       {
-        "item": "\u2605 Thai Curry Paste & Broth Master Base (Sauce #12)",
+        "item": "\u2605 Thai Red & Yellow Curry Master Broth Base (Sauce #12)",
         "qty": "50g Paste / 250ml Broth",
         "cost": 5.0
       },
@@ -22336,6 +25196,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -22362,7 +25232,7 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 77.0
     },
     "primarySauceId": "sauce-12",
-    "primarySauceName": "Thai Curry Paste & Broth Master Base (Sauce #12)",
+    "primarySauceName": "Thai Red & Yellow Curry Master Broth Base (Sauce #12)",
     "primarySauceQty": "50g Paste / 250ml Broth",
     "primarySauceStage": "Stage 2 (Simmer)"
   },
@@ -22397,7 +25267,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 5.0
       },
       {
@@ -22414,6 +25284,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -22441,8 +25321,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yz20a",
@@ -22475,7 +25355,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 5.0
       },
       {
@@ -22492,6 +25372,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -22519,8 +25409,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yi1z7",
@@ -22553,7 +25443,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 5.0
       },
       {
@@ -22570,6 +25460,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -22597,8 +25497,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1yaepw",
@@ -22631,7 +25531,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze (Rim sizzle)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 5.0
       },
       {
@@ -22648,6 +25548,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onion Greens",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -22675,8 +25585,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze (Rim sizzle)",
-    "primarySauceStage": "Stage 3 (Rim sizzle over noodles/rice)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1y73cy",
@@ -22704,7 +25614,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 6.0
       },
       {
@@ -22716,6 +25626,16 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -22741,8 +25661,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze",
-    "primarySauceStage": "Stage 3 (Rim sizzle)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1y0zjz",
@@ -22770,7 +25690,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 6.0
       },
       {
@@ -22782,6 +25702,16 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -22807,8 +25737,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze",
-    "primarySauceStage": "Stage 3 (Rim sizzle)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1ysyj7",
@@ -22836,7 +25766,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 6.0
       },
       {
@@ -22848,6 +25778,16 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -22873,8 +25813,8 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze",
-    "primarySauceStage": "Stage 3 (Rim sizzle)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmszgir1ya2up",
@@ -22906,8 +25846,8 @@ window.INDUS_BIBLE = {
         "cost": 6.0
       },
       {
-        "item": "\u2605 Indus Dark Base + Green Chilli Puree Blend (Sauce #02 & #11)",
-        "qty": "35ml Saut\u00e9 Glaze",
+        "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 9.0
       },
       {
@@ -22924,6 +25864,16 @@ window.INDUS_BIBLE = {
         "item": "Spring Onions & White Sesame Garnish",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -22949,9 +25899,9 @@ window.INDUS_BIBLE = {
       "grossMarginPct": 82.0
     },
     "primarySauceId": "sauce-2",
-    "primarySauceName": "Indus Dark Base + Green Chilli Puree Blend (Sauce #02 & #11)",
-    "primarySauceQty": "35ml Saut\u00e9 Glaze",
-    "primarySauceStage": "Stage 2 (Glaze)"
+    "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   },
   {
     "id": "mmt6e4qgn68k9",
@@ -22979,7 +25929,7 @@ window.INDUS_BIBLE = {
       },
       {
         "item": "\u2605 Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-        "qty": "25ml Squeeze",
+        "qty": "25ml Squeeze (Rim Sizzle)",
         "cost": 6.0
       },
       {
@@ -22991,6 +25941,16 @@ window.INDUS_BIBLE = {
         "item": "Garnishes & Scallions",
         "qty": "15g",
         "cost": 2.0
+      },
+      {
+        "item": "Magic Seasoning Powder (Aroma)",
+        "qty": "3g (1/2 tsp)",
+        "cost": 1.0
+      },
+      {
+        "item": "Black Pepper / White Pepper",
+        "qty": "2g (pinch)",
+        "cost": 0.8
       }
     ],
     "misaRequired": [
@@ -23016,58 +25976,58 @@ window.INDUS_BIBLE = {
     },
     "primarySauceId": "sauce-2",
     "primarySauceName": "Indus Dark Soy Stir-Fry Seasoning Master (Indus Dark Base - Sauce #02)",
-    "primarySauceQty": "25ml Squeeze",
-    "primarySauceStage": "Stage 3 (Rim sizzle)"
+    "primarySauceQty": "25ml Squeeze (Rim Sizzle)",
+    "primarySauceStage": "Stage 3 (Rim Sizzle over Noodles/Rice)"
   }
 ],
   emergencySubs: [
   {
-    "missing": "Sweet & Sour Sauce (No Pineapple / No Apple Cider Vinegar)",
-    "substitute": "Mix 4 tbsp Standard Tomato Ketchup + 2 tbsp White Synthetic Vinegar (Sirka) + 2 tbsp Sugar + 3 tbsp Water + 1/2 tsp Cornflour (Ararot). Simmer 60 seconds."
+    "missing": "Sweet & Sour Sauce",
+    "substitute": "Mix 3 tbsp Plum Sauce + 2 tbsp Tomato Sauce + 1.5 tbsp Vinegar + 1 tbsp Honey + 3 tbsp Water + 1/2 tsp Cornflour."
   },
   {
     "missing": "Schezwan Sauce / Mother Paste",
-    "substitute": "Mix 3 tbsp Boiled Red Chili Paste + 1 tbsp Tomato Ketchup + 1 tbsp Minced Garlic + 1 tbsp Dark Soy + 1 tbsp White Vinegar + 1 tsp Sugar + 2 tbsp Hot Oil."
+    "substitute": "Mix 3 tbsp Red Chilli Sauce + 1.5 tbsp Sriracha + 1 tbsp Tomato Sauce + 1 tbsp Garlic Paste + 1 tsp Dark Soya + 1 tsp Vinegar + 1/2 tsp Magic Seasoning."
   },
   {
     "missing": "Indus Dark Base (Seasoning Sauce)",
-    "substitute": "Mix 3 tbsp Dark Soy Sauce + 1 tsp White Vinegar + 1 tsp Sugar + 1/2 tsp White Pepper + 1 tbsp Water."
+    "substitute": "Mix 2 tbsp Dark Soya + 1 tbsp Light Soya + 1 tsp Oyster Sauce + 1 tsp Vinegar + 1/2 tsp Magic Seasoning + 1/2 tsp Honey."
   },
   {
-    "missing": "Teriyaki Glaze (No Mirin / No Sake)",
-    "substitute": "Mix 3 tbsp Dark Soy Sauce + 2 tbsp Regular Sugar + 1 tsp White Vinegar + 1/2 tsp Ginger Juice + 1 tsp Cornflour + 3 tbsp Water."
+    "missing": "Kung Pao Glaze",
+    "substitute": "Mix 3 tbsp Bottled Kung Pao Sauce + 1 tbsp Hoisin Sauce + 1 tsp Red Chilli Sauce + 1 tsp Vinegar + 1 tsp Honey + 1/2 tsp Tahini."
   },
   {
-    "missing": "Korean Gochujang Glaze",
-    "substitute": "Mix 3 tbsp Red Chili Paste + 1.5 tbsp Tomato Ketchup + 1 tbsp Soy Sauce + 1 tbsp Sugar/Honey + 1 tsp White Vinegar + 1 tsp Garlic Paste."
+    "missing": "Teriyaki Glaze",
+    "substitute": "Mix 3 tbsp Bottled Teriyaki Sauce + 1 tbsp Hoisin Sauce + 1 tsp Light Soya + 1 tsp Honey + 2 tbsp Water."
   },
   {
-    "missing": "Kung Pao Glaze (No Black Vinegar)",
-    "substitute": "Mix 2 tbsp Soy Sauce + 1 tbsp White Vinegar + 1 tbsp Tomato Ketchup + 1 tsp Peanut Butter / Crushed Roasted Peanuts + 1 tbsp Sugar + 2 tbsp Water."
+    "missing": "Black Pepper Sauce",
+    "substitute": "Mix 2 tbsp Oyster Sauce + 1 tbsp Dark Soya + 1 tsp Coarse Black Pepper + 1 tsp Garlic + 1/2 tsp Honey + 2 tbsp Water."
   },
   {
-    "missing": "Black Bean Sauce",
-    "substitute": "Mix 2 tbsp Dark Soy + 1 tsp Coarse Crushed Black Pepper + 1 tsp Minced Garlic + 1/2 tsp Sugar + 1 tsp Vinegar + 2 tbsp Water."
+    "missing": "Singapore Curry Base",
+    "substitute": "Mix 1 tsp Madras Curry Powder + 2 tbsp Light Soya + 1 tbsp Red Chilli Sauce + 1 tsp Vinegar + 1/2 tsp Magic Seasoning."
   },
   {
-    "missing": "Green Chilli Sauce",
-    "substitute": "Blend 10-12 Fresh Green Chillies + 4 Garlic Cloves + 50ml White Vinegar + 1/2 tsp Salt in a mixer for 45 seconds."
+    "missing": "Thai Curry Base",
+    "substitute": "Mix 2 tbsp Red Curry Paste (or Yellow Curry Paste) + 2 tbsp Light Soya + 1 tsp Vinegar + 1/2 tsp Magic Seasoning + 1 cup Water."
+  },
+  {
+    "missing": "Momo Chutney & Jhol Broth",
+    "substitute": "Mix 2 tbsp Tahini + 2 tbsp Tomato Sauce + 1 tbsp Sriracha Sauce + 1/2 tsp Garlic + 1/2 cup warm water + pinch Magic Seasoning."
+  },
+  {
+    "missing": "Spicy Sushi Sauce / Creamy Drizzle",
+    "substitute": "Whisk 3 tbsp Japanese Mayo + 1.5 tbsp Sriracha + 1 tbsp softened Cream Cheese + 1/2 tsp Honey."
+  },
+  {
+    "missing": "Hot Garlic Sauce",
+    "substitute": "Mix 2 tbsp Sriracha + 1.5 tbsp Red Chilli Sauce + 1.5 tbsp Tomato Sauce + 1 tbsp Garlic Paste + 1 tsp Soy + 1 tsp Vinegar + 1/2 tsp Honey."
   },
   {
     "missing": "Chicken / Veg Broth Stock",
-    "substitute": "Boil 1L Water with 1 tbsp Salt, 1 tbsp Oil, 1 Star Anise (Chakri Phool), 1 smashed Onion, and 4 smashed Garlic cloves for 10 minutes."
-  },
-  {
-    "missing": "Egg (for Velveting Chicken)",
-    "substitute": "Per 1kg Chicken: Mix 40ml Ice Cold Water + 1/4 tsp Baking Soda (Meetha Soda) + 25g Cornflour + 15ml Soy Sauce. Massage for 3 minutes."
-  },
-  {
-    "missing": "Cornstarch / Cornflour (for thickening gravies)",
-    "substitute": "Use Ararot (Arrowroot powder) or Tapioca starch in equal parts cold water."
-  },
-  {
-    "missing": "Toasted Sesame Oil (Til ka Tel)",
-    "substitute": "Toast 2 tbsp White Sesame Seeds (Safed Til) in 4 tbsp Refined Sunflower Oil in a small tadka pan for 3 minutes; strain oil."
+    "substitute": "Dissolve 1 tsp Magic Seasoning in 1 Liter boiling water with 1 tbsp Dark Soya and 1 crushed Garlic clove."
   }
 ]
 };

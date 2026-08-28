@@ -2062,3 +2062,85 @@ body.kitchen-mode .card-sauce-badge {
   border-color: #5c3b1e;
   color: #fdba74;
 }
+
+/* ==========================================================================
+   20 EXACT KITCHEN PRODUCTS INVENTORY BAR
+   ========================================================================== */
+.pantry-showcase-box {
+  background: var(--bg-card);
+  border: 1px solid var(--border-line);
+  border-radius: var(--radius-lg);
+  padding: 20px;
+  margin-bottom: 24px;
+  box-shadow: var(--shadow-sm);
+}
+
+.pantry-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 10px;
+  margin-top: 14px;
+}
+
+@media(min-width: 640px) {
+  .pantry-grid {
+    grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
+    gap: 12px;
+  }
+}
+
+.pantry-card {
+  background: var(--bg-main);
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius-md);
+  padding: 10px 12px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  transition: all 0.2s;
+}
+
+body.kitchen-mode .pantry-card {
+  background: #151821;
+  border-color: #282c3c;
+}
+
+.pantry-card:hover {
+  border-color: var(--red);
+  transform: translateY(-2px);
+}
+
+.pantry-icon {
+  font-size: 24px;
+  width: 36px;
+  height: 36px;
+  min-width: 36px;
+  background: rgba(185, 19, 39, 0.08);
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+body.kitchen-mode .pantry-icon {
+  background: rgba(185, 19, 39, 0.2);
+}
+
+.pantry-info h5 {
+  font-size: 12px;
+  font-weight: 800;
+  color: var(--charcoal);
+  line-height: 1.2;
+}
+
+body.kitchen-mode .pantry-info h5 {
+  color: #ffffff;
+}
+
+.pantry-info span {
+  font-size: 10px;
+  color: var(--text-muted);
+  font-weight: 600;
+  display: block;
+  margin-top: 2px;
+}
