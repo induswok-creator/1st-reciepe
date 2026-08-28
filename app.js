@@ -11,25 +11,29 @@ let currentProteinFilter = 'all';
 
 // Initialize on DOM ready
 document.addEventListener('DOMContentLoaded', () => {
-  renderFlagshipSpecials();
-  renderKitchenPantry();
-  renderBeginnerGuide();
-  renderMotherSauces('all');
-  renderMasterCuts();
-  renderMisaModules();
-  renderEmergencySubs();
-  renderRecipeCatalog();
-  updateCostingSimulation();
-  setupTouchGestures();
+  try { renderFlagshipSpecials(); } catch(e) { console.error('Error in renderFlagshipSpecials:', e); }
+  try { renderKitchenPantry(); } catch(e) { console.error('Error in renderKitchenPantry:', e); }
+  try { renderBeginnerGuide(); } catch(e) { console.error('Error in renderBeginnerGuide:', e); }
+  try { renderMotherSauces('all'); } catch(e) { console.error('Error in renderMotherSauces:', e); }
+  try { renderMasterCuts(); } catch(e) { console.error('Error in renderMasterCuts:', e); }
+  try { renderMisaModules(); } catch(e) { console.error('Error in renderMisaModules:', e); }
+  try { renderEmergencySubs(); } catch(e) { console.error('Error in renderEmergencySubs:', e); }
+  try { renderRecipeCatalog(); } catch(e) { console.error('Error in renderRecipeCatalog:', e); }
+  try { updateCostingSimulation(); } catch(e) { console.error('Error in updateCostingSimulation:', e); }
+  try { setupTouchGestures(); } catch(e) { console.error('Error in setupTouchGestures:', e); }
 
   // Handle URL params if any
-  const urlParams = new URLSearchParams(window.location.search);
-  const dishParam = urlParams.get('dish');
-  if (dishParam) {
-    const found = window.INDUS_BIBLE.recipes.find(r => r.id === dishParam || r.name.toLowerCase().includes(dishParam.toLowerCase()));
-    if (found) {
-      openRecipeModal(found.id);
+  try {
+    const urlParams = new URLSearchParams(window.location.search);
+    const dishParam = urlParams.get('dish');
+    if (dishParam && window.INDUS_BIBLE && window.INDUS_BIBLE.recipes) {
+      const found = window.INDUS_BIBLE.recipes.find(r => r.id === dishParam || r.name.toLowerCase().includes(dishParam.toLowerCase()));
+      if (found) {
+        openRecipeModal(found.id);
+      }
     }
+  } catch(e) {
+    console.error('Error handling URL params:', e);
   }
 });
 
@@ -139,7 +143,7 @@ function renderFlagshipSpecials() {
                 </tr>
               </thead>
               <tbody>
-                ${s.bom.map(b => `
+                ${(s.ingredientsCost || s.bom || []).map(b => `
                   <tr>
                     <td>${b.ingredient}</td>
                     <td>${b.qty}</td>
@@ -159,7 +163,7 @@ function renderFlagshipSpecials() {
             🔥 Standardized Wok Prep Sequence
           </h4>
           <ol class="steps-ol" style="font-size: 12px; margin-bottom: 12px;">
-            ${s.prepSequence.map(step => `<li>${step}</li>`).join('')}
+            ${(s.recipeSteps || s.prepSequence || s.steps || []).map(step => `<li>${step}</li>`).join('')}
           </ol>
 
           <div style="background: var(--gold-light); padding: 8px 10px; border-radius: 6px; border: 1px solid var(--gold-border); font-size: 11.5px; color: #7b5906;">
@@ -188,7 +192,7 @@ function toggleSpecialDetails(specialId) {
    ========================================================================== */
 function filterSauces(category) {
   document.querySelectorAll('#sauceCategoryFilters .sauce-chip').forEach(chip => chip.classList.remove('active'));
-  if (event && event.target) event.target.classList.add('active');
+  if (typeof event !== "undefined" && event && event.target) event.target.classList.add('active');
   renderMotherSauces(category);
 }
 
@@ -257,7 +261,7 @@ function renderMotherSauces(filterCat) {
    ========================================================================== */
 function filterMisaView(view) {
   document.querySelectorAll('#misaFilterChips .sauce-chip').forEach(chip => chip.classList.remove('active'));
-  if (event && event.target) event.target.classList.add('active');
+  if (typeof event !== "undefined" && event && event.target) event.target.classList.add('active');
 
   const cutsSection = document.getElementById('misaCutsSection');
   const modulesSection = document.getElementById('misaModulesSection');
@@ -401,7 +405,7 @@ function renderMisaModules(filterMod = 'all') {
 function filterRecipeCat(cat) {
   currentRecipeCatFilter = cat;
   document.querySelectorAll('#recipeCatFilters .cat-filter-btn').forEach(btn => btn.classList.remove('active'));
-  if (event && event.target) event.target.classList.add('active');
+  if (typeof event !== "undefined" && event && event.target) event.target.classList.add('active');
   renderRecipeCatalog();
 }
 
